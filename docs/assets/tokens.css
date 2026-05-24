@@ -1,0 +1,37 @@
+/* FounderFirst design tokens — single source of truth.
+   Consumed by apps/marketing, apps/blog, and (eventually) the Penny demo.
+   Do NOT redeclare these values in app stylesheets. */
+
+:root {
+  /* Ink scale — primary text + UI surfaces */
+  --ink:        #0a0a0a;
+  --ink-2:      #2a2a2a;
+  --ink-3:      #5a5a5a;
+  --ink-4:      #8a8a8a;
+
+  /* Lines + surfaces */
+  --line:       #e8e8e5;
+  --line-2:     #f0f0ed;
+  --paper:      #f6f6f4;
+  --white:      #ffffff;
+  --dark:       #0a0a0a;
+
+  /* Type */
+  --sans:       'Inter', Helvetica, 'Helvetica Neue', Arial, sans-serif;
+  --fw-regular:  400;
+  --fw-medium:   500;
+  --fw-semibold: 600;
+  --fw-bold:     700;
+  --fw-extra:    800;
+
+  /* Radii */
+  --r-card:      12px;
+  --r-card-emph: 16px;
+  --r-sheet:     20px;
+  --r-pill:      999px;
+
+  /* Layout */
+  --page-max:   1080px;
+  --page-pad-x: clamp(24px, 6vw, 80px);
+  --section-y:  clamp(48px, 7vw, 72px);
+}

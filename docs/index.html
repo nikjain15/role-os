@@ -5,75 +5,182 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>RoleOS — Riddhi Jain</title>
 <meta name="description" content="RoleOS — an AI-native operating system I built to run my own job search. Scopes companies, extracts every JD into a strict schema, scores fit, and tracks progress live.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/tokens.css">
+<link rel="stylesheet" href="assets/components/typography.css">
+<link rel="stylesheet" href="assets/components/button.css">
 <style>
-  :root {
-    --bg: #0a0b0e;
-    --panel: #12151b;
-    --panel-2: #181c24;
-    --border: #232a35;
-    --text: #e6ebf2;
-    --muted: #8893a4;
-    --accent: #6ea8ff;
-    --accent-2: #10b981;
-    --warn: #f59e0b;
-  }
   * { box-sizing: border-box; }
-  body { margin: 0; font: 15px/1.55 -apple-system,BlinkMacSystemFont,'Inter',system-ui,sans-serif; background: var(--bg); color: var(--text); }
-  .wrap { max-width: 1080px; margin: 0 auto; padding: 56px 28px 80px; }
-  header { margin-bottom: 56px; }
-  .eyebrow { color: var(--accent); font-size: 13px; text-transform: uppercase; letter-spacing: .14em; font-weight: 600; margin-bottom: 14px; }
-  h1 { font-size: 44px; line-height: 1.1; margin: 0 0 18px; letter-spacing: -.02em; font-weight: 700; }
-  h1 em { font-style: normal; background: linear-gradient(90deg,#6ea8ff,#10b981); -webkit-background-clip: text; background-clip: text; color: transparent; }
-  .lede { font-size: 18px; color: var(--muted); max-width: 720px; line-height: 1.6; }
-  .lede strong { color: var(--text); font-weight: 600; }
-  h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .12em; color: var(--muted); margin: 56px 0 18px; font-weight: 600; }
-  h3 { font-size: 18px; margin: 0 0 8px; font-weight: 600; }
+  body {
+    margin: 0;
+    font-family: var(--sans);
+    background: var(--paper);
+    color: var(--ink);
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap {
+    max-width: var(--page-max);
+    margin: 0 auto;
+    padding: var(--section-y) var(--page-pad-x) calc(var(--section-y) + 24px);
+  }
+  header { margin-bottom: var(--section-y); }
+  h1 { margin: 14px 0 18px; }
+  h1 .accent { color: var(--ink); border-bottom: 4px solid var(--ink); padding-bottom: 2px; }
+  .lede { max-width: 720px; }
+  .lede strong { color: var(--ink); font-weight: var(--fw-semibold); }
 
-  .stats { display: grid; grid-template-columns: repeat(4,1fr); gap: 14px; }
-  .stat { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; padding: 20px; }
-  .stat .num { font-size: 32px; font-weight: 700; letter-spacing: -.02em; }
-  .stat .lbl { color: var(--muted); font-size: 12px; margin-top: 4px; text-transform: uppercase; letter-spacing: .08em; }
-  .stat.accent .num { color: var(--accent); }
+  section { margin-top: var(--section-y); }
+  h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .12em; color: var(--ink-3); margin: 0 0 20px; font-weight: var(--fw-semibold); letter-spacing: .14em; }
+  h3 { margin: 0 0 6px; }
 
-  .funnel { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; padding: 22px; }
-  .funnel .row { display: grid; grid-template-columns: 1fr 60px; align-items: center; gap: 14px; padding: 10px 0; border-bottom: 1px solid var(--border); }
+  .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; }
+  .stat {
+    background: var(--white);
+    border: 1px solid var(--line);
+    border-radius: var(--r-card);
+    padding: 22px;
+  }
+  .stat .num {
+    font-size: clamp(28px, 3.4vw, 38px);
+    font-weight: var(--fw-bold);
+    letter-spacing: -0.02em;
+    line-height: 1.05;
+    color: var(--ink);
+  }
+  .stat .lbl {
+    color: var(--ink-3);
+    font-size: 11px;
+    margin-top: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-weight: var(--fw-semibold);
+  }
+
+  .panel {
+    background: var(--white);
+    border: 1px solid var(--line);
+    border-radius: var(--r-card-emph);
+    padding: 24px;
+  }
+
+  .funnel .row {
+    display: grid;
+    grid-template-columns: 240px 1fr 60px;
+    align-items: center;
+    gap: 16px;
+    padding: 12px 0;
+    border-bottom: 1px solid var(--line-2);
+    font-size: 14px;
+  }
   .funnel .row:last-child { border-bottom: 0; }
-  .funnel .label { display: flex; align-items: center; gap: 12px; font-size: 14px; }
-  .funnel .bar { flex: 1; height: 8px; background: var(--panel-2); border-radius: 4px; overflow: hidden; }
-  .funnel .bar > div { height: 100%; background: linear-gradient(90deg,var(--accent),var(--accent-2)); transition: width .6s; }
-  .funnel .row.future .label { color: var(--muted); }
-  .funnel .row.future .bar > div { background: repeating-linear-gradient(45deg,#2a3340,#2a3340 6px,#1a2028 6px,#1a2028 12px); }
-  .funnel .count { text-align: right; font-variant-numeric: tabular-nums; font-weight: 600; }
+  .funnel .bar {
+    height: 8px;
+    background: var(--line-2);
+    border-radius: var(--r-pill);
+    overflow: hidden;
+  }
+  .funnel .bar > div {
+    height: 100%;
+    background: var(--ink);
+    border-radius: var(--r-pill);
+    transition: width 0.6s ease;
+  }
+  .funnel .row.future { color: var(--ink-3); }
+  .funnel .row.future .bar > div {
+    background: repeating-linear-gradient(45deg, var(--ink-4), var(--ink-4) 6px, var(--line) 6px, var(--line) 12px);
+    opacity: 0.5;
+  }
+  .funnel .count { text-align: right; font-variant-numeric: tabular-nums; font-weight: var(--fw-semibold); }
 
   .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
-  .card { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; padding: 20px; }
-  .dist { display: flex; flex-direction: column; gap: 8px; margin-top: 12px; }
-  .dist .item { display: grid; grid-template-columns: 1fr 80px 50px; align-items: center; gap: 10px; font-size: 13px; }
-  .dist .item .bar { height: 6px; background: var(--panel-2); border-radius: 3px; overflow: hidden; }
-  .dist .item .bar > div { height: 100%; background: var(--accent); opacity: .7; }
-  .dist .item .v { text-align: right; color: var(--muted); font-variant-numeric: tabular-nums; }
-  .dist .item .k { color: var(--text); }
+
+  .dist { display: flex; flex-direction: column; gap: 10px; margin-top: 14px; }
+  .dist .item {
+    display: grid;
+    grid-template-columns: 1fr 80px 40px;
+    align-items: center;
+    gap: 12px;
+    font-size: 13px;
+  }
+  .dist .item .bar {
+    height: 6px;
+    background: var(--line-2);
+    border-radius: var(--r-pill);
+    overflow: hidden;
+  }
+  .dist .item .bar > div { height: 100%; background: var(--ink-2); border-radius: var(--r-pill); }
+  .dist .item .v { text-align: right; color: var(--ink-3); font-variant-numeric: tabular-nums; font-weight: var(--fw-medium); }
+  .dist .item .k { color: var(--ink); }
+
+  .arch { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
+  .arch .step {
+    background: var(--white);
+    border: 1px solid var(--line);
+    border-radius: var(--r-card);
+    padding: 18px;
+  }
+  .arch .step .n {
+    color: var(--ink-3);
+    font-weight: var(--fw-semibold);
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+  .arch .step .t { font-weight: var(--fw-semibold); margin: 6px 0 4px; font-size: 15px; }
+  .arch .step .d { color: var(--ink-3); font-size: 13px; line-height: 1.5; }
 
   .gap { display: flex; flex-direction: column; gap: 10px; }
-  .gap-item { padding: 12px 14px; background: var(--panel-2); border-left: 3px solid var(--warn); border-radius: 6px; }
-  .gap-item .name { font-weight: 600; font-size: 14px; }
-  .gap-item .why { color: var(--muted); font-size: 13px; margin-top: 3px; }
+  .gap-item {
+    padding: 14px 16px;
+    background: var(--paper);
+    border: 1px solid var(--line);
+    border-left: 3px solid var(--ink);
+    border-radius: 8px;
+  }
+  .gap-item .name { font-weight: var(--fw-semibold); font-size: 14px; }
+  .gap-item .why { color: var(--ink-3); font-size: 13px; margin-top: 4px; }
 
-  .arch { display: grid; grid-template-columns: repeat(4,1fr); gap: 10px; }
-  .arch .step { background: var(--panel-2); border: 1px solid var(--border); border-radius: 8px; padding: 14px; font-size: 13px; }
-  .arch .step .n { color: var(--accent); font-weight: 600; font-size: 11px; letter-spacing: .1em; }
-  .arch .step .t { font-weight: 600; margin: 4px 0; }
-  .arch .step .d { color: var(--muted); font-size: 12px; line-height: 1.45; }
+  .cost { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+  .cost .big {
+    font-size: clamp(24px, 3vw, 32px);
+    font-weight: var(--fw-bold);
+    letter-spacing: -0.02em;
+    color: var(--ink);
+  }
+  .cost .lbl {
+    color: var(--ink-3);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-top: 6px;
+    font-weight: var(--fw-semibold);
+  }
 
-  footer { margin-top: 64px; color: var(--muted); font-size: 12px; text-align: center; }
-  footer a { color: var(--muted); }
-  .pill { display: inline-block; padding: 3px 9px; background: rgba(110,168,255,.12); color: var(--accent); border-radius: 99px; font-size: 11px; font-weight: 600; letter-spacing: .04em; }
+  footer {
+    margin-top: var(--section-y);
+    color: var(--ink-3);
+    font-size: 12px;
+    text-align: center;
+  }
+  footer a { color: var(--ink-3); }
+  .pill {
+    display: inline-block;
+    padding: 4px 12px;
+    background: var(--ink);
+    color: var(--white);
+    border-radius: var(--r-pill);
+    font-size: 11px;
+    font-weight: var(--fw-semibold);
+    letter-spacing: 0.06em;
+  }
 
   @media (max-width: 720px) {
-    h1 { font-size: 32px; }
-    .stats { grid-template-columns: repeat(2,1fr); }
-    .grid2, .arch { grid-template-columns: 1fr; }
-    .wrap { padding: 32px 18px 56px; }
+    .stats, .arch { grid-template-columns: repeat(2, 1fr); }
+    .grid2, .cost { grid-template-columns: 1fr; }
+    .funnel .row { grid-template-columns: 1fr 50px; }
+    .funnel .row .bar { grid-column: 1 / -1; }
   }
 </style>
 </head>
@@ -82,7 +189,7 @@
 
 <header>
   <div class="eyebrow">RoleOS · Live</div>
-  <h1>I built <em>RoleOS</em> — an operating system to run my own job search.</h1>
+  <h1>I built <span class="accent">RoleOS</span> — an operating system to run my own job search.</h1>
   <p class="lede">
     Most candidates read JDs one at a time. I shipped a small system that scopes companies, fetches postings, and uses Claude to extract every requirement into a strict schema — so I can rank fit, spot gaps in my own profile, and prioritize where to apply. This page tracks it live, end-to-end. <strong>The point isn't the job search — it's how I leverage AI to compress weeks of manual work into hours.</strong>
   </p>
@@ -95,42 +202,42 @@
 
 <section>
   <h2>Pipeline — where I am in the journey</h2>
-  <div class="funnel" id="funnel"></div>
+  <div class="panel funnel" id="funnel"></div>
 </section>
 
 <section>
   <h2>What the extraction sees (aggregate)</h2>
   <div class="grid2">
-    <div class="card"><h3>Role archetypes</h3><div class="dist" id="dist-archetype"></div></div>
-    <div class="card"><h3>Seniority distribution</h3><div class="dist" id="dist-seniority"></div></div>
-    <div class="card"><h3>Years required</h3><div class="dist" id="dist-years"></div></div>
-    <div class="card"><h3>Location & work model</h3><div class="dist" id="dist-location"></div></div>
+    <div class="panel"><h3>Role archetypes</h3><div class="dist" id="dist-archetype"></div></div>
+    <div class="panel"><h3>Seniority distribution</h3><div class="dist" id="dist-seniority"></div></div>
+    <div class="panel"><h3>Years required</h3><div class="dist" id="dist-years"></div></div>
+    <div class="panel"><h3>Location & work model</h3><div class="dist" id="dist-location"></div></div>
   </div>
 </section>
 
 <section>
   <h2>Architecture — four scripts, one schema</h2>
   <div class="arch">
-    <div class="step"><div class="n">01 · SCAN</div><div class="t">Discover roles</div><div class="d">Crawl ATS portals (Greenhouse, Lever, Ashby) for ~70 target companies. Filter to PM, AI, and growth roles.</div></div>
-    <div class="step"><div class="n">02 · FETCH</div><div class="t">Raw JD capture</div><div class="d">Pull each posting to markdown, snapshotted with URL + provider + job ID for reproducibility.</div></div>
-    <div class="step"><div class="n">03 · EXTRACT</div><div class="t">Claude → strict JSON</div><div class="d">Per-JD LLM call with a constrained schema: archetype, seniority, must-haves with verbatim quotes, salary, location, visa. Zero hallucination by contract.</div></div>
-    <div class="step"><div class="n">04 · RENDER</div><div class="t">Candidate-facing view</div><div class="d">Compile structured JSONs into readable markdown digests for fast scanning and fit assessment.</div></div>
+    <div class="step"><div class="n">01 · Scan</div><div class="t">Discover roles</div><div class="d">Crawl ATS portals (Greenhouse, Lever, Ashby) for ~70 target companies. Filter to PM, AI, and growth roles.</div></div>
+    <div class="step"><div class="n">02 · Fetch</div><div class="t">Raw JD capture</div><div class="d">Pull each posting to markdown, snapshotted with URL, provider, and job ID for reproducibility.</div></div>
+    <div class="step"><div class="n">03 · Extract</div><div class="t">Claude → strict JSON</div><div class="d">Per-JD LLM call with a constrained schema: archetype, seniority, must-haves with verbatim quotes, salary, location, visa.</div></div>
+    <div class="step"><div class="n">04 · Render</div><div class="t">Candidate-facing view</div><div class="d">Compile structured JSONs into readable markdown digests for fast scanning and fit assessment.</div></div>
   </div>
 </section>
 
 <section>
   <h2>Honest gaps — what's next</h2>
-  <div class="card"><div class="gap" id="gaps"></div></div>
+  <div class="panel"><div class="gap" id="gaps"></div></div>
 </section>
 
 <section>
   <h2>Cost & efficiency</h2>
-  <div class="card" id="cost"></div>
+  <div class="panel cost" id="cost"></div>
 </section>
 
 <footer>
-  <span class="pill">Live snapshot</span> · Built with Node + Claude · Updated <span id="ts"></span> ·
-  <a href="https://github.com/">source</a>
+  <span class="pill">Live snapshot</span> &nbsp; Built with Node + Claude &nbsp; · &nbsp; Updated <span id="ts"></span> &nbsp; · &nbsp;
+  <a href="https://github.com/nikjain15/role-os">source</a>
 </footer>
 
 </div>
@@ -140,27 +247,29 @@ async function load() {
   const d = await (await fetch('data.json?t=' + Date.now())).json();
   const h = d.headline;
   document.getElementById('stats').innerHTML = [
-    ['Companies scoped', h.companies, 'accent'],
-    ['JDs structured', h.structured + ' / ' + h.rawJDs, ''],
-    ['Requirements extracted', h.mustHavesExtracted.toLocaleString(), ''],
-    ['Salary disclosure rate', h.salaryDisclosureRate, ''],
-  ].map(([l,n,c]) => `<div class="stat ${c}"><div class="num">${n}</div><div class="lbl">${l}</div></div>`).join('');
+    ['Companies scoped', h.companies],
+    ['JDs structured', h.structured + ' / ' + h.rawJDs],
+    ['Requirements extracted', h.mustHavesExtracted.toLocaleString()],
+    ['Salary disclosure rate', h.salaryDisclosureRate],
+  ].map(([l, n]) => `<div class="stat"><div class="num">${n}</div><div class="lbl">${l}</div></div>`).join('');
 
   const maxF = Math.max(...d.funnel.map(s => s.count), 1);
   document.getElementById('funnel').innerHTML = d.funnel.map(s => {
     const isFuture = /next/i.test(s.stage);
     const pct = (s.count / maxF) * 100;
     return `<div class="row ${isFuture ? 'future' : ''}">
-      <div class="label"><span style="min-width:240px">${s.stage}</span><div class="bar"><div style="width:${pct}%"></div></div></div>
-      <div class="count">${s.count}</div></div>`;
+      <div>${s.stage}</div>
+      <div class="bar"><div style="width:${pct}%"></div></div>
+      <div class="count">${s.count}</div>
+    </div>`;
   }).join('');
 
   function renderDist(id, obj) {
-    const entries = Object.entries(obj).sort((a,b) => b[1]-a[1]).slice(0, 8);
-    const max = Math.max(...entries.map(([,v]) => v), 1);
-    document.getElementById(id).innerHTML = entries.map(([k,v]) =>
+    const entries = Object.entries(obj).sort((a, b) => b[1] - a[1]).slice(0, 8);
+    const max = Math.max(...entries.map(([, v]) => v), 1);
+    document.getElementById(id).innerHTML = entries.map(([k, v]) =>
       `<div class="item"><span class="k">${k}</span><div class="bar"><div style="width:${(v/max)*100}%"></div></div><span class="v">${v}</span></div>`
-    ).join('') || '<div style="color:var(--muted);font-size:13px">(no data yet)</div>';
+    ).join('') || '<div style="color:var(--ink-3);font-size:13px">(no data yet)</div>';
   }
   renderDist('dist-archetype', d.distributions.archetype);
   renderDist('dist-seniority', d.distributions.seniority);
@@ -173,11 +282,9 @@ async function load() {
 
   const perJD = d.cost.total && h.structured ? (d.cost.total / h.structured).toFixed(4) : '—';
   document.getElementById('cost').innerHTML = `
-    <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:18px">
-      <div><div style="font-size:24px;font-weight:700">$${d.cost.total.toFixed(2)}</div><div style="color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.08em;margin-top:4px">Total LLM spend</div></div>
-      <div><div style="font-size:24px;font-weight:700">$${perJD}</div><div style="color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.08em;margin-top:4px">Cost per JD extracted</div></div>
-      <div><div style="font-size:24px;font-weight:700">${d.cost.runs}</div><div style="color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.08em;margin-top:4px">Pipeline runs</div></div>
-    </div>`;
+    <div><div class="big">$${d.cost.total.toFixed(2)}</div><div class="lbl">Total LLM spend</div></div>
+    <div><div class="big">$${perJD}</div><div class="lbl">Cost per JD extracted</div></div>
+    <div><div class="big">${d.cost.runs}</div><div class="lbl">Pipeline runs</div></div>`;
 
   document.getElementById('ts').textContent = new Date(d.generatedAt).toLocaleString();
 }

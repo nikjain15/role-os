@@ -1,0 +1,36 @@
+/* Pill buttons. Variants: default (ink), .btn-ghost, .btn-white, .btn-ghost-white.
+   Size modifier: .btn-sm.
+   Includes shared focus-visible rings for buttons + links. */
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 12px 22px;
+  border-radius: var(--r-pill);
+  background: var(--ink);
+  color: var(--white);
+  font-weight: var(--fw-medium);
+  font-size: 14px;
+  white-space: nowrap;
+  transition: opacity 0.15s;
+}
+.btn:hover { opacity: 0.82; }
+
+.btn-ghost       { background: transparent; color: var(--ink); border: 1.5px solid var(--ink); }
+.btn-white       { background: var(--white); color: var(--ink); }
+.btn-ghost-white { background: transparent; color: var(--white); border: 1.5px solid rgba(255, 255, 255, 0.55); }
+.btn-sm          { padding: 8px 14px; font-size: 12px; }
+
+/* Keyboard focus rings */
+.btn:focus-visible,
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 3px;
+  border-radius: var(--r-pill);
+}
+.btn-white:focus-visible,
+.btn-ghost-white:focus-visible,
+.on-dark a:focus-visible { outline-color: var(--white); }

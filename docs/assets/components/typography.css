@@ -1,0 +1,36 @@
+/* Typography baseline. Apply once per app. */
+
+h1 {
+  font-size: clamp(36px, 5.5vw, 64px);
+  line-height: 1.04;
+  letter-spacing: -0.028em;
+  font-weight: var(--fw-bold);
+}
+
+h2 {
+  font-size: clamp(26px, 3.8vw, 44px);
+  line-height: 1.08;
+  letter-spacing: -0.022em;
+  font-weight: var(--fw-bold);
+}
+
+h3 {
+  font-size: clamp(17px, 2vw, 21px);
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+  font-weight: var(--fw-semibold);
+}
+
+p {
+  font-size: clamp(15px, 1.6vw, 17px);
+  line-height: 1.65;
+  color: var(--ink-2);
+}
+
+.eyebrow {
+  font-size: 11px;
+  font-weight: var(--fw-semibold);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+}
