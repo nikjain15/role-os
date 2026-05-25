@@ -1,0 +1,340 @@
+{
+  "company": "Stripe",
+  "role_title": "Product Manager, Stripe Infrastructure",
+  "url": "https://stripe.com/jobs/search?gh_jid=6651889",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "6651889",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "AI Product Manager",
+  "seniority": {
+    "level": "Senior IC / Staff PM",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7+ years of progressive experience in Product Management",
+      "Demonstrated success launching and scaling complex products in enterprise environment",
+      "Expected to guide architecture and investment decisions and interact with CTO/Engineering leads"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "7+ years of progressive experience in Product Management, ideally within an enterprise or B2B setting.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 7,
+      "unit": "years",
+      "qualifier": "progressive, ideally enterprise or B2B",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "enterprise",
+        "B2B"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "complex_product_launches",
+      "raw_text_from_jd": "Demonstrated success in defining, launching, and scaling complex products from ideation to general availability in an enterprise environment.",
+      "skill_type": "outcome",
+      "domain": "product_launches",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "enterprise"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "stakeholder_management",
+      "raw_text_from_jd": "Proven ability to manage diverse stakeholders (Engineering, Design, Sales, Marketing, Executive Leadership) and drive cross-functional alignment on product vision and prioritization.",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_user_journey_mapping",
+      "raw_text_from_jd": "Exceptional ability to map, analyze, and refine Customer User Journeys (CUJs) to identify high-value pain points and opportunities for AI solution deployment.",
+      "skill_type": "capability",
+      "domain": "user_research_and_ux",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_driven_prioritization",
+      "raw_text_from_jd": "Highly data-driven approach to prioritization and decision-making, including the ability to define key performance indicators (KPIs), create product impact dashboards, and synthesize data into actionable product requirements.",
+      "skill_type": "capability",
+      "domain": "data_driven_product_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "qualitative_quantitative_insights",
+      "raw_text_from_jd": "A track record of leveraging qualitative (customer interviews) and quantitative (product usage data) insights to validate assumptions and drive product strategy.",
+      "skill_type": "outcome",
+      "domain": "product_strategy",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_skills",
+      "raw_text_from_jd": "Excellent written and verbal communication skills, with the ability to articulate complex technical concepts and product strategies clearly to both technical and non-technical audiences.",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_ml_product_experience",
+      "raw_text_from_jd": "Hands-on experience developing and launching AI/ML-powered products or features for internal or external customers.",
+      "skill_type": "capability",
+      "domain": "ai_ml_product_development",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI/ML"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "llm_technical_understanding",
+      "raw_text_from_jd": "Robust functional and technical understanding of Large Language Models (LLMs) and common AI-based workflows (e.g., retrieval-augmented generation, fine-tuning, prompt engineering).",
+      "skill_type": "domain_knowledge",
+      "domain": "large_language_models",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "LLMs",
+        "retrieval-augmented generation",
+        "fine-tuning",
+        "prompt engineering"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "conversational_ai_production",
+      "raw_text_from_jd": "Prior experience working directly with LLMs or launching conversational AI agents into production.",
+      "skill_type": "capability",
+      "domain": "conversational_ai",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "LLMs",
+        "conversational AI agents"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_background",
+      "raw_text_from_jd": "Technical background (e.g., Computer Science degree or equivalent practical experience) that allows for deep engagement with engineering teams on technical trade-offs and architectural decisions.",
+      "skill_type": "credential",
+      "domain": "technical_education_or_experience",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": true,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Computer Science degree"
+      ]
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "cross_geo_experience",
+      "raw_text_from_jd": "Experience working with cross-geo/timezone environments",
+      "skill_type": "capability",
+      "domain": "global_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_system_high_impact_challenges",
+      "raw_text_from_jd": "Track record of solving high-impact, cross-system challenges and aligning senior stakeholders across Product, Engineering, and Core infrastructure organizations.",
+      "skill_type": "outcome",
+      "domain": "infrastructure_product_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Stripe Infrastructure and Data Experiences (IDX) — including Core Infra, Developer Infra, Data Platform, Service Platform, Seller Systems, and internal AI agents",
+    "business_model": "B2B / enterprise financial infrastructure platform",
+    "primary_metrics_inferred": [
+      "Developer experience quality / satisfaction",
+      "Infrastructure reliability and availability",
+      "Business impact of infrastructure products",
+      "KPIs for developer products",
+      "International market expansion via local infrastructure"
+    ],
+    "cross_functional_partners": [
+      "Engineering (Core Infra, Developer Infra, Data Platform, Service Platform)",
+      "CTO",
+      "Engineering leads",
+      "Product leads",
+      "Design",
+      "Sales",
+      "Marketing",
+      "Executive Leadership"
+    ],
+    "core_responsibilities": [
+      "Partner with engineering teams to ship functionality that delights users and makes a measurable impact on the business",
+      "Establish system and design principles for Seller Systems — build vs. buy, modernization vs. extension, platform vs. point solution",
+      "Guide architecture and investment decisions",
+      "Interact with external users and propose critical infrastructure abstractions",
+      "Validate product ideas and prototypes with early adopters",
+      "Define key success metrics for developer products",
+      "Work on infrastructure, API, data models/pipelines roadmaps",
+      "Work on internal AI agents for functions such as Recruiting, Legal etc."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "infrastructure",
+    "developer experience",
+    "LLMs",
+    "AI agents",
+    "distributed systems",
+    "API",
+    "data platform",
+    "enterprise",
+    "B2B",
+    "retrieval-augmented generation",
+    "prompt engineering",
+    "product roadmap",
+    "build vs buy",
+    "Seller Systems",
+    "internal AI agents"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear product surface with named engineering partner teams (Core Infra, Developer Infra, Data Platform, Service Platform)",
+    "Explicit encouragement to apply if minimum requirements are met",
+    "High-impact scope: unlocking international markets and enterprise-grade experiences",
+    "AI/ML and LLM work is substantive and production-oriented, not superficial",
+    "Role partners directly with Stripe's CTO and engineering leads — high visibility"
+  ],
+  "red_flags": [
+    "Compensation not disclosed",
+    "Location and work arrangement not stated anywhere in the JD — unclear if remote, hybrid, or onsite",
+    "Visa sponsorship and work authorization not mentioned",
+    "7+ year minimum is a relatively high bar that may filter out strong mid-level candidates",
+    "JD blends infrastructure PM and AI PM responsibilities broadly, making the actual focus somewhat ambiguous"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 7+ years requirement and scope of responsibilities)",
+      "location.type (not stated; marked as unclear)",
+      "scope.business_model (inferred from company description and enterprise/B2B context)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly listed as metrics in JD)",
+      "compensation.equity_mentioned (not mentioned; defaulted to false)"
+    ],
+    "ambiguities": [
+      "The JD does not specify a work location or remote/hybrid/onsite policy anywhere — location.type is marked as unclear",
+      "The 'ideally within an enterprise or B2B setting' qualifier on the 7+ years requirement suggests it is a preference rather than hard requirement, but it appears under Minimum Requirements; treated as hard with qualifier noted",
+      "AI & Technical Expertise section is listed under 'Minimum requirements' in the JD structure but is a separate subsection — all items treated as hard requirements per JD placement"
+    ]
+  }
+}

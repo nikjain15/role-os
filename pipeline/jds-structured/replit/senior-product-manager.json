@@ -1,0 +1,282 @@
+{
+  "company": "Replit",
+  "role_title": "Senior Product Manager",
+  "url": "https://jobs.ashbyhq.com/replit/cf236c47-218b-4a31-b0b6-d6ed12a8e077",
+  "ats_provider": "ashby",
+  "ats_job_id": "cf236c47-218b-4a31-b0b6-d6ed12a8e077",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "AI Product Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Generalist PM with developer tools focus",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of product management experience required",
+      "Title explicitly states Senior Product Manager",
+      "Expected to own product strategy and drive user experience vision"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "5+ years of product management experience with a track record of building exceptional user experiences",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_sense_developer_tools",
+      "raw_text_from_jd": "Strong product sense and intuition for what makes great developer tools and experiences",
+      "skill_type": "domain_knowledge",
+      "domain": "developer_tools",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "user_research_to_strategy",
+      "raw_text_from_jd": "Experience conducting user research and translating insights into product strategy",
+      "skill_type": "capability",
+      "domain": "user_research",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_trends_intuition",
+      "raw_text_from_jd": "Deep intuition about AI trends and products, particularly in automation and natural language interfaces",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_products",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "automation",
+        "natural language interfaces"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_communication",
+      "raw_text_from_jd": "Excellent communication skills and ability to influence cross-functional teams",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "exceptional_ux_track_record",
+      "raw_text_from_jd": "Obsessed with creating exceptional user experiences and have a track record of building beloved products",
+      "skill_type": "outcome",
+      "domain": "user_experience",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "qualitative_quantitative_analysis",
+      "raw_text_from_jd": "Strong at qualitative and quantitative analysis, turning user insights into actionable product decisions",
+      "skill_type": "capability",
+      "domain": "data_analysis",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "active_replit_user",
+      "raw_text_from_jd": "You're an active Replit user who understands the developer community",
+      "skill_type": "hands_on_use",
+      "domain": "developer_tools",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Replit"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "built_developer_tools",
+      "raw_text_from_jd": "You've built or contributed to developer tools that others love using",
+      "skill_type": "outcome",
+      "domain": "developer_tools",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "teaching_mentoring",
+      "raw_text_from_jd": "You have experience teaching or mentoring other developers",
+      "skill_type": "capability",
+      "domain": "mentorship",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strong_product_culture_company",
+      "raw_text_from_jd": "You've worked at companies with strong product culture and user-centric design",
+      "skill_type": "cultural_fit",
+      "domain": "company_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "companies with strong product culture"
+      ],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "AI-powered development tools and user experience for Replit's agentic software creation platform",
+    "business_model": "developer-facing platform, B2C with potential B2B (SaaS/freemium implied)",
+    "primary_metrics_inferred": [
+      "User onboarding conversion and retention",
+      "AI feature adoption across skill levels",
+      "Developer satisfaction and NPS",
+      "User journey completion rates"
+    ],
+    "cross_functional_partners": [
+      "Design",
+      "Engineering",
+      "User Research"
+    ],
+    "core_responsibilities": [
+      "Define and execute the user experience vision for AI-driven software creation",
+      "Conduct deep user research to understand developer pain points and workflow needs",
+      "Design AI-powered features that feel intuitive and magical to users of all skill levels",
+      "Own user journey optimization from onboarding through advanced AI-assisted development",
+      "Drive product strategy based on user feedback, market research, and competitive analysis",
+      "Partner with design teams to create compelling AI interaction patterns and interfaces"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity (stock options or RSUs implied by 'Competitive Salary & Equity')",
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "AI-powered development",
+    "developer tools",
+    "user experience",
+    "natural language interfaces",
+    "agentic software creation",
+    "user research",
+    "product strategy",
+    "onboarding",
+    "product sense",
+    "automation"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear and specific product surface (AI-powered dev tools, agentic platform)",
+    "Encourages applications from underrepresented and non-traditional backgrounds",
+    "Equity and competitive salary mentioned",
+    "Strong benefit package including wellness stipend, parental leave, and flexible PTO"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "Location type is entirely unclear — no city, remote policy, or office requirement mentioned in JD",
+    "Visa sponsorship status not mentioned",
+    "JD is light on specifics around team size, reporting structure, and exact ownership boundaries"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title and 5+ years requirement)",
+      "scope.business_model (inferred from product description and 'millions of users worldwide')",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "location.type (JD does not specify remote, hybrid, or onsite; marked unclear)",
+      "compensation.equity_form (inferred from 'Competitive Salary & Equity'; form not specified)"
+    ],
+    "ambiguities": [
+      "Location is entirely unspecified in the JD body — no city, no remote/hybrid/onsite designation. Benefits mention 'Commuter Benefits' and 'In Office Amenities' suggesting some in-office presence, but no formal policy is stated.",
+      "Work authorization and visa sponsorship are not mentioned anywhere in the JD."
+    ]
+  }
+}

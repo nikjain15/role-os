@@ -1,0 +1,281 @@
+{
+  "company": "Vapi",
+  "role_title": "Head of Revenue Operations",
+  "url": "https://jobs.ashbyhq.com/vapi/7163c962-7710-4437-b7b5-2ea949f01754",
+  "ats_provider": "ashby",
+  "ats_job_id": "7163c962-7710-4437-b7b5-2ea949f01754",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Revenue Operations / GTM Operations",
+  "seniority": {
+    "level": "Senior Leadership / Head-level",
+    "years_required_min": null,
+    "years_required_max": null,
+    "manages_people": true,
+    "level_signals": [
+      "Titled 'Head of Revenue Operations'",
+      "Strategic operating partner to VP of Sales and GTM leadership",
+      "Responsible for building RevOps organizational build-out plan and begin hiring",
+      "Foundational leadership role"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "series_b_to_f_experience",
+      "raw_text_from_jd": "You've seen Series B to F.",
+      "skill_type": "domain_knowledge",
+      "domain": "high_growth_startup_scaling",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "Series B to F startup"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "enterprise_deal_experience",
+      "raw_text_from_jd": "You're sold multi-million dollar deals to F500.",
+      "skill_type": "outcome",
+      "domain": "enterprise_sales_revenue_operations",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "salesforce_architecture",
+      "raw_text_from_jd": "Audit the current revenue tech stack, including Salesforce architecture, reporting, and data flows",
+      "skill_type": "tool_proficiency",
+      "domain": "crm_and_revenue_tech_stack",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Salesforce"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "forecasting_and_pipeline",
+      "raw_text_from_jd": "Redesign the forecasting process and implement improved pipeline inspection frameworks",
+      "skill_type": "capability",
+      "domain": "sales_forecasting_and_pipeline_management",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "medic_deal_qualification",
+      "raw_text_from_jd": "Begin restructuring Salesforce workflows to support MEDIC and stronger deal inspection",
+      "skill_type": "domain_knowledge",
+      "domain": "sales_methodology",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "Salesforce"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "revops_operating_cadence",
+      "raw_text_from_jd": "Launch the new RevOps operating cadence (forecast calls, pipeline reviews, leadership reporting)",
+      "skill_type": "capability",
+      "domain": "revenue_operations",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "gtm_cross_functional_partnership",
+      "raw_text_from_jd": "Build strong working relationships with GTM leaders across Sales, Marketing, and Delivery",
+      "skill_type": "capability",
+      "domain": "cross_functional_leadership",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "team_building",
+      "raw_text_from_jd": "Present the RevOps organizational build-out plan and begin hiring",
+      "skill_type": "capability",
+      "domain": "team_building_and_hiring",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "founded_startup",
+      "raw_text_from_jd": "Bonus: You've built your own startup.",
+      "skill_type": "domain_knowledge",
+      "domain": "entrepreneurship",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear — RevOps team to be built from scratch",
+    "surface": "Revenue operations across sales, marketing, and delivery; Salesforce, forecasting, pipeline, SDR tracking, enablement",
+    "business_model": "B2B developer platform / voice AI SaaS",
+    "primary_metrics_inferred": [
+      "Pipeline accuracy and forecast attainment",
+      "Revenue funnel conversion rates",
+      "SDR activity and accountability metrics",
+      "Leadership reporting and quarterly revenue insights"
+    ],
+    "cross_functional_partners": [
+      "VP of Sales",
+      "Sales",
+      "Marketing",
+      "Delivery",
+      "GTM leadership"
+    ],
+    "core_responsibilities": [
+      "Audit the current revenue tech stack, including Salesforce architecture, reporting, and data flows",
+      "Map the end-to-end revenue funnel from marketing through delivery",
+      "Identify the highest-leverage fixes across forecasting, pipeline visibility, and reporting",
+      "Redesign the forecasting process and implement improved pipeline inspection frameworks",
+      "Stand up SDR activity tracking, dashboards, and accountability systems",
+      "Begin restructuring Salesforce workflows to support MEDIC and stronger deal inspection",
+      "Deliver the first insights deck surfacing key trends, risks, and opportunities in the revenue funnel",
+      "Launch the new RevOps operating cadence (forecast calls, pipeline reviews, leadership reporting)",
+      "Build onboarding and enablement frameworks for new GTM hires",
+      "Present the RevOps organizational build-out plan and begin hiring",
+      "Deliver the first full quarterly revenue insights package for leadership"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "excellent equity ownership",
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Revenue Operations",
+    "Salesforce",
+    "MEDIC",
+    "pipeline management",
+    "forecasting",
+    "GTM",
+    "SDR tracking",
+    "enterprise sales",
+    "F500",
+    "Series B to F",
+    "voice AI",
+    "developer platform"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Structured 30/60/90 day plan gives clear expectations and near-term milestones",
+    "Competitive equity ownership explicitly mentioned",
+    "$10k annual L&D budget is a notable benefit",
+    "Tier-1 investors (YC, Kleiner Perkins, Bessemer) signal strong backing",
+    "Company has grown to 600k+ developers in two years, strong product-market fit signal",
+    "Foundational leadership role with direct access to VP of Sales and GTM leadership"
+  ],
+  "red_flags": [
+    "No location specified — unclear if remote, hybrid, or onsite",
+    "No base salary range disclosed",
+    "No visa sponsorship information provided",
+    "JD is sparse on formal requirements — candidate profile section is very brief (3 bullets), making hard requirements difficult to fully assess",
+    "RevOps team does not yet exist; requires building from scratch with ambiguous organizational support"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 'Head of' title, people management signals, and strategic partner framing)",
+      "seniority.manages_people (inferred from 'begin hiring' and 'organizational build-out plan')",
+      "scope.business_model (inferred from product description and developer platform context)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly stated in JD)",
+      "location.type (not stated anywhere in JD; marked as unclear)",
+      "compensation.source (marked unknown; no base range given)"
+    ],
+    "ambiguities": [
+      "The 'Who You Are' section reads like must-haves ('You've seen...', 'You're sold...') but is very terse with no formal 'Required' header. Treated the first two bullets as hard requirements and the bonus as soft.",
+      "No location information is provided anywhere in the JD — role could be remote, hybrid, or onsite. Marked as unclear.",
+      "The phrase 'You're sold multi-million dollar deals to F500' appears to be a RevOps/Sales background requirement but could indicate either direct selling or operational support of enterprise deals. Treated as evidence of enterprise-level go-to-market experience."
+    ]
+  }
+}

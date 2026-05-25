@@ -4,134 +4,105 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="noindex,nofollow">
-<title>RoleOS — The operating system for your AI PM job search</title>
-<meta name="description" content="RoleOS reads every job description, tracks your funnel, and shows you where you stand. Built by a senior AI PM running his own search.">
+<title>RoleOS — Run your job search like a real product</title>
+<meta name="description" content="An AI-native operating system for senior PMs targeting AI-first companies. RoleOS reads every job description, tracks your funnel, and shows you where you stand. Live case study inside.">
+
+<!-- Open Graph -->
+<meta property="og:title" content="RoleOS — Run your job search like a real product">
+<meta property="og:description" content="Built by an AI PM running his own search. Live case study inside.">
+<meta property="og:image" content="https://nikjain15.github.io/role-os/assets/og-image.svg">
+<meta property="og:url" content="https://nikjain15.github.io/role-os/">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://nikjain15.github.io/role-os/assets/og-image.svg">
+
+<link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/tokens.css">
 <link rel="stylesheet" href="assets/components/typography.css">
 <link rel="stylesheet" href="assets/components/button.css">
 <link rel="stylesheet" href="assets/components/waitlist-form.css">
 <style>
   * { box-sizing: border-box; }
-  body {
-    margin: 0;
-    font-family: var(--sans);
-    background: var(--white);
-    color: var(--ink);
-    -webkit-font-smoothing: antialiased;
-  }
+  body { margin: 0; font-family: var(--sans); background: var(--white); color: var(--ink); -webkit-font-smoothing: antialiased; }
   a { color: var(--ink); text-underline-offset: 3px; }
 
-  /* ===== Layout primitives ===== */
+  /* ===== Layout ===== */
   .wrap { width: 100%; max-width: var(--page-max); margin-inline: auto; padding-inline: var(--page-pad-x); }
   section { padding-block: var(--section-y); }
-  .bg-white { background: var(--white); }
   .bg-paper { background: var(--paper); }
   .bg-dark { background: var(--dark); color: var(--white); }
   .bg-dark h1, .bg-dark h2, .bg-dark h3 { color: var(--white); }
   .bg-dark p { color: rgba(255,255,255,0.78); }
   .bg-dark .eyebrow { color: rgba(255,255,255,0.55); }
-  .bg-dark a { color: var(--white); }
-  .divider-line { border-top: 1px solid var(--line); }
 
   /* ===== Nav ===== */
-  .site-nav {
-    position: sticky; top: 0; z-index: 100;
-    background: rgba(255,255,255,0.92);
-    backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
-    border-bottom: 1px solid var(--line);
-  }
+  .site-nav { position: sticky; top: 0; z-index: 100; background: rgba(255,255,255,0.92); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); border-bottom: 1px solid var(--line); }
   .nav-inner { display: flex; align-items: center; justify-content: space-between; padding-block: 14px; gap: 32px; }
   .nav-logo { display: inline-flex; align-items: center; gap: 10px; text-decoration: none; font-weight: var(--fw-semibold); color: var(--ink); }
-  .ro-mark {
-    display: inline-flex; align-items: center; justify-content: center;
-    width: 28px; height: 28px; border-radius: 6px;
-    background: var(--ink); color: var(--white);
-    font-weight: var(--fw-extra); font-size: 12px; letter-spacing: -0.04em;
-    flex-shrink: 0;
-  }
-  .nav-links { display: flex; align-items: center; gap: 24px; }
+  .ro-mark { display: inline-flex; align-items: center; justify-content: center; width: 28px; height: 28px; border-radius: 6px; background: var(--ink); color: var(--white); font-weight: var(--fw-extra); font-size: 12px; letter-spacing: -0.04em; flex-shrink: 0; }
+  .nav-links { display: flex; align-items: center; gap: 22px; }
   .nav-links a { text-decoration: none; font-size: 14px; color: var(--ink-2); }
   .nav-links a:hover { color: var(--ink); }
   .nav-links .btn-sm { font-size: 12px; }
-  @media (max-width: 600px) {
-    .nav-links a:not(.btn) { display: none; }
-  }
+  @media (max-width: 720px) { .nav-links a:not(.btn) { display: none; } }
 
   /* ===== Hero ===== */
-  .hero h1 {
-    font-size: clamp(34px, 5vw, 56px);
-    line-height: 1.04;
-    letter-spacing: -0.028em;
-    margin: 18px 0 18px;
-  }
+  .hero h1 { font-size: clamp(34px, 5vw, 56px); line-height: 1.04; letter-spacing: -0.028em; margin: 18px 0 18px; }
   .hero .lede { max-width: 620px; font-size: clamp(16px, 1.7vw, 18px); color: var(--ink-2); margin: 0 0 28px; }
   .hero .lede strong { color: var(--ink); font-weight: var(--fw-semibold); }
-  .hero .badge {
-    display: inline-flex; align-items: center; gap: 8px;
-    padding: 5px 12px;
-    background: var(--ink); color: var(--white);
-    border-radius: var(--r-pill);
-    font-size: 11px; font-weight: var(--fw-semibold);
-    letter-spacing: 0.08em; text-transform: uppercase;
-  }
-  .hero .badge .dot { width: 6px; height: 6px; border-radius: 50%; background: #10b981; animation: pulse 1.6s infinite; }
+  .badge { display: inline-flex; align-items: center; gap: 8px; padding: 5px 12px; background: var(--ink); color: var(--white); border-radius: var(--r-pill); font-size: 11px; font-weight: var(--fw-semibold); letter-spacing: 0.08em; text-transform: uppercase; }
+  .badge .dot { width: 6px; height: 6px; border-radius: 50%; background: #10b981; animation: pulse 1.6s infinite; }
   @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
   .form-msg { margin-top: 10px; font-size: 12px; color: var(--ink-4); min-height: 18px; }
   .form-msg.success { color: #0e7a52; font-weight: var(--fw-medium); }
-  .form-msg.error   { color: #b42318; }
+  .form-msg.error { color: #b42318; }
 
-  /* ===== Eyebrow + section heads ===== */
+  /* ===== Section heads ===== */
   .section-head { margin-bottom: 28px; max-width: 720px; }
   .section-head .eyebrow { margin-bottom: 10px; }
   .section-head h2 { margin: 0; font-size: clamp(24px, 3vw, 36px); letter-spacing: -0.022em; }
 
-  /* ===== Promise grid (feature cards) ===== */
+  /* ===== Promise grid (feature cards with mockups) ===== */
   .promise-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
-  .promise-card {
-    border: 1.5px solid var(--ink);
-    border-radius: var(--r-card-emph);
-    padding: clamp(20px, 2.4vw, 28px);
-    background: var(--paper);
-    display: flex; flex-direction: column; gap: 14px;
-  }
-  .promise-card .icon-bg {
-    width: 40px; height: 40px;
-    border-radius: 10px;
-    background: var(--white);
-    border: 1px solid var(--line);
-    display: inline-flex; align-items: center; justify-content: center;
-  }
-  .promise-card .icon-bg svg { width: 20px; height: 20px; stroke: var(--ink); }
-  .promise-card h3 { margin: 0; font-size: 18px; letter-spacing: -0.012em; }
-  .promise-card p { margin: 0; font-size: 14px; color: var(--ink-3); line-height: 1.55; }
+  .promise-card { border: 1.5px solid var(--ink); border-radius: var(--r-card-emph); padding: clamp(20px, 2.2vw, 24px); background: var(--paper); display: flex; flex-direction: column; gap: 14px; }
+  .promise-card .icon-bg { width: 36px; height: 36px; border-radius: 9px; background: var(--white); border: 1px solid var(--line); display: inline-flex; align-items: center; justify-content: center; }
+  .promise-card .icon-bg svg { width: 18px; height: 18px; stroke: var(--ink); }
+  .promise-card h3 { margin: 0; font-size: 17px; letter-spacing: -0.012em; }
+  .promise-card p { margin: 0; font-size: 13px; color: var(--ink-3); line-height: 1.55; }
+  .mockup { background: var(--white); border: 1px solid var(--line); border-radius: 8px; padding: 12px; margin-top: auto; font-size: 11px; font-family: var(--sans); min-height: 110px; }
+  .mockup .mock-head { font-size: 10px; color: var(--ink-4); font-weight: var(--fw-semibold); letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 8px; display: flex; justify-content: space-between; }
+  .mock-list { display: flex; flex-direction: column; gap: 5px; }
+  .mock-list .mock-row { display: flex; justify-content: space-between; padding: 3px 0; border-bottom: 1px solid var(--line-2); font-size: 11px; }
+  .mock-list .mock-row:last-child { border-bottom: 0; }
+  .mock-list .mock-row span:last-child { color: var(--ink-3); font-variant-numeric: tabular-nums; }
+  .mock-json { font-family: 'JetBrains Mono', ui-monospace, monospace; font-size: 10px; line-height: 1.5; color: var(--ink-2); white-space: pre; overflow: hidden; }
+  .mock-json .k { color: var(--ink-3); }
+  .mock-json .s { color: #0e7a52; }
+  .mock-json .n { color: #b45309; }
+  .mock-funnel { display: flex; flex-direction: column; gap: 5px; }
+  .mock-funnel .f-row { display: grid; grid-template-columns: 1fr 28px; gap: 6px; align-items: center; font-size: 11px; }
+  .mock-funnel .f-row .f-label { display: flex; align-items: center; gap: 5px; }
+  .mock-funnel .f-row .f-dot { width: 6px; height: 6px; border-radius: 50%; background: #10b981; }
+  .mock-funnel .f-row[data-future] { color: var(--ink-4); }
+  .mock-funnel .f-row[data-future] .f-dot { background: transparent; border: 1px dashed var(--ink-4); }
+  .mock-funnel .f-row .f-count { text-align: right; color: var(--ink-3); font-variant-numeric: tabular-nums; }
   @media (max-width: 860px) { .promise-grid { grid-template-columns: 1fr 1fr; } }
   @media (max-width: 560px) { .promise-grid { grid-template-columns: 1fr; } }
 
   /* ===== Case study ===== */
   .case-stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-bottom: 28px; }
-  .stat {
-    background: var(--white);
-    border: 1px solid var(--line);
-    border-radius: var(--r-card);
-    padding: 20px;
-  }
+  .stat { background: var(--white); border: 1px solid var(--line); border-radius: var(--r-card); padding: 20px; }
   .stat .num { font-size: clamp(24px, 3vw, 32px); font-weight: var(--fw-bold); letter-spacing: -0.02em; line-height: 1.05; }
   .stat .lbl { color: var(--ink-3); font-size: 11px; margin-top: 8px; text-transform: uppercase; letter-spacing: 0.1em; font-weight: var(--fw-semibold); }
   @media (max-width: 720px) { .case-stats { grid-template-columns: 1fr 1fr; } }
 
   .panel { background: var(--white); border: 1px solid var(--line); border-radius: var(--r-card-emph); padding: 24px; }
 
-  .funnel .row {
-    display: grid; grid-template-columns: 240px 1fr 60px;
-    align-items: center; gap: 16px;
-    padding: 12px 0;
-    border-bottom: 1px solid var(--line-2);
-    font-size: 14px;
-  }
+  .funnel .row { display: grid; grid-template-columns: 240px 1fr 60px; align-items: center; gap: 16px; padding: 12px 0; border-bottom: 1px solid var(--line-2); font-size: 14px; }
   .funnel .row:last-child { border-bottom: 0; }
   .funnel .stage { display: flex; align-items: center; gap: 10px; }
   .funnel .marker { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
@@ -143,21 +114,20 @@
   .funnel .bar > div { height: 100%; background: var(--ink); border-radius: var(--r-pill); transition: width 0.6s ease; }
   .funnel .row[data-status="next"] .bar > div { background: var(--line); }
   .funnel .count { text-align: right; font-variant-numeric: tabular-nums; font-weight: var(--fw-semibold); }
-  @media (max-width: 720px) {
-    .funnel .row { grid-template-columns: 1fr 50px; }
-    .funnel .row .bar { grid-column: 1 / -1; }
-  }
+  @media (max-width: 720px) { .funnel .row { grid-template-columns: 1fr 50px; } .funnel .row .bar { grid-column: 1 / -1; } }
+
+  /* ===== Insights ===== */
+  .insights { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-top: 32px; }
+  .insight { background: var(--white); border: 1px solid var(--line); border-left: 3px solid var(--ink); border-radius: var(--r-card); padding: 22px; }
+  .insight .big { font-size: clamp(28px, 3.4vw, 36px); font-weight: var(--fw-bold); letter-spacing: -0.02em; line-height: 1; }
+  .insight .lbl { font-size: 13px; color: var(--ink-2); margin-top: 10px; line-height: 1.5; }
+  .insight .lbl strong { color: var(--ink); font-weight: var(--fw-semibold); }
+  @media (max-width: 720px) { .insights { grid-template-columns: 1fr; } }
 
   details.more { margin-top: 24px; }
-  details.more > summary {
-    cursor: pointer; list-style: none;
-    font-size: 11px; color: var(--ink-3);
-    font-weight: var(--fw-semibold); letter-spacing: 0.1em; text-transform: uppercase;
-    padding: 10px 0;
-  }
+  details.more > summary { cursor: pointer; list-style: none; font-size: 11px; color: var(--ink-3); font-weight: var(--fw-semibold); letter-spacing: 0.1em; text-transform: uppercase; padding: 10px 0; }
   details.more > summary::after { content: " ↓"; }
   details.more[open] > summary::after { content: " ↑"; }
-
   .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-top: 16px; }
   .grid2 .panel h3 { font-size: 14px; margin: 0 0 12px; }
   .dist { display: flex; flex-direction: column; gap: 10px; }
@@ -166,6 +136,23 @@
   .dist .item .bar > div { height: 100%; background: var(--ink-2); border-radius: var(--r-pill); }
   .dist .item .v { text-align: right; color: var(--ink-3); font-variant-numeric: tabular-nums; }
   @media (max-width: 560px) { .grid2 { grid-template-columns: 1fr; } }
+
+  /* ===== Founding-user offer band ===== */
+  .offer-band { background: var(--ink); color: var(--white); border-radius: var(--r-card-emph); padding: clamp(28px, 3.5vw, 40px); display: grid; grid-template-columns: 1fr auto; gap: 32px; align-items: center; }
+  .offer-band .label { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: rgba(255,255,255,0.55); font-weight: var(--fw-semibold); margin-bottom: 12px; }
+  .offer-band h2 { color: var(--white); margin: 0 0 12px; font-size: clamp(22px, 2.6vw, 30px); letter-spacing: -0.02em; }
+  .offer-band p { color: rgba(255,255,255,0.78); margin: 0; font-size: 15px; max-width: 520px; }
+  .offer-band .btn-white { white-space: nowrap; }
+  @media (max-width: 720px) { .offer-band { grid-template-columns: 1fr; } }
+
+  /* ===== FAQ ===== */
+  .faq { display: grid; gap: 0; }
+  .faq details { border-bottom: 1px solid var(--line); padding: 18px 0; }
+  .faq details:first-of-type { border-top: 1px solid var(--line); }
+  .faq summary { cursor: pointer; list-style: none; display: flex; justify-content: space-between; gap: 16px; font-weight: var(--fw-semibold); font-size: 16px; color: var(--ink); }
+  .faq summary::after { content: "+"; font-size: 22px; color: var(--ink-3); transition: transform 0.2s; line-height: 1; }
+  .faq details[open] summary::after { transform: rotate(45deg); }
+  .faq details > p { margin: 12px 0 0; color: var(--ink-2); font-size: 15px; line-height: 1.6; max-width: 720px; }
 
   /* ===== Roadmap ===== */
   .roadmap { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
@@ -178,23 +165,20 @@
   @media (max-width: 560px) { .roadmap { grid-template-columns: 1fr; } }
 
   /* ===== About ===== */
-  .about-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 32px; align-items: start; }
+  .about-grid { display: grid; grid-template-columns: 1.2fr 1fr; gap: 40px; align-items: start; }
   .about-grid h3 { font-size: 22px; margin: 0 0 10px; }
-  .about-grid p { color: var(--ink-2); }
-  .about-grid .links { display: flex; flex-direction: column; gap: 8px; margin-top: 18px; }
+  .about-grid p { color: var(--ink-2); margin: 0 0 12px; }
+  .about-grid .credits { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; margin-bottom: 18px; }
+  .about-grid .credit-pill { padding: 5px 11px; border: 1px solid var(--line); border-radius: var(--r-pill); font-size: 12px; color: var(--ink-2); background: var(--white); }
+  .about-grid .links { display: flex; flex-direction: column; gap: 8px; }
   .about-grid .links a { font-size: 14px; display: inline-flex; align-items: center; gap: 8px; }
-  @media (max-width: 700px) { .about-grid { grid-template-columns: 1fr; } }
+  @media (max-width: 720px) { .about-grid { grid-template-columns: 1fr; } }
 
-  /* ===== Waitlist (dark section) ===== */
+  /* ===== Waitlist (dark) ===== */
   .waitlist-top { display: grid; grid-template-columns: auto 1fr; gap: 18px; align-items: flex-start; max-width: 760px; margin-bottom: 32px; }
   .waitlist-top h2 { margin: 6px 0 8px; font-size: clamp(24px, 3vw, 36px); letter-spacing: -0.022em; }
   .waitlist-top .ro-mark { width: 40px; height: 40px; border-radius: 8px; background: var(--white); color: var(--ink); font-size: 15px; }
-  .steps-grid {
-    display: grid; grid-template-columns: repeat(3, 1fr); gap: 2px;
-    background: rgba(255,255,255,0.12);
-    border-radius: var(--r-card-emph); overflow: hidden;
-    margin-bottom: 32px;
-  }
+  .steps-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2px; background: rgba(255,255,255,0.12); border-radius: var(--r-card-emph); overflow: hidden; margin-bottom: 32px; }
   .step-tile { background: var(--dark); padding: clamp(20px, 2.5vw, 28px) clamp(18px, 2.2vw, 24px); }
   .step-tile .eyebrow { color: rgba(255,255,255,0.5); }
   .step-tile .tile-h { color: var(--white); font-weight: var(--fw-semibold); font-size: 16px; margin: 8px 0 6px; }
@@ -205,6 +189,29 @@
   /* ===== Footer ===== */
   footer { text-align: center; padding: 32px 0 48px; color: var(--ink-4); font-size: 12px; }
   footer a { color: var(--ink-4); }
+
+  /* ===== Chat widget ===== */
+  .chat-btn { position: fixed; right: 20px; bottom: 20px; z-index: 200; display: inline-flex; align-items: center; gap: 8px; padding: 12px 18px; background: var(--ink); color: var(--white); border-radius: var(--r-pill); border: 0; cursor: pointer; font-family: var(--sans); font-size: 13px; font-weight: var(--fw-semibold); box-shadow: 0 8px 24px rgba(10,10,10,0.18); }
+  .chat-btn:hover { opacity: 0.9; }
+  .chat-btn svg { width: 16px; height: 16px; stroke: var(--white); }
+  .chat-modal { position: fixed; right: 20px; bottom: 80px; z-index: 200; width: min(380px, calc(100vw - 40px)); height: 520px; max-height: calc(100vh - 120px); background: var(--white); border: 1px solid var(--line); border-radius: var(--r-card-emph); box-shadow: 0 24px 48px rgba(10,10,10,0.18); display: none; flex-direction: column; overflow: hidden; }
+  .chat-modal.open { display: flex; }
+  .chat-head { display: flex; align-items: center; justify-content: space-between; padding: 14px 18px; border-bottom: 1px solid var(--line); }
+  .chat-head .title { font-weight: var(--fw-semibold); font-size: 14px; }
+  .chat-head .sub { font-size: 11px; color: var(--ink-3); margin-top: 2px; }
+  .chat-modes { display: flex; gap: 2px; background: var(--line-2); border-radius: var(--r-pill); padding: 3px; margin: 12px 18px; }
+  .chat-mode { flex: 1; border: 0; background: transparent; padding: 6px 10px; border-radius: var(--r-pill); font-size: 11px; font-weight: var(--fw-semibold); color: var(--ink-3); cursor: pointer; font-family: var(--sans); }
+  .chat-mode.active { background: var(--white); color: var(--ink); box-shadow: 0 1px 2px rgba(10,10,10,0.06); }
+  .chat-log { flex: 1; overflow-y: auto; padding: 8px 18px 14px; display: flex; flex-direction: column; gap: 12px; }
+  .chat-msg { font-size: 14px; line-height: 1.5; }
+  .chat-msg.user { align-self: flex-end; max-width: 80%; background: var(--ink); color: var(--white); padding: 9px 14px; border-radius: 14px 14px 4px 14px; }
+  .chat-msg.bot { align-self: flex-start; max-width: 90%; background: var(--paper); color: var(--ink); padding: 10px 14px; border-radius: 14px 14px 14px 4px; }
+  .chat-msg.bot.system { color: var(--ink-3); font-size: 13px; font-style: italic; background: transparent; padding: 0; }
+  .chat-form { display: flex; gap: 6px; padding: 12px 14px; border-top: 1px solid var(--line); }
+  .chat-form input { flex: 1; border: 1px solid var(--line); border-radius: var(--r-pill); padding: 9px 14px; font-family: var(--sans); font-size: 13px; outline: 0; }
+  .chat-form input:focus { border-color: var(--ink); }
+  .chat-form button { border: 0; background: var(--ink); color: var(--white); border-radius: var(--r-pill); padding: 9px 14px; font-size: 13px; font-weight: var(--fw-medium); cursor: pointer; font-family: var(--sans); }
+  .chat-close { background: transparent; border: 0; color: var(--ink-3); cursor: pointer; font-size: 18px; line-height: 1; padding: 4px 8px; }
 </style>
 </head>
 <body>
@@ -212,21 +219,18 @@
 <!-- ===== NAV ===== -->
 <nav class="site-nav">
   <div class="wrap nav-inner">
-    <a href="#top" class="nav-logo">
-      <span class="ro-mark">RO</span>
-      RoleOS
-    </a>
+    <a href="#top" class="nav-logo"><span class="ro-mark">RO</span>RoleOS</a>
     <div class="nav-links">
       <a href="#what">Product</a>
       <a href="#case">Case study</a>
-      <a href="#roadmap">Roadmap</a>
+      <a href="#faq">FAQ</a>
       <a href="#waitlist" class="btn btn-sm">Join waitlist</a>
     </div>
   </div>
 </nav>
 
 <!-- ===== HERO ===== -->
-<section id="top" class="hero bg-white">
+<section id="top" class="hero">
   <div class="wrap">
     <span class="badge"><span class="dot"></span>Live · founding-user dogfood</span>
     <h1>Run your job search<br>like a real product.</h1>
@@ -236,7 +240,7 @@
       <input type="email" name="email" placeholder="your@email.com" required autocomplete="email">
       <button type="submit">Join the waitlist →</button>
     </form>
-    <p class="form-msg" id="msg-hero">Early access. We'll email when v1 opens.</p>
+    <p class="form-msg" id="msg-hero">Founding-user access. First 50 get 6 months free.</p>
   </div>
 </section>
 
@@ -253,8 +257,8 @@
   </div>
 </section>
 
-<!-- ===== WHAT IT DOES ===== -->
-<section id="what" class="bg-white">
+<!-- ===== WHAT IT DOES — with CSS mockups ===== -->
+<section id="what">
   <div class="wrap">
     <div class="section-head">
       <span class="eyebrow">What RoleOS does</span>
@@ -263,36 +267,48 @@
     <div class="promise-grid">
 
       <div class="promise-card">
-        <div class="icon-bg" aria-hidden="true">
-          <svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-            <circle cx="11" cy="11" r="7"/>
-            <path d="M20 20l-3.5-3.5"/>
-          </svg>
-        </div>
+        <div class="icon-bg" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg></div>
         <h3>Scope every role that matters</h3>
-        <p>Crawls ATS portals (Greenhouse, Lever, Ashby) across your target companies. Filters to the roles you'd actually take.</p>
+        <p>Crawls Greenhouse, Lever, and Ashby across your target companies. Filters to the roles you'd actually take.</p>
+        <div class="mockup" aria-hidden="true">
+          <div class="mock-head"><span>SCOPED</span><span id="mock-scope-total">117 companies</span></div>
+          <div class="mock-list">
+            <div class="mock-row"><span>Anthropic</span><span>19</span></div>
+            <div class="mock-row"><span>DoorDash</span><span>37</span></div>
+            <div class="mock-row"><span>Airbnb</span><span>14</span></div>
+            <div class="mock-row"><span>Decagon</span><span>8</span></div>
+          </div>
+        </div>
       </div>
 
       <div class="promise-card">
-        <div class="icon-bg" aria-hidden="true">
-          <svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-            <rect x="4" y="3" width="14" height="18" rx="2"/>
-            <path d="M8 8h6M8 12h6M8 16h4"/>
-          </svg>
-        </div>
+        <div class="icon-bg" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3" width="14" height="18" rx="2"/><path d="M8 8h6M8 12h6M8 16h4"/></svg></div>
         <h3>Read every JD like a PM</h3>
-        <p>Claude extracts archetype, seniority, must-haves with verbatim quotes, salary, location, visa — into a strict schema. No skimming. No hallucination.</p>
+        <p>Claude extracts archetype, seniority, must-haves with verbatim quotes, salary, location, visa — into a strict schema.</p>
+        <div class="mockup" aria-hidden="true">
+          <div class="mock-head"><span>EXTRACTED</span><span>JSON</span></div>
+<pre class="mock-json"><span class="k">"archetype":</span> <span class="s">"AI Product Manager"</span>,
+<span class="k">"seniority":</span> <span class="s">"Senior IC"</span>,
+<span class="k">"years_min":</span> <span class="n">5</span>,
+<span class="k">"must_haves":</span> [ <span class="n">7</span> ],
+<span class="k">"visa":</span> <span class="s">"unclear"</span></pre>
+        </div>
       </div>
 
       <div class="promise-card">
-        <div class="icon-bg" aria-hidden="true">
-          <svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M3 20V10M10 20V4M17 20v-7"/>
-            <path d="M3 20h18"/>
-          </svg>
-        </div>
+        <div class="icon-bg" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 20V10M10 20V4M17 20v-7"/><path d="M3 20h18"/></svg></div>
         <h3>Track the funnel, end to end</h3>
         <p>From scoped to offer. See where you stand, what's stalled, where your time goes. The CRM your job search deserved.</p>
+        <div class="mockup" aria-hidden="true">
+          <div class="mock-head"><span>FUNNEL</span><span>live</span></div>
+          <div class="mock-funnel">
+            <div class="f-row"><div class="f-label"><span class="f-dot"></span>Scoped</div><div class="f-count">459</div></div>
+            <div class="f-row"><div class="f-label"><span class="f-dot"></span>Extracted</div><div class="f-count">342</div></div>
+            <div class="f-row" data-future><div class="f-label"><span class="f-dot"></span>Applied</div><div class="f-count">0</div></div>
+            <div class="f-row" data-future><div class="f-label"><span class="f-dot"></span>Interview</div><div class="f-count">0</div></div>
+            <div class="f-row" data-future><div class="f-label"><span class="f-dot"></span>Offer</div><div class="f-count">0</div></div>
+          </div>
+        </div>
       </div>
 
     </div>
@@ -302,17 +318,32 @@
 <!-- ===== CASE STUDY ===== -->
 <section id="case" class="bg-paper">
   <div class="wrap">
-    <div class="section-head" style="display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 8px; max-width: none;">
+    <div style="display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 8px; margin-bottom: 24px;">
       <div>
         <span class="eyebrow">Live case study</span>
-        <h2 style="margin: 10px 0 0;">Nikhil's search.</h2>
+        <h2 style="margin: 10px 0 0; font-size: clamp(24px, 3vw, 36px); letter-spacing: -0.022em;">Nikhil's search.</h2>
       </div>
       <span style="font-size: 13px; color: var(--ink-3);">running on RoleOS · updated nightly</span>
     </div>
 
     <div class="case-stats" id="stats">loading…</div>
-
     <div class="panel funnel" id="funnel"></div>
+
+    <!-- Real insights from the data -->
+    <div class="insights">
+      <div class="insight">
+        <div class="big">0%</div>
+        <div class="lbl">of 342 senior-PM roles disclosed <strong>base salary</strong> upfront. Not most. <strong>Zero.</strong></div>
+      </div>
+      <div class="insight">
+        <div class="big">9%</div>
+        <div class="lbl">were tagged literally <strong>"AI Product Manager."</strong> The rest sit under BizOps, TPM, or Technical PM titles.</div>
+      </div>
+      <div class="insight">
+        <div class="big">88%</div>
+        <div class="lbl">of postings said <strong>nothing</strong> about visa sponsorship. If you need one and you're applying without asking — you're guessing.</div>
+      </div>
+    </div>
 
     <details class="more">
       <summary>What the extraction sees (aggregate distributions)</summary>
@@ -327,8 +358,75 @@
   </div>
 </section>
 
+<!-- ===== FOUNDING-USER OFFER BAND ===== -->
+<section>
+  <div class="wrap">
+    <div class="offer-band">
+      <div>
+        <div class="label">Founding users</div>
+        <h2>First 50 in get six months free.</h2>
+        <p>Plus a direct line to the founder, and a real seat at the table on what ships next. We're keeping early access small so we can actually listen.</p>
+      </div>
+      <a href="#waitlist" class="btn btn-white">Join the waitlist →</a>
+    </div>
+  </div>
+</section>
+
+<!-- ===== FAQ ===== -->
+<section id="faq" class="bg-paper">
+  <div class="wrap">
+    <div class="section-head">
+      <span class="eyebrow">Questions</span>
+      <h2>The things people ask before signing up.</h2>
+    </div>
+    <div class="faq">
+
+      <details>
+        <summary>Is it free?</summary>
+        <p>For the first 50 founding users — yes, free for 6 months. After that we'll announce pricing before your trial ends. No card required to join the waitlist.</p>
+      </details>
+
+      <details>
+        <summary>How does RoleOS know which companies to track?</summary>
+        <p>You give it a list. RoleOS supports any company with a Greenhouse, Lever, or Ashby careers page — that covers most of the AI-native tech market. If your target uses a different ATS, tell us and we'll add it.</p>
+      </details>
+
+      <details>
+        <summary>Does it auto-apply for me?</summary>
+        <p>No. RoleOS does the research and the tracking. You still write the application, talk to the recruiter, own the conversation. Automating outreach burns bridges — we're not building that.</p>
+      </details>
+
+      <details>
+        <summary>What about my data?</summary>
+        <p>The current version runs locally on your machine — your CV, your application notes, your search history never leave your laptop. The web app is being built waitlist-first. The numbers you see in the case study are Nikhil's data, on his machine.</p>
+      </details>
+
+      <details>
+        <summary>When does v1 open?</summary>
+        <p>We're opening founding-user access in waves over the coming weeks. Drop your email and we'll email you when your wave is up.</p>
+      </details>
+
+      <details>
+        <summary>Who is this for?</summary>
+        <p>Senior PMs and PM-adjacent ICs (TPM, BizOps, Strategy) targeting AI-native companies. We're staying narrow on purpose — once we nail it for this audience, we'll expand.</p>
+      </details>
+
+      <details>
+        <summary>Is this a real company or a side project?</summary>
+        <p>Right now — a soft launch. Nikhil is the founding user, dogfooding the whole pipeline as he runs his own search. If demand shows up, we take it further. Honest about that.</p>
+      </details>
+
+      <details>
+        <summary>Will you spam me?</summary>
+        <p>No. One email when v1 opens. Maybe one more if there's something genuinely worth telling you. Unsubscribe with one click whenever.</p>
+      </details>
+
+    </div>
+  </div>
+</section>
+
 <!-- ===== ROADMAP ===== -->
-<section id="roadmap" class="bg-white">
+<section id="roadmap">
   <div class="wrap">
     <div class="section-head">
       <span class="eyebrow">Roadmap</span>
@@ -366,25 +464,22 @@
     <div class="about-grid">
       <div>
         <h3>Nikhil Jain</h3>
-        <p>Senior AI PM building RoleOS while running his own job search as the founding user. Every number in the case study is real and updates from the live pipeline.</p>
+        <p><em style="color: var(--ink-4);">[Short bio pending — Nikhil will paste 2–3 sentences and prior companies. Until then this is a placeholder so the layout is solid.]</em></p>
+        <p>Senior AI Product Manager. Building RoleOS while running his own job search as the founding user. Every number in the case study above is real and updates from the live pipeline.</p>
+        <div class="credits">
+          <span class="credit-pill">[Prior co · 1]</span>
+          <span class="credit-pill">[Prior co · 2]</span>
+          <span class="credit-pill">[Prior co · 3]</span>
+        </div>
         <div class="links">
-          <a href="https://github.com/nikjain15/role-os">
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M17 7H8M17 7v9"/></svg>
-            Source code
-          </a>
-          <a href="#" id="resume-link">
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M17 7H8M17 7v9"/></svg>
-            Resume
-          </a>
-          <a href="#" id="linkedin-link">
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M17 7H8M17 7v9"/></svg>
-            LinkedIn
-          </a>
+          <a href="https://github.com/nikjain15/role-os"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M17 7H8M17 7v9"/></svg>Source code</a>
+          <a href="#" id="resume-link"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M17 7H8M17 7v9"/></svg>Resume <span style="color: var(--ink-4); font-size: 12px;">(URL pending)</span></a>
+          <a href="#" id="linkedin-link"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M17 7H8M17 7v9"/></svg>LinkedIn <span style="color: var(--ink-4); font-size: 12px;">(URL pending)</span></a>
         </div>
       </div>
       <div>
-        <span class="eyebrow" style="display: block; margin-bottom: 10px;">Coming soon</span>
-        <p style="font-size: 14px;">Two AI assistants. One that answers questions about the roles RoleOS has researched. One that answers anything a recruiter wants to know about Nikhil. Both grounded in real data.</p>
+        <span class="eyebrow" style="display: block; margin-bottom: 10px;">Talk to my AI</span>
+        <p style="font-size: 14px;">Two assistants live in the chat (bottom-right corner). One answers questions about RoleOS and the case-study data. One answers anything a recruiter wants to know about Nikhil. Both grounded in real data — no hallucination, no salary games.</p>
       </div>
     </div>
   </div>
@@ -398,7 +493,7 @@
       <div>
         <span class="eyebrow">RoleOS</span>
         <h2>Want early access?</h2>
-        <p>Drop your email. We'll let you in when v1 opens.</p>
+        <p>Drop your email. First 50 get 6 months free.</p>
       </div>
     </div>
 
@@ -411,7 +506,7 @@
       <div class="step-tile">
         <span class="eyebrow">02</span>
         <div class="tile-h">We open v1 in waves</div>
-        <p>Founding users get free access and shape the roadmap.</p>
+        <p>First 50 get 6 months free and a direct line to the founder.</p>
       </div>
       <div class="step-tile">
         <span class="eyebrow">03</span>
@@ -431,13 +526,41 @@
 </section>
 
 <footer>
-  RoleOS · Built with Node + Claude · Updated <span id="ts"></span>
+  RoleOS · Built with Node + Claude · Updated <span id="ts"></span> · <a href="https://github.com/nikjain15/role-os">source</a>
 </footer>
 
+<!-- ===== CHAT WIDGET ===== -->
+<button class="chat-btn" id="chat-open" aria-label="Open chat">
+  <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg>
+  Ask anything
+</button>
+
+<div class="chat-modal" id="chat-modal" role="dialog" aria-label="Chat">
+  <div class="chat-head">
+    <div>
+      <div class="title">Ask anything</div>
+      <div class="sub" id="chat-sub">About RoleOS and the case-study data</div>
+    </div>
+    <button class="chat-close" id="chat-close" aria-label="Close">×</button>
+  </div>
+  <div class="chat-modes">
+    <button class="chat-mode active" data-mode="product">About RoleOS</button>
+    <button class="chat-mode" data-mode="candidate">About Nikhil</button>
+  </div>
+  <div class="chat-log" id="chat-log"></div>
+  <form class="chat-form" id="chat-form">
+    <input type="text" id="chat-input" placeholder="Ask a question…" autocomplete="off">
+    <button type="submit">→</button>
+  </form>
+</div>
+
 <script>
-// ===== Supabase config (anon key safe to expose; RLS allows insert-only) =====
+// ===== Supabase config (anon key safe — RLS = insert-only) =====
 window.SUPABASE_URL = 'https://REDACTED.supabase.co';
 window.SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJxbW9mZ2tsb3dtZGxqZ3h6ZG1kIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzk2Njg1NDIsImV4cCI6MjA5NTI0NDU0Mn0.3ZmjH1S5oEe9acipRdGmEyt0n4DB-76IyHYq6CiJrPw';
+// CHAT_ENDPOINT will be set once the Cloudflare Worker is deployed.
+// Until then the chat shows a friendly "still wiring up" message.
+window.CHAT_ENDPOINT = null;
 
 // ===== Live data =====
 async function loadCaseStudy() {
@@ -479,50 +602,97 @@ async function loadCaseStudy() {
   document.getElementById('ts').textContent = new Date(d.generatedAt).toLocaleString();
 }
 
-// ===== Waitlist signup (both forms share handler) =====
+// ===== Waitlist =====
 async function submitWaitlist(form, msgEl, source) {
   const email = form.email.value.trim();
   if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)) {
-    msgEl.textContent = 'Please enter a valid email.';
-    msgEl.className = 'form-msg error';
-    return;
+    msgEl.textContent = 'Please enter a valid email.'; msgEl.className = 'form-msg error'; return;
   }
-  msgEl.textContent = 'Joining…';
-  msgEl.className = 'form-msg';
-
+  msgEl.textContent = 'Joining…'; msgEl.className = 'form-msg';
   try {
     const r = await fetch(`${window.SUPABASE_URL}/rest/v1/waitlist`, {
       method: 'POST',
-      headers: {
-        'apikey': window.SUPABASE_ANON_KEY,
-        'Authorization': `Bearer ${window.SUPABASE_ANON_KEY}`,
-        'Content-Type': 'application/json',
-        'Prefer': 'return=minimal'
-      },
+      headers: { 'apikey': window.SUPABASE_ANON_KEY, 'Authorization': `Bearer ${window.SUPABASE_ANON_KEY}`, 'Content-Type': 'application/json', 'Prefer': 'return=minimal' },
       body: JSON.stringify({ email, source })
     });
-    if (r.ok) {
-      msgEl.textContent = "You're on the list. We'll be in touch.";
-      msgEl.className = 'form-msg success';
-      form.reset();
-    } else {
-      const err = await r.text();
-      msgEl.textContent = err.includes('duplicate') ? "You're already on the list." : 'Something went wrong. Try again?';
-      msgEl.className = 'form-msg error';
-    }
-  } catch (err) {
-    msgEl.textContent = 'Network error. Try again?';
-    msgEl.className = 'form-msg error';
+    if (r.ok) { msgEl.textContent = "You're on the list. We'll be in touch."; msgEl.className = 'form-msg success'; form.reset(); }
+    else { const err = await r.text(); msgEl.textContent = err.includes('duplicate') ? "You're already on the list." : 'Something went wrong. Try again?'; msgEl.className = 'form-msg error'; }
+  } catch { msgEl.textContent = 'Network error. Try again?'; msgEl.className = 'form-msg error'; }
+}
+document.getElementById('waitlist-hero').addEventListener('submit', (e) => { e.preventDefault(); submitWaitlist(e.target, document.getElementById('msg-hero'), 'hero'); });
+document.getElementById('waitlist-bottom').addEventListener('submit', (e) => { e.preventDefault(); submitWaitlist(e.target, document.getElementById('msg-bottom'), 'bottom'); });
+
+// ===== Chat widget =====
+const chatModal = document.getElementById('chat-modal');
+const chatLog = document.getElementById('chat-log');
+const chatSub = document.getElementById('chat-sub');
+let chatMode = 'product';
+let chatHistory = [];
+
+document.getElementById('chat-open').addEventListener('click', () => {
+  chatModal.classList.add('open');
+  if (chatLog.children.length === 0) renderBootMessage();
+});
+document.getElementById('chat-close').addEventListener('click', () => chatModal.classList.remove('open'));
+
+document.querySelectorAll('.chat-mode').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.chat-mode').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    chatMode = btn.dataset.mode;
+    chatSub.textContent = chatMode === 'product' ? 'About RoleOS and the case-study data' : 'About Nikhil — recruiter Q&A';
+    chatHistory = [];
+    chatLog.innerHTML = '';
+    renderBootMessage();
+  });
+});
+
+function addMsg(text, who) {
+  const el = document.createElement('div');
+  el.className = `chat-msg ${who}`;
+  el.textContent = text;
+  chatLog.appendChild(el);
+  chatLog.scrollTop = chatLog.scrollHeight;
+}
+
+function renderBootMessage() {
+  if (chatMode === 'product') {
+    addMsg("Hi — I'm RoleOS. Ask me about the product, the case-study data, or what the JD extractor sees across 342 senior-PM roles.", 'bot');
+  } else {
+    addMsg("Hi — I'm Nikhil's AI representative. Ask me about his background, how he thinks about product, or why he's building RoleOS. For salary or contractual questions, you'll want to email him directly.", 'bot');
   }
 }
 
-document.getElementById('waitlist-hero').addEventListener('submit', (e) => {
+document.getElementById('chat-form').addEventListener('submit', async (e) => {
   e.preventDefault();
-  submitWaitlist(e.target, document.getElementById('msg-hero'), 'hero');
-});
-document.getElementById('waitlist-bottom').addEventListener('submit', (e) => {
-  e.preventDefault();
-  submitWaitlist(e.target, document.getElementById('msg-bottom'), 'bottom');
+  const input = document.getElementById('chat-input');
+  const text = input.value.trim();
+  if (!text) return;
+  addMsg(text, 'user');
+  input.value = '';
+  chatHistory.push({ role: 'user', content: text });
+
+  if (!window.CHAT_ENDPOINT) {
+    setTimeout(() => addMsg("I'm being wired up right now — Cloudflare Worker + Anthropic API. Should be live in the next session. In the meantime, drop your email on the waitlist and Nikhil will reach out directly.", 'bot'), 400);
+    return;
+  }
+
+  try {
+    const r = await fetch(window.CHAT_ENDPOINT, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ mode: chatMode, messages: chatHistory })
+    });
+    const data = await r.json();
+    if (data.reply) {
+      chatHistory.push({ role: 'assistant', content: data.reply });
+      addMsg(data.reply, 'bot');
+    } else {
+      addMsg('Something went sideways. Try again?', 'bot');
+    }
+  } catch {
+    addMsg('Network error. Try again?', 'bot');
+  }
 });
 
 loadCaseStudy();

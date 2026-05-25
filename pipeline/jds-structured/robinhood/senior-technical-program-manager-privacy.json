@@ -1,0 +1,192 @@
+{
+  "company": "Robinhood",
+  "role_title": "Senior Technical Program Manager, Privacy",
+  "url": "https://boards.greenhouse.io/robinhood/jobs/7773503?t=gh_src=&gh_jid=7773503",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7773503",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "New York, NY"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "at least 3 days per week in-person",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Privacy / Data Governance TPM",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of experience in technical program management",
+      "Base pay range $166K-$195K (Zone 1) consistent with Senior IC",
+      "Role title includes 'Senior'",
+      "Expected to present to senior leaders and shape company-wide privacy programs"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_tpm_experience",
+      "raw_text_from_jd": "5+ years of experience in technical program management or a related role within a technology-focused organization",
+      "skill_type": "years_of_experience",
+      "domain": "technical_program_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "technology-focused organization"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "system_design_understanding",
+      "raw_text_from_jd": "Ability to understand system design concepts and break down complex technical problems into structured plans",
+      "skill_type": "capability",
+      "domain": "systems_thinking",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_skills",
+      "raw_text_from_jd": "Strong written and verbal communication skills, with the ability to present clearly to senior stakeholders",
+      "skill_type": "capability",
+      "domain": "stakeholder_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "privacy_program_management",
+      "raw_text_from_jd": "Experience building and managing privacy programs with defined milestones, metrics, and reporting processes",
+      "skill_type": "domain_knowledge",
+      "domain": "privacy_program_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_and_delivery",
+      "raw_text_from_jd": "Ability to work through ambiguity, prioritize effectively, and deliver results in a high-growth environment",
+      "skill_type": "capability",
+      "domain": "execution_in_ambiguity",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Company-wide privacy program — data governance, data lifecycle management, retention, access controls, regulatory compliance",
+    "business_model": "B2C fintech / retail brokerage",
+    "primary_metrics_inferred": [
+      "KPIs and delivery timelines for privacy initiatives",
+      "Program milestone completion",
+      "Regulatory compliance adherence",
+      "Executive reporting metrics"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Legal",
+      "Compliance",
+      "Data teams"
+    ],
+    "core_responsibilities": [
+      "Define and manage privacy program roadmaps, including milestones, timelines, and measurable outcomes such as KPIs and reporting metrics",
+      "Partner with engineering, legal, compliance, and data teams to ensure privacy requirements are clearly defined and implemented in systems and processes",
+      "Build and scale programs that support data governance, including data lifecycle management, retention, and access controls",
+      "Lead planning and reporting processes, including executive updates and progress tracking across multiple initiatives",
+      "Translate complex technical systems into clear plans and documentation to support consistent execution across teams"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      166000,
+      195000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity ownership mentioned as part of compensation package",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "privacy program management",
+    "technical program manager",
+    "data governance",
+    "data lifecycle management",
+    "access controls",
+    "regulatory compliance",
+    "KPIs",
+    "executive communication",
+    "engineering partnership",
+    "roadmap"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range explicitly stated across three geographic zones",
+    "Equity, bonus, and 401(k) matching all mentioned",
+    "Clear team mission and scope (privacy embedded across technology and operations)",
+    "Role has defined cross-functional partners and concrete deliverables",
+    "Best-in-class benefits package described in detail"
+  ],
+  "red_flags": [
+    "Hybrid role requires at least 3 days per week in-person in New York, NY — fully remote candidates excluded",
+    "Visa sponsorship and work authorization not mentioned anywhere in the JD",
+    "No nice-to-haves listed — hard to gauge what differentiates strong candidates",
+    "No credential requirements stated, making baseline education expectations unclear"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Senior' + comp range + years requirement)",
+      "scope.business_model (inferred from company description as retail brokerage / B2C fintech)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not enumerated in JD)",
+      "compensation.base_range_usd reported as Zone 1 (New York, NY) since that is the stated role location"
+    ],
+    "ambiguities": [
+      "JD lists compensation for three zones but the role is based in New York, NY (Zone 1); Zone 2 and Zone 3 ranges are included in the JD but not applicable to this posting's primary location",
+      "No explicit mention of visa sponsorship or work authorization requirements — treated as 'unclear'"
+    ]
+  }
+}

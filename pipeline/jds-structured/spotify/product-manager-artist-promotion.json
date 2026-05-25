@@ -1,0 +1,223 @@
+{
+  "company": "Spotify",
+  "role_title": "Product Manager - Artist Promotion",
+  "url": "https://jobs.lever.co/spotify/a4a933ce-ab44-4a13-b8ca-8575c97ea40a",
+  "ats_provider": "lever",
+  "ats_job_id": "a4a933ce-ab44-4a13-b8ca-8575c97ea40a",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [
+      "New York"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "B2B/B2C Product Manager for artist-facing marketing tools",
+  "seniority": {
+    "level": "Mid-level IC (likely PM II)",
+    "years_required_min": 2,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "2+ years of experience working as a product manager or similar discipline",
+      "Comp range $95,658 - $136,654 base, consistent with mid-level PM at a large tech company",
+      "Sets vision and manages roadmap for a squad (not an org-level leadership role)"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "2+ years of experience working as a product manager or similar discipline (i.e. business analytics or strategy, product insights, engineering) in cross-functional teams",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 2,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_collaboration",
+      "raw_text_from_jd": "You have experience collaborating with a wide range of non-product partners in a matrixed organization, and understand how to influence and inspire teams",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "storytelling_communication",
+      "raw_text_from_jd": "You're a compelling storyteller who can communicate in succinct and inspiring ways to a variety of audience types",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "team_first_approach",
+      "raw_text_from_jd": "You have a team-first approach and have developed techniques to ensure your teams are happy, motivated and productive",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "distributed_teams",
+      "raw_text_from_jd": "You are comfortable working with distributed teams across multiple offices and time zones",
+      "skill_type": "capability",
+      "domain": "remote_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "b2b_or_b2c_product",
+      "raw_text_from_jd": "You ideally have worked on a B2B or B2C product",
+      "skill_type": "domain_knowledge",
+      "domain": "b2b_or_b2c_product",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "passion_for_artists",
+      "raw_text_from_jd": "You're passionate about the opportunity to better serve artists & their teams",
+      "skill_type": "cultural_fit",
+      "domain": "music_industry",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "music"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Spotify for Artists artist promotion suite (Marquee, Showcase) — campaign access, configuration, delivery, and listener-artist matching",
+    "business_model": "B2B SaaS / self-serve marketing platform for artists and their teams",
+    "primary_metrics_inferred": [
+      "Artist campaign performance metrics",
+      "Campaign adoption and utilization",
+      "Listener-artist match quality",
+      "Revenue from promotion products (Marquee, Showcase)"
+    ],
+    "cross_functional_partners": [
+      "Design",
+      "Engineering",
+      "Product Insights",
+      "PMs across organization"
+    ],
+    "core_responsibilities": [
+      "Set the vision and manage the roadmap for a squad within the artist promotion organization",
+      "Build alignment against your roadmap and gain support from relevant cross-functional teams to deliver impact",
+      "Prioritize new features based on customer needs, business potential, and technical platform scalability",
+      "Set and follow metrics that advise us of the success of the products and their impact on the Spotify ecosystem and users",
+      "Partner with PMs, design, insights, and engineering teams on the design, implementation, delivery and adoption of features"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      95658,
+      136654
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity (form not specified)",
+    "location_pay_differential": false,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Spotify for Artists",
+    "artist promotion",
+    "Marquee",
+    "Showcase",
+    "product roadmap",
+    "B2B",
+    "campaign management",
+    "cross-functional",
+    "music marketing",
+    "squad"
+  ],
+  "buzzword_density": "low",
+  "green_flags": [
+    "Compensation range explicitly disclosed ($95,658 - $136,654 base plus equity)",
+    "Clear product surface with named products (Marquee, Showcase)",
+    "Relatively low years-of-experience bar (2+ years) for a recognized company",
+    "Rich benefits package disclosed (6-month parental leave, 23 PTO days, etc.)",
+    "Role has direct artist impact with a meaningful mission (helping 1M+ active artists)"
+  ],
+  "red_flags": [
+    "Role is onsite in New York only with no mention of remote eligibility",
+    "Visa sponsorship and work authorization requirements not addressed in JD",
+    "Compensation ceiling ($136K) is relatively modest for New York cost-of-living for a Spotify PM role"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range and 2+ years requirement)",
+      "scope.business_model (inferred from product description as B2B self-serve marketing platform)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "location.type (inferred as onsite; JD says 'This role is based in New York' with no hybrid/remote language)",
+      "location.work_auth and visa_sponsorship (not mentioned anywhere in JD)"
+    ],
+    "ambiguities": [
+      "The JD does not explicitly state whether the role is hybrid or fully onsite; 'This role is based in New York' and Eastern timezone collaboration requirements suggest onsite or at minimum NYC-anchored hybrid, but no explicit hybrid policy is described. Treated as onsite.",
+      "B2B vs B2C classification: Spotify for Artists serves both artists (B2B-like) and fans (B2C); JD lists B2B or B2C as a nice-to-have rather than a hard requirement, suggesting the actual product straddles both models.",
+      "'similar discipline (i.e. business analytics or strategy, product insights, engineering)' — it is ambiguous whether non-PM titles count toward the 2+ year minimum or are listed as equivalents. Treated as years_of_experience with hard severity based on unconditional phrasing."
+    ]
+  }
+}

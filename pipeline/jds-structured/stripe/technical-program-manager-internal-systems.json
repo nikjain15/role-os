@@ -1,0 +1,289 @@
+{
+  "company": "Stripe",
+  "role_title": "Technical Program Manager, Internal Systems",
+  "url": "https://stripe.com/jobs/search?gh_jid=7680365",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7680365",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Internal Systems / GTM & Finance Platform TPM",
+  "seniority": {
+    "level": "Mid-level IC",
+    "years_required_min": 2,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "2+ years of software engineering, systems engineering and/or technical program management experience",
+      "No people management mentioned",
+      "Scope involves large-scale technical programs but minimum bar is relatively low at 2 years"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_engineering_or_tpm",
+      "raw_text_from_jd": "2+ years of software engineering, systems engineering and/or technical program management experience.",
+      "skill_type": "years_of_experience",
+      "domain": "software_engineering_or_tpm",
+      "minimum_value": 2,
+      "unit": "years",
+      "is_combined": true,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "distributed_systems_understanding",
+      "raw_text_from_jd": "Understand distributed systems.",
+      "skill_type": "domain_knowledge",
+      "domain": "distributed_systems",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "distributed systems"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_skills",
+      "raw_text_from_jd": "Excellent analytical skills; you digest complex information, can distill it, and make recommendations and proposals.",
+      "skill_type": "capability",
+      "domain": "analytical_reasoning",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "program_management_lifecycle",
+      "raw_text_from_jd": "You have a track record of providing program management during all phases of software development from kick-off to delivery, demonstrating critical thinking.",
+      "skill_type": "outcome",
+      "domain": "program_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_and_stakeholder_skills",
+      "raw_text_from_jd": "You have very strong written and verbal communication skills and build strong relationships with stakeholders.",
+      "skill_type": "capability",
+      "domain": "communication_and_stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "gtm_finance_systems_background",
+      "raw_text_from_jd": "Background in technical program management, in GTM and Financial systems.",
+      "skill_type": "domain_knowledge",
+      "domain": "gtm_and_financial_systems",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "GTM",
+        "financial systems"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "managing_products_to_scale",
+      "raw_text_from_jd": "You have experience managing technical software products from infancy to scale.",
+      "skill_type": "outcome",
+      "domain": "product_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "multi_product_platform_design",
+      "raw_text_from_jd": "You have experience designing and building a multi-product platform.",
+      "skill_type": "capability",
+      "domain": "platform_engineering",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_collaboration",
+      "raw_text_from_jd": "You're a creative thinker who loves collaborating across the company with engineering, analytics, marketing, design, and sales to experiment and build superior products.",
+      "skill_type": "cultural_fit",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "scrappiness",
+      "raw_text_from_jd": "You're scrappy, you do what it takes to get it done.",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sql_scripting",
+      "raw_text_from_jd": "SQL scripting.",
+      "skill_type": "tool_proficiency",
+      "domain": "data_querying",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "SQL"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Internal Systems — platform and product solutions for internal users (Sellers and Finance Engineering)",
+    "business_model": "internal platform / enterprise tooling within a B2B financial infrastructure company",
+    "primary_metrics_inferred": [
+      "KPIs and success criteria for large-scale technical programs",
+      "Frictionless execution for Sellers and Finance Engineering users",
+      "Program delivery velocity and quality"
+    ],
+    "cross_functional_partners": [
+      "Engineering Managers",
+      "Tech Leads",
+      "Engineers",
+      "Business Partners",
+      "Product Managers",
+      "Other Technical Program Managers"
+    ],
+    "core_responsibilities": [
+      "Working with teams across the organization to understand pain points and work to create solutions which span multiple domains.",
+      "Define and produce high quality written proposals, communications and documentation.",
+      "Execute on technical programs that require deep systems and engineering level engagement.",
+      "Partner with Engineering Managers, Tech Leads, Engineers, business partners, Product Managers, and other Technical Program Managers to define, scope and drive programs to conclusion.",
+      "You will identify and resolve program trade-offs in partnership with engineering.",
+      "Develop, implement, and iterate on program management techniques, frameworks, and KPIs to achieve goals with well defined success criteria.",
+      "Elevate the execution muscle of engineering teams around you.",
+      "Help influence peers / stakeholders and build consensus while dealing with ambiguity.",
+      "Create widely circulated plans, driving consistency, clarity, and building alignment across teams."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Technical Program Manager",
+    "Internal Systems",
+    "GTM",
+    "Financial systems",
+    "distributed systems",
+    "platform",
+    "cross-functional",
+    "program management",
+    "SQL",
+    "stakeholder management",
+    "Stripe"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear team mission and scope described (Internal Systems, Sellers and Finance Engineering)",
+    "Explicitly states preferred qualifications are a bonus and encourages candidates who meet minimum requirements to apply",
+    "Relatively accessible minimum bar (2+ years) for a TPM role at a major fintech",
+    "Cross-functional exposure spans engineering, analytics, marketing, design, and sales"
+  ],
+  "red_flags": [
+    "No compensation or equity information disclosed",
+    "Location and work authorization not specified anywhere in the JD — unclear if remote, hybrid, or onsite",
+    "SQL listed as a preferred qualification without context on depth expected — may be more important than implied",
+    "Very brief preferred qualifications section offers limited signal about actual seniority expectations"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 2+ years minimum and IC-level responsibilities; no explicit level stated)",
+      "scope.business_model (inferred from Stripe's B2B financial infrastructure description and internal platform context)",
+      "scope.primary_metrics_inferred (inferred from KPI references in responsibilities; not explicitly listed)",
+      "location.type (not stated anywhere in JD; marked unclear)",
+      "compensation (not stated; marked unknown)"
+    ],
+    "ambiguities": [
+      "Location is entirely unstated in the JD body — no city, no remote/hybrid/onsite designation provided. Marked as 'unclear'.",
+      "Minimum requirement of '2+ years' in software engineering, systems engineering, AND/OR TPM is a broad combined qualifier — unclear whether any single 2-year track suffices or combination is expected.",
+      "SQL scripting appears as a standalone bullet under preferred qualifications with no context on expected depth or use cases."
+    ]
+  }
+}

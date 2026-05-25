@@ -1,0 +1,304 @@
+{
+  "company": "Scale AI",
+  "role_title": "Staff Technical Product Manager",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4683446005",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "4683446005",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Technical PM (Defense / National Security)",
+  "seniority": {
+    "level": "Staff IC (likely Staff PM / IC6 equivalent)",
+    "years_required_min": 8,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "8+ years of experience in software engineering, ML engineering, or a deeply technical product role",
+      "'Staff' in title signals IC6-level seniority",
+      "Expected to own product roadmap and drive outcomes across engineering, operations, and go-to-market"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_technical_experience",
+      "raw_text_from_jd": "8+ years of experience in software engineering, ML engineering, or a deeply technical product role where you were hands-on with what shipped",
+      "skill_type": "years_of_experience",
+      "domain": "software_engineering_or_ml_engineering_or_technical_pm",
+      "minimum_value": 8,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_fluency_cs_background",
+      "raw_text_from_jd": "Technical fluency: software engineering or ML background (master's degree in computer science or equivalent experience).",
+      "skill_type": "credential",
+      "domain": "computer_science_or_ml",
+      "minimum_value": "masters",
+      "accepts_equivalent_experience": true,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "ML"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "master's degree in computer science"
+      ]
+    },
+    {
+      "id": "product_roadmap_ownership",
+      "raw_text_from_jd": "Own the product roadmap and execution for one or more product areas within Global Defense, driving what gets built and how it ships",
+      "skill_type": "capability",
+      "domain": "product_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "defense",
+        "national security"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "hands_on_builder",
+      "raw_text_from_jd": "Be hands-on: write specs, prototype solutions, dig into technical architecture with engineers, and make product calls grounded in real technical understanding",
+      "skill_type": "capability",
+      "domain": "technical_product_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_powered_product_design",
+      "raw_text_from_jd": "Design and ship AI-powered products and tooling for defense and national security workflows, working side-by-side with engineering and ML teams",
+      "skill_type": "capability",
+      "domain": "ai_product_development",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI"
+      ],
+      "industries_named": [
+        "defense",
+        "national security"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "defense_workflow_customer_context",
+      "raw_text_from_jd": "Use customer context to inform what you build — understand allied defense workflows deeply enough to make opinionated product decisions, not just relay requirements",
+      "skill_type": "domain_knowledge",
+      "domain": "defense_customer_workflows",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "defense"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "defense_product_constraints",
+      "raw_text_from_jd": "Navigate the unique constraints of defense product development across allied nations — classification environments, accreditation processes, air-gapped deployments — or be ready to learn these fast",
+      "skill_type": "domain_knowledge",
+      "domain": "defense_product_development_constraints",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "defense"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "startup_operating_mode",
+      "raw_text_from_jd": "Operate like a founding team member: wear multiple hats, move fast, unblock yourself, and drive outcomes across engineering, operations, and go-to-market",
+      "skill_type": "cultural_fit",
+      "domain": "startup_operating_style",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_intellectual_curiosity",
+      "raw_text_from_jd": "Deep intellectual curiosity about AI systems — you read papers, dig into technical details, and have strong opinions about how things should be built",
+      "skill_type": "cultural_fit",
+      "domain": "ai_systems",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "willingness_to_travel",
+      "raw_text_from_jd": "Willingness to travel to allied partner nations as needed",
+      "skill_type": "cultural_fit",
+      "domain": "travel_availability",
+      "evidence_required": "work_history",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "model_training_evaluation",
+      "raw_text_from_jd": "Experience training or evaluating models is a plus",
+      "skill_type": "capability",
+      "domain": "ml_model_training_evaluation",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "ML"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Scale's Global Defense products for allied defense and national security customers",
+    "business_model": "B2G (government / defense), AI data and full-stack technology platform",
+    "primary_metrics_inferred": [
+      "Product roadmap execution and delivery velocity",
+      "Adoption and impact of AI-powered defense products",
+      "Customer mission outcomes for allied defense partners"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "ML teams",
+      "Operations",
+      "Go-to-market",
+      "Senior government stakeholders"
+    ],
+    "core_responsibilities": [
+      "Own the product roadmap and execution for one or more product areas within Global Defense",
+      "Write specs, prototype solutions, dig into technical architecture with engineers",
+      "Design and ship AI-powered products and tooling for defense and national security workflows",
+      "Understand allied defense workflows to make opinionated product decisions",
+      "Navigate defense product constraints: classification environments, accreditation processes, air-gapped deployments",
+      "Operate like a founding team member across engineering, operations, and go-to-market"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "defense",
+    "national security",
+    "global public sector",
+    "AI-powered products",
+    "technical product manager",
+    "ML background",
+    "air-gapped deployments",
+    "accreditation",
+    "classification environments",
+    "allied nations",
+    "product roadmap",
+    "hands-on builder",
+    "zero to one"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Very clear product surface and ownership scope described (Global Defense product areas)",
+    "Scale AI is a well-funded, high-profile AI company with marquee government customers (U.S. Army, Air Force, Government of Qatar)",
+    "Role is explicitly high-impact and mission-critical within a fast-growing team",
+    "JD is honest about the unique constraints (air-gapped, classification) and signals willingness to train on them"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "Location not specified anywhere in the JD — remote eligibility, city, and work authorization are entirely unclear",
+    "Defense work likely requires security clearance (not explicitly stated, but implied by 'classification environments'); this is a significant unstated requirement",
+    "Travel to allied partner nations is required but frequency and scope are undefined",
+    "All requirements are listed under 'Ideally, You'd Have' language, making hard vs. soft classification ambiguous throughout"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 'Staff' in title and 8+ years requirement)",
+      "scope.business_model (inferred from company description and GPS team context)",
+      "scope.primary_metrics_inferred (not stated in JD; inferred from responsibilities)",
+      "compensation.equity_mentioned (not stated; left as false)",
+      "location.type (not stated; set to 'unclear')"
+    ],
+    "ambiguities": [
+      "All requirements appear under 'Ideally, You'd Have' header, which typically signals nice-to-haves. However, the specificity, seniority level, and unconditional phrasing of most bullets (especially '8+ years', technical fluency, and builder mentality) suggest they are effectively hard requirements. Classified as hard where language is unconditional; only the explicit 'is a plus' bullet classified as soft.",
+      "Security clearance eligibility is strongly implied by 'classification environments' and defense customer context but never explicitly stated — could be a hard requirement not disclosed.",
+      "Work location and remote eligibility are never mentioned in the JD. The role may require on-site presence at classified facilities given the defense context.",
+      "Work authorization requirements are unclear; defense roles often require U.S. citizenship but this JD does not state it explicitly."
+    ]
+  }
+}

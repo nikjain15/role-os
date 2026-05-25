@@ -1,0 +1,257 @@
+{
+  "company": "SoFi",
+  "role_title": "Security Product Lead – Threat Intelligence & Insider Risk",
+  "url": "https://sofi.com/careers/job/7647550003?gh_jid=7647550003",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7647550003",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Security Product Lead / Security Strategy PM",
+  "seniority": {
+    "level": "Senior IC / Staff",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7+ years of experience in cybersecurity, risk management, or technology strategy roles",
+      "Executive-level reporting responsibilities",
+      "Multi-year strategy and roadmap ownership",
+      "Influence without direct authority at cross-functional level"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_cybersecurity",
+      "raw_text_from_jd": "7+ years of experience in cybersecurity, risk management, or technology strategy roles.",
+      "skill_type": "years_of_experience",
+      "domain": "cybersecurity_risk_management",
+      "minimum_value": 7,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "threat_intel_insider_risk_domain",
+      "raw_text_from_jd": "Experience in Threat Intelligence, Insider Risk, SOC, or related security domains.",
+      "skill_type": "domain_knowledge",
+      "domain": "threat_intelligence_insider_risk",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "Threat Intelligence",
+        "Insider Risk",
+        "SOC"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strategic_roadmap_experience",
+      "raw_text_from_jd": "Demonstrated experience building and managing strategic roadmaps tied to measurable outcomes.",
+      "skill_type": "capability",
+      "domain": "product_strategy_roadmap",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "adversary_tactics_knowledge",
+      "raw_text_from_jd": "Strong understanding of adversary tactics (e.g., MITRE ATT&CK), intelligence lifecycle, and insider risk considerations.",
+      "skill_type": "domain_knowledge",
+      "domain": "threat_intelligence_frameworks",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "MITRE ATT&CK"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_mindset_strategy_to_execution",
+      "raw_text_from_jd": "Strong product mindset with ability to translate strategy into execution",
+      "skill_type": "capability",
+      "domain": "product_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "matrixed_org_experience",
+      "raw_text_from_jd": "Experience working in matrixed organizations with cross-functional stakeholders.",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_executive_presentation",
+      "raw_text_from_jd": "Strong analytical, communication, and executive presentation skills.",
+      "skill_type": "capability",
+      "domain": "communication_executive_presentation",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "Bachelor's degree in Computer Science, Cybersecurity, or related discipline.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree",
+        "Computer Science",
+        "Cybersecurity"
+      ]
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [
+    "Remote work from Hawaii or Alaska"
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Threat Intelligence & Insider Risk capabilities within the Security Strategy & Delivery team",
+    "business_model": "B2C fintech / national bank — internal security product function",
+    "primary_metrics_inferred": [
+      "Intelligence relevance and dissemination timeliness",
+      "Detection coverage",
+      "Insider risk metrics",
+      "Capability maturity progress",
+      "Risk reduction outcomes"
+    ],
+    "cross_functional_partners": [
+      "SOC",
+      "Incident Response",
+      "HR",
+      "Legal",
+      "Engineering",
+      "Risk",
+      "Threat Intelligence & Insider Risk functional leader"
+    ],
+    "core_responsibilities": [
+      "Develop and maintain a multi-year strategy and roadmap for Threat Intelligence and Insider Risk capabilities.",
+      "Align roadmap priorities with enterprise risk objectives, regulatory requirements, and evolving threat landscape.",
+      "Define the value proposition and service model for Threat Intelligence & Insider Risk capabilities.",
+      "Maintain and prioritize a strategic backlog aligned to measurable risk reduction outcomes.",
+      "Define and track key performance indicators (KPIs) to measure effectiveness, including intelligence relevance, dissemination timeliness, detection coverage, and insider risk metrics.",
+      "Provide executive-level reporting on capability performance, maturity progress, and risk impact.",
+      "Own the portfolio view of Threat Intelligence & Insider Risk initiatives within the broader security strategy.",
+      "Manage cross-functional dependencies across Security, Engineering, HR, Legal, and other stakeholders.",
+      "Monitor industry trends, adversary tactics, and insider risk developments.",
+      "Identify opportunities for automation, analytics enhancement, and process optimization."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": true,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Threat Intelligence",
+    "Insider Risk",
+    "Security Product Lead",
+    "MITRE ATT&CK",
+    "strategic roadmap",
+    "KPIs",
+    "SOC",
+    "capability maturity",
+    "portfolio management",
+    "cross-functional collaboration",
+    "executive reporting",
+    "cybersecurity",
+    "risk reduction"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear ownership scope — defined product surface (Threat Intelligence & Insider Risk) with explicit KPI responsibility",
+    "Role is positioned at strategic/senior level with executive visibility",
+    "Structured governance and cross-functional collaboration model described in detail",
+    "SoFi is a national bank-licensed fintech with significant scale and security investment"
+  ],
+  "red_flags": [
+    "Compensation range is referenced but not actually published in the JD text — no base pay figures provided",
+    "Work location type is not stated — remote eligibility, hybrid requirements, and visa sponsorship are all ambiguous",
+    "No nice-to-haves listed, making the full picture of preferred differentiation unclear",
+    "Role straddles PM, TPM, and security strategy functions — title and scope may not align with traditional PM or TPM career paths"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 7+ years requirement, executive reporting, multi-year strategy ownership)",
+      "scope.business_model (inferred from company description as fintech/national bank)",
+      "scope.primary_metrics_inferred (inferred from KPI language in responsibilities)",
+      "location.type (not stated; defaulted to 'unclear'; Hawaii/Alaska exclusion implies some remote is possible)",
+      "location.remote_us_eligible (inferred from Hawaii/Alaska exclusion clause implying remote work is otherwise permitted)",
+      "compensation.location_pay_differential (inferred from JD language: 'Final base pay offer will be determined based on individual factors such as the candidate's experience, skills, and location')"
+    ],
+    "ambiguities": [
+      "Location/work arrangement not stated. The JD mentions inability to accommodate remote work from Hawaii or Alaska, implying remote work is generally available, but no explicit hybrid or remote policy is described. Treated as 'unclear'.",
+      "Compensation range is mentioned ('The base pay range for this role is listed below') but the actual numbers are absent from the JD text provided.",
+      "Visa sponsorship and work authorization requirements are not mentioned anywhere in the JD."
+    ]
+  }
+}

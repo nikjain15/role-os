@@ -1,0 +1,267 @@
+{
+  "company": "Wayve",
+  "role_title": "Material Program Manager",
+  "url": "https://wayve.firststage.co/jobs?gh_jid=8480867002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8480867002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "Tokyo",
+      "Yokohama"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "hybrid — combines time in offices/workshops and time working from home",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Supply Chain / Materials Program Manager",
+  "seniority": {
+    "level": "Mid to Senior IC",
+    "years_required_min": null,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "Owns end-to-end materials execution for autonomous vehicle programs",
+      "Acts as primary local point of contact for suppliers and escalation management",
+      "Cross-functional coordination across Engineering, Supply Chain, Operations, and external partners",
+      "No explicit years of experience stated"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "product_scale_experience",
+      "raw_text_from_jd": "Experience bringing newly developed products to scale through supplier and partner relationships",
+      "skill_type": "outcome",
+      "domain": "supply_chain_and_hardware_development",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "program_management_experience",
+      "raw_text_from_jd": "Strong project or program management experience with the ability to influence across teams",
+      "skill_type": "capability",
+      "domain": "program_management",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "materials_coordination_experience",
+      "raw_text_from_jd": "Experience coordinating materials procurement, receiving, storage, and shipping",
+      "skill_type": "capability",
+      "domain": "materials_management",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "english_japanese_proficiency",
+      "raw_text_from_jd": "Professional proficiency in English and Japanese (written and verbal)",
+      "skill_type": "capability",
+      "domain": "language_proficiency",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [
+        "Japan"
+      ],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "japanese_logistics_knowledge",
+      "raw_text_from_jd": "Knowledge of Japanese logistics, import/export regulations, and local business etiquette",
+      "skill_type": "domain_knowledge",
+      "domain": "logistics_and_trade_compliance",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [
+        "Japan"
+      ],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cost_analysis_negotiation",
+      "raw_text_from_jd": "Ability to perform cost analysis and support negotiations",
+      "skill_type": "capability",
+      "domain": "cost_analysis_and_supplier_negotiation",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_stakeholder_management",
+      "raw_text_from_jd": "Excellent communication and stakeholder management skills",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "agile_environment_comfort",
+      "raw_text_from_jd": "Comfortable working in an Agile environment with aggressive timelines",
+      "skill_type": "cultural_fit",
+      "domain": "agile_execution",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "Agile"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "End-to-end materials execution for Wayve's autonomous vehicle and hardware programs in Japan",
+    "business_model": "B2B autonomous driving software/hardware — automaker-facing",
+    "primary_metrics_inferred": [
+      "On-time materials procurement and readiness aligned to program milestones",
+      "CTB (Clear to Build) visibility with reduced last-minute procurement escalations",
+      "Accurate material receiving, storage, and inventory tracking",
+      "Reliable and compliant outbound shipping execution",
+      "Improved cost visibility and supplier execution"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Operations",
+      "Supply Chain",
+      "Product teams",
+      "Suppliers and contract manufacturers"
+    ],
+    "core_responsibilities": [
+      "Own and manage materials programs enabling Wayve's autonomous vehicle and hardware development in Japan",
+      "Drive execution across procurement, receiving, storage, and shipping to meet aggressive program milestones",
+      "Own materials procurement activities in coordination with sourcing and purchasing teams",
+      "Drive and manage the CTB (Clear to Build) process with suppliers, contract manufacturers, workshop teams, and internal stakeholders",
+      "Work closely with Engineering to onboard, set up, and manage suppliers and partners within the Japanese market",
+      "Coordinate and oversee material receiving in Japan, ensuring accuracy, traceability, and proper documentation",
+      "Manage secure storage of high-value, long-lead-time materials, including inventory tracking and access controls",
+      "Coordinate outbound shipping of materials to workshops, vehicle upfitting locations, or other Wayve sites",
+      "Act as a central point of coordination across Engineering, Supply Chain, Operations, and external partners",
+      "Clearly communicate risks, tradeoffs, and decisions to both working-level teams and leadership"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Materials Program Manager",
+    "CTB (Clear to Build)",
+    "procurement",
+    "supplier management",
+    "autonomous vehicle",
+    "Japan",
+    "logistics",
+    "import/export",
+    "inventory tracking",
+    "Agile",
+    "hardware development",
+    "supply chain",
+    "Tokyo",
+    "Yokohama"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear and specific scope — Japan-based materials execution for AV hardware programs",
+    "Well-defined success metrics explicitly listed in JD",
+    "Hybrid working policy with flexible scheduling (core hours model)",
+    "Inclusive hiring statement and DEI commitment",
+    "Encourages applications from candidates who don't meet every requirement"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "Professional proficiency in both English and Japanese is a hard requirement — eliminates most non-Japanese market candidates",
+    "No explicit years of experience stated, making seniority level ambiguous",
+    "Visa sponsorship not mentioned — unclear for international candidates",
+    "Fast-paced/aggressive timelines language signals high execution pressure"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from scope of responsibilities and ownership level; no explicit level or years stated)",
+      "scope.business_model (inferred from company description and product context)",
+      "scope.primary_metrics_inferred (directly quoted from 'Success Metrics' section; labeled inferred as they are stated goals not historical metrics)",
+      "compensation.base_range_usd (not stated; left null)",
+      "location.work_auth (not stated; left unclear)",
+      "location.visa_sponsorship (not stated; left unclear)"
+    ],
+    "ambiguities": [
+      "Role title in identity fields is 'Material Program Manager' (singular) but JD heading and body use 'Materials Program Manager' (plural) — used verbatim identity field as instructed.",
+      "No years of experience explicitly required; seniority level is an inference from responsibilities.",
+      "The JD does not mention equity, bonuses, or any compensation details."
+    ]
+  }
+}

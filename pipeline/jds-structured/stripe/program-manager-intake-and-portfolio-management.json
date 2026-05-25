@@ -1,0 +1,452 @@
+{
+  "company": "Stripe",
+  "role_title": "Program Manager, Intake & Portfolio Management",
+  "url": "https://stripe.com/jobs/search?gh_jid=7569678",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7569678",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "BizOps / Strategy & Ops",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7+ years of experience in project management, business operations, strategy, or consulting",
+      "Proven ability to manage relationships with senior stakeholders (directors, VPs)",
+      "Strategic partner role requiring independent judgment and rigor"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_biz_ops_strategy",
+      "raw_text_from_jd": "7+ years of experience in project management, business operations, strategy, or consulting with experience navigating complex, matrixed organizations and managing competing priorities.",
+      "skill_type": "years_of_experience",
+      "domain": "project_management_or_business_operations",
+      "minimum_value": 7,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "intake_triage_portfolio_design",
+      "raw_text_from_jd": "Demonstrated experience designing, building, or significantly improving an intake, triage, or portfolio management process for a delivery team or operations function.",
+      "skill_type": "outcome",
+      "domain": "intake_and_portfolio_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_systems_thinking",
+      "raw_text_from_jd": "Strong analytical and systems-thinking skills. Able to evaluate competing requests against strategic frameworks, make well-reasoned prioritization recommendations, and communicate trade-offs clearly to senior stakeholders.",
+      "skill_type": "capability",
+      "domain": "analytical_reasoning_and_prioritization",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "jira_proficiency",
+      "raw_text_from_jd": "Proficiency in Jira or equivalent ticketing/project management tools. Comfortable with workflow configuration, ticket lifecycle management, capacity planning, and reporting.",
+      "skill_type": "tool_proficiency",
+      "domain": "project_management_tooling",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "Jira"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_tools_experience",
+      "raw_text_from_jd": "Proven experience using AI tools (LLMs, AI agents, or automation platforms) to streamline workflows, build lightweight productivity solutions, or automate repetitive operational tasks.",
+      "skill_type": "tool_proficiency",
+      "domain": "ai_tools_and_automation",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "LLMs",
+        "AI agents",
+        "automation platforms"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "written_verbal_communication",
+      "raw_text_from_jd": "Excellent written and verbal communication skills. Able to translate ambiguous, incomplete requests into clear, actionable project briefs and present complex portfolio data accessibly to both technical and non-technical stakeholders.",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "senior_stakeholder_management",
+      "raw_text_from_jd": "Proven ability to manage relationships with senior stakeholders (directors, VPs), including setting expectations, navigating pushback, and facilitating alignment conversations with confidence.",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_tolerance",
+      "raw_text_from_jd": "Comfort operating in ambiguous environments where the work is not always well-defined. Able to independently identify the right approach and establish meaningful success metrics.",
+      "skill_type": "cultural_fit",
+      "domain": "autonomy_and_ambiguity",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "collaborative_low_ego",
+      "raw_text_from_jd": "Collaborative, low-ego working style. Able to operate as a strategic partner and trusted advisor rather than a decision-maker, earning credibility through rigor and good judgment.",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "hr_people_team_experience",
+      "raw_text_from_jd": "At least 2 years of experience working within or closely alongside an HR, People, or equivalent internal operations team.",
+      "skill_type": "years_of_experience",
+      "domain": "hr_or_people_operations",
+      "minimum_value": 2,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "ai_agent_no_code_low_code",
+      "raw_text_from_jd": "Hands-on experience building AI agents or automation workflows using no-code/low-code tooling.",
+      "skill_type": "tool_proficiency",
+      "domain": "ai_agent_development",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "AI agents"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "prompt_engineering_rag",
+      "raw_text_from_jd": "Experience with prompt engineering, RAG (retrieval-augmented generation) concepts, or designing human-in-the-loop workflows for AI-assisted processes.",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_workflow_design",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "RAG",
+        "prompt engineering",
+        "human-in-the-loop"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "portfolio_demand_capacity_planning",
+      "raw_text_from_jd": "Background in portfolio management, demand management, or capacity planning, including experience with prioritization frameworks (RICE, WSJF, OKR-alignment scoring, or similar).",
+      "skill_type": "domain_knowledge",
+      "domain": "portfolio_and_capacity_planning",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "change_management_frameworks",
+      "raw_text_from_jd": "Experience with change management frameworks (e.g., Prosci ADKAR® Model) and designing adoption strategies for new processes or tooling.",
+      "skill_type": "domain_knowledge",
+      "domain": "change_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "hr_systems_familiarity",
+      "raw_text_from_jd": "Familiarity with HR systems (e.g., Workday, Greenhouse, Retool) and People team workflows.",
+      "skill_type": "tool_proficiency",
+      "domain": "hr_systems",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Workday",
+        "Greenhouse",
+        "Retool"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "portfolio_dashboards",
+      "raw_text_from_jd": "Experience building portfolio dashboards or capacity reports using tools like Tableau, Looker, Google Sheets, or similar.",
+      "skill_type": "tool_proficiency",
+      "domain": "data_visualization_and_reporting",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Tableau",
+        "Looker",
+        "Google Sheets"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "process_documentation_enablement",
+      "raw_text_from_jd": "Experience building and deploying process documentation, requestor-facing guides, or enablement materials that improve submission quality and reduce intake friction.",
+      "skill_type": "outcome",
+      "domain": "process_documentation",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_privacy_compliance_ai",
+      "raw_text_from_jd": "Familiarity with data privacy and compliance considerations relevant to employee data, particularly in the context of AI tools and automated workflows.",
+      "skill_type": "domain_knowledge",
+      "domain": "data_privacy_and_compliance",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_tools_personal_productivity",
+      "raw_text_from_jd": "Experience using AI tools to increase personal and team productivity.",
+      "skill_type": "tool_proficiency",
+      "domain": "ai_productivity_tools",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "google_workspace_advanced",
+      "raw_text_from_jd": "Advanced proficiency in Google Workspace (Sheets, Docs, Slides) and Mac OS.",
+      "skill_type": "tool_proficiency",
+      "domain": "productivity_software",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Google Sheets",
+        "Google Docs",
+        "Google Slides"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "POI (Partners, Operations & Insights) intake and portfolio management function within People Strategy & Enablement (PS&E) at Stripe",
+    "business_model": "internal operations / HR function at a B2B financial infrastructure platform",
+    "primary_metrics_inferred": [
+      "Time-to-decision on intake requests",
+      "Requestor experience quality",
+      "Queue depth and roadmap health",
+      "Resource allocation efficiency",
+      "Portfolio alignment with SOKRs and 3-Year Plan"
+    ],
+    "cross_functional_partners": [
+      "People Solutions",
+      "People Data Analytics & Research (PDAR)",
+      "People Partners",
+      "Employee Relations & HR Compliance",
+      "POI leaders",
+      "People team leaders",
+      "Senior stakeholders (directors, VPs)"
+    ],
+    "core_responsibilities": [
+      "Own and operate the POI intake process end-to-end via Jira-based system",
+      "Serve as the primary intake partner for People team requestors",
+      "Facilitate regular intake and portfolio cadences including backlog grooming and roadmap reviews",
+      "Identify systemic patterns and surface insights to leadership",
+      "Apply strategic judgment to prioritize the POI portfolio against SOKRs and 3-Year Plan",
+      "Build and maintain portfolio visibility and capacity reporting dashboards",
+      "Design, build, and continuously improve an AI agent for intake automation",
+      "Continuously improve the intake experience via documentation and templates",
+      "Partner with POI and People team leaders on resourcing and prioritization conversations"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "intake management",
+    "portfolio management",
+    "prioritization",
+    "Jira",
+    "AI agent",
+    "LLMs",
+    "capacity planning",
+    "People Operations",
+    "triage",
+    "HR systems",
+    "SOKRs",
+    "backlog grooming",
+    "systems thinking",
+    "no-code/low-code"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear and specific role description with well-defined ownership (not a vague catch-all PM role)",
+    "Explicit distinction between minimum requirements and preferred qualifications — encourages applications from those who meet only minimums",
+    "AI agent building is a first-class responsibility, signaling investment in modern tooling",
+    "Stripe is a well-regarded, large-scale fintech with strong engineering culture",
+    "Role has strategic scope with direct access to senior stakeholders (directors, VPs)"
+  ],
+  "red_flags": [
+    "No location, compensation, or visa sponsorship information provided in the JD",
+    "Work authorization and remote/hybrid/onsite status entirely unclear",
+    "Role spans both strategic and operational execution at a high level of autonomy — could be under-resourced or lack clear mandate depending on org maturity",
+    "Building and deploying an AI agent is a hard requirement (not just nice-to-have) per responsibilities, yet only 'proven experience using AI tools' is listed as a minimum — potential mismatch in expectation vs. stated requirement"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 7+ years requirement and senior stakeholder scope)",
+      "seniority.manages_people (inferred as false; no direct reports mentioned)",
+      "scope.business_model (inferred from company description and team context)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly stated in JD)",
+      "compensation fields (not stated anywhere in JD)",
+      "location.type (not stated anywhere in JD)"
+    ],
+    "ambiguities": [
+      "The responsibilities section lists 'Design, build, and continuously improve an AI agent for intake' as a core duty, implying hard requirement; however, the minimum requirements only state 'Proven experience using AI tools (LLMs, AI agents, or automation platforms)' while hands-on AI agent building appears under preferred qualifications. Treated the responsibility as in-scope but the build-from-scratch AI agent skill as soft/preferred.",
+      "No location or remote work policy is stated. Role type left as 'unclear'.",
+      "No visa sponsorship or work authorization information provided; left as 'unclear'."
+    ]
+  }
+}

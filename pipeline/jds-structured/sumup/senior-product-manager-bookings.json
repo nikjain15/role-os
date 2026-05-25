@@ -1,0 +1,229 @@
+{
+  "company": "SumUp",
+  "role_title": "Senior Product Manager - Bookings",
+  "url": "https://sumup.com/careers/positions/8458928002?gh_jid=8458928002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8458928002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": false,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Technical PM (SaaS / scheduling platform)",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of experience in Product Management required",
+      "Role titled Senior Product Manager",
+      "Expected to lead a dedicated squad and own long-term product strategy"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "You have 5+ years of experience in Product Management, ideally within a high-growth SaaS, E-commerce, or Fintech environment.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "qualifier": "ideally within a high-growth SaaS, E-commerce, or Fintech environment",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "SaaS",
+        "E-commerce",
+        "Fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "high-growth SaaS",
+        "E-commerce",
+        "Fintech"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_data_driven",
+      "raw_text_from_jd": "You are highly analytical and comfortable using data to validate hypotheses, track performance, and influence stakeholder decisions.",
+      "skill_type": "capability",
+      "domain": "data_analysis",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_strategy_feature_specs",
+      "raw_text_from_jd": "You possess a deep understanding of product strategy and have a proven ability to write comprehensive feature specifications.",
+      "skill_type": "capability",
+      "domain": "product_strategy",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "user_research_merchant_interviews",
+      "raw_text_from_jd": "You are experienced in conducting user research and merchant interviews to uncover latent needs and market opportunities.",
+      "skill_type": "capability",
+      "domain": "user_research",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_communication",
+      "raw_text_from_jd": "You are a clear and proactive communicator capable of managing complex dependencies and building consensus across diverse teams.",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "smb_passion",
+      "raw_text_from_jd": "You are passionate about building scalable tools that empower small business owners and entrepreneurs to succeed.",
+      "skill_type": "cultural_fit",
+      "domain": "small_business_advocacy",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "booking_scheduling_platforms",
+      "raw_text_from_jd": "Experience with booking or scheduling platforms",
+      "skill_type": "domain_knowledge",
+      "domain": "booking_scheduling_software",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Bookings product within the Sell Online portfolio (appointment management, scheduling, multi-calendar, deposits)",
+    "business_model": "B2SMB SaaS — tools for micro-merchants and small businesses to manage appointments and sell services online",
+    "primary_metrics_inferred": [
+      "Merchant adoption and retention of Bookings product",
+      "Feature delivery cadence and roadmap execution",
+      "Revenue growth from Bookings product line",
+      "Scaling to support larger businesses / specialized verticals (Beauty & Wellness)"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Stakeholders across diverse teams"
+    ],
+    "core_responsibilities": [
+      "Develop and execute the long-term product strategy and vision for the Bookings ecosystem in alignment with organizational goals.",
+      "Own the roadmap for multi-platform appointment management tools, ensuring merchants have a seamless experience across web and mobile.",
+      "Identify and close critical feature gaps for a rapidly scaling merchant base, with a specific focus on advanced scheduling and business automation.",
+      "Synthesize qualitative merchant feedback and quantitative data into actionable product requirements that address core user pain points.",
+      "Lead cross-functional teams of engineers and designers to prioritize and ship high-impact features on a consistent cadence.",
+      "Establish and monitor success metrics for the Bookings product line, using data-driven insights to iterate on the user experience and drive business growth."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "VSOP program — virtual stock options in SumUp's future success",
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Bookings",
+    "appointment management",
+    "scheduling",
+    "SaaS",
+    "Sell Online",
+    "multi-calendar",
+    "Beauty and Wellness",
+    "merchant experience",
+    "product strategy",
+    "roadmap",
+    "data-driven",
+    "micro-merchants",
+    "small business"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear product surface and ownership area — dedicated squad with specific mandate to scale Bookings",
+    "Explicit mention of VSOP equity program for upside participation",
+    "Annual L&D budget of €2000 stated explicitly",
+    "Generous PTO (26 days + public holidays + special leave days) and 1-month sabbatical after 3 years",
+    "JD explicitly encourages applications even if candidates don't meet 100% of criteria",
+    "Well-defined product moment — scaling from micro-merchants to larger businesses is a concrete mission"
+  ],
+  "red_flags": [
+    "Location not stated anywhere in the JD — city, country, remote/hybrid policy all absent",
+    "Compensation range not disclosed",
+    "Visa sponsorship and work authorization not addressed",
+    "Benefits quoted in EUR (€2000 L&D), suggesting European base, but no explicit geography confirmed"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Senior' + 5+ years requirement)",
+      "seniority.manages_people (inferred as false — JD says 'lead cross-functional teams' but no direct reports mentioned)",
+      "location.type set to 'unclear' — no office/remote/hybrid policy stated anywhere in JD",
+      "scope.business_model (inferred from product description and SMB focus)",
+      "scope.primary_metrics_inferred (not explicitly stated; inferred from responsibilities)",
+      "compensation.source set to 'unknown' — no salary range provided"
+    ],
+    "ambiguities": [
+      "Location is entirely absent from the JD body. Benefits are denominated in EUR (€2000 L&D) and other benefits (Multisport Card, PPK Employee Capital Plan) suggest a Central/Eastern European country (likely Poland), but this is not confirmed. work_auth, visa_sponsorship, and cities_listed all left as unclear/empty.",
+      "The 5+ years requirement is phrased under 'You'll thrive in this role if', which could be interpreted as preferred rather than hard-required. However, the specificity ('5+ years') and overall framing of the section as core qualifications led to classification as hard severity. Flagged as ambiguity."
+    ]
+  }
+}

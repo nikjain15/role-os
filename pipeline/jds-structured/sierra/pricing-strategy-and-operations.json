@@ -1,0 +1,246 @@
+{
+  "company": "Sierra",
+  "role_title": "Pricing Strategy and Operations",
+  "url": "https://jobs.ashbyhq.com/sierra/39e15cc4-a16e-4ddb-b609-a345e2dd67c8",
+  "ats_provider": "ashby",
+  "ats_job_id": "39e15cc4-a16e-4ddb-b609-a345e2dd67c8",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "primarily in-person",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "GTM Strategy / Pricing Strategy",
+  "seniority": {
+    "level": "Mid to Senior IC",
+    "years_required_min": 4,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "4+ years of experience in consulting, banking, strategy, or business operations",
+      "Role involves cross-functional collaboration with sales, product, marketing, and operations",
+      "Startup experience in GTM operations strongly preferred"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_consulting_banking_strategy_bizops",
+      "raw_text_from_jd": "4+ years of experience in consulting, banking, strategy, or business operations. Startup experience in a similar GTM operations role, specifically SaaS pricing, sales, marketing, and operations strongly preferred.",
+      "skill_type": "years_of_experience",
+      "domain": "consulting / banking / strategy / business operations",
+      "minimum_value": 4,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "SaaS"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "consulting firm",
+        "bank",
+        "startup"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "complex_customer_negotiations",
+      "raw_text_from_jd": "Experience negotiating complex customer partnerships",
+      "skill_type": "capability",
+      "domain": "customer negotiations / partnerships",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sales_cycle_familiarity",
+      "raw_text_from_jd": "Familiarity with navigating sales cycles",
+      "skill_type": "domain_knowledge",
+      "domain": "sales cycles",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "gtm_ops_data_driven",
+      "raw_text_from_jd": "Strong understanding of developing GTM operations using data-driven decision-making",
+      "skill_type": "capability",
+      "domain": "GTM operations / data-driven decision-making",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "education_business_finance",
+      "raw_text_from_jd": "Degree in Business Administration, Finance, or related field, or equivalent professional experience",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": true,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Business Administration degree",
+        "Finance degree"
+      ]
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "partnerships_bizdev_value_engineering",
+      "raw_text_from_jd": "Experience in partnerships, business development, and value engineering roles",
+      "skill_type": "domain_knowledge",
+      "domain": "partnerships / business development / value engineering",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_conversational_ai_familiarity",
+      "raw_text_from_jd": "Familiarity with AI or conversational AI technologies",
+      "skill_type": "domain_knowledge",
+      "domain": "AI / conversational AI",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "AI",
+        "conversational AI"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "zero_to_one_startup_experience",
+      "raw_text_from_jd": "Previous 0-1 startup or fast-paced high-growth environment experience",
+      "skill_type": "domain_knowledge",
+      "domain": "early-stage / high-growth startup",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "startup"
+      ],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Pricing team — pricing proposals, ROI case studies, and overall pricing and packaging strategy",
+    "business_model": "B2B SaaS / AI platform",
+    "primary_metrics_inferred": [
+      "Pricing proposal win rates",
+      "ROI case study quality and impact on deals",
+      "Revenue impact of pricing strategy"
+    ],
+    "cross_functional_partners": [
+      "Sales",
+      "Product",
+      "Marketing",
+      "Operations"
+    ],
+    "core_responsibilities": [
+      "Work with the sales team to develop and deliver pricing proposals and ROI case studies for customers",
+      "Collaborate with product, marketing, and operations teams to define overall pricing and packaging strategy"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "Eligible full-time employees can participate in Sierra's equity plans subject to the terms of the applicable plans and policies",
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "pricing strategy",
+    "GTM operations",
+    "SaaS pricing",
+    "ROI case studies",
+    "pricing proposals",
+    "consulting",
+    "business operations",
+    "sales cycles",
+    "data-driven decision-making",
+    "conversational AI",
+    "value engineering"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "High-profile co-founders (Bret Taylor, Clay Bavor) with strong credibility in tech",
+    "Equity participation offered to full-time employees",
+    "Encourages applicants whose experience doesn't precisely match the JD",
+    "Growing global company with multiple offices across AMER, EMEA, and APAC",
+    "Strong stated values framework including work-life balance ('Family')"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "Primarily in-person in San Francisco — fully remote candidates not eligible",
+    "Visa sponsorship status not mentioned",
+    "Role title 'Pricing Strategy and Operations' is somewhat generic and scope of team size is unclear"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years required and cross-functional scope)",
+      "scope.business_model (inferred from product description as B2B SaaS / AI platform)",
+      "scope.primary_metrics_inferred (not stated; inferred from responsibilities)",
+      "location.type (inferred as onsite from 'primarily an in-person company based in San Francisco')"
+    ],
+    "ambiguities": [
+      "The JD states 'Startup experience in a similar GTM operations role, specifically SaaS pricing, sales, marketing, and operations strongly preferred' — this reads as a strong preference (nice-to-have) but is embedded in the same bullet as the hard 4+ year requirement; classified the broader 4+ years as hard and the startup-specific qualifier as a note on the same requirement.",
+      "Work authorization and visa sponsorship are not mentioned anywhere in the JD; marked as 'unclear'.",
+      "No base salary or total comp range provided; equity is mentioned but no form specified beyond 'equity plans'."
+    ]
+  }
+}

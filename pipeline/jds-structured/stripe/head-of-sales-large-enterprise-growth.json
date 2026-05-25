@@ -1,0 +1,258 @@
+{
+  "company": "Stripe",
+  "role_title": "Head of Sales - Large Enterprise, Growth",
+  "url": "https://stripe.com/jobs/search?gh_jid=7813129",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7813129",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Other",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Sales Leadership / Head of Sales",
+  "seniority": {
+    "level": "Director / VP (Senior Sales Leader)",
+    "years_required_min": 10,
+    "years_required_max": null,
+    "manages_people": true,
+    "level_signals": [
+      "10+ years as a proven account executive and/or 5+ years of front line sales management experience",
+      "Second line management experience noted as a plus",
+      "Leads team of account executives across AMER",
+      "Accountable for operating net revenue and activation targets"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_ae_or_sales_mgmt",
+      "raw_text_from_jd": "10+ years of experience as a proven account executive and/or 5+ years of front line sales management experience within technology, SaaS, banking or payments spaces.",
+      "skill_type": "years_of_experience",
+      "domain": "sales_management",
+      "minimum_value": 10,
+      "unit": "years",
+      "qualifier": "account executive and/or 5+ years front line sales management in technology, SaaS, banking or payments",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "technology",
+        "SaaS",
+        "banking",
+        "payments"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "large_enterprise_experience",
+      "raw_text_from_jd": "Experience working with large enterprise clients and users.",
+      "skill_type": "domain_knowledge",
+      "domain": "enterprise_sales",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "coaching_scaling_sales_team",
+      "raw_text_from_jd": "Experience training, coaching, and scaling a high-performance sales team.",
+      "skill_type": "capability",
+      "domain": "sales_team_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "relationship_building_strategic_clients",
+      "raw_text_from_jd": "Ability to build relationships with strategic clients, industry thought leaders and alliances & channel partners.",
+      "skill_type": "capability",
+      "domain": "strategic_relationships",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "high_growth_tech_environment",
+      "raw_text_from_jd": "Experience operating in an early stage, high-growth technology environment.",
+      "skill_type": "domain_knowledge",
+      "domain": "high_growth_startups",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "technology"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "passion_for_stripe_mission",
+      "raw_text_from_jd": "Demonstrated passion for Stripe's mission.",
+      "skill_type": "cultural_fit",
+      "domain": "company_mission_alignment",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_communication",
+      "raw_text_from_jd": "Ability to clearly communicate technical concepts and build great relationships with highly technical customers.",
+      "skill_type": "capability",
+      "domain": "technical_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "second_line_management",
+      "raw_text_from_jd": "Second line management experience is a plus.",
+      "skill_type": "years_of_experience",
+      "domain": "second_line_sales_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "payments_or_financial_services",
+      "raw_text_from_jd": "Experience in the payments or financial services space is a plus.",
+      "skill_type": "domain_knowledge",
+      "domain": "payments_financial_services",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "payments",
+        "financial services"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Large Service Enterprise sales team, eastern US book, AMER",
+    "business_model": "B2B enterprise sales, financial infrastructure platform",
+    "primary_metrics_inferred": [
+      "Operating net revenue targets",
+      "Activation targets",
+      "Pipeline generation",
+      "Revenue growth"
+    ],
+    "cross_functional_partners": [
+      "GTM",
+      "product",
+      "solutions (implied)"
+    ],
+    "core_responsibilities": [
+      "Recruit, mentor, develop, and lead a team of sales professionals while scaling our GTM presence across AMER.",
+      "Train the team in up-leveling professional skills such as collaborative pipeline generation, consultative and solution-based selling, closing tactics, adoption of MEDDIIC, and serving as a Trust Advisor to Stripe Users.",
+      "Develop both the long-term vision and strategy for the team and manage day-to-day operations.",
+      "Be accountable for operating net revenue and activation targets to grow Stripe's revenue profitably.",
+      "Effectively work cross-functionally across the organization to shape Stripe's solutions to meet client needs.",
+      "Inspire, motivate and enable individual development to promote career growth of direct reports."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Large Enterprise",
+    "sales leadership",
+    "GTM",
+    "MEDDIIC",
+    "payments",
+    "SaaS",
+    "pipeline generation",
+    "consultative selling",
+    "high-growth",
+    "AMER",
+    "account executives",
+    "financial infrastructure"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear ownership of AMER Large Enterprise book with meaningful revenue accountability",
+    "Stripe's well-known brand and mission in financial infrastructure",
+    "Role involves both strategic leadership and direct customer engagement",
+    "MEDDIIC methodology adoption signals structured and mature sales process"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "Location not specified — unclear if remote, hybrid, or onsite; only 'eastern based book' mentioned",
+    "No visa sponsorship or work authorization information provided",
+    "Team size and reporting structure not stated"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years required, second-line management mention, and revenue accountability)",
+      "scope.business_model (inferred from Stripe's product description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not directly stated as KPIs)",
+      "location.type (not stated; 'eastern based book' implies eastern US territory, but work arrangement is unclear)"
+    ],
+    "ambiguities": [
+      "Location type is ambiguous: JD references 'eastern based book' and 'dispersed across the US' but does not specify city, remote eligibility, or office requirement.",
+      "Years requirement is stated as '10+ years as a proven account executive and/or 5+ years of front line sales management' — the and/or construction makes the exact minimum unclear; extracted minimum as 10 years AE experience as the higher bound.",
+      "Role title references 'Growth' but it is unclear if this refers to a specific product line, team name, or growth-stage focus."
+    ]
+  }
+}

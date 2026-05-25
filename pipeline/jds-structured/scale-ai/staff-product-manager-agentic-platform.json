@@ -1,0 +1,375 @@
+{
+  "company": "Scale AI",
+  "role_title": "Staff Product Manager, Agentic Platform",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4612403005",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "4612403005",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [
+      "San Francisco",
+      "New York",
+      "Seattle",
+      "Washington DC",
+      "Texas",
+      "Colorado",
+      "Hawaii"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": null,
+    "work_auth": "us-citizenship-required",
+    "visa_sponsorship": "no"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "AI Product Manager",
+  "seniority": {
+    "level": "Staff PM (Senior IC)",
+    "years_required_min": 4,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "4+ years of experience in building ML-powered and/or enterprise-facing products",
+      "Staff-level title",
+      "Comp range $237,600–$297,000 base in SF/NY/SEA — consistent with Staff IC",
+      "Expected to work with executives and lead cross-functional teams"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "top_secret_clearance",
+      "raw_text_from_jd": "Maintain a Top Secret security clearance",
+      "skill_type": "credential",
+      "domain": "security_clearance",
+      "minimum_value": "Top Secret",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "government",
+        "national security"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Top Secret security clearance"
+      ]
+    },
+    {
+      "id": "years_ml_enterprise_products",
+      "raw_text_from_jd": "4+ years of experience in building ML-powered and / or enterprise-facing products",
+      "skill_type": "years_of_experience",
+      "domain": "ML/AI product management",
+      "minimum_value": 4,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "ML"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "genai_understanding",
+      "raw_text_from_jd": "Strong understanding of generative AI technologies and their applications in public or large-scale private sector settings",
+      "skill_type": "domain_knowledge",
+      "domain": "generative_AI",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "generative AI"
+      ],
+      "industries_named": [
+        "public sector"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_degree",
+      "raw_text_from_jd": "Technical degree in computer science, engineering, or equivalent experience",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelor's",
+      "accepts_equivalent_experience": true,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "technical degree",
+        "computer science degree",
+        "engineering degree"
+      ]
+    },
+    {
+      "id": "fast_paced_ambiguity",
+      "raw_text_from_jd": "Experience operating in a fast-paced environment with high ambiguity",
+      "skill_type": "capability",
+      "domain": "adaptability",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "leadership_communication",
+      "raw_text_from_jd": "Exceptional leadership, presentation, and communication skills with the ability to influence cross-functional teams",
+      "skill_type": "capability",
+      "domain": "leadership_and_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_literacy",
+      "raw_text_from_jd": "Data literacy and experience with data analytics",
+      "skill_type": "capability",
+      "domain": "data_analytics",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "military_government_experience",
+      "raw_text_from_jd": "Prior military or government experience",
+      "skill_type": "domain_knowledge",
+      "domain": "government_and_defense",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "government",
+        "military",
+        "defense"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "government",
+        "military"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "coding_experience",
+      "raw_text_from_jd": "Coding experience (e.g. Python)",
+      "skill_type": "tool_proficiency",
+      "domain": "software_development",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "Python"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "agentic_infra_tooling",
+      "raw_text_from_jd": "Experience building infrastructure and tooling to develop and support agentic applications.",
+      "skill_type": "capability",
+      "domain": "agentic_AI_infrastructure",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "agentic applications"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "startup_public_sector_experience",
+      "raw_text_from_jd": "Experience working in startup environments building solutions for public sector / federal customers.",
+      "skill_type": "domain_knowledge",
+      "domain": "public_sector_product_development",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "public sector",
+        "federal government"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "startup"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "federal_network_understanding",
+      "raw_text_from_jd": "Understanding of public / federal networks, infrastructure, and deployment constraints.",
+      "skill_type": "domain_knowledge",
+      "domain": "federal_IT_infrastructure",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "federal government",
+        "public sector"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ts_sci_clearance",
+      "raw_text_from_jd": "TS/SCI Security Clearance",
+      "skill_type": "credential",
+      "domain": "security_clearance",
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "no",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "government",
+        "national security"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "TS/SCI Security Clearance"
+      ]
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Agentic AI platforms for public sector / national security use cases including agentic warfare, scenario planning, deep research, report generation, and Text2SQL intelligence applications",
+    "business_model": "government / public sector B2G, with ambition to commercialize into broader industry",
+    "primary_metrics_inferred": [
+      "Platform adoption by government agencies",
+      "Successful delivery of national-security AI capabilities",
+      "Commercialization of public sector solutions",
+      "Agency alignment and compliance with security mandates"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Product Design",
+      "Operations",
+      "Marketing",
+      "Go-to-Market",
+      "Finance",
+      "Government agency stakeholders"
+    ],
+    "core_responsibilities": [
+      "Develop enterprise grade solutions that leverage cutting edge AI and AI agents to drive value for public sector customers",
+      "Work with executives at Scale and our customers to determine and execute the product strategy of the business",
+      "Own end-to-end product development by understanding customer pain points, defining product requirements, managing development, testing, and launches",
+      "Lead cross-functional teams including engineering, product design, operations, marketing, go-to-market and finance",
+      "Develop a point of view and execute on turning the solutions we build into scalable software that we can commercialize across the industry",
+      "Maintain a Top Secret security clearance"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      237600,
+      297000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity grant subject to Board of Director approval",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Agentic AI",
+    "generative AI",
+    "public sector",
+    "national security",
+    "Top Secret clearance",
+    "government",
+    "enterprise product",
+    "ML-powered products",
+    "agentic warfare",
+    "Text2SQL",
+    "deep research",
+    "staff PM",
+    "cross-functional leadership"
+  ],
+  "buzzword_density": "high",
+  "green_flags": [
+    "Compensation range disclosed and competitive ($237,600–$297,000 base in primary markets)",
+    "Clear product surface with concrete examples of GenAI applications being built",
+    "Equity mentioned as part of compensation package",
+    "Benefits package clearly described including health, dental, vision, learning stipend, generous PTO",
+    "Scale has named government customers (Army, Air Force) giving product credibility",
+    "Explicit TS/SCI as nice-to-have rather than hard requirement (lower barrier vs peers)"
+  ],
+  "red_flags": [
+    "Top Secret security clearance is a hard requirement — eliminates most candidates without existing clearance",
+    "Prior military or government experience listed under 'Ideally you'd have' but the JD body treats it alongside unconditional requirements, creating classification ambiguity",
+    "Role involves classified environments; fully remote is unlikely and not stated",
+    "US citizenship almost certainly required for Top Secret clearance but not explicitly stated in JD — visa sponsorship and work auth are unclear from JD text alone",
+    "High buzzword density; some responsibilities are vague ('national-level decisions')",
+    "90-day waiting period policy noted for reapplication"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "location.type (inferred as onsite — classified/government work and clearance requirement strongly imply physical presence; not explicitly stated)",
+      "location.work_auth (inferred as us-citizenship-required — Top Secret clearance requires US citizenship; not explicitly stated in JD)",
+      "location.visa_sponsorship (inferred as no — Top Secret clearance requirement makes sponsorship implausible; not explicitly stated)",
+      "scope.primary_metrics_inferred (not stated in JD; inferred from responsibilities)",
+      "scope.business_model (inferred from product description and commercialization language)",
+      "seniority.level (inferred from title 'Staff' and compensation range)",
+      "compensation.base_range_usd — using the higher SF/NY/SEA range as primary; DC/TX/CO/HI range is $213,400–$267,300"
+    ],
+    "ambiguities": [
+      "All requirements are listed under 'Ideally you'd have' which typically signals soft/preferred, but several (Top Secret clearance, years of experience, GenAI knowledge) read as hard requirements given the nature of the role. They have been classified as hard based on role context and language.",
+      "Top Secret clearance is listed as a hard must-have in the responsibilities ('Maintain a Top Secret security clearance') but TS/SCI is listed as a nice-to-have — both are captured accordingly.",
+      "Prior military or government experience appears under 'Ideally you'd have' but given the national security context is treated as a hard requirement here; flagged as ambiguous.",
+      "Two separate compensation ranges are provided for different geographies; $237,600–$297,000 is used as the primary range (SF/NY/SEA). Secondary range for DC/TX/CO/HI is $213,400–$267,300.",
+      "Location type is not explicitly stated; onsite inferred from clearance and classified network requirements."
+    ]
+  }
+}

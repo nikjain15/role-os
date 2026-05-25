@@ -1,0 +1,318 @@
+{
+  "company": "SoFi",
+  "role_title": "Senior Product Manager, Servicing",
+  "url": "https://sofi.com/careers/job/7720245003?gh_jid=7720245003",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7720245003",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Fintech / Lending Platform PM",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 3,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "3+ years of product management experience",
+      "Senior Product Manager title",
+      "Expected to set clear direction and own strategy + execution",
+      "Cross-functional leadership across engineering, ops, compliance, legal, finance"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "3+ years of product management experience, preferably in fintech, financial services, or a similarly regulated, data-intensive environment",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 3,
+      "unit": "years",
+      "qualifier": "preferably in fintech, financial services, or a similarly regulated, data-intensive environment",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "fintech",
+        "financial services"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "end_to_end_ownership",
+      "raw_text_from_jd": "Demonstrated ability to own a feature or product area end-to-end",
+      "skill_type": "capability",
+      "domain": "product_ownership",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_instincts",
+      "raw_text_from_jd": "Strong customer instincts: you can identify the right problems to solve, prioritize confidently, and articulate what \"done\" looks like for our members",
+      "skill_type": "capability",
+      "domain": "customer_discovery_and_prioritization",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_fluency",
+      "raw_text_from_jd": "Enough technical fluency to have credible conversations with engineers about system architecture, trade-offs, and feasibility",
+      "skill_type": "capability",
+      "domain": "technical_product_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "system architecture"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_skills",
+      "raw_text_from_jd": "Clear written and oral communication: you write quality documents, run focused meetings, and know how to tailor the message for engineers vs. leadership",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_driven_decisions",
+      "raw_text_from_jd": "Experience using data to drive decisions by pulling metrics, reading results, and iterating based on evidence",
+      "skill_type": "capability",
+      "domain": "data_analysis_and_decision_making",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_stakeholder_management",
+      "raw_text_from_jd": "Ability to manage cross-functional stakeholders (engineering, ops, compliance, legal, finance) and keep execution on track within a multi-team environment",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "lending_servicing_payments_experience",
+      "raw_text_from_jd": "Experience in lending, loan servicing, payments, or financial services operations",
+      "skill_type": "domain_knowledge",
+      "domain": "lending_and_loan_servicing",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "lending",
+        "loan servicing",
+        "payments",
+        "financial services"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "third_party_servicer_integrations",
+      "raw_text_from_jd": "Familiarity with third-party servicer integrations or complex vendor relationships alongside product work",
+      "skill_type": "domain_knowledge",
+      "domain": "vendor_and_servicer_integrations",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "compliance_adjacent_product_work",
+      "raw_text_from_jd": "Exposure to compliance adjacent product work: fair lending, regulatory reporting, or audit readiness",
+      "skill_type": "domain_knowledge",
+      "domain": "regulatory_compliance",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "financial services"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sql_self_serve_data",
+      "raw_text_from_jd": "Comfort with SQL or self-serve data analysis tools to diagnose borrower behavior and product outcomes",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analysis",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "SQL"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "legacy_modernization_platform_migration",
+      "raw_text_from_jd": "Experience working on legacy system modernization or platform migration initiatives",
+      "skill_type": "domain_knowledge",
+      "domain": "platform_migration_and_modernization",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [
+    "Remote work from Hawaii or Alaska"
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Multi-product loan servicing platform covering post-loan funding experience for SoFi lending products",
+    "business_model": "B2C financial services / national bank — consumer lending and servicing",
+    "primary_metrics_inferred": [
+      "Member engagement",
+      "Cross-sell conversion",
+      "Member lifetime value",
+      "Measurable servicing platform capability delivery"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Research",
+      "Data Science",
+      "Design",
+      "Legal",
+      "Operations",
+      "Business stakeholders",
+      "Compliance",
+      "Finance"
+    ],
+    "core_responsibilities": [
+      "Build and scale multi-product servicing platform to meet member and business needs",
+      "Partner with engineering, research, data science, design, legal, operations and business stakeholders to bring new capabilities to life",
+      "Ensure new capabilities deliver measurable results",
+      "Drive member engagement, cross-sell, and increase member lifetime value",
+      "Set clear direction in evolving spaces",
+      "Define strategy and drive execution"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": true,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "loan servicing",
+    "fintech",
+    "product management",
+    "cross-functional",
+    "member lifetime value",
+    "cross-sell",
+    "platform",
+    "data-driven",
+    "compliance",
+    "legacy modernization",
+    "payments",
+    "SQL"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear product surface and ownership area (loan servicing platform)",
+    "Role described as high-impact with direct effect on member financial outcomes",
+    "Cross-functional exposure across engineering, legal, ops, compliance, and finance — broad development opportunity",
+    "Company is a national bank with scale (millions of members)",
+    "'Nice to have' list is genuinely optional and well-separated from requirements"
+  ],
+  "red_flags": [
+    "Compensation range referenced but not disclosed in JD body — only 'listed below' with no actual numbers visible",
+    "Location type is unclear — no city, office, or explicit remote policy stated beyond Hawaii/Alaska exclusion",
+    "Visa sponsorship not mentioned at all",
+    "No posting date available to assess freshness"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "location.type (unclear — no city, hybrid/remote policy, or office requirement stated explicitly)",
+      "location.remote_us_eligible (inferred as true from Hawaii/Alaska exclusion implying remote work is otherwise allowed)",
+      "seniority.level (inferred from title 'Senior Product Manager' and scope of responsibilities)",
+      "scope.business_model (inferred from company description as consumer fintech/national bank)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not directly stated in JD)",
+      "compensation.location_pay_differential (inferred from 'individual factors such as the candidate's experience, skills, and location')"
+    ],
+    "ambiguities": [
+      "Compensation range is referenced as 'listed below' in the JD but no actual figures appear in the provided text — treated as unknown.",
+      "Location policy is ambiguous: Hawaii and Alaska are excluded for remote work, implying remote is otherwise possible, but no explicit remote/hybrid/onsite designation is given.",
+      "Visa sponsorship is not mentioned anywhere in the JD — treated as unclear."
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "company": "Stripe",
+  "role_title": "Program Manager, GTM Planning",
+  "url": "https://stripe.com/jobs/search?gh_jid=7656504",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7656504",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "BizOps / Strategy & Ops",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7+ years of program management, business operations, or management consulting experience",
+      "Lead and manage day-to-day operations of large-scale transformational projects",
+      "Accountable for building and driving large-scale transformational initiatives end to end"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_program_mgmt_biz_ops_consulting",
+      "raw_text_from_jd": "7+ years of program management, business operations, or management consulting experience, preferably in a GTM/Sales Operations organization",
+      "skill_type": "years_of_experience",
+      "domain": "program_management_or_business_operations_or_consulting",
+      "minimum_value": 7,
+      "unit": "years",
+      "qualifier": "preferably in a GTM/Sales Operations organization",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "GTM",
+        "Sales Operations"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_project_management",
+      "raw_text_from_jd": "Demonstrated organizational, project management and execution skills with ability to own cross-functional projects",
+      "skill_type": "capability",
+      "domain": "project_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sales_territory_planning",
+      "raw_text_from_jd": "An ability to drive sales territory planning and align strategies across all segments to ensure seamless execution",
+      "skill_type": "domain_knowledge",
+      "domain": "sales_territory_planning",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strategic_analytical_problem_solver",
+      "raw_text_from_jd": "Strong track record as a strategic, analytical problem solver and skilled operator with the demonstrated ability to successfully deploy new initiatives end to end",
+      "skill_type": "outcome",
+      "domain": "strategic_operations",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "fast_paced_environment_comfort",
+      "raw_text_from_jd": "A high degree of comfort working quickly in a high growth and fast-paced environment",
+      "skill_type": "cultural_fit",
+      "domain": "work_environment",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "high_level_to_detail_transition",
+      "raw_text_from_jd": "An ability to seamlessly transition from the high level to very detailed, and a willingness to \"roll up your sleeves\"",
+      "skill_type": "capability",
+      "domain": "execution",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "detail_oriented_analytical_influencer",
+      "raw_text_from_jd": "A detail-oriented and analytical individual with business acumen, and the ability to influence and communicate within all levels of the organization",
+      "skill_type": "capability",
+      "domain": "stakeholder_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "crm_knowledge",
+      "raw_text_from_jd": "Knowledge of Customer Relationship Manager (CRM) systems",
+      "skill_type": "tool_proficiency",
+      "domain": "crm_systems",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_analytics_sheets_sql",
+      "raw_text_from_jd": "Data Analytics (Google Sheets/Excel data manipulation, SQL)",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analytics",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Google Sheets",
+        "Excel"
+      ],
+      "technologies_named": [
+        "SQL"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "GTM Planning — sales territory planning, planning cycle operations, cross-functional program management",
+    "business_model": "B2B financial infrastructure platform",
+    "primary_metrics_inferred": [
+      "On-time delivery of transformational initiatives",
+      "Cross-functional program adoption and change management success",
+      "Planning process efficiency and scalability"
+    ],
+    "cross_functional_partners": [
+      "Sales Leadership",
+      "Finance",
+      "Product",
+      "Legal",
+      "Systems"
+    ],
+    "core_responsibilities": [
+      "Lead and manage day-to-day operations of large-scale transformational projects",
+      "Develop detailed project plans, set milestones, and ensure program integrity",
+      "Standardize reporting and systems requirements",
+      "Design solutions for process improvements and tool development",
+      "Coordinate with key stakeholders and leadership to align complex programs and secure buy-in",
+      "Partner cross-functionally across all departments to influence and execute",
+      "Build and drive large-scale transformational initiatives end to end",
+      "Create roadmaps, project plans, change management plans, tasks and reporting methodologies",
+      "Manage change management activities across stakeholder engagement",
+      "Influence and adopt the use of tooling, including AI-based levers, to make planning processes more efficient"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "GTM Planning",
+    "program management",
+    "sales territory planning",
+    "cross-functional",
+    "change management",
+    "stakeholder management",
+    "business operations",
+    "transformational initiatives",
+    "roadmaps",
+    "AI-based levers"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear articulation of team mission and cross-functional partners",
+    "Explicit statement that preferred qualifications are a bonus, not a requirement — encourages applications from qualified candidates",
+    "Role has defined ownership: end-to-end accountability for large-scale transformational initiatives"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "Location not specified anywhere in the JD — work arrangement (remote/hybrid/onsite) is completely unclear",
+    "Visa sponsorship and work authorization requirements not mentioned"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 7+ years requirement and scope of responsibilities)",
+      "seniority.manages_people (inferred from responsibilities language; no direct reports mentioned)",
+      "scope.business_model (inferred from company description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly stated)",
+      "location.type (set to 'unclear'; no location or work arrangement stated in JD)",
+      "compensation.equity_mentioned (set to false; not mentioned)"
+    ],
+    "ambiguities": [
+      "The minimum requirement states '7+ years of program management, business operations, or management consulting experience, preferably in a GTM/Sales Operations organization' — the 'preferably' qualifier makes the GTM/Sales Ops context a soft preference, but the 7+ years itself is hard. Treated as hard for years, with GTM preference noted in qualifier field.",
+      "Location is entirely unstated — could be any Stripe office or remote. Flagged as 'unclear'."
+    ]
+  }
+}

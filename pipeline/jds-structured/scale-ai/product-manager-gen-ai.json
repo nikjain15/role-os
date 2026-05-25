@@ -1,0 +1,304 @@
+{
+  "company": "Scale AI",
+  "role_title": "Product Manager, Gen AI",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4675842005",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "4675842005",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [
+      "San Francisco, CA",
+      "New York, NY",
+      "Seattle, WA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "AI Product Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Technical PM / Marketplace PM",
+  "seniority": {
+    "level": "Mid to Senior IC (L4–L6, mapping to ~PM II through Staff PM)",
+    "years_required_min": 4,
+    "years_required_max": 10,
+    "manages_people": false,
+    "level_signals": [
+      "4–10 years of experience in Product Management in the tech industry, with scope appropriate to level (L4: 4–6 yrs, L5: 6–8 yrs, L6: 8–10+ yrs)",
+      "Comp range $205,600–$257,000 base consistent with mid-to-senior IC at growth-stage company",
+      "Significant autonomy and end-to-end product ownership described"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "4–10 years of experience in Product Management in the tech industry, with scope appropriate to level (L4: 4–6 yrs, L5: 6–8 yrs, L6: 8–10+ yrs)",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 4,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "tech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "business_acumen_analytical_rigor",
+      "raw_text_from_jd": "Strong business acumen and analytical rigor, with demonstrated success driving products in ambiguous, high-growth environments",
+      "skill_type": "capability",
+      "domain": "product_strategy_and_analytics",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_translation",
+      "raw_text_from_jd": "Experience translating complex technical systems into clear product strategies — comfort engaging deeply with engineering and data science teams",
+      "skill_type": "capability",
+      "domain": "technical_product_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "stakeholder_communication",
+      "raw_text_from_jd": "Excellent communication and stakeholder management skills, capable of influencing across technical and non-technical audiences",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_building_scaling",
+      "raw_text_from_jd": "Experience building products from the ground up and iterating through the scaling journey of a business",
+      "skill_type": "outcome",
+      "domain": "product_development",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "education_quantitative",
+      "raw_text_from_jd": "Bachelor's or advanced degree in a quantitative, engineering, or related discipline",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree",
+        "advanced degree"
+      ]
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "ai_ml_data_infra_marketplace",
+      "raw_text_from_jd": "Experience in AI/ML, data infrastructure, or marketplace businesses",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_ml_data_infrastructure_marketplace",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "AI/ML",
+        "data infrastructure"
+      ],
+      "industries_named": [
+        "marketplace"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_landscape_knowledge",
+      "raw_text_from_jd": "Strong understanding of the AI landscape — model training workflows, data labeling, evaluation, and deployment",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_model_training_and_evaluation",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "model training workflows",
+        "data labeling",
+        "evaluation",
+        "deployment"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "global_payments_gig_trust_safety",
+      "raw_text_from_jd": "Experience with global payment systems, contributor/gig-economy platforms, or trust & safety domains",
+      "skill_type": "domain_knowledge",
+      "domain": "global_payments_gig_economy_trust_safety",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "gig-economy",
+        "trust & safety"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "high_growth_startup_experience",
+      "raw_text_from_jd": "Experience working at high-growth startups or scaling consumer/enterprise platforms",
+      "skill_type": "domain_knowledge",
+      "domain": "startup_or_scaling_platforms",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "high-growth startups"
+      ],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Scale GenAI platform — spans demand-side (Task UX, Multi-Dimensional Quality) and supply-side (Pay & Incentives) products powering AI training data and contributor marketplace",
+    "business_model": "two-sided marketplace (B2B demand side: AI labs and enterprises; supply side: 500,000+ global contributors)",
+    "primary_metrics_inferred": [
+      "Data quality metrics (accuracy, quality scores)",
+      "Contributor payment accuracy and timeliness",
+      "Customer platform adoption and satisfaction",
+      "Marketplace cost efficiency",
+      "ROI / business impact of product initiatives"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Data Science",
+      "Analytics",
+      "Operations",
+      "Finance",
+      "Business Leadership",
+      "Customer-facing stakeholders"
+    ],
+    "core_responsibilities": [
+      "Set the product strategy and roadmap for your area, grounded in customer needs, data analysis, and business impact",
+      "Develop and execute a data-driven product roadmap through close collaboration with senior leadership, engineering, operations, data science, analytics, and design",
+      "Translate customer and internal-user needs into clear, well-defined functional and technical requirements backed by data analysis and deep understanding of your users",
+      "Guide and interface closely with engineering and data teams to define scope, review and refine technical capabilities, prioritize projects for release, and identify new opportunities",
+      "Build long-term instrumentation, monitoring, and evaluation capabilities for product performance tracking and insight generation",
+      "Establish business cases and projected return on investment to identify and prioritize opportunities",
+      "Partner with finance and business leaders to manage impact on the profitability and growth of the overall business",
+      "Communicate product vision, strategy, and progress to executive stakeholders and cross-functional partners"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      205600,
+      257000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity grant (RSUs/options, subject to Board of Director approval)",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "GenAI",
+    "data infrastructure",
+    "two-sided marketplace",
+    "training data",
+    "data labeling",
+    "evaluation frameworks",
+    "human feedback",
+    "contributor ecosystem",
+    "AI/ML",
+    "product roadmap",
+    "data quality",
+    "global payments",
+    "marketplace economics",
+    "instrumentation",
+    "cross-functional"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($205,600–$257,000 base) with equity on top",
+    "Multiple sub-roles described, giving candidates visibility into product surface options",
+    "Clear articulation of product surfaces (Task UX, MDQ, Pay & Incentives) — not vague",
+    "Significant autonomy and end-to-end ownership described",
+    "Scale operates at the frontier of AI with marquee customers (Meta, Cisco, U.S. government agencies)",
+    "Dedicated engineering, design, and data science teams assigned to each PM"
+  ],
+  "red_flags": [
+    "Role is posted for multiple levels (L4–L6) simultaneously, which may indicate undefined scope or level fitting during process",
+    "No explicit mention of visa sponsorship",
+    "Location appears onsite-only in SF/NY/Seattle with no remote option stated",
+    "90-day waiting period before reconsidering candidates for the same role explicitly noted"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years range and comp; JD names L4/L5/L6 levels but not a single seniority band)",
+      "scope.primary_metrics_inferred (not directly stated; inferred from responsibilities)",
+      "scope.business_model (inferred from JD description of two-sided marketplace)",
+      "location.remote_us_eligible (not stated; inferred as false since only SF/NY/Seattle cited for comp and no remote option mentioned)",
+      "compensation.location_pay_differential (inferred from statement that range applies to SF/NY/Seattle specifically)"
+    ],
+    "ambiguities": [
+      "JD covers multiple open PM roles across different sub-teams (Task UX, Multi-Dimensional Quality, Pay & Incentives); it is unclear whether candidates apply to a specific sub-role or are considered for all",
+      "Visa sponsorship is not mentioned anywhere in the JD; treated as 'unclear'",
+      "Office attendance policy not stated; location type inferred as onsite from compensation geography disclosure but hybrid/remote not explicitly ruled out"
+    ]
+  }
+}

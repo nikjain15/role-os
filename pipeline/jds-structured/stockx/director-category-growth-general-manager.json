@@ -1,0 +1,235 @@
+{
+  "company": "StockX",
+  "role_title": "Director, Category Growth (General Manager)",
+  "url": "https://job-boards.greenhouse.io/stockx/jobs/8420553002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8420553002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [
+      "San Francisco, CA",
+      "Los Angeles, CA",
+      "Colorado"
+    ],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "General Manager / Category P&L Owner",
+  "seniority": {
+    "level": "Director / VP (Senior executive IC with people management)",
+    "years_required_min": 10,
+    "years_required_max": null,
+    "manages_people": true,
+    "level_signals": [
+      "10+ years of experience in marketplace leadership, category general management, business development, or growth roles",
+      "Full P&L ownership and executive visibility",
+      "Hire and develop Category Managers and supporting roles",
+      "Represent vertical in executive planning, QBRs, and strategic reviews",
+      "Colorado base range $160,000–$200,000"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_marketplace_leadership",
+      "raw_text_from_jd": "10+ years of experience in marketplace leadership, category general management, business development, or growth roles within consumer tech or two-sided platforms",
+      "skill_type": "years_of_experience",
+      "domain": "marketplace_leadership",
+      "minimum_value": 10,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "consumer tech",
+        "two-sided platforms"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "pl_ownership",
+      "raw_text_from_jd": "Demonstrated ownership of revenue or P&L-level outcomes",
+      "skill_type": "outcome",
+      "domain": "p_and_l_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "scaling_vertical",
+      "raw_text_from_jd": "Proven track record of scaling a vertical, marketplace segment, or new business line",
+      "skill_type": "outcome",
+      "domain": "business_scaling",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "executive_presence_xfn",
+      "raw_text_from_jd": "Strong executive presence and experience influencing cross-functional roadmaps",
+      "skill_type": "capability",
+      "domain": "executive_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "marketplace_mechanics_fluency",
+      "raw_text_from_jd": "Deep fluency in marketplace mechanics: liquidity, take rate, CAC/LTV, cohort behavior, supply elasticity",
+      "skill_type": "domain_knowledge",
+      "domain": "marketplace_economics",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "people_leadership",
+      "raw_text_from_jd": "Experienced people leader with a track record of building high-performing teams",
+      "skill_type": "capability",
+      "domain": "people_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "culture_category_connection",
+      "raw_text_from_jd": "Deep connection to culture-driven or enthusiast categories",
+      "skill_type": "domain_knowledge",
+      "domain": "culture_driven_commerce",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Major category vertical within StockX marketplace (P&L ownership across supply, demand, liquidity, monetization, and marketplace health)",
+    "business_model": "two-sided marketplace, B2C and B2B seller-facing, dynamic pricing",
+    "primary_metrics_inferred": [
+      "Revenue and contribution margin for vertical",
+      "Liquidity (supply depth and demand velocity)",
+      "CAC/LTV and cohort retention",
+      "Seller acquisition and retention",
+      "Conversion rate and monetization"
+    ],
+    "cross_functional_partners": [
+      "Product",
+      "Marketing",
+      "Operations",
+      "Growth",
+      "Partnerships"
+    ],
+    "core_responsibilities": [
+      "Own revenue, contribution margin, liquidity, and growth targets for vertical",
+      "Develop annual and multi-year business plans, forecasts, and investment cases",
+      "Define the long-term category vision, positioning, and competitive differentiation",
+      "Architect the playbook for acquiring, activating, and retaining high-value sellers and creators",
+      "Influence Product roadmap to improve seller tooling, pricing mechanics, discovery, and trust features",
+      "Partner with Marketing to launch culturally relevant campaigns and high-impact moments",
+      "Hire and develop Category Managers and supporting roles as the vertical scales",
+      "Act as the senior face of StockX within the category's ecosystem"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      160000,
+      200000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity mentioned alongside benefits and discretionary bonuses",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "General Manager",
+    "Category P&L",
+    "marketplace mechanics",
+    "liquidity",
+    "supply growth",
+    "demand activation",
+    "two-sided platform",
+    "culture-driven commerce",
+    "cross-functional leadership",
+    "seller acquisition",
+    "vertical strategy",
+    "GTM playbook"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($160K–$200K base in Colorado, with equity and bonuses)",
+    "Clear P&L ownership and GM-level accountability described in detail",
+    "Role has genuine executive visibility and measurable business outcomes",
+    "Detailed responsibilities across supply, demand, monetization, and team-building",
+    "StockX is an established marketplace brand with 1,000+ employees and global reach"
+  ],
+  "red_flags": [
+    "Location not specified for this role; cities cited are only from fair chance ordinance boilerplate (SF, LA, Colorado) — actual work location and remote eligibility are unclear",
+    "Visa sponsorship not addressed anywhere in the JD",
+    "No specific category vertical named — scope of the actual business owned is ambiguous at application stage",
+    "Equity mentioned but no details on form or magnitude provided"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range, years, and P&L ownership language)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not directly listed)",
+      "scope.business_model (inferred from company description and marketplace language)",
+      "location.type (set to unclear; no explicit remote/hybrid/onsite policy stated for this role)",
+      "location.cities_listed (cities are from fair chance ordinance boilerplate, not role-specific office locations)"
+    ],
+    "ambiguities": [
+      "Work location is not stated for this role. San Francisco and Los Angeles are referenced only in the fair chance ordinance disclosure, and Colorado is referenced only in the pay disclosure — none of these confirm the actual office location or remote eligibility.",
+      "The specific category vertical this GM will own is not disclosed in the JD, making it unclear whether the role is for sneakers, electronics, collectibles, trading cards, or another vertical.",
+      "Visa sponsorship is not mentioned; work_auth set to 'open' and visa_sponsorship to 'unclear' by default."
+    ]
+  }
+}

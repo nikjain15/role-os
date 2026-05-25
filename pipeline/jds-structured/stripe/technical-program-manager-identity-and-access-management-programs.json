@@ -1,0 +1,312 @@
+{
+  "company": "Stripe",
+  "role_title": "Technical Program Manager,  Identity and Access Management Programs",
+  "url": "https://stripe.com/jobs/search?gh_jid=7417090",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7417090",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Security / IAM Program Manager",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of technical program management experience",
+      "Drives large-scale technical programs across multiple teams",
+      "Influences decisions across teams without direct authority"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_tpm_experience",
+      "raw_text_from_jd": "5+ years of technical program management experience with demonstrated success in security-focused initiatives",
+      "skill_type": "years_of_experience",
+      "domain": "technical_program_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "qualifier": "security-focused initiatives",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "complex_program_management",
+      "raw_text_from_jd": "Experience managing complex technical programs with multiple stakeholders and dependencies",
+      "skill_type": "capability",
+      "domain": "program_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "security_concepts_knowledge",
+      "raw_text_from_jd": "Strong understanding of security concepts and best practices, particularly in API security, authentication systems, and access controls",
+      "skill_type": "domain_knowledge",
+      "domain": "security",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "API security",
+        "authentication systems",
+        "access controls"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_skills",
+      "raw_text_from_jd": "Excellent communication skills with the ability to translate complex technical concepts to various audiences",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_team_influence",
+      "raw_text_from_jd": "Proven track record of influencing decisions across teams without direct authority",
+      "skill_type": "outcome",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "engineering_product_collaboration",
+      "raw_text_from_jd": "Experience working with engineering and product teams in a fast-paced environment",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "Bachelor's degree in Computer Science, Engineering, or related field (or equivalent practical experience)",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": true,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree in Computer Science",
+        "Bachelor's degree in Engineering"
+      ]
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "payments_fintech_saas_experience",
+      "raw_text_from_jd": "Experience with payment systems, financial technology, or enterprise SaaS platforms",
+      "skill_type": "domain_knowledge",
+      "domain": "payments_fintech_saas",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "payment systems",
+        "financial technology",
+        "enterprise SaaS"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "compliance_knowledge",
+      "raw_text_from_jd": "Knowledge of compliance requirements related to data security (SOC2, PCI, etc.)",
+      "skill_type": "domain_knowledge",
+      "domain": "compliance",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "SOC2",
+        "PCI"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "iam_experience",
+      "raw_text_from_jd": "Experience with identity and access management systems",
+      "skill_type": "domain_knowledge",
+      "domain": "identity_and_access_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "identity and access management"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "api_platform_security_background",
+      "raw_text_from_jd": "Background in API development or platform security",
+      "skill_type": "domain_knowledge",
+      "domain": "api_security",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "API development",
+        "platform security"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "developer_platforms_experience",
+      "raw_text_from_jd": "Previous experience working on developer platforms or developer experience",
+      "skill_type": "domain_knowledge",
+      "domain": "developer_experience",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Organization Access Platform (OAP) — API key security, Account Takeover (ATO) prevention, login access controls, risk/security/fraud prevention",
+    "business_model": "B2B financial infrastructure platform",
+    "primary_metrics_inferred": [
+      "Security program delivery success rate",
+      "Reduction in ATO incidents",
+      "Program effectiveness metrics and security outcomes"
+    ],
+    "cross_functional_partners": [
+      "Security",
+      "Fraud operations",
+      "Product engineering",
+      "Engineering managers",
+      "Leadership"
+    ],
+    "core_responsibilities": [
+      "Lead end-to-end program management for critical security initiatives including API key security, Account Takeover (ATO) prevention, login access controls, and other risk/security/fraud prevention measures",
+      "Drive cross-team dependencies and collaboration between security, fraud operations, and product engineering teams",
+      "Track, communicate, and resolve program blockers across multiple workstreams",
+      "Develop implementation roadmaps and execution strategies for complex security features",
+      "Partner with engineering managers to define technical requirements and prioritize security enhancements",
+      "Establish metrics and reporting processes to measure program effectiveness and security outcomes",
+      "Facilitate decision-making processes when trade-offs are required between security, user experience, and development timelines",
+      "Represent OAP security initiatives in cross-functional meetings and leadership reviews"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Technical Program Manager",
+    "Identity and Access Management",
+    "API key security",
+    "Account Takeover",
+    "ATO prevention",
+    "authentication systems",
+    "access controls",
+    "Organization Access Platform",
+    "security initiatives",
+    "cross-functional"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clearly scoped security domain — OAP team with specific focus areas named (ATO, API key security, login controls)",
+    "JD explicitly states preferred qualifications are a bonus, not a requirement — inclusive application signal",
+    "Stripe is a well-known, high-scale financial infrastructure company with strong engineering culture"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "No location or remote/hybrid policy specified — candidates cannot assess work arrangement",
+    "No visa sponsorship or work authorization information provided"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 5+ years requirement and scope of responsibilities)",
+      "scope.business_model (inferred from company description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly stated in JD)",
+      "location.type (not stated in JD body; set to 'unclear')",
+      "compensation.equity_mentioned (not mentioned; set to false)"
+    ],
+    "ambiguities": [
+      "Location type is not specified anywhere in the JD — could be remote, hybrid, or onsite. Set to 'unclear'.",
+      "Work authorization and visa sponsorship not mentioned anywhere in JD."
+    ]
+  }
+}

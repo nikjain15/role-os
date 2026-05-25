@@ -1,0 +1,279 @@
+{
+  "company": "Speechmatics",
+  "role_title": "Senior Product Manager",
+  "url": "https://job-boards.eu.greenhouse.io/speechmatics/jobs/4675075101",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "4675075101",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [],
+    "remote_us_eligible": false,
+    "office_time_required": "2-3 designated office days each week",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "AI Product Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Generalist PM",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": null,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "Title: Senior Product Manager",
+      "Multiple examples of leading cross functional teams to achieve material business success",
+      "Described as 'full spectrum product veteran'"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "cross_functional_leadership",
+      "raw_text_from_jd": "Full spectrum product veteran with multiple examples of leading cross functional teams to achieve material business success, ideally in tech scale-ups.",
+      "skill_type": "outcome",
+      "domain": "product_management",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "tech scale-ups"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "execution_ambiguity",
+      "raw_text_from_jd": "Results driven and execution focused – enjoys forging a path through an ambiguous and rapidly evolving environments.",
+      "skill_type": "cultural_fit",
+      "domain": "execution_and_adaptability",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "curiosity_first_principles",
+      "raw_text_from_jd": "Insatiably curiosity with a first principles approach to product growth.",
+      "skill_type": "cultural_fit",
+      "domain": "product_growth",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_ml_literacy",
+      "raw_text_from_jd": "AI / ML literate - understands LLM limits, evals, performance/latency/cost trade-offs, data pipelines, guardrails, and can quickly gain respect of Eng/Research.",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_ml",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "LLMs",
+        "evals",
+        "data pipelines",
+        "guardrails"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "voice_ai_product_strategy",
+      "raw_text_from_jd": "Leading the strategy and execution of our world beating Voice AI products from development to GTM.",
+      "skill_type": "capability",
+      "domain": "voice_ai_product_strategy",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "Voice AI"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_led_growth",
+      "raw_text_from_jd": "Helping us scale at pace by accelerating our Product Led Growth with developers, implementing GTM engineering approaches and building momentum in our ICPs.",
+      "skill_type": "capability",
+      "domain": "product_led_growth",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "market_customer_technical_insights",
+      "raw_text_from_jd": "Effectively gathering market, customer and technical understanding and driving the product roadmap based on this.",
+      "skill_type": "capability",
+      "domain": "product_roadmap",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "voice_ai_experience",
+      "raw_text_from_jd": "Specific Voice AI experience certainly helps!",
+      "skill_type": "domain_knowledge",
+      "domain": "voice_ai",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "Voice AI"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "tech_scaleup_background",
+      "raw_text_from_jd": "Full spectrum product veteran with multiple examples of leading cross functional teams to achieve material business success, ideally in tech scale-ups.",
+      "skill_type": "domain_knowledge",
+      "domain": "tech_startups",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "tech scale-ups"
+      ],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Speechmatics Voice AI portfolio — products from development to GTM",
+    "business_model": "B2B enterprise and developer-facing, API/platform, speech intelligence",
+    "primary_metrics_inferred": [
+      "Product Led Growth acceleration",
+      "Developer adoption",
+      "ICP pipeline momentum",
+      "GTM launch success"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Research",
+      "Go-to-market teams",
+      "Customers",
+      "Partners"
+    ],
+    "core_responsibilities": [
+      "Leading the strategy and execution of our world beating Voice AI products from development to GTM.",
+      "Igniting enthusiasm internally and externally about what we are doing and why.",
+      "Helping us scale at pace by accelerating our Product Led Growth with developers, implementing GTM engineering approaches and building momentum in our ICPs.",
+      "Effectively gathering market, customer and technical understanding and driving the product roadmap based on this.",
+      "Transforming customer insights into product roadmaps and aligning cross-functional stakeholders",
+      "Accelerating the global adoption of Speechmatics' Voice AI technology"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Voice AI",
+    "Product Led Growth",
+    "GTM engineering",
+    "Speech Intelligence",
+    "LLMs",
+    "AI/ML",
+    "product roadmap",
+    "cross-functional",
+    "developer adoption",
+    "scale-up"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Explicitly encourages applications from candidates who don't match all requirements exactly",
+    "Clear product surface: Voice AI portfolio with explicit GTM and PLG focus",
+    "Described culture emphasises focus time (Focus Fridays) and collaboration (Together Tuesdays)",
+    "Comprehensive benefits mentioned including Private Medical, Dental, parental leave, pension/401K matching, global working opportunities",
+    "Diversity and inclusion commitment explicitly stated",
+    "Hybrid model clearly described (2-3 days/week)"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "No specific city listed — unclear which office location is required for hybrid days",
+    "Visa sponsorship and work authorisation requirements not stated",
+    "Seniority experience bar is described qualitatively ('full spectrum product veteran', 'multiple examples') without quantifiable years, making it harder to self-screen"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title and qualitative descriptions; no years stated)",
+      "scope.business_model (inferred from company description and product context)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly stated in JD)",
+      "location.cities_listed (no specific city named for this role)",
+      "location.remote_us_eligible (inferred false given hybrid requirement; not explicitly stated)"
+    ],
+    "ambiguities": [
+      "Location city not specified — the JD references hybrid 2-3 days/week but does not name the office city. Speechmatics is headquartered in Cambridge, UK, but this is not confirmed in the JD body for this role.",
+      "tech_scaleup_background appears in both must_haves (as a primary criterion) and nice_to_haves (because 'ideally' qualifier makes it preferred) — captured in nice_to_haves only to avoid duplication; the parent must_have covers the full sentence.",
+      "Work authorisation and visa sponsorship are not mentioned anywhere in the JD; set to 'unclear'.",
+      "The JD mentions 'global working opportunities' in benefits but does not clarify if the role itself is open to global applicants or US-based applicants."
+    ]
+  }
+}

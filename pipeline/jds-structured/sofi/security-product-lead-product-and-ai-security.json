@@ -1,0 +1,361 @@
+{
+  "company": "SoFi",
+  "role_title": "Security Product Lead – Product & AI Security",
+  "url": "https://sofi.com/careers/job/7700757003?gh_jid=7700757003",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7700757003",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "AI Product Manager (Security-focused)",
+  "seniority": {
+    "level": "Senior IC / Principal",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7+ years of experience in cybersecurity, risk management, or technology strategy roles",
+      "Multi-year roadmap ownership across Product Security and AI Security",
+      "Influence without direct authority signals senior IC, not a manager",
+      "M&A security due diligence ownership implies principal-level scope"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_cybersecurity_experience",
+      "raw_text_from_jd": "7+ years of experience in cybersecurity, risk management, or technology strategy roles.",
+      "skill_type": "years_of_experience",
+      "domain": "cybersecurity",
+      "minimum_value": 7,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_security_appsec_devsecops_ai_security",
+      "raw_text_from_jd": "Demonstrated experience in Product Security (AppSec), DevSecOps, or AI/ML Security domains.",
+      "skill_type": "domain_knowledge",
+      "domain": "product_security / appsec / devsecops / ai-ml security",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AppSec",
+        "DevSecOps",
+        "AI/ML Security"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strategic_roadmap_management",
+      "raw_text_from_jd": "Demonstrated experience building and managing strategic roadmaps tied to measurable outcomes.",
+      "skill_type": "outcome",
+      "domain": "product_roadmap_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ma_security_due_diligence",
+      "raw_text_from_jd": "Experience providing strategic security due diligence and executing cyber security integration for M&A activities.",
+      "skill_type": "domain_knowledge",
+      "domain": "M&A security due diligence",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "secure_development_practices",
+      "raw_text_from_jd": "Strong understanding of secure development practices, vulnerability management, and common software security frameworks.",
+      "skill_type": "domain_knowledge",
+      "domain": "secure_software_development",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_ml_security_risks",
+      "raw_text_from_jd": "Understanding of AI/ML concepts and associated security risks, including data provenance, model integrity, and adversarial machine learning.",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_ml_security",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI/ML",
+        "adversarial machine learning"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_mindset_strategy_to_execution",
+      "raw_text_from_jd": "Strong product mindset with ability to translate strategy into execution.",
+      "skill_type": "capability",
+      "domain": "product_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "matrixed_org_experience",
+      "raw_text_from_jd": "Experience working in matrixed organizations with cross-functional stakeholders.",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_executive_presentation",
+      "raw_text_from_jd": "Strong analytical, communication, and executive presentation skills.",
+      "skill_type": "capability",
+      "domain": "executive_communication",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "Bachelor's degree in Computer Science, Cybersecurity, or related discipline.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree",
+        "Computer Science",
+        "Cybersecurity"
+      ]
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "ai_red_team_program",
+      "raw_text_from_jd": "implementing an AI Red Team program, rolling out a new static analysis tool",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_red_teaming",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "AI Red Team",
+        "static analysis"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "owasp_software_supply_chain",
+      "raw_text_from_jd": "Monitor industry trends in software supply chain attacks, emerging vulnerabilities (e.g., OWASP Top 10), and AI-specific threats (e.g., model poisoning, prompt injection).",
+      "skill_type": "domain_knowledge",
+      "domain": "emerging_security_threats",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "OWASP Top 10",
+        "model poisoning",
+        "prompt injection"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ci_cd_devsecops_automation",
+      "raw_text_from_jd": "Mature Secure SDLC practices and embed automation into CI/CD pipelines",
+      "skill_type": "tool_proficiency",
+      "domain": "devsecops_automation",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "CI/CD",
+        "DevSecOps",
+        "Secure SDLC"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "bug_bounty_pentest_incorporation",
+      "raw_text_from_jd": "Incorporate lessons learned from penetration tests, bug bounty programs, and security audits into roadmap evolution.",
+      "skill_type": "capability",
+      "domain": "vulnerability_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [
+    "Remote work from Hawaii or Alaska"
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Product Security and AI Security capabilities as internal security products; spans SDLC security, AI/ML risk, and M&A security due diligence",
+    "business_model": "B2C fintech / national bank (mobile-first personal finance)",
+    "primary_metrics_inferred": [
+      "Reduction in critical vulnerabilities",
+      "Secure-by-design adoption rate",
+      "AI risk mitigation completeness",
+      "DevSecOps integration maturity level",
+      "M&A security integration speed and quality"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Product Management",
+      "Data Science / AI",
+      "Legal",
+      "Risk",
+      "Compliance",
+      "Product Security functional leaders",
+      "AI/ML functional leaders"
+    ],
+    "core_responsibilities": [
+      "Develop and maintain a multi-year strategy and roadmap for Product Security and AI Security capabilities",
+      "Align roadmap priorities with enterprise risk objectives, regulatory requirements, and evolving attack surface",
+      "Lead Security Due Diligence: Own the end-to-end security assessment process for M&A targets",
+      "Define and continuously improve SoFi's M&A security playbook, methodologies, and standards",
+      "Establish clear capability maturity targets and continuous improvement plans",
+      "Maintain and prioritize a strategic backlog aligned to measurable risk reduction outcomes",
+      "Structure and manage strategic programs required to deliver roadmap objectives",
+      "Facilitate stakeholder alignment, trade-off decisions, and expectation management",
+      "Monitor industry trends in software supply chain attacks and AI-specific threats"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": true,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Product Security",
+    "AI Security",
+    "DevSecOps",
+    "AppSec",
+    "Secure SDLC",
+    "AI/ML Security",
+    "M&A security due diligence",
+    "strategic roadmap",
+    "capability maturity",
+    "prompt injection",
+    "model integrity",
+    "adversarial machine learning",
+    "risk reduction",
+    "portfolio management"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear multi-domain ownership scope (Product Security + AI Security + M&A security) provides genuine breadth",
+    "Role sits within Security Strategy & Delivery team, suggesting strategic elevation rather than purely operational",
+    "Explicit focus on measurable outcomes and KPIs signals a mature security org",
+    "Acknowledges 'influence without direct authority' — IC-friendly framing"
+  ],
+  "red_flags": [
+    "Compensation range not disclosed despite mention of base pay range in the JD",
+    "Location type is unclear — no city, no explicit remote/hybrid/onsite designation stated in the body (only Hawaii/Alaska exclusion noted)",
+    "M&A security due diligence is listed as a required qualification, which is a relatively niche and hard-to-substitute background",
+    "Broad scope spanning Product Security, AI Security, and M&A could indicate under-resourcing or role conflation"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "location.type (no explicit remote/hybrid/onsite stated; marked 'unclear')",
+      "location.remote_us_eligible (inferred true from Hawaii/Alaska exclusion implying remote is otherwise allowed)",
+      "seniority.level (inferred from years requirement and scope; not titled)",
+      "scope.business_model (inferred from company description as B2C fintech/national bank)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly listed as KPIs)",
+      "compensation.location_pay_differential (inferred from 'individual factors such as the candidate's experience, skills, and location')"
+    ],
+    "ambiguities": [
+      "Location is not explicitly stated as remote, hybrid, or onsite in the JD body. The only location signal is exclusion of Hawaii and Alaska for remote work, implying some remote eligibility. Marked 'unclear' with remote_us_eligible: true.",
+      "M&A security due diligence is listed in both Key Responsibilities and Qualifications, suggesting it is a hard requirement, though it could be read as a preferred specialization given the broader cybersecurity years requirement.",
+      "nice_to_have items (CI/CD, bug bounty, OWASP, AI Red Team) appear in the responsibilities section without 'preferred' or 'bonus' language; classified soft because they describe activities rather than stated candidate requirements."
+    ]
+  }
+}

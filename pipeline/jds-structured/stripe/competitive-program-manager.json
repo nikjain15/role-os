@@ -1,0 +1,213 @@
+{
+  "company": "Stripe",
+  "role_title": "Competitive Program Manager",
+  "url": "https://stripe.com/jobs/search?gh_jid=7644883",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7644883",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "BizOps / Strategy & Ops",
+  "seniority": {
+    "level": "Senior IC / Staff (10+ years experience)",
+    "years_required_min": 10,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "10+ years of experience in program management, sales operations, process improvement, management consulting or competitive intelligence",
+      "8+ years of experience building or supporting GTM programs, processes, or workflows",
+      "Track record of delivering global transformational, complex programs"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_program_management",
+      "raw_text_from_jd": "10+ years of experience in program management, sales operations, process improvement, management consulting or competitive intelligence",
+      "skill_type": "years_of_experience",
+      "domain": "program_management",
+      "minimum_value": 10,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "years_gtm_programs",
+      "raw_text_from_jd": "8+ years of experience building or supporting GTM programs, processes, or workflows",
+      "skill_type": "years_of_experience",
+      "domain": "go_to_market",
+      "minimum_value": 8,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "global_transformational_programs",
+      "raw_text_from_jd": "A strong track record of delivering global transformational, complex programs in a changing, ambiguous environment which have delivered quantifiable business impact",
+      "skill_type": "outcome",
+      "domain": "program_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "b2b_sales_experience",
+      "raw_text_from_jd": "Experience working with B2B sales teams; preferably in technology, infrastructure, or platform companies",
+      "skill_type": "domain_knowledge",
+      "domain": "b2b_sales",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "technology",
+        "infrastructure",
+        "platform companies"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_presentation_communication",
+      "raw_text_from_jd": "Excellent analytical, presentation, and communication experience, influencing across all levels. You set a high-bar in terms of communication effectiveness.",
+      "skill_type": "capability",
+      "domain": "communication_and_influence",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_influence",
+      "raw_text_from_jd": "Ability to influence cross functional stakeholders to align and executive on common objectives.",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Market Intelligence function within Product Marketing; competitive program spanning GTM, Product, and Sales Ops",
+    "business_model": "B2B financial infrastructure platform",
+    "primary_metrics_inferred": [
+      "Competitive win rates in deals-in-flight",
+      "KPI reporting automation coverage",
+      "Cross-functional engagement and program adoption",
+      "Quantifiable business impact from competitive intelligence initiatives"
+    ],
+    "cross_functional_partners": [
+      "GTM",
+      "Product",
+      "Sales Ops",
+      "Internal Systems",
+      "Data Science",
+      "Product Management",
+      "Product Operations",
+      "Sales",
+      "Demand Generation",
+      "Campaigns",
+      "Partnerships",
+      "Engineering"
+    ],
+    "core_responsibilities": [
+      "Work cross-functionally to shape the program to meet internal user needs and design an engagement framework that maps touchpoints and use-cases between cross-functional partners and Market Intelligence",
+      "Execute on the technology roadmap for Market Intelligence by working across Internal Systems, Data Science, and Sales Ops to automate reporting, KPIs, and insights",
+      "Drive competitive GTM execution by triaging deals-in-flight, bringing in the right cross-functional stakeholders, and developing a treatment plan for Stripe to win",
+      "Contribute to product decision-making and roadmap prioritization by partnering with product operations and product management"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "competitive intelligence",
+    "program management",
+    "GTM",
+    "market intelligence",
+    "sales operations",
+    "product marketing",
+    "cross-functional",
+    "B2B",
+    "competitive program",
+    "go-to-market"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear program ownership described — design, management, and execution of a competitive program",
+    "High cross-functional visibility across GTM, Product, Sales Ops, Engineering, and Data Science",
+    "Role sits within Product Marketing with direct influence on product strategy and GTM",
+    "Stripe is a well-known, high-growth fintech company with global scale"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "No location or remote/hybrid policy stated — candidates cannot assess work arrangement requirements",
+    "Visa sponsorship and work authorization not addressed",
+    "JD body says 'preferably in technology, infrastructure, or platform companies' for B2B experience but lists it under Minimum Requirements, creating mild severity ambiguity"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 10+ years requirement and program complexity signals)",
+      "scope.business_model (inferred from company description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "location.type (not stated; marked unclear)",
+      "compensation.source (not stated; marked unknown)"
+    ],
+    "ambiguities": [
+      "B2B sales experience with 'preferably in technology, infrastructure, or platform companies' is listed under Minimum Requirements but uses the word 'preferably', suggesting it may be a soft preference. Treated as hard given its placement under minimum requirements.",
+      "No location is specified anywhere in the JD — it is unclear whether this role is remote, hybrid, or onsite, and which city or country it is based in."
+    ]
+  }
+}

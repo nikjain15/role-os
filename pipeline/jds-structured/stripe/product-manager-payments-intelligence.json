@@ -1,0 +1,223 @@
+{
+  "company": "Stripe",
+  "role_title": "Product Manager, Payments Intelligence",
+  "url": "https://stripe.com/jobs/search?gh_jid=7580706",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7580706",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "AI Product Manager",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Technical PM with ML/payments focus",
+  "seniority": {
+    "level": "Senior IC / Staff PM",
+    "years_required_min": 8,
+    "years_required_max": null,
+    "manages_people": true,
+    "level_signals": [
+      "8+ years of relevant experience",
+      "Build and coach your team on best practices",
+      "Set the pace, prioritization and execution for the team",
+      "Develop the long-term vision and strategy"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "Product Management experience: 8+ years of relevant experience",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 8,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "business_acumen",
+      "raw_text_from_jd": "Strong business acumen: You enjoy digging into the details of how a business works, identifying how to make it better, and building product/technical solutions to do so",
+      "skill_type": "capability",
+      "domain": "business_strategy",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_partner_facing_experience",
+      "raw_text_from_jd": "Customer and Partner facing experience: You're comfortable in front of customers or third-party collaborators, and have experience navigating customer conversations",
+      "skill_type": "capability",
+      "domain": "customer_engagement",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "operational_savvy",
+      "raw_text_from_jd": "Operational savvy: You are strong operationally, capable of designing and driving a cross-functional team and process",
+      "skill_type": "capability",
+      "domain": "cross_functional_operations",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_horsepower",
+      "raw_text_from_jd": "Analytical horsepower: You dig deep into the data, think from user first principles, and deliver the right results",
+      "skill_type": "capability",
+      "domain": "data_analysis",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "crisp_communicator",
+      "raw_text_from_jd": "Crisp communicator: High attention to detail including precise and effective communications, including with external customers/partners",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "results_oriented",
+      "raw_text_from_jd": "Results-oriented: You enjoy doing whatever it takes to execute on complex projects",
+      "skill_type": "cultural_fit",
+      "domain": "execution",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Payments Intelligence engine and Payments Optimization products (including Radar and Authorization Boost)",
+    "business_model": "B2B financial infrastructure platform",
+    "primary_metrics_inferred": [
+      "Payment authorization rate / successful transaction volume",
+      "Payment cost minimization for users",
+      "Fraud rate reduction"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Data Science",
+      "Design",
+      "Product Marketing",
+      "Partnerships",
+      "Sales",
+      "Account Management",
+      "Operations"
+    ],
+    "core_responsibilities": [
+      "Develop the long-term vision and strategy for Payments Intelligence and Optimization products, prioritize accordingly, and create an execution roadmap",
+      "Deeply understand users' needs by spending time with developers, sales, and support, and by observing patterns/trends across their feedback, the market, and data",
+      "Build and launch new capabilities and products that bring significant value to customers",
+      "Set the pace, prioritization and execution for the team",
+      "Work with a wide range of systems, processes and technologies to own and solve technical and product problems",
+      "Collaborate with stakeholders across the organization",
+      "Build and coach your team on best practices in defining product requirements and how to deliver against those requirements and the overall roadmap"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Payments Intelligence",
+    "Payments Optimization",
+    "Radar",
+    "Authorization Boost",
+    "ML",
+    "fraud",
+    "product roadmap",
+    "data science",
+    "cross-functional",
+    "financial infrastructure",
+    "payment authorization"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear product surface with named products (Radar, Authorization Boost)",
+    "High-impact domain: billions of dollars of transactions processed annually",
+    "Explicit encouragement to apply if minimum requirements are met",
+    "Preferred qualifications are labeled as a 'bonus, not a requirement', reducing gatekeeping"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "No location, remote eligibility, or visa/work authorization information provided",
+    "No preferred qualifications listed despite JD structure implying they exist ('preferred qualifications are a bonus, not a requirement') — section appears to be missing or blank",
+    "Manages people implied by coaching/team responsibilities but not explicitly stated — scope of people management is unclear"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years + coaching/vision responsibilities; not directly stated)",
+      "seniority.manages_people (inferred from 'Build and coach your team' language; not explicitly stated as a people manager role)",
+      "scope.business_model (inferred from company description)",
+      "scope.primary_metrics_inferred (inferred from team mission; not stated in JD)",
+      "archetype (AI Product Manager chosen due to ML/data science centrality of Payments Intelligence; Technical PM also applicable)",
+      "location.type set to 'unclear' — no location data in JD"
+    ],
+    "ambiguities": [
+      "JD includes a section header 'preferred qualifications are a bonus, not a requirement' but no preferred qualifications are actually listed — either intentionally omitted or a template error.",
+      "People management scope is ambiguous: 'Build and coach your team' implies managing or mentoring PMs, but no headcount or direct report structure is stated.",
+      "Archetype could reasonably be 'Technical PM' or 'AI Product Manager' given the ML/data science focus; 'AI Product Manager' chosen due to real-time ML predictions and model-driven optimization being core to the product."
+    ]
+  }
+}

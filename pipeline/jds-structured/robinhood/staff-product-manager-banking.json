@@ -1,0 +1,268 @@
+{
+  "company": "Robinhood",
+  "role_title": "Staff Product Manager, Banking",
+  "url": "https://boards.greenhouse.io/robinhood/jobs/7587151?t=gh_src=&gh_jid=7587151",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7587151",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "Menlo Park, CA",
+      "New York, NY",
+      "Washington, DC"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "at least 3 days per week",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Technical PM (banking/fintech platform)",
+  "seniority": {
+    "level": "Staff IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "At least 5 years of direct product management experience; 7+ years preferred",
+      "Staff PM title signals senior IC above Senior PM",
+      "Base pay Zone 1 $191K–$225K consistent with Staff-level IC",
+      "Expected to shape product vision and priorities across team and company"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "Bachelor's, Master's, or equivalent experience",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": true,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's",
+        "Master's"
+      ]
+    },
+    {
+      "id": "years_pm_consumer_products",
+      "raw_text_from_jd": "At least 5 years of direct product management experience building high-quality consumer products",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "qualifier": "direct, consumer products",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_business_sense",
+      "raw_text_from_jd": "Superb product and business sense",
+      "skill_type": "capability",
+      "domain": "product_strategy",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_communication_skills",
+      "raw_text_from_jd": "Excellent analytical and communication skills",
+      "skill_type": "capability",
+      "domain": "analytics_and_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "urgency_multi_priority",
+      "raw_text_from_jd": "A strong sense of urgency and speed, with the ability to manage multiple priorities in a fast-moving environment",
+      "skill_type": "capability",
+      "domain": "execution",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "high_standards_work_ethic",
+      "raw_text_from_jd": "High standards and a strong work ethic - you always bring your best and expect your colleagues to do the same",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "innovation_complex_environments",
+      "raw_text_from_jd": "Delight in bringing innovation and impact to customers, particularly in complex and dynamic environments",
+      "skill_type": "cultural_fit",
+      "domain": "product_innovation",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "years_pm_preferred",
+      "raw_text_from_jd": "7+ years preferred",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 7,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "fintech_experience",
+      "raw_text_from_jd": "Experience in fintech products is a plus, but not required",
+      "skill_type": "domain_knowledge",
+      "domain": "fintech",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Core banking and spending products; platform capabilities powering next-generation banking experiences for consumers",
+    "business_model": "B2C consumer fintech / banking",
+    "primary_metrics_inferred": [
+      "Product adoption and activation for banking/spending features",
+      "Customer satisfaction and retention",
+      "Feature launch velocity and quality",
+      "Platform scalability metrics"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Research",
+      "Data Science",
+      "Operations",
+      "Legal",
+      "Compliance",
+      "Finance",
+      "Customer Success"
+    ],
+    "core_responsibilities": [
+      "Lead a team of engineers, designers, researchers, data scientists, and operators to better understand customers and their most pressing needs",
+      "Establishing a product vision and shared set of priorities across the team and the company, which meet the most important needs of our customers",
+      "Collaborate with cross functional stakeholders such as legal, compliance, operations, finance, and customer success to ensure products are built the right way",
+      "Drive execution from concept through launch, including defining success metrics and iterating based on results"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      191000,
+      225000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity mentioned as part of total compensation package",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "banking",
+    "consumer products",
+    "fintech",
+    "product vision",
+    "platform",
+    "cross-functional",
+    "concept to launch",
+    "success metrics",
+    "democratize finance",
+    "spending products"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range explicitly disclosed across three geographic zones",
+    "Equity and bonus mentioned in addition to base pay",
+    "Clear product surface (banking and spending platform for consumers)",
+    "Strong cross-functional scope signals high-impact role",
+    "Fintech experience listed as a plus, not required — opens applicant pool",
+    "Generous benefits package including 100% paid health insurance and mental health support"
+  ],
+  "red_flags": [
+    "Hybrid requirement of at least 3 days per week in office (Menlo Park, New York, or Washington DC) eliminates remote candidates",
+    "No visa sponsorship status mentioned — unclear for non-US candidates",
+    "7+ years preferred language suggests the 5-year minimum may be a soft floor for a Staff-level role",
+    "Relatively sparse on technical banking/regulatory depth requirements for a Staff PM on a banking product"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Staff PM' and compensation range)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "scope.business_model (inferred from product description)",
+      "compensation.base_range_usd uses Zone 1 figures as primary range (Menlo Park/NY/DC); Zones 2 and 3 also stated in JD"
+    ],
+    "ambiguities": [
+      "The JD lists Bellevue, WA in the Zone 1 compensation table but does not list it as an office location for this role; cities_listed reflects only the three explicitly named office locations for the role.",
+      "Visa sponsorship not mentioned anywhere in the JD; marked as 'unclear'.",
+      "The 5-year minimum vs 7+ preferred distinction creates ambiguity about true floor for a Staff-level hire; treated 5 years as hard minimum and 7+ as soft preference."
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "company": "Supabase",
+  "role_title": "Product Manager - Pricing & Billing",
+  "url": "https://jobs.ashbyhq.com/supabase/47282e37-34dc-401d-a1cd-dbe85fdd1c22",
+  "ats_provider": "ashby",
+  "ats_job_id": "47282e37-34dc-401d-a1cd-dbe85fdd1c22",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "remote-global",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Growth PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "BizOps / Strategy & Ops (monetization focus)",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years at the intersection of Product and Growth",
+      "High-autonomy, high-leverage role with company-wide initiative ownership",
+      "Works directly with commercial leadership and cross-functional executives"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_product_growth",
+      "raw_text_from_jd": "You have spent meaningful time (5+ years) at the intersection of Product and Growth at an infrastructure or database company with strong product-led growth in its DNA.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management+growth",
+      "minimum_value": 5,
+      "unit": "years",
+      "is_combined": true,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "infrastructure",
+        "database"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "infrastructure company",
+        "database company"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "developer_pricing_experience",
+      "raw_text_from_jd": "You've done this before, at a company where developers were the customer and pricing actually mattered, and you understand the different approaches needed to engage each customer in the right way at the right time across both PLG and Sales-led GTM motions.",
+      "skill_type": "domain_knowledge",
+      "domain": "developer_pricing_plg_sales",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "infrastructure"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "consumption_billing_expertise",
+      "raw_text_from_jd": "You're an expert in consumption-based billing models and have deep experience on how to build them right for not just a single product, but across a full suite of products and plans.",
+      "skill_type": "domain_knowledge",
+      "domain": "consumption_based_billing",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "pricing_as_product",
+      "raw_text_from_jd": "You believe pricing itself is product and should be treated as one, from clear understanding of the customer experience to thoughtfully designed and well-executed experiments that measure elasticity, expansion behavior, and conversion impact across multiple channels (PLG, Sales-led). You've seen what bad pricing does to developer trust, and you can point to work you're proud of where you've designed something better.",
+      "skill_type": "outcome",
+      "domain": "pricing_strategy",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "pricing_experiments",
+      "raw_text_from_jd": "Design and run pricing experiments across plans, usage dimensions, and packaging to understand elasticity, expansion behavior, and conversion impact across both PLG and sales channels.",
+      "skill_type": "capability",
+      "domain": "pricing_experimentation",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "commercial_literacy",
+      "raw_text_from_jd": "You're commercially literate at a deep level and understand how margin structure, infrastructure cost economics, LTV/CAC, and pricing decisions flow through to ARR expansion and the business's top and bottom line.",
+      "skill_type": "domain_knowledge",
+      "domain": "commercial_finance_and_metrics",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_infrastructure_depth",
+      "raw_text_from_jd": "You have the technical depth to earn credibility. You understand infrastructure and how compute, storage, bandwidth, and egress play into developer experience and application architecture.",
+      "skill_type": "domain_knowledge",
+      "domain": "infrastructure_and_developer_experience",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "compute",
+        "storage",
+        "bandwidth",
+        "egress"
+      ],
+      "industries_named": [
+        "infrastructure"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_communication",
+      "raw_text_from_jd": "You earn trust quickly across very different audiences. A customer, an engineer and a CFO will all walk away from a conversation with you feeling like you understood their problem.",
+      "skill_type": "capability",
+      "domain": "cross_functional_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "async_remote_fluency",
+      "raw_text_from_jd": "You are 100% comfortable in a remote environment. You default to writing things down. When something is ambiguous, you document it. When a decision is made, you circulate it. You don't need a meeting to move things forward.",
+      "skill_type": "cultural_fit",
+      "domain": "remote_async_work",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "280+ total company; team size for billing/pricing unclear",
+    "surface": "Pricing architecture and monetization strategy across the full Supabase product suite",
+    "business_model": "developer-facing infrastructure platform, PLG and enterprise/sales-led",
+    "primary_metrics_inferred": [
+      "ARR expansion",
+      "Conversion impact across PLG and sales channels",
+      "Pricing elasticity and expansion behavior",
+      "LTV/CAC",
+      "Developer adoption and retention"
+    ],
+    "cross_functional_partners": [
+      "Product",
+      "Engineering",
+      "Growth",
+      "Sales",
+      "Finance",
+      "GTM",
+      "Billing teams",
+      "Commercial leadership"
+    ],
+    "core_responsibilities": [
+      "Lead company-wide initiatives that reshape the monetization model",
+      "Rethink how Supabase bills for compute, unify credits, and build toward a scalable pricing architecture",
+      "Partner with product, engineering, finance, GTM and billing teams to design transparent, predictable, and scalable pricing systems",
+      "Proactively reimagine pricing strategy for new infrastructure primitives, workloads, and global expansion",
+      "Work with commercial leadership to evolve monetization strategy across PLG and enterprise channels",
+      "Design and run pricing experiments across plans, usage dimensions, and packaging",
+      "Audit existing plans to identify friction, uncaptured value, and punitive pricing"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "ESOP — every team member receives equity ownership in the company",
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "pricing strategy",
+    "consumption-based billing",
+    "monetization",
+    "PLG",
+    "product-led growth",
+    "infrastructure",
+    "developer experience",
+    "ARR expansion",
+    "pricing experiments",
+    "LTV/CAC",
+    "enterprise",
+    "Postgres",
+    "compute billing",
+    "packaging"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Fully remote, globally distributed team with no office requirement",
+    "High-autonomy, high-leverage role with explicit company-wide ownership",
+    "Equity (ESOP) offered to all team members",
+    "Clear scope and articulated ownership areas — not vague",
+    "Company has raised $500M and has 500,000+ community members, signaling scale",
+    "Strong open-source and developer culture explicitly stated",
+    "Async-friendly hiring process described in detail"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "Visa sponsorship status not addressed anywhere in the JD",
+    "Niche requirement — 'infrastructure or database company with strong PLG DNA' — narrows candidate pool significantly",
+    "Role combines pricing strategy, technical depth, commercial finance, and experimentation: potentially very broad scope for one PM"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 5+ years requirement, high-autonomy framing, and cross-executive collaboration)",
+      "scope.team_size_estimate (partial — total company size stated but not pricing/billing team size)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly listed as metrics in JD)",
+      "scope.business_model (inferred from product description and PLG/sales-led references)",
+      "location.remote_us_eligible (inferred from 'We hire globally' — no US-specific restriction stated)",
+      "compensation.location_pay_differential (inferred as false from 'fully remote, hire globally' framing)"
+    ],
+    "ambiguities": [
+      "Visa sponsorship is never mentioned — left as 'unclear'; candidates outside of certain countries should confirm directly",
+      "No nice-to-haves section exists in the JD; all requirements are framed as essential under 'What You Bring' — all classified as hard must-haves"
+    ]
+  }
+}

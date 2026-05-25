@@ -1,0 +1,254 @@
+{
+  "company": "Whatnot",
+  "role_title": "Director, Strategy & Operations - Service Delivery",
+  "url": "https://jobs.ashbyhq.com/whatnot/bef7a5f0-7f7c-4b91-8133-5190b21def01",
+  "ats_provider": "ashby",
+  "ats_job_id": "bef7a5f0-7f7c-4b91-8133-5190b21def01",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "New York",
+      "San Francisco",
+      "Phoenix",
+      "Los Angeles"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "within commuting distance of hub",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Operations Director / Vendor Management",
+  "seniority": {
+    "level": "Director (Senior Leader / People Manager)",
+    "years_required_min": 12,
+    "years_required_max": null,
+    "manages_people": true,
+    "level_signals": [
+      "12+ years of experience across strategy, operations, or general management roles",
+      "Experience setting direction, guiding execution, and driving accountability across teams",
+      "Lead and set the strategy for Whatnot's Operations vendor framework, deploying managers and specialists",
+      "Director-level title"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_experience_strategy_ops",
+      "raw_text_from_jd": "You should have 12+ years of experience across strategy, operations, or general management roles (e.g., consulting, operations, finance, GM)",
+      "skill_type": "years_of_experience",
+      "domain": "strategy_operations_general_management",
+      "minimum_value": 12,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "consulting",
+        "operations",
+        "finance"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "high_growth_scaling_experience",
+      "raw_text_from_jd": "Proven experience operating in high-growth scaling environments, with a strong track record of driving operational improvement and building and leading high performing teams",
+      "skill_type": "outcome",
+      "domain": "operations_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strategic_analytical_judgment",
+      "raw_text_from_jd": "Strong strategic and analytical judgment, with the ability to synthesize data, metrics, and qualitative insights into clear recommendations and decisions",
+      "skill_type": "capability",
+      "domain": "strategy_analytics",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_initiative_leadership",
+      "raw_text_from_jd": "Experience leading large, cross-functional initiatives and managing complex, multi-threaded projects end to end",
+      "skill_type": "capability",
+      "domain": "cross_functional_program_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "vendor_external_partner_management",
+      "raw_text_from_jd": "Proven ability to work with external partners or vendors in scaled, global operating models",
+      "skill_type": "domain_knowledge",
+      "domain": "vendor_partner_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "leadership_and_accountability",
+      "raw_text_from_jd": "Exceptional leadership skills, with experience setting direction, guiding execution, and driving accountability across teams",
+      "skill_type": "capability",
+      "domain": "people_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "shifting_priorities_operational_rigor",
+      "raw_text_from_jd": "Ability to manage shifting priorities while maintaining structure, focus, and operational rigor",
+      "skill_type": "capability",
+      "domain": "operations_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_analysis_sql_tools",
+      "raw_text_from_jd": "Proficiency in data analysis and reporting tools; experience with SQL and analytics platforms (e.g., Looker, Sigma, Hex)",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analytics",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "Looker",
+        "Sigma",
+        "Hex"
+      ],
+      "technologies_named": [
+        "SQL"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Post-purchase operations including Customer Experience and Trust & Risk vendor operations; Service Delivery",
+    "business_model": "marketplace / livestream commerce platform, B2C and B2B sellers",
+    "primary_metrics_inferred": [
+      "Vendor KPIs and SLAs",
+      "Customer experience quality and speed",
+      "Trust & Risk operational outcomes",
+      "Vendor coverage and geographic expansion"
+    ],
+    "cross_functional_partners": [
+      "Product",
+      "Engineering",
+      "Customer Experience",
+      "Trust & Risk"
+    ],
+    "core_responsibilities": [
+      "Develop and execute commerce and operations strategies that support Whatnot's growth across post-purchase operations",
+      "Apply strong analytical rigor to operational and commerce data, surfacing insights that inform initiatives to improve quality, speed, and scalability across the Operations team",
+      "Lead and set the strategy for Whatnot's Operations vendor framework, deploying managers and specialists to drive outcomes, set priorities, guide execution, and ensure high-quality delivery",
+      "Define and track vendor KPIs, monitor quality and SLAs, and drive continuous performance improvement across partner sites",
+      "Lead strategic sourcing efforts to expand vendor coverage across new capabilities or geographies",
+      "Build scalable systems and processes that allow Customer Experience and Trust & Risk support teams to expand quickly",
+      "Partner cross-functionally with Product, Engineering, and other stakeholders to translate insights from user interactions into initiatives"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Strategy & Operations",
+    "Service Delivery",
+    "vendor management",
+    "Customer Experience",
+    "Trust & Risk",
+    "post-purchase operations",
+    "SQL",
+    "Looker",
+    "KPIs",
+    "SLAs",
+    "high-growth",
+    "cross-functional",
+    "livestream commerce",
+    "marketplace",
+    "operational rigor"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Forbes #1 Best Startup Employer in America recognition cited",
+    "Clear role scope with specific operational domains named (Customer Experience, Trust & Risk)",
+    "Strong benefits package including 16 weeks paid parental leave, 401k match, wellness and childcare allowances",
+    "Remote co-located model with flexibility across multiple US hubs",
+    "EOE statement with explicit diversity values"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "Role requires being within commuting distance of NY, SF, Phoenix, or LA — not fully remote despite 'remote co-located' company description",
+    "12+ years experience threshold is high and may narrow the candidate pool significantly",
+    "Visa sponsorship status not mentioned anywhere in JD"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Director' and 12+ years requirement)",
+      "seniority.manages_people (inferred from 'deploying managers and specialists' and 'leading high performing teams')",
+      "scope.business_model (inferred from company description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly stated as metrics)",
+      "compensation.equity_mentioned (no mention found; defaulted to false)",
+      "location.work_auth (not stated in JD)"
+    ],
+    "ambiguities": [
+      "Company describes itself as a 'remote co-located team' but the role body states 'Team members in this role are required to be within commuting distance of our New York, San Francisco, Phoenix, or Los Angeles hubs' — this is hybrid/onsite-required, not remote. Treated as hybrid here.",
+      "Visa sponsorship is not mentioned anywhere in the JD; set to 'unclear'."
+    ]
+  }
+}

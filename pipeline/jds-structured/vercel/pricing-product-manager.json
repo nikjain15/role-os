@@ -1,0 +1,280 @@
+{
+  "company": "Vercel",
+  "role_title": "Pricing Product Manager",
+  "url": "https://job-boards.greenhouse.io/vercel/jobs/5979660004",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "5979660004",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "San Francisco, CA",
+      "New York, NY",
+      "London",
+      "Berlin"
+    ],
+    "remote_us_eligible": true,
+    "office_time_required": "in-office anchor days on Monday, Tuesday, and Friday if within commuting distance of SF, NY, London, or Berlin",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Growth PM (monetization / pricing specialist)",
+  "seniority": {
+    "level": "Senior IC (likely Senior PM)",
+    "years_required_min": null,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "Base pay range $172,000–$258,000 in SF, consistent with Senior PM",
+      "Expected to lead org-wide initiatives and own critical intersection of product, GTM, and monetization",
+      "Requires demonstrated track record designing successful pricing strategies"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "technical_depth",
+      "raw_text_from_jd": "You've got technical chops, and you understand how pricing intersects with product architecture and developer workflows.",
+      "skill_type": "domain_knowledge",
+      "domain": "technical_product_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "pricing_expertise",
+      "raw_text_from_jd": "You've designed successful pricing strategies for other products and can show results.",
+      "skill_type": "outcome",
+      "domain": "pricing_strategy",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "fast_iteration",
+      "raw_text_from_jd": "You iterate fast, validate assumptions, and bring an outcome-focused mentality.",
+      "skill_type": "capability",
+      "domain": "product_execution",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "execution_and_influence",
+      "raw_text_from_jd": "You know how to earn trust and get things done.",
+      "skill_type": "cultural_fit",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "quantitative_degree",
+      "raw_text_from_jd": "A bachelor's degree in Engineering, Computer Science, Mathematics, or a similarly quantitative field is strongly preferred.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree in Engineering",
+        "Bachelor's degree in Computer Science",
+        "Bachelor's degree in Mathematics"
+      ]
+    },
+    {
+      "id": "define_pricing_new_products",
+      "raw_text_from_jd": "Work with product managers and engineers to design pricing models that fit how developers actually use our platform.",
+      "skill_type": "capability",
+      "domain": "pricing_strategy",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "repackage_portfolio",
+      "raw_text_from_jd": "Rethink existing SKUs and bundles (e.g. observability, AI agents, core DX) to maximize adoption, retention, and expansion.",
+      "skill_type": "capability",
+      "domain": "product_packaging_monetization",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI agents"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "lead_pricing_bets",
+      "raw_text_from_jd": "Lead org-wide initiatives that reshape how we monetize the platform, such as unifying our credit model.",
+      "skill_type": "outcome",
+      "domain": "monetization_strategy",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_facing_tools",
+      "raw_text_from_jd": "Own the creation of assets like dynamic ROI calculators and transparent pricing guides.",
+      "skill_type": "capability",
+      "domain": "pricing_tools_and_enablement",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "passion_for_vercel",
+      "raw_text_from_jd": "You appreciate our mission, understand the needs of modern developers, and have opinions about where the market is headed.",
+      "skill_type": "cultural_fit",
+      "domain": "developer_ecosystem",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "small pricing team",
+    "surface": "Pricing across Vercel's full product portfolio (v0, Next.js, AI SDK, observability, AI agents, core DX)",
+    "business_model": "developer-facing cloud platform, B2B and B2D (business-to-developer), usage-based / credit model",
+    "primary_metrics_inferred": [
+      "Adoption and retention of priced SKUs",
+      "Expansion revenue",
+      "Value-aligned monetization growth",
+      "ROI from pricing model changes"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Product Managers",
+      "GTM / Sales",
+      "Finance (implied)"
+    ],
+    "core_responsibilities": [
+      "Define pricing for new products and features",
+      "Repackage and optimize portfolio SKUs and bundles",
+      "Identify and own big pricing bets (e.g. unifying credit model)",
+      "Build customer-facing tools like dynamic ROI calculators and transparent pricing guides",
+      "Unblock engineering and accelerate shipping at the intersection of product, GTM, and monetization"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      172000,
+      258000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity-based compensation included in competitive compensation package",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "pricing strategy",
+    "monetization",
+    "pricing models",
+    "SKUs and bundles",
+    "credit model",
+    "developer platform",
+    "GTM",
+    "ROI calculators",
+    "value capture",
+    "product architecture",
+    "Next.js",
+    "v0",
+    "AI agents",
+    "growth"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed and competitive ($172K–$258K SF base)",
+    "Equity included in package",
+    "Hybrid/remote flexibility explicitly described with clear criteria",
+    "Small, fast-moving team signals ownership and impact",
+    "JD explicitly encourages applicants who don't check every box",
+    "Clear product surface and ownership area described"
+  ],
+  "red_flags": [
+    "Location type is ambiguous: role can be onsite (anchor days Mon/Tue/Fri) or fully remote depending on proximity to offices — effectively two different working arrangements in one posting",
+    "No visa sponsorship or work authorization information provided",
+    "Compensation outside SF adjusted for location but no other ranges provided",
+    "Years of experience not specified anywhere in JD"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range and scope of responsibilities; not stated)",
+      "scope.team_size_estimate (inferred from 'small, fast-moving pricing team'; not a precise number)",
+      "scope.business_model (inferred from product description and platform context)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly stated in JD)",
+      "location.remote_us_eligible (inferred from 'fully remote' language for those beyond commuting distance)"
+    ],
+    "ambiguities": [
+      "Location type: JD describes hybrid anchor days (Mon/Tue/Fri) for those near SF/NY/London/Berlin, but fully remote for others — single role has two distinct working models. Treated as hybrid with remote eligibility.",
+      "Quantitative degree is described as 'strongly preferred' which is borderline hard vs. soft — classified as soft (nice-to-have severity) per JD language, but flagged here.",
+      "No visa sponsorship or work authorization information is stated anywhere in the JD."
+    ]
+  }
+}

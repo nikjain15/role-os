@@ -1,0 +1,243 @@
+{
+  "company": "Scale AI",
+  "role_title": "Product Manager of AI Applications, Global Public Sector",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "4650514005",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": false,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "AI Product Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Technical PM with forward-deployed / enterprise solutioning focus",
+  "seniority": {
+    "level": "Mid-Senior IC",
+    "years_required_min": 4,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "4+ years of experience building products",
+      "Leads cross-functional team of engineers, MLEs, and operators",
+      "Owns large AI projects for one or many customers",
+      "Drives millions in revenue for the business"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_product_building",
+      "raw_text_from_jd": "4+ years of experience building products with specific experience within the last 1-2 years building AI-powered products",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 4,
+      "unit": "years",
+      "qualifier": "including 1-2 years building AI-powered products",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_background_stem",
+      "raw_text_from_jd": "Strong technical background (STEM degree) and/or experience building technical software products",
+      "skill_type": "credential",
+      "domain": "technical_education_or_experience",
+      "minimum_value": null,
+      "accepts_equivalent_experience": true,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "STEM degree"
+      ]
+    },
+    {
+      "id": "generative_ai_understanding",
+      "raw_text_from_jd": "Strong understanding of generative AI technologies and their applications in both enterprise and consumer settings",
+      "skill_type": "domain_knowledge",
+      "domain": "generative_ai",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "generative AI"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "vibe_coding_and_design_tools",
+      "raw_text_from_jd": "Experience with vibe coding tools (i.e., Replit, Lovable, Bolt, etc.) and design tools (i.e., Figma/Canva/Miro)",
+      "skill_type": "tool_proficiency",
+      "domain": "rapid_prototyping_and_design",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "Replit",
+        "Lovable",
+        "Bolt",
+        "Figma",
+        "Canva",
+        "Miro"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "leadership_communication",
+      "raw_text_from_jd": "Exceptional leadership, presentation and communication skills with the ability to influence cross-functional teams",
+      "skill_type": "capability",
+      "domain": "leadership_and_communication",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "python_coding",
+      "raw_text_from_jd": "Coding experience (Python)",
+      "skill_type": "tool_proficiency",
+      "domain": "software_engineering",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "Python"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "arabic_proficiency",
+      "raw_text_from_jd": "Proficiency in Arabic, both written and spoken",
+      "skill_type": "capability",
+      "domain": "language_skills",
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "no",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [
+        "MENA"
+      ],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [
+    "Candidates who applied for the same role within the last 90 days are not reconsidered (90-day waiting period policy)"
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Custom AI applications and custom LLMs for governments and government-backed entities outside the United States, powered by the Scale GenAI Platform",
+    "business_model": "B2G (business-to-government), enterprise AI solutions with bespoke forward-deployed development",
+    "primary_metrics_inferred": [
+      "Revenue generated per customer (millions in revenue cited)",
+      "AI application adoption and deployment success",
+      "Client satisfaction and feedback integration"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "MLEs (Machine Learning Engineers)",
+      "Operators",
+      "Go-to-Market"
+    ],
+    "core_responsibilities": [
+      "Lead design workshops with the client to define custom AI solutions",
+      "Scope out new AI application use cases across various government entities",
+      "Lead cross-functional development of AI applications and custom LLMs with diverse stakeholders",
+      "Consistently engage with future end-users to solicit feedback and ensure effective prioritization",
+      "Stay up to date with latest research in applied AI and training custom LLMs",
+      "Scope out model evaluation sets and performance requirements, review results, and iterate on the solution",
+      "Give regular progress updates to the client and Global Public Sector leadership"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "AI applications",
+    "custom LLMs",
+    "generative AI",
+    "Global Public Sector",
+    "government",
+    "forward deployed",
+    "Scale GenAI Platform",
+    "vibe coding",
+    "cross-functional leadership",
+    "applied AI",
+    "model evaluation",
+    "Arabic"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear ownership scope: large AI projects for one or many government customers",
+    "Entrepreneurial role on a rapidly growing team",
+    "Explicit mention of real-world impact: government entities and frontier AI agents",
+    "Nice-to-haves are well-scoped and not inflated into hard requirements",
+    "Equal opportunity employer with explicit disability accommodation process"
+  ],
+  "red_flags": [
+    "No compensation range disclosed anywhere in the JD",
+    "Location not specified — unclear whether role is remote, hybrid, or onsite, and in which country/region",
+    "Visa sponsorship policy not stated",
+    "Work authorization requirements not stated — role involves non-US governments but candidate geography is unclear",
+    "Arabic as a nice-to-have strongly implies MENA focus but the region is not explicitly named in the role scope",
+    "90-day re-application waiting period may disadvantage candidates who applied recently"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years required, cross-functional ownership, and revenue accountability; not explicitly stated)",
+      "scope.business_model (inferred from 'governments and government-backed entities outside the United States' and bespoke solution framing)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not directly listed in JD)",
+      "location.type (not stated in JD; marked unclear)",
+      "geographies_named on arabic_proficiency nice-to-have (MENA inferred from Arabic language requirement and Government of Qatar reference in About Us)"
+    ],
+    "ambiguities": [
+      "Location of the role is entirely unstated — the team operates globally (outside the US) but no city, country, or remote policy is mentioned for the candidate's base.",
+      "Work authorization and visa sponsorship are not addressed in the JD body.",
+      "STEM degree is listed as 'and/or experience building technical software products', making it partially substitutable — severity kept hard but accepts_equivalent_experience set to true.",
+      "The 'Global Public Sector' team focuses on non-US governments, but the About Us section references US government agencies (Army, Air Force) — unclear whether this role could touch US government work."
+    ]
+  }
+}

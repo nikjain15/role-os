@@ -1,0 +1,275 @@
+{
+  "company": "Whatnot",
+  "role_title": "Program Manager, Revenue Enablement",
+  "url": "https://jobs.ashbyhq.com/whatnot/1020c8a1-c35e-43b7-965d-70af55ff2657",
+  "ats_provider": "ashby",
+  "ats_job_id": "1020c8a1-c35e-43b7-965d-70af55ff2657",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "New York City, NY",
+      "Los Angeles, CA",
+      "San Francisco, CA",
+      "London, UK"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "within commuting distance of hub",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Sales Enablement Program Manager",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 6,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "6+ years of experience in sales with enablement and quota-carrying experience",
+      "Expected to own and maintain sales playbooks from scratch",
+      "Responsible for program design and cross-functional stakeholder management"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_sales_enablement",
+      "raw_text_from_jd": "you should bring 6+ years of experience in sales, ideally with both enablement and quota-carrying experience within a high-growth technology environment.",
+      "skill_type": "years_of_experience",
+      "domain": "sales_and_enablement",
+      "minimum_value": 6,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "technology"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "high-growth technology environment"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "sales_methodology_crm_knowledge",
+      "raw_text_from_jd": "Strong understanding of the account management and sales environment including methodologies, processes, and CRM platforms",
+      "skill_type": "domain_knowledge",
+      "domain": "sales_methodology_and_crm",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "salesforce_salesloft_tools",
+      "raw_text_from_jd": "Specific knowledge of Salesforce, Salesloft, and other related tools to expertly manage sales cycles",
+      "skill_type": "tool_proficiency",
+      "domain": "sales_technology",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Salesforce",
+        "Salesloft"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sales_enablement_tools",
+      "raw_text_from_jd": "Experience with sales enablement tools such as Gong, Salesloft, or similar",
+      "skill_type": "tool_proficiency",
+      "domain": "sales_enablement",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Gong",
+        "Salesloft"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "lms_experience",
+      "raw_text_from_jd": "Hands-on experience with a Learning Management System (e.g., WorkRamp or equivalent)—including building content libraries, assigning learning paths, and tracking completion and performance metrics",
+      "skill_type": "tool_proficiency",
+      "domain": "learning_management_systems",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "WorkRamp"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sales_playbook_ownership",
+      "raw_text_from_jd": "Demonstrated ability to write, own, and maintain sales playbooks from scratch—including call frameworks, objection handling guides, discovery flows, and structured deal strategies for mid-market and/or enterprise segments",
+      "skill_type": "capability",
+      "domain": "sales_playbooks",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "project_management_stakeholder_engagement",
+      "raw_text_from_jd": "Strong project management, organization, and stakeholder engagement skills, including multitasking to lead and execute multiple projects in parallel",
+      "skill_type": "capability",
+      "domain": "project_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_facilitation",
+      "raw_text_from_jd": "Exceptional communication, facilitation, and presentation skills, with the ability to clearly articulate ideas and concepts to diverse audiences",
+      "skill_type": "capability",
+      "domain": "communication_and_facilitation",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "mid_market_enterprise_experience",
+      "raw_text_from_jd": "Experience supporting or selling into mid-market and/or enterprise accounts is a plus—familiarity with structured deal processes, multi-stakeholder cycles, and longer sales motions will be leveraged directly in enablement design",
+      "skill_type": "domain_knowledge",
+      "domain": "mid_market_enterprise_sales",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Sales and Account Management revenue enablement — training programs, playbooks, onboarding, LMS, and enablement infrastructure",
+    "business_model": "B2B2C marketplace / livestream commerce platform",
+    "primary_metrics_inferred": [
+      "Time to productivity for new hires",
+      "Enablement program KPIs and completion rates",
+      "Sales team performance and pipeline metrics",
+      "Knowledge/skill gap reduction across account management team"
+    ],
+    "cross_functional_partners": [
+      "Sales",
+      "Account Management",
+      "Sales Operations",
+      "Marketing",
+      "Product",
+      "Leadership"
+    ],
+    "core_responsibilities": [
+      "Support the enablement and overall success of revenue generating teams in partnership with leadership",
+      "Develop, own, and continuously maintain sales playbooks that reflect current go-to-market strategy, product positioning, and deal execution",
+      "Leverage sales technology platforms to build scalable enablement infrastructure including Gong, Salesforce, and Salesloft",
+      "Serve as a key liaison between revenue teams, sales operations, marketing, and product",
+      "Administer and optimize a Learning Management System (LMS) such as WorkRamp",
+      "Create, deliver, and continuously improve onboarding programs for new hires",
+      "Analyze enablement program effectiveness through KPIs and feedback",
+      "Use performance data to identify knowledge or skill gaps across the account management team"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "sales enablement",
+    "revenue enablement",
+    "sales playbooks",
+    "Gong",
+    "Salesforce",
+    "Salesloft",
+    "WorkRamp",
+    "LMS",
+    "onboarding",
+    "mid-market",
+    "enterprise",
+    "go-to-market",
+    "program manager",
+    "account management",
+    "high-growth"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Named Forbes #1 Best Startup Employer in America — strong employer brand signal",
+    "Clear list of tools and technologies expected (Gong, Salesforce, Salesloft, WorkRamp) — well-defined role scope",
+    "Specific responsibilities are well articulated and actionable",
+    "Generous benefits package including parental leave, family planning, wellness, and dogfooding budget",
+    "Multiple hub city options (NYC, LA, SF, London) provide geographic flexibility within hybrid constraint"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "Visa sponsorship status not mentioned",
+    "Role described as 'remote co-located' company-wide, but this specific role requires commuting distance to a hub — potential candidate confusion",
+    "Quota-carrying experience listed as 'ideally' but is framed as a soft qualifier inside what reads like a hard requirement paragraph — ambiguous classification"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 6+ years requirement and scope of ownership)",
+      "scope.business_model (inferred from company description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not directly stated)",
+      "location.work_auth (not stated; defaulted to open)",
+      "location.visa_sponsorship (not stated; defaulted to unclear)",
+      "compensation.equity_mentioned (no equity mentioned in JD)"
+    ],
+    "ambiguities": [
+      "The JD introduction describes Whatnot as a 'remote co-located team' with hubs, suggesting broad remote flexibility, but the role body explicitly states 'Team members in this role are required to be within commuting distance' of specific hubs — treated as hybrid onsite-required here.",
+      "The 6+ years requirement uses 'ideally with both enablement and quota-carrying experience' — 'ideally' could soften the quota-carrying component to nice-to-have, but the overall 6+ years framing was treated as a hard requirement. The quota-carrying qualifier remains in the severity:hard item but noted as partially softened by 'ideally'.",
+      "'1212' appears in the JD body near the benefits section — likely a formatting artifact or internal code; no structured meaning extracted."
+    ]
+  }
+}

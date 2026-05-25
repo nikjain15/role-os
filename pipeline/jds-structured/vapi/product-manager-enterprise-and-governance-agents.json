@@ -1,0 +1,281 @@
+{
+  "company": "Vapi",
+  "role_title": "Product Manager - Enterprise & Governance Agents",
+  "url": "https://jobs.ashbyhq.com/vapi/6d2c731b-64be-45cc-87c8-f6330d29b7f4",
+  "ats_provider": "ashby",
+  "ats_job_id": "6d2c731b-64be-45cc-87c8-f6330d29b7f4",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "regular in-office presence in San Francisco",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Enterprise / Governance PM",
+  "seniority": {
+    "level": "Principal PM / Staff IC",
+    "years_required_min": 8,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "~8+ years of product experience",
+      "Role title explicitly 'Principal PM'",
+      "Expected to set strategy, publish roadmap, and operate without management oversight"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_product_experience",
+      "raw_text_from_jd": "You bring ~8+ years of product experience, including time owning an enterprise segment and/or compliance or governance at a technical product company.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 8,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "technical product company"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "enterprise_segment_ownership",
+      "raw_text_from_jd": "including time owning an enterprise segment and/or compliance or governance at a technical product company.",
+      "skill_type": "domain_knowledge",
+      "domain": "enterprise_product_management",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "technical product company"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "enterprise_buyer_fluency",
+      "raw_text_from_jd": "You've built product at a technical company where the buyers included legal, security, compliance, and procurement.",
+      "skill_type": "domain_knowledge",
+      "domain": "enterprise_sales_and_procurement",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "technical company"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "api_and_procurement_fluency",
+      "raw_text_from_jd": "You speak fluent API and fluent enterprise procurement. Both. In the same meeting.",
+      "skill_type": "capability",
+      "domain": "technical_and_enterprise_communication",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "API"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "security_compliance_experience",
+      "raw_text_from_jd": "You've been in a security review, a BAA negotiation, and a legal hold conversation.",
+      "skill_type": "domain_knowledge",
+      "domain": "compliance_and_security",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "governance_mindset",
+      "raw_text_from_jd": "You understand that for regulated industries, governance isn't a nice-to-have — and you're hungry to build more.",
+      "skill_type": "domain_knowledge",
+      "domain": "governance_and_compliance",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_building_experience",
+      "raw_text_from_jd": "You have a strong point of view on what AI means for the enterprise, and you've already been building with it.",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_enterprise_product",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "autonomous_execution",
+      "raw_text_from_jd": "You don't need a manager to tell you what matters. You see the problem, build the plan, ship, and report back with results.",
+      "skill_type": "cultural_fit",
+      "domain": "self_direction",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_driven",
+      "raw_text_from_jd": "You're data-driven and disciplined.",
+      "skill_type": "capability",
+      "domain": "data_driven_decision_making",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sf_office_presence",
+      "raw_text_from_jd": "You like hanging out regularly with Karl the Fog in our San Francisco office.",
+      "skill_type": "cultural_fit",
+      "domain": "location_requirement",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [
+        "San Francisco"
+      ],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Enterprise & Governance product layer — trust infrastructure including live guardrails, audit trails, monitoring, and compliance for voice AI",
+    "business_model": "B2B enterprise SaaS, developer platform with enterprise upsell",
+    "primary_metrics_inferred": [
+      "Enterprise revenue growth / expansion",
+      "Enterprise adoption and retention",
+      "Compliance and governance feature coverage",
+      "Time-to-close on enterprise deals blocked by compliance gaps"
+    ],
+    "cross_functional_partners": [
+      "Legal teams",
+      "Compliance officers",
+      "Ops and IT leaders",
+      "Procurement orgs",
+      "Engineering"
+    ],
+    "core_responsibilities": [
+      "Map where enterprise deals stall: legal, security, compliance reviews, feature gaps, onboarding",
+      "Write a 'here's the mess + here's the opportunity' brief for the enterprise segment",
+      "Own and publish a 12-month rolling roadmap for enterprise",
+      "Deliver a step-function improvement in a core enterprise metric",
+      "Make governance feel like magic",
+      "Raise the bar across Vapi by demonstrating what great product management looks like"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "excellent equity ownership",
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "enterprise governance",
+    "voice AI",
+    "compliance",
+    "audit trails",
+    "guardrails",
+    "BAA negotiation",
+    "regulated industries",
+    "trust infrastructure",
+    "principal PM",
+    "API fluency",
+    "procurement",
+    "enterprise roadmap"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear mission and rationale for the hire — enterprise revenue 5×'ed, specific problem articulated",
+    "Explicit 30/60/90 day plan demonstrates organizational clarity and onboarding investment",
+    "Strong equity culture mentioned (70% previous founders)",
+    "Tier-1 investors (YC, KP, Bessemer) signal credibility and growth trajectory",
+    "$10k annual L&D budget is a concrete perk signal",
+    "Direct statement that 'This person will be critical to the success of the company' signals high organizational visibility"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "Onsite San Francisco requirement may limit candidate pool; framed colloquially ('Karl the Fog') but is a hard location requirement",
+    "No mention of visa sponsorship or work authorization",
+    "Principal PM role with no direct reports — high expectations with no stated structural support",
+    "Phrase 'zero hand-holding required' may signal under-resourced or sink-or-swim culture"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level inferred from '~8+ years' and 'Principal PM' framing in body text",
+      "location.type inferred as onsite from 'hanging out regularly... in our San Francisco office'",
+      "scope.business_model inferred from product description and enterprise focus",
+      "scope.primary_metrics_inferred are inferences from responsibilities, not stated in JD",
+      "compensation.source set to unknown as no figures are provided"
+    ],
+    "ambiguities": [
+      "The JD uses the word 'Principal PM' in the body ('We need a Principal PM') but the role title is 'Product Manager - Enterprise & Governance Agents' — seniority level labeled as Principal PM based on body text",
+      "Location is described only as 'our San Francisco office' with a cultural reference; no explicit policy on remote or hybrid work stated — treated as onsite",
+      "~8+ years uses a tilde, suggesting flexibility; treated as hard minimum but flagged as approximate"
+    ]
+  }
+}

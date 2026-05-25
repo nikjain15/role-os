@@ -1,0 +1,285 @@
+{
+  "company": "SoFi",
+  "role_title": "Senior Product Manager, Life Insurance & Financial Protection",
+  "url": "https://sofi.com/careers/job/7651923003?gh_jid=7651923003",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7651923003",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "remote-us",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Technical PM (InsurTech/FinTech focus)",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 5,
+    "years_required_max": 8,
+    "manages_people": false,
+    "level_signals": [
+      "5 - 8 years in Product Management",
+      "at least 4 years in a high-growth InsurTech or FinTech environment",
+      "Title is explicitly 'Senior Product Manager'"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "5 - 8 years in Product Management, with at least 4 years in a high-growth InsurTech or FinTech environment.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "InsurTech",
+        "FinTech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "high-growth InsurTech or FinTech environment"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "years_insurtech_fintech",
+      "raw_text_from_jd": "at least 4 years in a high-growth InsurTech or FinTech environment.",
+      "skill_type": "years_of_experience",
+      "domain": "insurtech_fintech",
+      "minimum_value": 4,
+      "unit": "years",
+      "qualifier": "high-growth InsurTech or FinTech",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "InsurTech",
+        "FinTech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "high-growth InsurTech or FinTech environment"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "data_ai_fluency",
+      "raw_text_from_jd": "Expert-level ability to use data (SQL, Snowflake, Amplitude) to identify drop-off points in the funnel and build personalized member journeys. Leverage AI tooling for prototyping",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analytics",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "SQL",
+        "Snowflake",
+        "Amplitude"
+      ],
+      "technologies_named": [
+        "AI tooling"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "regulatory_awareness",
+      "raw_text_from_jd": "Familiarity with FINRA, SEC, and State Insurance Department regulations. You know how to innovate while staying \"inside the lines.\"",
+      "skill_type": "domain_knowledge",
+      "domain": "insurance_financial_regulation",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "insurance",
+        "fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "get_it_done_attitude",
+      "raw_text_from_jd": "A \"Get It Done\" attitude. You are comfortable in a fast-paced environment where priorities can shift based on market opportunities.",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "end_to_end_insurance_journey",
+      "raw_text_from_jd": "Own the end-to-end \"Quote-to-Purchase\" Life Insurance journey and connect this benefit to the holistic SoFi \"get your money right\" mission.",
+      "skill_type": "capability",
+      "domain": "life_insurance_product",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "insurance"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "third_party_api_orchestration",
+      "raw_text_from_jd": "Manage the technical and business relationships with our carrier partners, to ensure that our API integrations are robust, low-latency, and highly scalable.",
+      "skill_type": "capability",
+      "domain": "api_integrations_partner_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "API integrations"
+      ],
+      "industries_named": [
+        "insurance"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "rapid_experimentation",
+      "raw_text_from_jd": "Run a high-velocity testing roadmap. You'll test everything from \"Life Milestones\" UI components to different sequencing of application questions to drive the highest completion rate.",
+      "skill_type": "capability",
+      "domain": "product_experimentation",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "mobile_first_ai_first",
+      "raw_text_from_jd": "Mobile-First, AI-First Innovation: Optimize the experience for mobile devices and leveraging AI to make the experience easier for members",
+      "skill_type": "domain_knowledge",
+      "domain": "mobile_product_ai",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [
+    "Remote work from Hawaii or Alaska (due to insurance coverage issues)"
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "SoFi Protect - Life Insurance product (Quote-to-Purchase journey, integration with lending and banking ecosystems)",
+    "business_model": "B2C financial services / insurance, mobile-first platform with 11M+ members",
+    "primary_metrics_inferred": [
+      "Insurance application completion rate",
+      "Quote-to-Purchase conversion rate",
+      "Member adoption / awareness of life insurance product",
+      "Funnel drop-off reduction"
+    ],
+    "cross_functional_partners": [
+      "Data scientists",
+      "Carrier partners (third-party)",
+      "Engineering (implied)",
+      "Design (implied)"
+    ],
+    "core_responsibilities": [
+      "Own the end-to-end 'Quote-to-Purchase' Life Insurance journey",
+      "Work with data scientists to streamline the application experience using third-party APIs",
+      "Run a high-velocity testing roadmap on UI components, application question sequencing, and completion rates",
+      "Manage technical and business relationships with carrier partners to ensure robust, low-latency, scalable API integrations",
+      "Build viral loops and referral mechanics for product-led growth",
+      "Optimize mobile-first and AI-first member experience including document collection and verification"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": true,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Life Insurance",
+    "InsurTech",
+    "FinTech",
+    "Quote-to-Purchase",
+    "API integrations",
+    "SQL",
+    "Snowflake",
+    "Amplitude",
+    "AI-first",
+    "mobile-first",
+    "product-led growth",
+    "funnel optimization",
+    "FINRA",
+    "SEC",
+    "State Insurance Department",
+    "rapid experimentation"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear product ownership area with well-defined surface (life insurance Quote-to-Purchase journey)",
+    "Specific tooling requirements named (SQL, Snowflake, Amplitude) indicating data-driven culture",
+    "Company has 11M+ members, suggesting meaningful scale for experimentation",
+    "Remote-eligible across most of the US"
+  ],
+  "red_flags": [
+    "Compensation range referenced ('listed below') but not actually included in the JD text — salary is unknown",
+    "Visa sponsorship not mentioned anywhere in the JD",
+    "4 years specifically in InsurTech or FinTech is a narrow qualifier that limits candidate pool",
+    "Remote work explicitly excluded for Hawaii and Alaska residents"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "location.type (inferred as remote-us; JD does not explicitly state remote but excludes Hawaii/Alaska, implying broader remote eligibility)",
+      "scope.business_model (inferred from product description and member count)",
+      "scope.primary_metrics_inferred (not stated; inferred from responsibilities)",
+      "compensation.location_pay_differential (inferred from statement that final pay depends on candidate's location)",
+      "seniority.manages_people (not stated; inferred false from IC-level responsibilities)"
+    ],
+    "ambiguities": [
+      "Location type is ambiguous: the JD only mentions Hawaii/Alaska exclusions and does not explicitly state remote, hybrid, or onsite. Treated as remote-us based on the Hawaii/Alaska carve-out implying otherwise-remote eligibility.",
+      "Visa sponsorship is never mentioned; work_auth set to 'open' and visa_sponsorship set to 'unclear' as no restriction is stated.",
+      "Compensation range is said to be 'listed below' but no range appears in the provided JD text; base_range_usd set to null.",
+      "The 'What You'll Need' section does not distinguish clearly between required and preferred items; all items treated as hard must-haves per extraction rules."
+    ]
+  }
+}

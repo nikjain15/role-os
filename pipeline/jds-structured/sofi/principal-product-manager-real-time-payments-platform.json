@@ -1,0 +1,389 @@
+{
+  "company": "SoFi",
+  "role_title": "Principal Product Manager, Real-Time Payments Platform",
+  "url": "https://sofi.com/careers/job/7697158003?gh_jid=7697158003",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7697158003",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Platform / Infrastructure PM",
+  "seniority": {
+    "level": "Principal / Staff PM (IC6 equivalent)",
+    "years_required_min": 8,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "8+ years of product management experience",
+      "'Principal Product Manager' title",
+      "Owns vision, strategy, and roadmap for a shared infrastructure platform serving every line of business"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "8+ years of product management experience, with significant time in payments, financial infrastructure, or money movement platforms.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 8,
+      "unit": "years",
+      "qualifier": "with significant time in payments, financial infrastructure, or money movement platforms",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "payments",
+        "financial infrastructure",
+        "money movement"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "payment_rails_knowledge",
+      "raw_text_from_jd": "Deep understanding of payment rails — you can explain the difference between FedNow, Fedwire, RTP, ACH, and card-based instant payments in your sleep. You understand message formats, settlement mechanics, cutoff times, and regulatory requirements for each.",
+      "skill_type": "domain_knowledge",
+      "domain": "payment_rails",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "FedNow",
+        "Fedwire",
+        "RTP",
+        "ACH",
+        "card-based instant payments"
+      ],
+      "industries_named": [
+        "payments"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "platform_product_management",
+      "raw_text_from_jd": "Platform product management experience — you've built infrastructure or platform products that serve multiple internal or external customers, not just a single consumer surface. You think in APIs, contracts, and capabilities, not just screens.",
+      "skill_type": "capability",
+      "domain": "platform_product_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "APIs"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "payment_orchestration_experience",
+      "raw_text_from_jd": "Experience with payment orchestration — routing logic, fallback strategies, rail selection, transaction lifecycle management. Ideally you've worked with or built a payment hub or gateway.",
+      "skill_type": "domain_knowledge",
+      "domain": "payment_orchestration",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "routing logic",
+        "fallback strategies",
+        "rail selection",
+        "transaction lifecycle management"
+      ],
+      "industries_named": [
+        "payments"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "vendor_partner_management",
+      "raw_text_from_jd": "Vendor and partner management chops — you've managed relationships with processors, networks, or infrastructure vendors. You know how to influence a partner's roadmap when you're not their biggest customer.",
+      "skill_type": "capability",
+      "domain": "vendor_and_partner_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "payments"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "compliance_risk_comfort",
+      "raw_text_from_jd": "Comfort with compliance and risk — you understand AML/KYC/OFAC requirements for real-time payments, Reg E implications, and how to design for compliance without killing the user experience.",
+      "skill_type": "domain_knowledge",
+      "domain": "payments_compliance_and_risk",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AML",
+        "KYC",
+        "OFAC",
+        "Reg E"
+      ],
+      "industries_named": [
+        "payments",
+        "fintech",
+        "banking"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strong_analytical_skills",
+      "raw_text_from_jd": "Strong analytical skills — you use data to identify problems, size opportunities, and make decisions. You can define and instrument metrics from scratch when the data doesn't exist yet.",
+      "skill_type": "capability",
+      "domain": "data_analytics",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "excellent_communication",
+      "raw_text_from_jd": "Excellent communication — you can translate complex technical infrastructure into clear narratives for executive leadership, business partners, and operations teams.",
+      "skill_type": "capability",
+      "domain": "stakeholder_communication",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "bank_neobank_baas_experience",
+      "raw_text_from_jd": "Experience at a bank, neobank, or bank-as-a-service provider (not just a fintech that rides on someone else's charter).",
+      "skill_type": "domain_knowledge",
+      "domain": "banking_industry",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "banking",
+        "neobank",
+        "bank-as-a-service",
+        "fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "bank",
+        "neobank",
+        "bank-as-a-service provider"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "galileo_platform_familiarity",
+      "raw_text_from_jd": "Familiarity with Galileo's platform (Payment Hub, Cyberbank Core) or similar core banking processors.",
+      "skill_type": "tool_proficiency",
+      "domain": "core_banking_platforms",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Galileo Payment Hub",
+        "Cyberbank Core"
+      ],
+      "technologies_named": [],
+      "industries_named": [
+        "banking",
+        "fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "consumer_and_commercial_use_cases",
+      "raw_text_from_jd": "Experience building for both consumer and commercial (B2B) use cases on the same platform.",
+      "skill_type": "domain_knowledge",
+      "domain": "consumer_and_commercial_banking",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "banking",
+        "fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "rtgs_crossborder_correspondent",
+      "raw_text_from_jd": "Background in real-time gross settlement (RTGS) systems, cross-border payments, or correspondent banking.",
+      "skill_type": "domain_knowledge",
+      "domain": "rtgs_crossborder_correspondent_banking",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "RTGS"
+      ],
+      "industries_named": [
+        "banking",
+        "payments"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_depth",
+      "raw_text_from_jd": "Technical depth — you can read an API spec, review an architecture diagram, or write a SQL query to investigate an issue. You don't need to code, but you're credible with engineers.",
+      "skill_type": "capability",
+      "domain": "technical_depth",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "API",
+        "SQL"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [
+    "Remote work from Hawaii or Alaska"
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "SoFi's real-time payments platform — FedNow, Fedwire, instant debit (Visa Direct, Mastercard Send), RTP, and future real-time rails; shared infrastructure serving Consumer, Commercial Banking, Invest, Lending, and other business lines",
+    "business_model": "internal platform (B2B2C); 'AWS of Banking' model serving internal SoFi business lines and commercial clients",
+    "primary_metrics_inferred": [
+      "Transaction success rate",
+      "Payment speed / funds availability",
+      "Cost per transaction",
+      "Fraud rates per rail",
+      "Failure rate reduction",
+      "Complaints per rail",
+      "Platform adoption across business lines"
+    ],
+    "cross_functional_partners": [
+      "Risk and Compliance",
+      "Operations",
+      "Engineering",
+      "Executive Leadership",
+      "Galileo (vendor)",
+      "Federal Reserve (FedNow, Fedwire)",
+      "The Clearing House (RTP)",
+      "Card network partners (Visa, Mastercard)",
+      "Consumer Banking",
+      "Commercial Banking",
+      "Invest",
+      "Lending"
+    ],
+    "core_responsibilities": [
+      "Own the vision, strategy, and roadmap for SoFi's real-time payments platform, including FedNow, Fedwire, instant debit (Visa Direct, Mastercard Send), and future real-time rails",
+      "Scale real-time capabilities to new business lines and onboard new use cases",
+      "Partner with Risk and Compliance and Operations to ensure real-time payments are secure, compliant, and resilient",
+      "Manage vendor and partner relationships including Galileo, the Federal Reserve, The Clearing House, and card network partners",
+      "Drive operational excellence — define SLAs, monitor platform health, reduce failure rates, and build operational tooling",
+      "Define and instrument metrics; build data infrastructure to track platform health"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": true,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "real-time payments",
+    "FedNow",
+    "Fedwire",
+    "RTP",
+    "ACH",
+    "Visa Direct",
+    "Mastercard Send",
+    "payment rails",
+    "payment orchestration",
+    "platform product management",
+    "Bank Platform",
+    "Galileo",
+    "AWS of Banking",
+    "AML/KYC/OFAC",
+    "Reg E",
+    "infrastructure",
+    "principal PM"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear and well-scoped product surface with named rails (FedNow, Fedwire, RTP, ACH, Visa Direct, Mastercard Send)",
+    "Specific metrics articulated in the JD (transaction success rate, cost per transaction, fraud rates, complaints per rail)",
+    "Named vendors and partners provide concrete context for scope",
+    "Compelling platform-level ownership with cross-LOB impact ('AWS of Banking' framing)",
+    "EEO statement and San Francisco Fair Chance Ordinance compliance signals inclusive hiring"
+  ],
+  "red_flags": [
+    "Compensation range referenced ('The base pay range for this role is listed below') but not actually included in the JD — candidates cannot evaluate comp without applying",
+    "Location type is ambiguous — no city or remote policy explicitly stated in the JD body; only Hawaii/Alaska exclusion mentioned",
+    "Visa sponsorship not mentioned",
+    "No explicit statement about people management vs. IC expectations, though framing implies IC"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 'Principal' title, 8+ years requirement, and platform ownership scope)",
+      "seniority.manages_people (inferred as false; no direct reports mentioned)",
+      "scope.business_model (inferred from 'AWS of Banking' framing and platform-serves-LOBs description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities section; not presented as a discrete metrics list in JD)",
+      "compensation.base_range_usd (JD references a range exists but omits the actual numbers)",
+      "compensation.equity_mentioned (no equity mentioned; inferred false)",
+      "location.remote_us_eligible (inferred true from Hawaii/Alaska exclusion implying some remote is allowed)",
+      "location.type (set to 'unclear'; no city or hybrid/remote policy stated)"
+    ],
+    "ambiguities": [
+      "Location type is not stated: the JD only references Hawaii/Alaska exclusion, implying some remote work is permitted, but no explicit remote/hybrid/onsite designation or city is given. Treated as 'unclear' with remote_us_eligible=true.",
+      "Compensation range is referenced in the JD ('The base pay range for this role is listed below') but the actual numbers are absent from the provided JD text — may be present on the live page.",
+      "Visa sponsorship is not addressed anywhere in the JD."
+    ]
+  }
+}

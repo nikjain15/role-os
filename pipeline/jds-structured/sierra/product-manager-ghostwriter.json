@@ -1,0 +1,184 @@
+{
+  "company": "Sierra",
+  "role_title": "Product Manager, Ghostwriter",
+  "url": "https://jobs.ashbyhq.com/sierra/22ba107d-de01-4aa3-98fc-838cccad760c",
+  "ats_provider": "ashby",
+  "ats_job_id": "22ba107d-de01-4aa3-98fc-838cccad760c",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "primarily in-person",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "AI Product Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Technical PM",
+  "seniority": {
+    "level": "Mid to Senior IC",
+    "years_required_min": 3,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "3+ years of product management experience",
+      "Track record of 0→1 product development",
+      "Expected to engage with engineers on architecture decisions"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "3+ years of product management experience, with meaningful time working with large language models directly.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 3,
+      "unit": "years",
+      "qualifier": "with meaningful time working with large language models directly",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "large language models"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_frontier_shipping",
+      "raw_text_from_jd": "Experience shipping AI products at the frontier — you deeply understand frontier model capabilities and limitations, evaluation challenges, and the unique UX considerations of non-deterministic systems.",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_product_development",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "frontier model",
+        "non-deterministic systems"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "zero_to_one_track_record",
+      "raw_text_from_jd": "Track record of 0→1 product development — you've taken an early-stage product and driven it to broad adoption; comfortable with high ambiguity and rapid iteration.",
+      "skill_type": "outcome",
+      "domain": "product_launches",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_depth",
+      "raw_text_from_jd": "Strong technical depth — ability to engage meaningfully with engineers on architecture decisions (e.g., harness design and engineering, workspace isolation, API design).",
+      "skill_type": "capability",
+      "domain": "technical_product_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "API design",
+        "workspace isolation"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Ghostwriter — the agent-building agent; end-to-end product experience from prompt → agent → outcome across chat, voice, and email channels",
+    "business_model": "B2B enterprise AI platform",
+    "primary_metrics_inferred": [
+      "Adoption of Ghostwriter by CX teams and developers",
+      "Number of customers scaled (thousands)",
+      "Agent quality and deployment success rate",
+      "Customer trust and control metrics"
+    ],
+    "cross_functional_partners": [
+      "AI/ML",
+      "Platform Engineering",
+      "CX teams",
+      "Agent developers",
+      "Technical teams"
+    ],
+    "core_responsibilities": [
+      "Define how AI augments agent development — shape the workflows by which CX teams and developers draft journeys, run simulations, analyze conversations, and improve agents using natural language.",
+      "Balance autonomy and control — design the right human-in-the-loop patterns (approval flows, change review, workspace isolation) so customers trust Ghostwriter to make meaningful changes to their agents.",
+      "Partner deeply with AI/ML and platform engineering — collaborate on model selection, harness engineering, execution architecture, and evaluation/testing infrastructure.",
+      "Be the voice of the agent builder — deeply understand the pain points of CX managers, agent developers, and technical teams configuring journeys, integrations, and simulations."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "Eligible full-time employees can participate in Sierra's equity plans subject to the terms of the applicable plans and policies.",
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Ghostwriter",
+    "agent-building",
+    "large language models",
+    "frontier AI",
+    "0→1 product development",
+    "human-in-the-loop",
+    "non-deterministic systems",
+    "harness engineering",
+    "workspace isolation",
+    "AI agents",
+    "natural language",
+    "CX platform"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "High-profile co-founders (Bret Taylor, Clay Bavor) with strong AI and tech pedigree",
+    "Clear product surface and ownership area (Ghostwriter)",
+    "Encourages applications even if experience doesn't precisely match the job description",
+    "Equity participation mentioned for full-time employees",
+    "Company culture explicitly values family/parental support alongside intensity"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "Primarily in-person San Francisco role — eliminates remote candidates",
+    "Visa sponsorship and work authorization not addressed",
+    "No nice-to-haves listed — requirements may be interpreted as strictly enforced",
+    "Compensation, benefits, and equity terms subject to change at any time"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years_required_min and scope of responsibilities)",
+      "scope.business_model (inferred from product description and customer base)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "location.remote_us_eligible (inferred from 'primarily an in-person company' language)",
+      "location.office_time_required (inferred from 'primarily an in-person company' language)"
+    ],
+    "ambiguities": [
+      "No work authorization or visa sponsorship information provided — left as 'unclear'",
+      "The JD mentions growing offices in Atlanta, New York, London, Paris, Madrid, Munich, Singapore, Japan, and Sydney but the role appears tied to San Francisco; other cities may be company context rather than role options",
+      "No explicit nice-to-haves section — all listed requirements treated as hard must-haves"
+    ]
+  }
+}

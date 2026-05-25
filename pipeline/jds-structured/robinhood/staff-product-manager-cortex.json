@@ -1,0 +1,332 @@
+{
+  "company": "Robinhood",
+  "role_title": "Staff Product Manager, Cortex",
+  "url": "https://boards.greenhouse.io/robinhood/jobs/7821803?t=gh_src=&gh_jid=7821803",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7821803",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "Menlo Park, CA",
+      "New York City, NY"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "at least 3 days per week",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "AI Product Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Technical PM",
+  "seniority": {
+    "level": "Staff PM (IC6 equivalent)",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7+ years of consumer-facing product management",
+      "3+ years on AI/ML-powered products",
+      "Staff title with end-to-end roadmap ownership",
+      "Expected to drive technical direction alongside engineering leads",
+      "Base pay Zone 1: $191,000–$225,000 USD, consistent with Staff-level IC"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_consumer_pm",
+      "raw_text_from_jd": "7+ years of consumer-facing product management, with 3+ years on AI/ML-powered products",
+      "skill_type": "years_of_experience",
+      "domain": "consumer_product_management",
+      "minimum_value": 7,
+      "unit": "years",
+      "qualifier": "consumer-facing",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "years_ai_ml_pm",
+      "raw_text_from_jd": "7+ years of consumer-facing product management, with 3+ years on AI/ML-powered products",
+      "skill_type": "years_of_experience",
+      "domain": "ai_ml_product_management",
+      "minimum_value": 3,
+      "unit": "years",
+      "qualifier": "AI/ML-powered products",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI/ML"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_architecture_technical_strategy",
+      "raw_text_from_jd": "AI Architecture & Technical Strategy — Deep fluency in LLM architectures, agentic systems, and retrieval-augmented generation; able to hold strong, informed opinions on build-vs-buy decisions, model selection, and system design alongside engineering leaders",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_architecture",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "LLM architectures",
+        "agentic systems",
+        "retrieval-augmented generation"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "industry_pace_setting",
+      "raw_text_from_jd": "Industry Pace-Setting — Track record of translating rapid advances in AI research and tooling into product roadmap decisions, ensuring the product stays at or ahead of the frontier rather than reacting to it",
+      "skill_type": "outcome",
+      "domain": "ai_product_strategy",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "evaluation_continuous_improvement",
+      "raw_text_from_jd": "Evaluation & Continuous Improvement — Experience building and evolving evaluation frameworks that measure AI quality, accuracy, and safety at scale; able to establish systematic feedback loops and quality bars that enable the team to ship with confidence and improve continuously",
+      "skill_type": "capability",
+      "domain": "ai_evaluation_frameworks",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "consumer_obsessed_ai_product_craft",
+      "raw_text_from_jd": "Consumer-Obsessed AI Product Craft — Ability to identify high-impact, user-facing improvements across a full AI product experience and ship them iteratively, turning a complex AI system into an intuitive financial companion customers trust and rely on daily",
+      "skill_type": "capability",
+      "domain": "consumer_ai_product",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "urgency_ownership_ambiguity",
+      "raw_text_from_jd": "Strong sense of urgency, high ownership, and comfort operating in ambiguity across a fast-moving technical and regulatory landscape",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "Bachelor's degree, Master's, or equivalent experience",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": true,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree",
+        "Master's degree"
+      ]
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "ai_regulated_industries",
+      "raw_text_from_jd": "Experience shipping AI products in financial services or other regulated industries",
+      "skill_type": "domain_knowledge",
+      "domain": "regulated_industries_ai",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "financial services"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "llm_evaluation_observability_tooling",
+      "raw_text_from_jd": "Familiarity with LLM evaluation and observability tooling",
+      "skill_type": "tool_proficiency",
+      "domain": "llm_observability",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "LLM evaluation",
+        "observability tooling"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "agentic_ai_production",
+      "raw_text_from_jd": "Experience with agentic AI systems in production",
+      "skill_type": "capability",
+      "domain": "agentic_ai",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "agentic AI systems"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "financial_advice_wealth_tech",
+      "raw_text_from_jd": "Background in financial advice, portfolio management, or wealth-tech products",
+      "skill_type": "domain_knowledge",
+      "domain": "financial_services",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "financial advice",
+        "portfolio management",
+        "wealth-tech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Cortex — Robinhood's consumer-facing AI for investment research, portfolio analysis, financial planning, and personalized advice",
+    "business_model": "B2C consumer fintech",
+    "primary_metrics_inferred": [
+      "Customer adoption and retention of Cortex",
+      "AI quality, accuracy, and safety scores",
+      "Progression from research assistant to AI-powered financial planning",
+      "Regulatory compliance milestones"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Data Science",
+      "Compliance",
+      "Legal",
+      "Operations"
+    ],
+    "core_responsibilities": [
+      "Own the Cortex product roadmap end-to-end — from improving the core conversational experience today to defining the path toward AI-powered financial planning and advice",
+      "Drive the technical direction alongside engineering leads — making high-conviction decisions on AI architecture, model strategy, and system design that keep Cortex at the frontier of what's possible",
+      "Build and evolve evaluation frameworks at scale — establish the automated quality, accuracy, and safety measurement systems that let the team ship with confidence and improve continuously",
+      "Ship consumer experiences that drive adoption and retention — find the moments where AI creates real value in customers' financial lives and deliver them with craft and speed",
+      "Navigate the regulatory landscape — partner with Legal & Compliance to responsibly expand what Cortex can do, from neutral research toward personalized financial guidance",
+      "Lead cross-functional execution across engineering, design, data science, compliance, and operations — turning ambiguity into shipped product"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      191000,
+      225000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity (form not specified)",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Cortex",
+    "AI product management",
+    "LLM architectures",
+    "agentic systems",
+    "retrieval-augmented generation",
+    "evaluation frameworks",
+    "consumer AI",
+    "financial planning",
+    "Staff PM",
+    "regulated industries",
+    "wealth-tech"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed across multiple zones ($191K–$225K base for Zone 1)",
+    "Equity and bonus explicitly mentioned in addition to base",
+    "Clear product surface and ownership scope (Cortex AI)",
+    "Strong mission statement with quantified wealth transfer context ($124 trillion)",
+    "Comprehensive benefits including 100% paid health insurance",
+    "Role is on a high-visibility, strategically important product within Robinhood"
+  ],
+  "red_flags": [
+    "Hybrid policy requires at least 3 days per week in Menlo Park, CA or New York City, NY — eliminates remote candidates",
+    "Visa sponsorship and work authorization not addressed in JD",
+    "Regulatory constraints on financial advice products may slow roadmap execution",
+    "Several nice-to-haves are listed inline with must-haves without clear separation, making hard/soft distinction ambiguous"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Staff', years requirements, and base comp)",
+      "scope.business_model (inferred from consumer fintech product description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not in JD)",
+      "scope.team_size_estimate (not stated; left as 'unclear')",
+      "compensation.base_range_usd (Zone 1 selected as primary range; Zone 2 and Zone 3 also exist)",
+      "location.work_auth (not stated in JD)",
+      "location.visa_sponsorship (not stated in JD)"
+    ],
+    "ambiguities": [
+      "The 'What You Bring' section lists 'Experience shipping AI products in financial services or other regulated industries', 'Familiarity with LLM evaluation and observability tooling', 'Experience with agentic AI systems in production', and 'Background in financial advice, portfolio management, or wealth-tech products' without explicit 'preferred' or 'nice to have' language. These appear after a series of clearly required competencies and are treated as nice-to-haves based on their more junior/supplemental framing and placement.",
+      "The JD names Zone 2 and Zone 3 city compensation tiers (Denver, Westlake TX, Chicago, Lake Mary FL, Clearwater FL, Gainesville FL) but the role is only based in Menlo Park, CA or New York, NY. These additional zones likely apply to other roles or remote-eligible employees; Zone 1 is used as the primary compensation range.",
+      "No explicit mention of visa sponsorship availability or work authorization requirements."
+    ]
+  }
+}

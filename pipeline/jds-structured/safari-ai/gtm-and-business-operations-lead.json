@@ -1,0 +1,245 @@
+{
+  "company": "Safari AI",
+  "role_title": "GTM and Business Operations Lead",
+  "url": "https://job-boards.greenhouse.io/safariai/jobs/5019966007",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "5019966007",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [
+      "Miami, FL"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "full-time in Coconut Grove office",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Chief of Staff",
+  "seniority": {
+    "level": "Mid-Senior IC",
+    "years_required_min": 3,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "3+ years of experience in Finance, Management Consulting, or similar Operations / Finance / Strategy leadership position",
+      "Reports directly to CEO",
+      "Manages meaningful part of the company including budget, CRM, investor relations"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_finance_consulting_ops",
+      "raw_text_from_jd": "3+ years of experience in Finance, Management Consulting, or similar Operations / Finance / Strategy leadership position at a early- or mid-stage startup, preferably in Enterprise SaaS",
+      "skill_type": "years_of_experience",
+      "domain": "finance_consulting_operations_strategy",
+      "minimum_value": 3,
+      "unit": "years",
+      "qualifier": "at early- or mid-stage startup",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "Enterprise SaaS"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "early-stage startup",
+        "mid-stage startup"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "strong_academic_professional_track_record",
+      "raw_text_from_jd": "Strong academic and professional track record demonstrating business impact and adaptability",
+      "skill_type": "outcome",
+      "domain": "general_business",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_problem_solving",
+      "raw_text_from_jd": "Strong analytical and problem-solving skills",
+      "skill_type": "capability",
+      "domain": "analytics",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "detail_oriented_organizational",
+      "raw_text_from_jd": "Detail-oriented with strong organizational and administrative skills",
+      "skill_type": "capability",
+      "domain": "operations_administration",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_skills",
+      "raw_text_from_jd": "Excellent communication skills, both written and verbal",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "bias_for_action_multitask",
+      "raw_text_from_jd": "Bias for action with natural ability to multitask",
+      "skill_type": "cultural_fit",
+      "domain": "startup_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "eat_responsibility",
+      "raw_text_from_jd": "Eager to \"eat responsibility\" and not wait to be told what to do",
+      "skill_type": "cultural_fit",
+      "domain": "startup_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "enterprise_saas_background",
+      "raw_text_from_jd": "3+ years of experience in Finance, Management Consulting, or similar Operations / Finance / Strategy leadership position at a early- or mid-stage startup, preferably in Enterprise SaaS",
+      "skill_type": "domain_knowledge",
+      "domain": "enterprise_saas",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "Enterprise SaaS"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Business operations, finance, CRM, investor relations, fundraising support, founder-led sales enablement",
+    "business_model": "B2B Enterprise SaaS, computer vision AI for physical economy operators",
+    "primary_metrics_inferred": [
+      "Revenue reporting and sales KPIs",
+      "Budget management and company financial health",
+      "Investor relations quality",
+      "Operational efficiency for scale"
+    ],
+    "cross_functional_partners": [
+      "CEO",
+      "Go-To-Market team",
+      "Investors",
+      "Vendors"
+    ],
+    "core_responsibilities": [
+      "Lead essential business operations functions, including but not limited to Finance, Vendor Management, Investor Relations, Auditing, and other everyday functions",
+      "Manage the company model and budget",
+      "Pair up with the CEO to enable and scale up founder-led sales",
+      "Manage our CRM, revenue reporting and other sales KPI's",
+      "Assist the CEO in future fundraising and current investor relations efforts"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "business operations",
+    "GTM",
+    "finance",
+    "CRM",
+    "founder-led sales",
+    "investor relations",
+    "fundraising",
+    "enterprise SaaS",
+    "computer vision",
+    "early-stage startup",
+    "Miami",
+    "revenue reporting",
+    "budget management"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Reports directly to CEO — high visibility and impact",
+    "Series A expected in 2026 — potential equity upside",
+    "Founders have prior meaningful exits — experienced leadership",
+    "Named enterprise clients (Merlin/Legoland, 7-11, Tanger Outlets, Charlotte Hornets, Calgary Flames) — product is live and generating revenue",
+    "Clear articulation of responsibilities and scope",
+    "High-agency culture explicitly described — good signal for candidates who prefer autonomy"
+  ],
+  "red_flags": [
+    "Compensation not disclosed",
+    "Work authorization and visa sponsorship not mentioned",
+    "Very broad scope for one role (finance, operations, CRM, investor relations, fundraising support) — may indicate under-resourcing",
+    "Early-stage company risk — Series A not yet closed",
+    "Onsite-only in Miami Coconut Grove office — eliminates remote candidates"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years required, reporting line to CEO, and scope of responsibilities)",
+      "scope.business_model (inferred from company description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly listed as metrics in JD)",
+      "location.type (inferred as onsite from 'expected to work from the Safari AI's Coconut Grove office')",
+      "compensation.equity_mentioned (not stated; defaulted to false)"
+    ],
+    "ambiguities": [
+      "Enterprise SaaS background is listed within the 'preferably' qualifier of a required experience bullet — treated as nice_to_have (soft) while the years and domain remain hard requirements.",
+      "Visa sponsorship and work authorization are not mentioned anywhere in the JD — marked as unclear."
+    ]
+  }
+}

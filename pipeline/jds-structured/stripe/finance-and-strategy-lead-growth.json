@@ -1,0 +1,317 @@
+{
+  "company": "Stripe",
+  "role_title": "Finance & Strategy Lead, Growth",
+  "url": "https://stripe.com/jobs/search?gh_jid=7896349",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7896349",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Strategic Finance / FP&A Lead",
+  "seniority": {
+    "level": "Senior IC / Staff (10+ years experience)",
+    "years_required_min": 10,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "10+ years of experience in FP&A, Growth Finance, or Strategic Finance roles",
+      "Trusted advisor to Growth, Product, and Marketing leadership",
+      "Partners with CMO and senior GTM and Product leaders"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_fpa_growth_strategic_finance",
+      "raw_text_from_jd": "10+ years of experience in FP&A, Growth Finance, or Strategic Finance roles",
+      "skill_type": "years_of_experience",
+      "domain": "finance_strategy",
+      "minimum_value": 10,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "B.A. or B.S degree in related field",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "B.A.",
+        "B.S degree"
+      ]
+    },
+    {
+      "id": "revenue_forecasting_funnel_modeling",
+      "raw_text_from_jd": "Demonstrated ability to forecast revenue, and model funnel dynamics in complex B2B environments",
+      "skill_type": "capability",
+      "domain": "revenue_forecasting",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "senior_gtm_product_partnership",
+      "raw_text_from_jd": "Proven track record of partnering with senior GTM and Product leaders, and influencing business decisions through financial insight",
+      "skill_type": "outcome",
+      "domain": "executive_stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "financial_modeling_planning_tools",
+      "raw_text_from_jd": "Strong financial modeling skills and experience with large, multi-variable planning tools",
+      "skill_type": "tool_proficiency",
+      "domain": "financial_modeling",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sql_skills",
+      "raw_text_from_jd": "Some SQL skills to independently access and manipulate complex datasets",
+      "skill_type": "tool_proficiency",
+      "domain": "data_querying",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "SQL"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_presentation",
+      "raw_text_from_jd": "Excellent communication and presentation skills, with the ability to distill complex concepts into clear, actionable insights",
+      "skill_type": "capability",
+      "domain": "executive_communication",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_fast_paced",
+      "raw_text_from_jd": "Comfortable operating in fast-paced, ambiguous environments and balancing strategic thinking with hands-on execution",
+      "skill_type": "cultural_fit",
+      "domain": "operational_agility",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "high_growth_tech_finserv_experience",
+      "raw_text_from_jd": "Experience working at a high-growth technology or financial services company",
+      "skill_type": "domain_knowledge",
+      "domain": "industry_experience",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "technology",
+        "financial services"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "high-growth technology or financial services company"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "anaplan_tableau_experience",
+      "raw_text_from_jd": "Anaplan, Tableau or other equivalent application experience",
+      "skill_type": "tool_proficiency",
+      "domain": "planning_and_visualization_tools",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Anaplan",
+        "Tableau"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "advanced_sql",
+      "raw_text_from_jd": "Advanced SQL skills",
+      "skill_type": "tool_proficiency",
+      "domain": "data_querying",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "SQL"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_visualization_dashboarding",
+      "raw_text_from_jd": "Experience in data visualization and dashboarding",
+      "skill_type": "tool_proficiency",
+      "domain": "data_visualization",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Self-serve revenue and Growth organization finance support across all segments, regions, and products",
+    "business_model": "B2B financial infrastructure platform (payments and revenue growth products)",
+    "primary_metrics_inferred": [
+      "Self-serve revenue vs plan",
+      "Customer acquisition, activation, conversion, retention, and expansion rates",
+      "ROI of growth initiatives and customer acquisition investments",
+      "Forecasting accuracy"
+    ],
+    "cross_functional_partners": [
+      "Growth",
+      "Product",
+      "Data Science",
+      "CMO",
+      "Product Finance",
+      "Marketing"
+    ],
+    "core_responsibilities": [
+      "Lead strategic finance support for the Growth organization, partnering closely with Growth, Product, Data Science, the CMO, and Product Finance.",
+      "Develop a deep understanding of the self-serve funnel (acquisition, activation, conversion, retention, expansion) and provide actionable insights that inform both Product and Growth strategy.",
+      "Own forecasting and planning processes for Self-serve revenue across all segments, regions, and products; provide clear visibility into drivers of growth and performance against plan.",
+      "Build and maintain robust financial models that connect marketing demand generation, growth investments, product or pricing changes, and external drivers to revenue outcomes, enabling high-quality scenario planning and decision-making.",
+      "Assess ROI of growth initiatives and other customer acquisition investments, ensuring capital is deployed effectively to maximize long-term value.",
+      "Identify and drive opportunities for process automation, data standardization, and improved data infrastructure in partnership with Data Science to increase reporting accuracy and decision velocity.",
+      "Translate complex financial, product, and growth data into clear narratives for executive audiences."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "FP&A",
+    "Growth Finance",
+    "Strategic Finance",
+    "self-serve revenue",
+    "revenue forecasting",
+    "funnel dynamics",
+    "financial modeling",
+    "SQL",
+    "Anaplan",
+    "Tableau",
+    "ROI",
+    "GTM",
+    "B2B",
+    "scenario planning",
+    "data visualization"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear scope and ownership area — self-serve revenue for the Growth organization globally",
+    "Direct partnership with C-suite (CMO) and senior leadership signals high-visibility role",
+    "Preferred qualifications explicitly called out as a bonus, not a requirement — encouraging to apply without all prefs",
+    "Role tied to Stripe's core growth engine with explicit revenue ownership"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "No location or remote/hybrid policy stated — work arrangement is entirely unclear",
+    "No visa sponsorship information provided",
+    "10+ years hard requirement may narrow the candidate pool significantly"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 10+ years requirement and leadership scope; no level title stated)",
+      "seniority.manages_people (inferred as false — no direct reports mentioned)",
+      "scope.business_model (inferred from company description and product context)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly stated in JD)",
+      "location.type (not stated; defaulted to 'unclear')",
+      "compensation.equity_mentioned (not mentioned; defaulted to false)"
+    ],
+    "ambiguities": [
+      "Location and work arrangement (remote/hybrid/onsite) are not mentioned anywhere in the JD — cannot determine.",
+      "The archetype sits at the boundary of BizOps/Strategy & Ops and a pure Finance role; classified as BizOps/Strategy & Ops given the strategic and cross-functional mandate, with secondary archetype noting the FP&A flavor."
+    ]
+  }
+}

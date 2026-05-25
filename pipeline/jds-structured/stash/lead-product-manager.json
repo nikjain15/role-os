@@ -1,0 +1,342 @@
+{
+  "company": "Stash",
+  "role_title": "Lead Product Manager",
+  "url": "https://ats.comparably.com/api/v2/stash/post/7859204:?gh_jid=7859204",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7859204",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "New York, NY"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "hybrid — NYC office with work-from-home flexibility",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "B2B / Enterprise PM with go-to-market orientation",
+  "seniority": {
+    "level": "Lead / Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of product management experience",
+      "Owns overall product roadmap for StashWorks",
+      "Comp range $149K–$222K base",
+      "Title is 'Lead Product Manager'"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "5+ years of product management experience, with meaningful experience building and scaling B2B products in the employer benefits space.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "qualifier": "with meaningful experience in B2B employer benefits",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "employer benefits",
+        "B2B"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "fintech_experience",
+      "raw_text_from_jd": "Fintech experience, including familiarity with financial products or regulated environments.",
+      "skill_type": "domain_knowledge",
+      "domain": "fintech",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_roadmap_ownership",
+      "raw_text_from_jd": "Demonstrated ownership of a product roadmap for a live product with active customers.",
+      "skill_type": "outcome",
+      "domain": "product_strategy",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sales_gtm_support",
+      "raw_text_from_jd": "Experience supporting sales or go-to-market efforts, including direct customer-facing engagements.",
+      "skill_type": "capability",
+      "domain": "go_to_market",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_alignment",
+      "raw_text_from_jd": "Strong ability to align cross-functional teams and make high-velocity decisions. Engineering is moving faster than ever; you must be able to manage tradeoffs and drive alignment without slowing down the factory.",
+      "skill_type": "capability",
+      "domain": "cross_functional_leadership",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_tools_daily_workflow",
+      "raw_text_from_jd": "Proven hands-on experience with AI tools (e.g., Cursor, ChatGPT, etc.) as a core part of daily workflows, driving productivity and enhancing output quality, alongside a commitment to continuously developing AI expertise",
+      "skill_type": "tool_proficiency",
+      "domain": "ai_tooling",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "Cursor",
+        "ChatGPT"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_workflow_integration_judgment",
+      "raw_text_from_jd": "Consistent integration of AI into workflows and decision-making, with strong judgment—validating outputs, adhering to Stash guidelines (especially for sensitive data), and owning the quality of AI-assisted work",
+      "skill_type": "capability",
+      "domain": "ai_tooling",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_copilot_comfort",
+      "raw_text_from_jd": "Deep comfort using modern AI tools (Claude Opus, GPT, Figma AI, etc.) to accelerate your own workflow, analyze customer data, and bridge the gap between idea and execution. You view AI as your co-pilot.",
+      "skill_type": "tool_proficiency",
+      "domain": "ai_tooling",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "Claude Opus",
+        "GPT",
+        "Figma AI"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_comfort",
+      "raw_text_from_jd": "Comfort operating in environments where the product is evolving and processes are still being refined.",
+      "skill_type": "cultural_fit",
+      "domain": "startup_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "sales_account_mgmt_partnership",
+      "raw_text_from_jd": "Experience partnering closely with sales, account management, and/or customer success teams",
+      "skill_type": "capability",
+      "domain": "go_to_market",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "payroll_hcm_integrations",
+      "raw_text_from_jd": "Experience with payroll and/or HCM integrations",
+      "skill_type": "domain_knowledge",
+      "domain": "payroll_hcm_integrations",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "early_traction_improvements",
+      "raw_text_from_jd": "Has driven product improvements based on early customer traction and feedback",
+      "skill_type": "outcome",
+      "domain": "product_iteration",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "startup_experience",
+      "raw_text_from_jd": "Has worked at a start-up or high-growth company",
+      "skill_type": "cultural_fit",
+      "domain": "startup_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "start-up",
+        "high-growth company"
+      ],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [
+    "recruiters"
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "StashWorks — B2B employer benefits platform including employer-facing tools, onboarding, integrations, and administrative experiences",
+    "business_model": "B2B SaaS / employer benefits platform within a fintech company",
+    "primary_metrics_inferred": [
+      "Employer client growth / footprint expansion",
+      "Platform reliability and scalability",
+      "Sales cycle support and conversion",
+      "Customer retention and product adoption"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Compliance",
+      "Legal",
+      "Marketing",
+      "Customer Success",
+      "General Manager / Sales"
+    ],
+    "core_responsibilities": [
+      "Own and drive the product strategy and roadmap for StashWorks",
+      "Partner closely with the General Manager during active sales cycles, including customer conversations, demos, and solution shaping",
+      "Translate feedback into Agent-ready specs and logic flows; use AI to prototype initial concepts",
+      "Lead cross-functional collaboration with engineering, design, compliance, legal, marketing, and customer success",
+      "Evolve core B2B functionality such as employer-facing tools, onboarding and implementation flows, integrations, and administrative experiences",
+      "Ensure the product meets fintech, compliance, data security, and operational requirements",
+      "Use data, customer insights, and qualitative feedback to evaluate performance and guide optimization"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      149180,
+      222040
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity mentioned as part of comprehensive total rewards package",
+    "location_pay_differential": false,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "StashWorks",
+    "B2B",
+    "employer benefits",
+    "fintech",
+    "product roadmap",
+    "go-to-market",
+    "AI tools",
+    "agent-ready specs",
+    "payroll integrations",
+    "HCM",
+    "compliance",
+    "employer footprint",
+    "sales cycles",
+    "cross-functional"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Salary range disclosed ($149K–$222K base)",
+    "Existing product with live customers — not greenfield only",
+    "Clear product surface and ownership (StashWorks B2B platform)",
+    "Hybrid policy explicitly described for NYC",
+    "Equity mentioned as part of compensation package",
+    "Comprehensive benefits package including medical, parental leave, flexible PTO"
+  ],
+  "red_flags": [
+    "Hybrid role tied to NYC office — eliminates fully-remote candidates",
+    "Visa sponsorship not mentioned anywhere in JD",
+    "Salary range is very wide ($73K spread), suggesting significant uncertainty about level",
+    "AI tooling requirements are unusually extensive and include specific tools (Claude Opus, Cursor, Figma AI) — may screen out strong PMs with adjacent AI fluency but not exact tool experience",
+    "Role title says 'Lead PM' but JD text refers to it as 'Product Manager' — minor inconsistency"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Lead', comp range, and years required)",
+      "scope.team_size_estimate (not stated; left as 'unclear')",
+      "scope.business_model (inferred from product description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "location.cities_listed (inferred as NYC from hybrid policy description referencing NYC office)",
+      "location.remote_us_eligible (inferred as false from NYC hybrid framing)"
+    ],
+    "ambiguities": [
+      "Role title in posting header is 'Lead Product Manager' but body text refers to it as 'a Product Manager' — treated as Lead PM per title field.",
+      "Visa sponsorship is not mentioned; work_auth set to 'open' and visa_sponsorship set to 'unclear'.",
+      "Several must-have items (AI tools, cross-functional alignment) are listed as unconditional bullets under 'What we're looking for' but could be interpreted as strong preferences rather than hard requirements. Classified as hard per schema rules."
+    ]
+  }
+}

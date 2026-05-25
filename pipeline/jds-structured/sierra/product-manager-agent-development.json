@@ -1,0 +1,267 @@
+{
+  "company": "Sierra",
+  "role_title": "Product Manager, Agent Development",
+  "url": "https://jobs.ashbyhq.com/sierra/effd7cd2-8a28-4bae-a3b8-40720ba09717",
+  "ats_provider": "ashby",
+  "ats_job_id": "effd7cd2-8a28-4bae-a3b8-40720ba09717",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "primarily in-person",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "AI Product Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Technical PM",
+  "seniority": {
+    "level": "Senior IC (Senior PM / Staff PM)",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5-7+ years experience in product development of highly technical products",
+      "Past experience in Product Management or other similar product development roles at or above the level of Senior Product Manager"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_product_development",
+      "raw_text_from_jd": "5-7+ years experience in product development of highly technical products.",
+      "skill_type": "years_of_experience",
+      "domain": "product_development",
+      "minimum_value": 5,
+      "unit": "years",
+      "qualifier": "highly technical products",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "senior_pm_experience",
+      "raw_text_from_jd": "Past experience in Product Management or other similar product development roles at or above the level of Senior Product Manager.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": null,
+      "unit": null,
+      "qualifier": "at or above Senior Product Manager level",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_communication",
+      "raw_text_from_jd": "Experience crafting and tailoring a message for potential customers, including executives.",
+      "skill_type": "capability",
+      "domain": "customer_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_communication",
+      "raw_text_from_jd": "Ability to communicate highly technical concepts to both non-technical and technically proficient audiences, including recent AI developments.",
+      "skill_type": "capability",
+      "domain": "technical_communication",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_degree",
+      "raw_text_from_jd": "Degree in a technical or related field, or equivalent professional experience.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelor's",
+      "accepts_equivalent_experience": true,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "technical degree"
+      ]
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "ai_agent_experience",
+      "raw_text_from_jd": "AI-related experience (experience with product development for AI agents a plus).",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_agents",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "AI agents"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "coding_experience",
+      "raw_text_from_jd": "Some coding experience with React, Typescript, and Go.",
+      "skill_type": "tool_proficiency",
+      "domain": "software_engineering",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "React",
+        "Typescript",
+        "Go"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "mba",
+      "raw_text_from_jd": "MBA or equivalent professional experience (while this is a product management role, you will have the opportunity to lean into broader business roles).",
+      "skill_type": "credential",
+      "domain": "business_education",
+      "accepts_equivalent_experience": true,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "MBA"
+      ]
+    },
+    {
+      "id": "customer_facing_software_influence",
+      "raw_text_from_jd": "Past roles that interface with end customers to influence software development.",
+      "skill_type": "capability",
+      "domain": "customer_facing_product_development",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Enterprise AI agent platform for customer experience; building and shipping AI agents handling thousands of customer conversations daily",
+    "business_model": "B2B SaaS / enterprise AI platform",
+    "primary_metrics_inferred": [
+      "Agent conversation volume and quality",
+      "Customer business outcomes driven by AI agents",
+      "Feature adoption and customer satisfaction"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Product development teams",
+      "Customers (all levels including executives)"
+    ],
+    "core_responsibilities": [
+      "Partner directly with engineers and customers to build and ship AI agents that handle thousands of customer conversations a day",
+      "Discover and assess customer requirements",
+      "Prepare and present demonstrations of Sierra's agent",
+      "Address and overcome technical challenges in the business process by working with technical counterparts",
+      "Develop and improve Sierra virtual agents to fit and anticipate customers' needs and business processes",
+      "Become trusted advisors and drive strategic technical strategies for customers",
+      "Work with Sierra's engineering and product development teams to scope and implement new features essential to the success of customers"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "Eligible full-time employees can participate in Sierra's equity plans",
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "AI agents",
+    "enterprise AI",
+    "customer experience",
+    "product management",
+    "agent development",
+    "technical PM",
+    "customer engagement",
+    "product roadmap",
+    "React",
+    "Typescript",
+    "Go",
+    "senior product manager"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "High-profile co-founders (Bret Taylor, Clay Bavor) with strong industry credibility",
+    "Clear product surface with real customer impact (thousands of AI conversations per day)",
+    "Encourages applicants even if experience doesn't precisely match the job description",
+    "Strong values articulation with explicit commitment to work-life balance",
+    "Equity participation explicitly mentioned",
+    "Broad set of benefits including parental leave and fertility support"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "Primarily in-person company based in San Francisco — eliminates remote candidates",
+    "Visa sponsorship and work authorization policy not stated",
+    "5-7+ years range is broad and minimum threshold unclear for a 'hard' screen"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years requirement and 'at or above Senior PM' language)",
+      "scope.business_model (inferred from product description — enterprise AI platform for customer experience)",
+      "scope.primary_metrics_inferred (not stated in JD; inferred from responsibilities)",
+      "location.remote_us_eligible (inferred from 'primarily in-person company' language)",
+      "compensation.location_pay_differential (not mentioned; assumed false)"
+    ],
+    "ambiguities": [
+      "Years range stated as '5-7+ years' — unclear whether 5 or 7 is the true minimum threshold; treated as minimum 5 with qualifier.",
+      "Work authorization and visa sponsorship are entirely absent from the JD; left as 'unclear'.",
+      "The role blends traditional PM work with customer-facing solutions engineering; some responsibilities overlap with Sales Engineering or Solutions Architect archetype."
+    ]
+  }
+}

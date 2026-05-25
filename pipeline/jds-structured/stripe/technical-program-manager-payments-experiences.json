@@ -1,0 +1,264 @@
+{
+  "company": "Stripe",
+  "role_title": "Technical Program Manager, Payments Experiences",
+  "url": "https://stripe.com/jobs/search?gh_jid=6932491",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "6932491",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Payments / Fintech TPM",
+  "seniority": {
+    "level": "Senior IC (7+ years experience)",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7+ years of product management or technical program management experience",
+      "Proven track record of defining and executing complex programs across multiple functions",
+      "Experience influencing technical decisions particularly as they impact reliability, security, latency and scalability",
+      "Ability to influence peers / managers and build consensus"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_or_tpm",
+      "raw_text_from_jd": "7+ years of product management or technical program management experience with extensive experience partnering closely with software engineering teams",
+      "skill_type": "years_of_experience",
+      "domain": "technical_program_management",
+      "minimum_value": 7,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sdlc_program_management",
+      "raw_text_from_jd": "Experience providing program management during all phases of software development.",
+      "skill_type": "domain_knowledge",
+      "domain": "software_development_lifecycle",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "complex_cross_functional_programs",
+      "raw_text_from_jd": "Proven track record of defining and executing complex programs across multiple functions",
+      "skill_type": "outcome",
+      "domain": "cross_functional_program_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_stakeholder_management",
+      "raw_text_from_jd": "Excellent written and verbal communication skills, with the ability to establish strong relationships with stakeholders and senior leaders",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_resolution",
+      "raw_text_from_jd": "Thrive in solving ambiguous problems and see opportunities where others see chaos",
+      "skill_type": "cultural_fit",
+      "domain": "problem_solving",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_decision_influence",
+      "raw_text_from_jd": "Experience influencing technical decisions particularly as they impact reliability, security, latency and scalability",
+      "skill_type": "capability",
+      "domain": "technical_program_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "reliability",
+        "security",
+        "latency",
+        "scalability"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "user_focus",
+      "raw_text_from_jd": "Relentless focus on users and solving for their needs and wants",
+      "skill_type": "cultural_fit",
+      "domain": "user_centric_thinking",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "prioritization_frameworks",
+      "raw_text_from_jd": "Have strong prioritization frameworks to drive development for the product team and customers. You will have a strong understanding of our product roadmaps and help leaders navigate how to balance meeting the roadmap and balancing priority customer needs",
+      "skill_type": "capability",
+      "domain": "product_roadmap_prioritization",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "payments_experience",
+      "raw_text_from_jd": "Experience with payments-related products",
+      "skill_type": "domain_knowledge",
+      "domain": "payments",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "payments",
+        "fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Payments Experiences — Payment Links, Elements, Checkout, Terminal (online and in-person)",
+    "business_model": "B2B financial infrastructure platform; merchant-facing products",
+    "primary_metrics_inferred": [
+      "Conversion rate improvements for merchants",
+      "Cost reduction for merchants",
+      "On-time delivery of key initiatives",
+      "Product roadmap execution"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Product",
+      "Go-to-market teams",
+      "Customers",
+      "Senior leaders"
+    ],
+    "core_responsibilities": [
+      "Drive functional and technical delivery of key team-, org-, and company-wide initiatives",
+      "Collaborate with engineering teams to design, scope, and shepherd features",
+      "Create functional specs, project plans, and roadmaps",
+      "Own and execute multiple software engineering programs simultaneously",
+      "Help drive product decisions to align with higher company initiatives",
+      "Help influence peers / managers and build consensus while dealing with ambiguity",
+      "Drive clarity across all stakeholders on the goal, problem and outcomes the team is working towards",
+      "Understand the technical problems that need to be solved, and work closely with necessary stakeholders of the engineering teams, technical systems/processes involved to define and manage the most effective way to enable teams to deliver solutions",
+      "Bring rapid clarity to ambiguous situations, resolve them effectively, communicate decisions efficiently, and enable teams to move towards implementing solutions"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Technical Program Manager",
+    "Payments Experiences",
+    "Payment Links",
+    "Elements",
+    "Checkout",
+    "Terminal",
+    "software engineering",
+    "cross-functional",
+    "roadmap",
+    "scalability",
+    "reliability",
+    "security",
+    "latency",
+    "ambiguity",
+    "stakeholder management"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear product surface with named products (Payment Links, Elements, Checkout, Terminal)",
+    "Explicitly states preferred qualifications are a bonus, not a requirement — invites broader applicant pool",
+    "Early-stage team signals significant influence on product roadmap and technical direction",
+    "Strong cross-functional scope across engineering, product, and GTM"
+  ],
+  "red_flags": [
+    "No location or remote/hybrid policy specified — candidates cannot assess work arrangement",
+    "No compensation range disclosed",
+    "Visa sponsorship and work authorization not addressed",
+    "7+ year minimum is firm; limited flexibility signaled"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 7+ years requirement and scope of responsibilities)",
+      "scope.business_model (inferred from company description and product surface)",
+      "scope.primary_metrics_inferred (inferred from responsibilities and product context; not stated in JD)",
+      "location.type (set to 'unclear'; no location or work arrangement details in JD)",
+      "compensation (not stated anywhere in JD)"
+    ],
+    "ambiguities": [
+      "Location/work arrangement not specified anywhere in the JD — could be remote, hybrid, or onsite at any Stripe office",
+      "Role title is 'Technical Program Manager' but minimum requirements include 'product management' experience as an acceptable alternative — may attract PM profiles"
+    ]
+  }
+}

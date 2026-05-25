@@ -1,0 +1,289 @@
+{
+  "company": "Whatnot",
+  "role_title": "Strategy & Operations Senior Manager, Commerce",
+  "url": "https://jobs.ashbyhq.com/whatnot/f4f8f0a7-0a0e-45a4-93aa-33e957c97be9",
+  "ats_provider": "ashby",
+  "ats_job_id": "f4f8f0a7-0a0e-45a4-93aa-33e957c97be9",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "Los Angeles, CA",
+      "San Francisco, CA",
+      "New York City, NY"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "within commuting distance of LA, SF, or NYC hubs; in-person time for planning, problem-solving, and connection",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Commerce Operations",
+  "seniority": {
+    "level": "Senior Manager (IC or people manager)",
+    "years_required_min": 8,
+    "years_required_max": null,
+    "manages_people": true,
+    "level_signals": [
+      "8+ years of experience in strategy and operations roles",
+      "Exceptional leadership and team management skills",
+      "Senior Manager title"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_strategy_ops",
+      "raw_text_from_jd": "8+ years of experience in strategy and operations roles (eg consulting, finance, GM, Operations)",
+      "skill_type": "years_of_experience",
+      "domain": "strategy_and_operations",
+      "minimum_value": 8,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "consulting",
+        "finance"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "bachelors_degree",
+      "raw_text_from_jd": "Bachelor's degree in Business Administration, Operations Management, or a related field; MBA preferred",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree",
+        "Business Administration",
+        "Operations Management"
+      ]
+    },
+    {
+      "id": "project_management_skills",
+      "raw_text_from_jd": "Excellent project management skills, with the ability to handle multiple projects simultaneously",
+      "skill_type": "capability",
+      "domain": "project_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "commerce_operations_knowledge",
+      "raw_text_from_jd": "Strong understanding of commerce operations and process optimization",
+      "skill_type": "domain_knowledge",
+      "domain": "commerce_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "commerce",
+        "e-commerce"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_analysis_reporting",
+      "raw_text_from_jd": "Proficient in data analysis and reporting tools",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analysis",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "leadership_team_management",
+      "raw_text_from_jd": "Exceptional leadership and team management skills",
+      "skill_type": "capability",
+      "domain": "people_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_interpersonal",
+      "raw_text_from_jd": "Strong communication and interpersonal skills",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strategic_and_executional",
+      "raw_text_from_jd": "Ability to think strategically and execute methodically",
+      "skill_type": "capability",
+      "domain": "strategy_execution",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sql_and_analytics_tools",
+      "raw_text_from_jd": "Experience with SQL and analytics tools like Looker, Sigma, Hex",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analytics",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "Looker",
+        "Sigma",
+        "Hex"
+      ],
+      "technologies_named": [
+        "SQL"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "mba_preferred",
+      "raw_text_from_jd": "Bachelor's degree in Business Administration, Operations Management, or a related field; MBA preferred",
+      "skill_type": "credential",
+      "domain": "education",
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "MBA"
+      ]
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Post-purchase commerce operations including logistics, payments, user experience, trust and fraud",
+    "business_model": "marketplace / livestream shopping platform, B2C and seller-facing",
+    "primary_metrics_inferred": [
+      "Margin optimization",
+      "Cost reduction",
+      "Post-purchase experience quality",
+      "Vendor performance"
+    ],
+    "cross_functional_partners": [
+      "Product",
+      "Engineering",
+      "Vendors"
+    ],
+    "core_responsibilities": [
+      "Develop and implement commerce strategies that drive margin optimization and/or growth across the post-purchase experience",
+      "Manage cross-functional commerce projects in close partnership with the product and engineering teams",
+      "Identify inefficiencies in processes and implement improvements to enhance productivity/reduce costs",
+      "Analyze commerce data to provide insights and recommendations",
+      "Negotiate contracts and manage vendor performance to ensure quality and cost-effectiveness"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "strategy and operations",
+    "commerce",
+    "post-purchase",
+    "logistics",
+    "payments",
+    "trust and fraud",
+    "margin optimization",
+    "process optimization",
+    "SQL",
+    "Looker",
+    "vendor management",
+    "cross-functional",
+    "livestream shopping",
+    "marketplace"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Company named #1 Best Startup Employer in America by Forbes",
+    "Clear team structure rolling up to VP of Commerce",
+    "Remote co-located with flexibility to work from home",
+    "Strong benefits package including parental leave, childcare allowance, family planning benefits",
+    "401k with employer match up to 4%",
+    "Dogfooding culture signals product-centric environment"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "Must live within commuting distance of LA, SF, or NYC — not fully remote despite 'remote co-located' framing",
+    "Visa sponsorship not mentioned",
+    "No equity mention in compensation section despite startup status"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.manages_people (inferred from 'Exceptional leadership and team management skills' and Senior Manager title)",
+      "scope.business_model (inferred from company description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly stated)",
+      "compensation.equity_mentioned (inferred as false; not mentioned in benefits or comp section)",
+      "location.remote_us_eligible (inferred as false from commuting distance requirement)"
+    ],
+    "ambiguities": [
+      "JD describes team as 'remote co-located' but also states 'Team members in this role must live within commuting distance of our Los Angeles, San Francisco, or New York City hubs' — treated as hybrid requiring proximity to hub cities, not fully remote.",
+      "MBA is listed in the same bullet as the Bachelor's degree requirement ('MBA preferred') — treated as nice-to-have/soft while the Bachelor's is treated as a hard requirement.",
+      "Employer types in years_of_experience include 'consulting, finance, GM, Operations' — GM (General Manager) is a role type not employer type, listed in employer_types_named for discoverability but is ambiguous."
+    ]
+  }
+}

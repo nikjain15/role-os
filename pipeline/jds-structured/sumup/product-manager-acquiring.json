@@ -1,0 +1,274 @@
+{
+  "company": "SumUp",
+  "role_title": "Product Manager - Acquiring",
+  "url": "https://sumup.com/careers/positions/8343371002?gh_jid=8343371002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8343371002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [
+      "Sofia"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Payments / Fintech PM",
+  "seniority": {
+    "level": "Mid-level PM",
+    "years_required_min": 2,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "2+ years of experience as a Product Manager",
+      "Language suggests contributing to strategy rather than owning it ('contributing to the product strategy')",
+      "Role framed as opportunity to 'grow your product management skills'"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "2+ years of experience as a Product Manager, preferably in the payments or fintech industry.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 2,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "payments",
+        "fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_launch_experience",
+      "raw_text_from_jd": "Experience in launching and managing products or features that have delivered value to users.",
+      "skill_type": "outcome",
+      "domain": "product_launches",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "acquiring_domain_knowledge",
+      "raw_text_from_jd": "A good understanding of the acquiring landscape, payment processing, and industry trends.",
+      "skill_type": "domain_knowledge",
+      "domain": "payment_acquiring",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "payments",
+        "fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_problem_solving",
+      "raw_text_from_jd": "Strong analytical and problem-solving skills, with a data-driven approach to decision-making.",
+      "skill_type": "capability",
+      "domain": "data_driven_decision_making",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_skills",
+      "raw_text_from_jd": "Excellent communication, interpersonal, and presentation skills.",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "fast_paced_environment",
+      "raw_text_from_jd": "Ability to thrive in a fast-paced, dynamic environment and manage multiple priorities simultaneously.",
+      "skill_type": "cultural_fit",
+      "domain": "adaptability",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "agile_experience",
+      "raw_text_from_jd": "Experience with agile development methodologies.",
+      "skill_type": "capability",
+      "domain": "agile_development",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "international_team_experience",
+      "raw_text_from_jd": "Experience working with international teams and diverse cultures.",
+      "skill_type": "capability",
+      "domain": "cross_cultural_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sql_familiarity",
+      "raw_text_from_jd": "Familiarity with SQL or other data querying languages.",
+      "skill_type": "tool_proficiency",
+      "domain": "data_querying",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "SQL"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "passion_for_payments",
+      "raw_text_from_jd": "A passion for payments and a desire to make a significant impact on small businesses.",
+      "skill_type": "cultural_fit",
+      "domain": "fintech_mission_alignment",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "payments"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Acquiring products within SumUp's Acquiring tribe",
+    "business_model": "B2SMB fintech — card acceptance and payment processing for small merchants",
+    "primary_metrics_inferred": [
+      "Product adoption by merchants",
+      "Acquiring volume / transaction processing",
+      "Feature delivery velocity",
+      "Merchant satisfaction / NPS"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Business stakeholders"
+    ],
+    "core_responsibilities": [
+      "Contributing to the product strategy and roadmap for your area, ensuring alignment with overall business goals.",
+      "Managing aspects of the end-to-end product lifecycle, from discovery to launch and iteration.",
+      "Conducting market research, competitor analysis, and customer feedback analysis to identify opportunities.",
+      "Translating user needs and business requirements into detailed product specifications and user stories.",
+      "Collaborating closely with engineering, design, and other stakeholders to ensure successful product delivery.",
+      "Monitoring and analyzing product performance, identifying areas for improvement, and iterating on existing features.",
+      "Communicating product updates, progress, and challenges to relevant stakeholders."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "acquiring",
+    "payment processing",
+    "fintech",
+    "product roadmap",
+    "mPOS",
+    "small business",
+    "agile",
+    "data-driven",
+    "merchant",
+    "card acceptance"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear product domain (Acquiring) with a well-defined tribe structure",
+    "Global fintech company with 3000+ employees across 22 offices — real scale",
+    "Explicit encouragement to apply even without meeting 100% of criteria",
+    "Individual learning budget and 10 days educational vacation mentioned",
+    "Generous vacation policy: 25 days + 1 accumulative day per year of tenure",
+    "Sofia office described with specific amenities, suggesting real investment in in-person culture"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "Location (Sofia) is only stated in benefits section, not confirmed explicitly as the role location in main body — mild ambiguity",
+    "No mention of visa sponsorship or work authorization support",
+    "Role may be mid-level with limited strategic ownership ('contributing to' rather than 'owning' strategy)"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years requirement and language around 'contributing to' strategy and 'growing skills')",
+      "location.cities_listed (Sofia inferred from benefits section mentioning 'Sofia office'; not stated as role location in job header)",
+      "scope.primary_metrics_inferred (not stated in JD; inferred from responsibilities)",
+      "scope.business_model (inferred from company description)",
+      "location.type (inferred as onsite from 'Sofia office' reference in benefits; no remote option mentioned)"
+    ],
+    "ambiguities": [
+      "Years requirement bullet says '2+ years of experience as a Product Manager, preferably in the payments or fintech industry' — the 'preferably' qualifier applies to the industry context, not the years requirement; years treated as hard, industry as soft context.",
+      "Location: JD body does not explicitly state the role is based in Sofia; it is only mentioned in the benefits section ('innovative Sofia office'). Treated as Sofia/onsite but worth confirming."
+    ]
+  }
+}

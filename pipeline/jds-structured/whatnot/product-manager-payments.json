@@ -1,0 +1,317 @@
+{
+  "company": "Whatnot",
+  "role_title": "Product Manager, Payments",
+  "url": "https://jobs.ashbyhq.com/whatnot/56db3469-e6ec-495c-a2bf-e14eedd366af",
+  "ats_provider": "ashby",
+  "ats_job_id": "56db3469-e6ec-495c-a2bf-e14eedd366af",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "New York, NY",
+      "San Francisco, CA",
+      "Seattle, WA",
+      "Los Angeles, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "within commuting distance of hub",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Generalist PM (payments platform ownership)",
+  "seniority": {
+    "level": "Staff / Principal PM (IC6+)",
+    "years_required_min": 10,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "10+ years of product management experience",
+      "Reports to VP of Product",
+      "Owns full payments platform vision and roadmap across billions in GMV",
+      "Drives complex 0→1 and 1→N initiatives"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_payments",
+      "raw_text_from_jd": "10+ years of product management experience with significant focus on payments products and platforms (card/alternative payments, payouts, refunds, chargebacks, ledger systems).",
+      "skill_type": "years_of_experience",
+      "domain": "product_management+payments",
+      "minimum_value": 10,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "card payments",
+        "alternative payments",
+        "payouts",
+        "refunds",
+        "chargebacks",
+        "ledger systems"
+      ],
+      "industries_named": [
+        "payments",
+        "fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "high_volume_payments_systems",
+      "raw_text_from_jd": "Proven experience owning high-volume, mission-critical payments systems at marketplace, fintech or platform companies, including deep familiarity with processors like Stripe, Braintree, Adyen, or similar.",
+      "skill_type": "domain_knowledge",
+      "domain": "payments_infrastructure",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [
+        "Stripe",
+        "Braintree",
+        "Adyen"
+      ],
+      "technologies_named": [
+        "payment processing"
+      ],
+      "industries_named": [
+        "marketplace",
+        "fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "marketplace",
+        "fintech",
+        "platform companies"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "product_leadership",
+      "raw_text_from_jd": "Strong product leadership, including setting strategy, influencing cross-functional partners, and driving complex initiatives from 0→1 and 1→N.",
+      "skill_type": "capability",
+      "domain": "product_leadership",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "financial_data_reconciliation",
+      "raw_text_from_jd": "Deep understanding of financial data, reconciliation, and reporting, particularly supporting Finance, Accounting, and month-end close processes in high-transaction-volume environments.",
+      "skill_type": "domain_knowledge",
+      "domain": "financial_data_and_reconciliation",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "ledger systems",
+        "financial reporting"
+      ],
+      "industries_named": [
+        "fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_fast_paced",
+      "raw_text_from_jd": "Demonstrated ability to work in ambiguous, fast-paced environments, making sound decisions with imperfect information and balancing speed with risk and quality.",
+      "skill_type": "capability",
+      "domain": "decision_making_under_ambiguity",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_and_experimentation",
+      "raw_text_from_jd": "Proven track record using data and experimentation to inform product decisions, measure impact, and iterate on complex systems.",
+      "skill_type": "outcome",
+      "domain": "data_driven_product_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_discovery_execution",
+      "raw_text_from_jd": "Strong product discovery and execution skills, translating multi-stakeholder problems into clear requirements and simple, intuitive experiences.",
+      "skill_type": "capability",
+      "domain": "product_discovery_and_execution",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_communication",
+      "raw_text_from_jd": "Excellent cross-functional communication, with experience partnering closely with Engineering, Design, Finance, Legal, CX/Ops, and risk-oriented teams.",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "user_empathy_financial",
+      "raw_text_from_jd": "High empathy for users and stakeholders, with passion for building trustworthy, transparent financial experiences.",
+      "skill_type": "cultural_fit",
+      "domain": "user_empathy",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "marketplace_payments_experience",
+      "raw_text_from_jd": "Nice to have: Experience in a marketplace or multi-sided platform where payments, incentives, and marketplace dynamics are tightly coupled.",
+      "skill_type": "domain_knowledge",
+      "domain": "marketplace_payments",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "marketplace"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "marketplace",
+        "multi-sided platform"
+      ],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Core payments platform — payment initiation, processing, payouts, refunds, financial data infrastructure, incentive instruments; processing billions in annual GMV across 50+ categories",
+    "business_model": "marketplace / multi-sided platform (B2C and B2B sellers)",
+    "primary_metrics_inferred": [
+      "Authorization rates",
+      "Payout success rates",
+      "Refund rates",
+      "Processing costs",
+      "Financial accuracy",
+      "GMV processed"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Finance",
+      "Trust & Safety",
+      "Legal",
+      "CX",
+      "Operations"
+    ],
+    "core_responsibilities": [
+      "Own the product vision and roadmap for Payments, balancing short-term wins with long-term platform investments that support extremely fast growth and international expansion.",
+      "Deeply understand stakeholder needs – from sellers managing their businesses to Finance teams closing monthly books to CX resolving refund disputes; and translate them into clear product strategies and scalable systems.",
+      "Define and own core payments metrics including authorization rates, payout success, refund rates, processing costs, and financial accuracy.",
+      "Drive execution across multiple workstreams, coordinating backend payments systems, payment integrations, and frontend UX while managing dependencies and timelines.",
+      "Build the financial data foundation the business needs, including ledger systems that power internal reporting, seller transparency and tools they need, and accurate month-end closes.",
+      "Partner cross-functionally with Finance, Legal, Trust & Safety, CX, and Operations to ensure compliance, manage risk appropriately, and support efficient operations at scale.",
+      "Establish metrics and experimentation frameworks to validate performance, test new capabilities, and continuously improve outcomes for users and internal teams."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "payments platform",
+    "payouts",
+    "marketplace",
+    "Stripe",
+    "Braintree",
+    "Adyen",
+    "ledger systems",
+    "authorization rates",
+    "financial data",
+    "GMV",
+    "international expansion",
+    "chargebacks",
+    "refunds",
+    "fintech",
+    "multi-sided platform"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear ownership scope: full payments stack across billions in GMV",
+    "Explicit metrics to own (authorization rates, payout success, refund rates, processing costs)",
+    "Remote co-located model with multiple hub city options (NY, SF, Seattle, LA)",
+    "Role reports to VP of Product — high visibility",
+    "Company named #1 Best Startup Employer in America by Forbes (Forbes claim in JD)",
+    "Explicit international expansion scope (50+ categories, global sellers)"
+  ],
+  "red_flags": [
+    "Compensation not disclosed",
+    "Visa sponsorship not mentioned",
+    "10+ years requirement is a hard bar that eliminates mid-career candidates",
+    "Hub commute required (not fully remote) despite 'remote co-located' framing — potential ambiguity",
+    "Anomalous '1212' string at bottom of JD body — possible formatting artifact"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 10+ years requirement, VP reporting line, and GMV ownership scope)",
+      "scope.business_model (inferred from marketplace/livestream commerce product description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; partially stated in JD)",
+      "location.office_time_required (inferred from 'within commuting distance' language; specific % not stated)",
+      "compensation.equity_mentioned (not stated; defaulted to false)"
+    ],
+    "ambiguities": [
+      "JD describes team as 'remote co-located' but simultaneously states candidates 'are required to be within commuting distance' of NY, SF, Seattle, or LA hubs — this is hybrid, not fully remote; treated as hybrid.",
+      "Anomalous '1212' string appears in JD body between the requirements section and the EOE section — likely a formatting artifact, ignored.",
+      "Visa sponsorship is not mentioned anywhere in the JD; treated as 'unclear'."
+    ]
+  }
+}

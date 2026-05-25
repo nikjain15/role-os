@@ -1,0 +1,298 @@
+{
+  "company": "Robinhood",
+  "role_title": "Staff Product Manager, International",
+  "url": "https://boards.greenhouse.io/robinhood/jobs/7812801?t=gh_src=&gh_jid=7812801",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7812801",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "Menlo Park, CA",
+      "New York, NY"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "at least 3 days per week",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "International / Market Expansion PM",
+  "seniority": {
+    "level": "Staff IC",
+    "years_required_min": 6,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "6+ years of direct product management experience",
+      "Staff title",
+      "Comp range $191K-$225K base (Zone 1), consistent with Staff IC",
+      "At least 2 years shipping zero-to-one products"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "6+ years as PM of direct product management experience building high-quality consumer products",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 6,
+      "unit": "years",
+      "qualifier": "consumer products",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "consumer products"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "years_zero_to_one",
+      "raw_text_from_jd": "at least 2 years of experience shipping zero to one products",
+      "skill_type": "years_of_experience",
+      "domain": "zero_to_one_product_development",
+      "minimum_value": 2,
+      "unit": "years",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "research_experimentation_analytics",
+      "raw_text_from_jd": "Demonstrated history of using research, experimentation and analytics to guide decision making",
+      "skill_type": "capability",
+      "domain": "data_driven_decision_making",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "globally_dispersed_teams",
+      "raw_text_from_jd": "Experience working with and coordinating across globally dispersed teams",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "xfn_stakeholder_experience",
+      "raw_text_from_jd": "Past experience working with engineering, design, research, legal, compliance and marketing in previous roles",
+      "skill_type": "capability",
+      "domain": "cross_functional_stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_collaboration",
+      "raw_text_from_jd": "Excellent communication and collaboration skills",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "passion_financial_products",
+      "raw_text_from_jd": "Passion for financial products that improve people's financial lives.",
+      "skill_type": "cultural_fit",
+      "domain": "fintech",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "self_starter",
+      "raw_text_from_jd": "Motivation to be a self-starter.",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "open_to_travel",
+      "raw_text_from_jd": "Open to travel",
+      "skill_type": "capability",
+      "domain": "travel_availability",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "global_team_est_hours",
+      "raw_text_from_jd": "Willingness to work with a global team and EST hours",
+      "skill_type": "capability",
+      "domain": "cross_timezone_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "global_consumer_product_experience",
+      "raw_text_from_jd": "Ideally past experience working on a global consumer facing product",
+      "skill_type": "domain_knowledge",
+      "domain": "global_consumer_products",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "International product expansion — UK, 31 EU/EEA countries, and new markets globally",
+    "business_model": "B2C consumer fintech / retail brokerage",
+    "primary_metrics_inferred": [
+      "New country launch success",
+      "International user acquisition and retention",
+      "Product parity across global markets",
+      "Revenue from international business lines"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Data",
+      "Marketing",
+      "Operations",
+      "Research",
+      "Legal",
+      "Compliance"
+    ],
+    "core_responsibilities": [
+      "Define strategy for new country launches and how to win new markets for Robinhood.",
+      "Define roadmaps as well as collaborate with teams to execute them in a timely manner.",
+      "Work with global teams to ship groundbreaking products into new regions with unique customer needs and operational requirements.",
+      "Bring together product development teams across the company with a clear product vision and shared set of priorities.",
+      "Develop strong, collaborative relationships across design, engineering, and operations at the team and organizational levels.",
+      "Ensure parity of product lines across global markets balancing localized product innovation and new US products."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      191000,
+      225000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity mentioned as part of total rewards (stock options/RSUs implied)",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "international expansion",
+    "zero to one",
+    "new market launches",
+    "global consumer product",
+    "regulatory compliance",
+    "fintech",
+    "consumer products",
+    "product roadmap",
+    "cross-functional collaboration",
+    "EU/EEA",
+    "democratize finance"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed and competitive ($191K-$225K base for Zone 1)",
+    "Equity and bonus mentioned in addition to base pay",
+    "Clear product surface and ownership area (international expansion, specific markets named)",
+    "Comprehensive benefits package including 100% paid health insurance, family forming benefits, mental health support",
+    "Strong mission-driven culture with specific international market context (UK + 31 EU/EEA countries)"
+  ],
+  "red_flags": [
+    "Hybrid policy requires at least 3 days per week in office; Menlo Park or New York only — eliminates remote candidates",
+    "Requirement to work EST hours even when based in Menlo Park, CA may be burdensome for West Coast employees",
+    "'Ideally' qualifier on global consumer product experience is soft but likely strongly preferred for a staff-level international role",
+    "No explicit mention of visa sponsorship — unclear for international candidates applying to a global role",
+    "Significant travel expectation with no further specification of frequency or regions"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 'Staff' title and comp range)",
+      "scope.business_model (inferred from product description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not in JD)",
+      "compensation.equity_form (inferred; JD only says 'equity' without specifying form)",
+      "location.work_auth (not stated in JD)",
+      "location.visa_sponsorship (not stated in JD)"
+    ],
+    "ambiguities": [
+      "Base pay range shown for Zone 1 (Menlo Park, NY) as $191K-$225K; role location is Menlo Park or New York — both are Zone 1, so range is role-relevant, but Zone 2/3 ranges are also listed for other locations. Used Zone 1 as primary since those are the listed role locations.",
+      "The requirement to work 'EST hours' while the role is based in Menlo Park, CA (PT) could create scheduling burden — the JD does not clarify whether this is mandatory or aspirational.",
+      "Several items in 'What you bring' use unconditional bullet phrasing but 'Ideally' is used for global consumer product experience — all non-'Ideally' bullets treated as hard requirements per schema rules."
+    ]
+  }
+}

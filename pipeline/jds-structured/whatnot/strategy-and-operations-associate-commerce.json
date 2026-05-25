@@ -1,0 +1,235 @@
+{
+  "company": "Whatnot",
+  "role_title": "Strategy & Operations Associate, Commerce",
+  "url": "https://jobs.ashbyhq.com/whatnot/d2967788-d773-467f-b442-9a4a957dd5a4",
+  "ats_provider": "ashby",
+  "ats_job_id": "d2967788-d773-467f-b442-9a4a957dd5a4",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "San Francisco, CA",
+      "Los Angeles, CA",
+      "Phoenix, AZ",
+      "New York, NY"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "must live within commuting distance of a hub; in-person time valued for planning, problem-solving, and connection",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Commerce Operations",
+  "seniority": {
+    "level": "Associate / Mid-level IC",
+    "years_required_min": 3,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "3+ years of experience in strategy and operations roles",
+      "Title is 'Associate'",
+      "Reports into VP of Commerce function"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "Bachelor's degree in Business Administration, Operations Management, or a related field",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree",
+        "Business Administration",
+        "Operations Management"
+      ]
+    },
+    {
+      "id": "years_strategy_ops",
+      "raw_text_from_jd": "3+ years of experience in strategy and operations roles (e.g., consulting, finance, GM, Operations)",
+      "skill_type": "years_of_experience",
+      "domain": "strategy_and_operations",
+      "minimum_value": 3,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "consulting",
+        "finance"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "project_management",
+      "raw_text_from_jd": "Excellent project management skills, with the ability to handle multiple projects simultaneously",
+      "skill_type": "capability",
+      "domain": "project_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_analysis",
+      "raw_text_from_jd": "Proficient in data analysis and reporting tools",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analysis",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_skills",
+      "raw_text_from_jd": "Strong communication and interpersonal skills",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strategic_execution",
+      "raw_text_from_jd": "Ability to think strategically and execute methodically across multiple workstreams",
+      "skill_type": "capability",
+      "domain": "strategy_execution",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sql_analytics_tools",
+      "raw_text_from_jd": "Proficient with SQL and analytics tools like Looker, Sigma, Hex",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analytics",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Looker",
+        "Sigma",
+        "Hex"
+      ],
+      "technologies_named": [
+        "SQL"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Commerce post-purchase operations — logistics, payments, user experience, trust and fraud",
+    "business_model": "marketplace / livestream shopping platform, B2C and B2B (seller-side)",
+    "primary_metrics_inferred": [
+      "Margin optimization across post-purchase experience",
+      "Cost reduction via process improvements",
+      "Vendor quality and cost-effectiveness",
+      "Commerce growth metrics"
+    ],
+    "cross_functional_partners": [
+      "Product",
+      "Engineering",
+      "Policy"
+    ],
+    "core_responsibilities": [
+      "Develop and implement commerce strategies that drive margin optimization and/or growth across the post-purchase experience",
+      "Manage cross-functional commerce projects in close partnership with the product, engineering, and policy teams",
+      "Identify inefficiencies in processes and implement improvements to enhance productivity/reduce costs",
+      "Analyze commerce data to provide insights and recommendations",
+      "Negotiate contracts and manage vendor performance to ensure quality and cost-effectiveness"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "strategy and operations",
+    "commerce",
+    "post-purchase",
+    "logistics",
+    "payments",
+    "trust and fraud",
+    "SQL",
+    "Looker",
+    "data analysis",
+    "vendor management",
+    "margin optimization",
+    "livestream shopping",
+    "marketplace"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Forbes #1 Best Startup Employer in America — strong employer brand signal",
+    "Role has clear scope reporting into VP of Commerce with well-defined ownership areas",
+    "Multiple hub city options (SF, LA, Phoenix, NYC) offer geographic flexibility",
+    "Comprehensive benefits including parental leave, family planning, wellness, and dogfooding budget",
+    "Explicit mention of 401k employer match (up to 4% of base salary)"
+  ],
+  "red_flags": [
+    "Compensation range not disclosed",
+    "Must live within commuting distance of a hub city — not fully remote despite 'remote co-located' framing",
+    "Visa sponsorship and work authorization policy not stated",
+    "No mention of equity, which is unusual for a high-growth startup role"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Associate' and 3+ years requirement)",
+      "scope.business_model (inferred from company description as livestream shopping marketplace)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly stated in JD)",
+      "compensation.equity_mentioned set to false (not mentioned anywhere in JD body)"
+    ],
+    "ambiguities": [
+      "JD describes Whatnot as a 'remote co-located team' but also requires hub proximity for commuting — treated as hybrid here",
+      "Work authorization and visa sponsorship not addressed in the JD; marked 'unclear'"
+    ]
+  }
+}

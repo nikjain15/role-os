@@ -1,0 +1,251 @@
+{
+  "company": "Stripe",
+  "role_title": "Product Manager, Commerce Systems",
+  "url": "https://stripe.com/jobs/search?gh_jid=7561551",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7561551",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Platform / Infrastructure PM",
+  "seniority": {
+    "level": "Senior IC / Staff PM",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7+ years of experience as a Product Manager in technology companies",
+      "Leads a 110-person organization partnering with 10–20 engineers",
+      "Responsible for articulating product vision and annual/quarterly plans",
+      "Act as a leader and change agent"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "7+ years of experience as a Product Manager in technology companies.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 7,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "technology"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "technology companies"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "backend_large_scale_systems",
+      "raw_text_from_jd": "Backend Foundation: Deep experience with large-scale backend systems and an API-first mindset.",
+      "skill_type": "domain_knowledge",
+      "domain": "backend_systems",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "large-scale backend systems",
+        "API-first"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "platform_infrastructure_expertise",
+      "raw_text_from_jd": "Platform Expertise: Proven track record building platform infrastructure that serves the needs of multiple disparate stakeholders.",
+      "skill_type": "outcome",
+      "domain": "platform_infrastructure",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_communication",
+      "raw_text_from_jd": "Communication: Ability to synthesize complex technical discussions and write succinctly for senior leadership. The ability to work cross functionally and speak multiple 'languages': you're equally credible as a thought partner for Go-to-Market, Engineering, Finance or Legal leaders.",
+      "skill_type": "capability",
+      "domain": "cross_functional_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "operational_resilience",
+      "raw_text_from_jd": "Operational Resilience: Comfort dealing with many moving pieces and evolving legacy systems into their next generation.",
+      "skill_type": "capability",
+      "domain": "operational_complexity",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "legacy systems"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "fintech_or_hyperscaler_experience",
+      "raw_text_from_jd": "Experience in Fintech or at a Hyperscaler Cloud Infra provider (e.g., AWS, GCP, Azure).",
+      "skill_type": "domain_knowledge",
+      "domain": "fintech_or_cloud_infrastructure",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [
+        "AWS",
+        "GCP",
+        "Azure"
+      ],
+      "technologies_named": [],
+      "industries_named": [
+        "fintech",
+        "cloud infrastructure"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "Hyperscaler Cloud Infra provider"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "infancy_to_scale_products",
+      "raw_text_from_jd": "Experience managing technical software products from infancy to scale.",
+      "skill_type": "outcome",
+      "domain": "technical_product_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "multi_product_platform_or_billing_systems",
+      "raw_text_from_jd": "A background in designing and building multi-product platforms or complex billing systems.",
+      "skill_type": "domain_knowledge",
+      "domain": "billing_systems_and_platform_design",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "110-person organization, partnering with 10–20 engineers",
+    "surface": "Commerce Systems — internal revenue engine, billing, seller systems, financial data warehouses, unified control planes for monetization",
+    "business_model": "B2B financial infrastructure platform (internal platform product serving Stripe's own product teams and external merchants)",
+    "primary_metrics_inferred": [
+      "Time-to-market for new Stripe products",
+      "Integration friction reduction for internal product teams",
+      "Fee transparency and reconciliation quality for merchants",
+      "Revenue platform coverage and reliability"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Go-to-Market",
+      "Finance",
+      "Legal"
+    ],
+    "core_responsibilities": [
+      "Build 'control planes' that unify seller systems, user billing, and financial data warehouses to reduce integration friction for product teams",
+      "Drastically reduce time-to-market for new Stripe products by streamlining monetization workflows",
+      "Articulate the product vision for Stripe's revenue platform, developing annual and quarterly plans",
+      "Act as a leader and change agent, turning operational noise into a clear engineering roadmap",
+      "Partner with engineering leaders to design ingestion, enrichment, and serving interfaces",
+      "Act as a thought partner for GTM, Finance, and Legal"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Commerce Systems",
+    "platform infrastructure",
+    "billing systems",
+    "control planes",
+    "API-first",
+    "financial data warehouses",
+    "monetization",
+    "internal platform",
+    "large-scale backend",
+    "revenue engine",
+    "cross-functional",
+    "fintech",
+    "legacy systems"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "High-scope, high-leverage role described as 'the engine room of Stripe's revenue'",
+    "Clear ownership area with a well-defined 110-person organization and 10–20 direct engineering partners",
+    "Explicitly encourages candidates without all listed experience to apply: 'Even if you don't have all the experience above we'd encourage you to apply if this role excites you'",
+    "Concrete responsibilities with measurable goals (time-to-market, friction reduction)"
+  ],
+  "red_flags": [
+    "Location not specified anywhere in the JD — work arrangement (remote/hybrid/onsite), cities, and visa sponsorship are all completely unclear",
+    "Compensation not disclosed",
+    "High minimum bar (7+ years) with no seniority level label stated (Senior PM vs Staff PM ambiguous)"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 7+ years requirement, org scale, and strategic leadership signals; 'Senior IC / Staff PM' is an inference)",
+      "scope.business_model (inferred from JD context as internal-facing platform within a B2B fintech company)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly stated in JD)",
+      "location.type set to 'unclear' — no location, city, or work arrangement mentioned anywhere in the JD",
+      "compensation.equity_mentioned set to false — no mention of equity in JD"
+    ],
+    "ambiguities": [
+      "No location, city, remote eligibility, work authorization, or visa sponsorship information is provided anywhere in the JD. All location fields are set to 'unclear' or null.",
+      "Seniority level is ambiguous — 7+ years and strategic scope suggest Senior or Staff PM but no level is named explicitly."
+    ]
+  }
+}

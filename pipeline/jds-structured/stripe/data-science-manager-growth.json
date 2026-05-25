@@ -1,0 +1,320 @@
+{
+  "company": "Stripe",
+  "role_title": "Data Science Manager, Growth",
+  "url": "https://stripe.com/jobs/search?gh_jid=7440963",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7440963",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Other",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Data Science Manager (People Manager, Growth)",
+  "seniority": {
+    "level": "Senior Manager / Director",
+    "years_required_min": 10,
+    "years_required_max": null,
+    "manages_people": true,
+    "level_signals": [
+      "at least 3 years of direct management experience leading data science or ML teams",
+      "10 years of overall data science experience",
+      "Works with senior leadership and Stripe leaders across the company",
+      "Member of Stripe's data science management team"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "education_quantitative",
+      "raw_text_from_jd": "A PhD or MS or BS in a quantitative field (e.g., Statistics, Operations Research, Economics, Computer Science, Engineering).",
+      "skill_type": "credential",
+      "domain": "quantitative_education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "PhD",
+        "MS",
+        "BS",
+        "Statistics",
+        "Operations Research",
+        "Economics",
+        "Computer Science",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "years_management_experience",
+      "raw_text_from_jd": "You have at least 3 years of direct management experience leading data science or ML teams, and 10 years of overall data science experience.",
+      "skill_type": "years_of_experience",
+      "domain": "data_science_management",
+      "minimum_value": 3,
+      "unit": "years",
+      "qualifier": "direct management of data science or ML teams; 10 years overall data science",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "ML"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "metrics_design_business_decisions",
+      "raw_text_from_jd": "You have demonstrated expertise in designing metrics and guiding business decisions with data.",
+      "skill_type": "capability",
+      "domain": "data_driven_decision_making",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_expertise_architecture",
+      "raw_text_from_jd": "You have technical expertise to drive clarity with staff and senior scientists about architecture and strategic modeling decisions.",
+      "skill_type": "capability",
+      "domain": "ml_architecture_and_strategy",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "managed_ml_at_scale",
+      "raw_text_from_jd": "You've managed teams that have built and shipped machine learning systems and data products at scale, and have hands-on experience with challenging problems.",
+      "skill_type": "outcome",
+      "domain": "machine_learning_systems",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "machine learning"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_collaboration",
+      "raw_text_from_jd": "You work very well cross-functionally, and are able to think rigorously and make hard decisions and tradeoffs.",
+      "skill_type": "capability",
+      "domain": "cross_functional_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_skills",
+      "raw_text_from_jd": "You have clear and persuasive communication skills in writing and verbally.",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "autonomy_and_responsibility",
+      "raw_text_from_jd": "You thrive on a high level of autonomy and responsibility.",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "inclusive_work_environment",
+      "raw_text_from_jd": "You foster a healthy, inclusive, challenging, and supportive work environment.",
+      "skill_type": "cultural_fit",
+      "domain": "people_management_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "distributed_teams",
+      "raw_text_from_jd": "You are comfortable working with geographically distributed teams",
+      "skill_type": "capability",
+      "domain": "distributed_team_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "time_series_forecasting_modeling",
+      "raw_text_from_jd": "Expertise in time series forecasting, predictive modeling, or optimization",
+      "skill_type": "domain_knowledge",
+      "domain": "advanced_modeling",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "time series forecasting",
+        "predictive modeling",
+        "optimization"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_architecture",
+      "raw_text_from_jd": "Expertise in data design and building scalable data architectures",
+      "skill_type": "domain_knowledge",
+      "domain": "data_architecture",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Growth Data Science — user journey from awareness and acquisition through product adoption, usage growth, and retention",
+    "business_model": "B2B financial infrastructure platform",
+    "primary_metrics_inferred": [
+      "User acquisition and activation rates",
+      "Product adoption metrics",
+      "Retention and usage growth",
+      "Experimentation throughput and causal impact measurement"
+    ],
+    "cross_functional_partners": [
+      "Growth Product",
+      "Growth Engineering",
+      "Sales",
+      "Marketing",
+      "Developer Platform",
+      "Support",
+      "Risk",
+      "Analytics",
+      "Operations",
+      "Finance"
+    ],
+    "core_responsibilities": [
+      "Drive the roadmap and priorities for your team, and work with many Stripe leaders across the company to enhance our ability to be data driven.",
+      "Collaborate with stakeholders across the organization such as engineering, analytics, operations, finance, and marketing.",
+      "Lead and manage processes to help the team do its best work and engage effectively with the rest of Stripe",
+      "Manage a high-performing team of data scientists, supporting them to achieve a high level of technical excellence and advance in their careers.",
+      "Recruit and onboard great data scientists, in collaboration with Stripe's recruiting team",
+      "Contribute to broad data science initiatives as a member of Stripe's data science management team."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "data science manager",
+    "growth",
+    "experimentation",
+    "causal analysis",
+    "machine learning",
+    "user journey",
+    "product adoption",
+    "retention",
+    "metrics design",
+    "data products",
+    "cross-functional",
+    "people management"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear team mission and scope described (Growth Data Science, experimentation powerhouse)",
+    "Explicit minimum vs. preferred requirements distinction — encourages candidates who meet minimums to apply",
+    "Strong cross-functional partnerships described (Sales, Marketing, Engineering, Risk, etc.)",
+    "Stripe's scale and mission ('increase the GDP of the internet') are compelling for senior candidates"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "No location or remote/hybrid policy stated — candidates cannot determine work arrangement",
+    "No visa sponsorship or work authorization information provided",
+    "Combined 10 years of data science experience + 3 years management is a high bar that narrows the pool significantly"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years of experience requirements and team scope)",
+      "scope.business_model (inferred from company description)",
+      "scope.primary_metrics_inferred (inferred from team description; not explicitly stated in JD)",
+      "location.type (not stated in JD; set to 'unclear')",
+      "compensation (not stated in JD)"
+    ],
+    "ambiguities": [
+      "Location and remote/hybrid policy are not mentioned anywhere in the JD. It is unclear whether this role is onsite, hybrid, or remote.",
+      "The minimum requirement lists 'PhD or MS or BS' with no preference ordering; severity is treated as hard but the degree level floor is a BS, making it somewhat accessible.",
+      "Team size is not mentioned; left as 'unclear'."
+    ]
+  }
+}

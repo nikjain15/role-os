@@ -1,0 +1,315 @@
+{
+  "company": "Scale AI",
+  "role_title": "Product Manager, Public Sector GenAI Test & Evaluation (T&E)",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4687591005",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "4687591005",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [
+      "San Francisco, CA",
+      "New York, NY",
+      "Seattle, WA",
+      "Hawaii",
+      "Washington DC",
+      "Texas",
+      "Colorado",
+      "St. Louis, MO"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "AI Product Manager",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 3,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "3+ years of experience in software engineering, systems architecture, or highly technical program management",
+      "Base salary range $205,600–$257,000 in top-tier markets, consistent with Senior IC",
+      "Primary owner for T&E tech stack across multiple engineering organizations",
+      "Executive-level stakeholder reporting implied"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "engineering_depth",
+      "raw_text_from_jd": "3+ years of experience in software engineering, systems architecture, or highly technical program management. You must be able to read code, understand system architecture, and participate in technical design reviews alongside engineering teams.",
+      "skill_type": "years_of_experience",
+      "domain": "software_engineering_or_technical_program_management",
+      "minimum_value": 3,
+      "unit": "years",
+      "is_combined": true,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "evaluation_systems_expertise",
+      "raw_text_from_jd": "Proven experience designing, owning the roadmap for, or operating the infrastructure required to continuously measure, improve, and show the performance of AI applications.",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_evaluation_systems",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "problem_distillation",
+      "raw_text_from_jd": "Demonstrated experience taking a vaguely defined problem (e.g., \"our evaluation cycles are too slow\") and delivering a technical roadmap, resource requirements, and measurable success metrics within a narrow time window.",
+      "skill_type": "capability",
+      "domain": "technical_roadmap_definition",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_management",
+      "raw_text_from_jd": "Proven track record of taking a project from \"stalled/undefined\" to \"shipped\" in a high-pressure environment. You can point to at least two instances where you inherited a failing project and saw it through to production.",
+      "skill_type": "outcome",
+      "domain": "project_rescue_and_delivery",
+      "minimum_value": 2,
+      "unit": "instances",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_leadership",
+      "raw_text_from_jd": "Led multiple projects that required direct alignment between at least three distinct engineering organizations (e.g., Infrastructure, ML Research, and Product).",
+      "skill_type": "capability",
+      "domain": "cross_functional_leadership",
+      "minimum_value": 3,
+      "unit": "organizations",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "operational_execution",
+      "raw_text_from_jd": "Experience using technical project management frameworks (e.g., Linear) to provide consistent weekly reporting on delivery velocity and blockers to executive stakeholders.",
+      "skill_type": "tool_proficiency",
+      "domain": "technical_project_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "Linear"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "security_clearance",
+      "raw_text_from_jd": "Security Clearance: Active Secret, Top Secret, or TS/SCI clearance.",
+      "skill_type": "credential",
+      "domain": "government_security_clearance",
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "no",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "government",
+        "defense"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Secret clearance",
+        "Top Secret clearance",
+        "TS/SCI clearance"
+      ]
+    },
+    {
+      "id": "genai_implementation",
+      "raw_text_from_jd": "GenAI Implementation: Practical experience developing or evaluating features built specifically on LLMs, RAG, or autonomous agent workflows.",
+      "skill_type": "domain_knowledge",
+      "domain": "generative_ai",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "LLMs",
+        "RAG",
+        "autonomous agent workflows"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "advanced_degree",
+      "raw_text_from_jd": "Technical Rigor: Advanced degree in Computer Science, Engineering, or a related field.",
+      "skill_type": "credential",
+      "domain": "education",
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Advanced degree in Computer Science",
+        "Advanced degree in Engineering"
+      ]
+    },
+    {
+      "id": "public_sector_expertise",
+      "raw_text_from_jd": "Public Sector Expertise: 2+ years of experience working with DoD, IC, or Civil agencies on mission-critical software deployments.",
+      "skill_type": "years_of_experience",
+      "domain": "public_sector_software_delivery",
+      "minimum_value": 2,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "government",
+        "defense",
+        "DoD",
+        "intelligence community"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "DoD",
+        "IC",
+        "Civil agencies"
+      ],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "T&E (Test & Evaluation) tech stack for Public Sector GenAI agentic applications",
+    "business_model": "B2G (business-to-government); government agency contracts for mission-critical AI deployments",
+    "primary_metrics_inferred": [
+      "Evaluation cycle speed and throughput",
+      "AI application performance measurement accuracy",
+      "Delivery velocity and reduction in blockers",
+      "ML hillclimbing effectiveness"
+    ],
+    "cross_functional_partners": [
+      "Infrastructure",
+      "ML Research",
+      "Product",
+      "Public Sector teams",
+      "Commercial teams",
+      "Executive stakeholders"
+    ],
+    "core_responsibilities": [
+      "Define the vision and own the roadmap for evaluation capabilities",
+      "Be the primary owner for the T&E tech stack",
+      "Identify bottlenecks and distill technical friction into actionable plans across multiple engineering organizations",
+      "Define requirements ensuring evaluation services are robust enough for demanding government use cases",
+      "Refine the tech stack that allows ML teams to hillclimb",
+      "Surface critical performance information to stakeholders",
+      "Provide consistent weekly reporting on delivery velocity and blockers to executive stakeholders"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      205600,
+      257000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity grant subject to Board of Director approval",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Test & Evaluation",
+    "T&E",
+    "GenAI",
+    "agentic applications",
+    "public sector",
+    "LLMs",
+    "RAG",
+    "evaluation infrastructure",
+    "technical program management",
+    "ML hillclimbing",
+    "DoD",
+    "TS/SCI",
+    "systems architecture",
+    "roadmap"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation ranges explicitly disclosed across multiple geographies",
+    "Equity mentioned as part of compensation package",
+    "Clear and specific minimum qualifications with quantifiable thresholds",
+    "Well-defined product surface and ownership scope",
+    "Role is clearly differentiated from generic PM roles with strong technical requirements",
+    "Benefits package described in reasonable detail"
+  ],
+  "red_flags": [
+    "TS/SCI clearance preferred but not required — could indicate a path to a hard requirement for ongoing work",
+    "90-day waiting period policy before reconsidering candidates for the same role is unusual and limits reapplication flexibility",
+    "Location type is unclear from JD body — multiple pay-band cities listed but no explicit remote/hybrid/onsite policy stated",
+    "Work authorization and visa sponsorship policy not stated despite government/public sector context where citizenship may be implicitly required"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range and scope of responsibility)",
+      "scope.business_model (inferred from government agency partnership description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly listed in JD)",
+      "location.type (inferred as onsite based on multiple pay-band city listings; no explicit remote/hybrid policy stated)",
+      "compensation.base_range_usd (highest tier range used as primary; location differentials also stated)"
+    ],
+    "ambiguities": [
+      "Location policy is ambiguous: JD lists pay bands for multiple cities (SF, NY, Seattle, Hawaii, DC, Texas, Colorado, St. Louis) but does not explicitly state whether the role is onsite, hybrid, or remote-eligible. Treated as onsite here.",
+      "Work authorization and visa sponsorship are not mentioned; given public sector/government focus, US citizenship may be implicitly required but is not stated — flagged as unclear.",
+      "The role title mentions 'Product Manager' but the qualifications and responsibilities skew heavily toward Technical Program Manager; archetype assigned as Technical Program Manager with secondary AI Product Manager."
+    ]
+  }
+}

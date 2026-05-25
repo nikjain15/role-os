@@ -1,0 +1,240 @@
+{
+  "company": "Stripe",
+  "role_title": "Product Lead, AI",
+  "url": "https://stripe.com/jobs/search?gh_jid=7655023",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7655023",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "AI Product Manager",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Technical PM with people management",
+  "seniority": {
+    "level": "Director / Group PM (IC8 or Director equivalent)",
+    "years_required_min": 10,
+    "years_required_max": null,
+    "manages_people": true,
+    "level_signals": [
+      "10+ years of relevant Product Management experience",
+      "4+ years of experience managing Product Managers",
+      "Responsible for long-term vision, strategy, and roadmap for Payments Intelligence products",
+      "Build and coach your team on best practices"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "Product Management experience: 10+ years of relevant experience",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 10,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "years_managing_pms",
+      "raw_text_from_jd": "4+ years of experience managing Product Managers",
+      "skill_type": "years_of_experience",
+      "domain": "people_management",
+      "minimum_value": 4,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "business_acumen",
+      "raw_text_from_jd": "Strong business acumen: You enjoy digging into the details of how a business works, identifying how to make it better, and building product/technical solutions to do so",
+      "skill_type": "capability",
+      "domain": "business_strategy",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_partner_facing",
+      "raw_text_from_jd": "Customer and Partner facing experience: You're comfortable in front of customers or third-party collaborators, and have experience navigating customer conversations",
+      "skill_type": "capability",
+      "domain": "customer_engagement",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "operational_savvy",
+      "raw_text_from_jd": "Operational savvy: You are strong operationally, capable of designing and driving a cross-functional team and process",
+      "skill_type": "capability",
+      "domain": "cross_functional_operations",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_horsepower",
+      "raw_text_from_jd": "Analytical horsepower: You dig deep into the data, think from user first principles, and deliver the right results",
+      "skill_type": "capability",
+      "domain": "data_analysis",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "crisp_communicator",
+      "raw_text_from_jd": "Crisp communicator: High attention to detail including precise and effective communications, including with external customers/partners",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "results_oriented",
+      "raw_text_from_jd": "Results-oriented: You enjoy doing whatever it takes to execute on complex projects",
+      "skill_type": "cultural_fit",
+      "domain": "execution",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Payments Intelligence products — Radar, Authorization Boost, Disputes; ML-driven payment infrastructure and fraud/authorization controls",
+    "business_model": "B2B fintech infrastructure platform",
+    "primary_metrics_inferred": [
+      "Payment authorization rates",
+      "Revenue maximization for users",
+      "Fraud minimization",
+      "Payment cost reduction"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Data Science",
+      "Design",
+      "Product Marketing",
+      "Partnerships",
+      "Sales",
+      "Account Management",
+      "Operations"
+    ],
+    "core_responsibilities": [
+      "Develop the long-term vision and strategy for our Payments Intelligence products, prioritize accordingly, and create an execution roadmap",
+      "Deeply understand our users' needs by spending time with developers, sales, and support, and by observing patterns/trends across their feedback, the market, and our data",
+      "Build and launch new capabilities and products that bring significant value to customers",
+      "Set the pace, prioritization and execution for the team",
+      "Work with a wide range of systems, processes and technologies to own and solve technical and product problems",
+      "Collaborate with stakeholders across the organization such as Engineering, Design, Data Science, Marketing, Sales, Account Management, and Operations",
+      "Build and coach your team on best practices in defining product requirements and how to deliver against those requirements and the overall roadmap"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Payments Intelligence",
+    "Radar",
+    "Authorization Boost",
+    "Disputes",
+    "ML",
+    "fraud",
+    "product lead",
+    "AI",
+    "payments infrastructure",
+    "data science",
+    "roadmap",
+    "managing PMs"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear product domain with named products (Radar, Authorization Boost, Disputes)",
+    "Explicit minimum requirements section with encouragement to apply if met",
+    "High organizational scope — owns vision, strategy, and team coaching",
+    "Cross-functional breadth across engineering, data science, design, sales, and partnerships"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "Location and remote/hybrid policy not stated anywhere in the JD",
+    "No visa sponsorship or work authorization information provided",
+    "Role title says 'AI' but JD body focuses on Payments Intelligence — AI scope is ambiguous",
+    "No preferred qualifications listed, making differentiation criteria unclear"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 10+ years PM + 4+ years managing PMs + strategic scope)",
+      "scope.business_model (inferred from Stripe's description as a financial infrastructure platform)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly stated in JD)",
+      "location.type (not stated; marked as unclear)",
+      "compensation.source (unknown; no comp data in JD)"
+    ],
+    "ambiguities": [
+      "Role title is 'Product Lead, AI' but the JD body describes the Payments Intelligence team (Radar, Authorization Boost, Disputes) without explicitly referencing AI as a standalone product area — the AI label may refer to ML/AI embedded in payments intelligence products rather than a separate AI product suite.",
+      "Location, remote eligibility, and office policy are entirely absent from the JD — work arrangement is unclear."
+    ]
+  }
+}

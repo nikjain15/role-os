@@ -1,0 +1,298 @@
+{
+  "company": "Wayve",
+  "role_title": "Customer Program Manager",
+  "url": "https://wayve.firststage.co/jobs?gh_jid=8515998002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8515998002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "Yokohama",
+      "Tokyo"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "hybrid — combines time in office and time working from home; specific ratio not stated",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Customer-facing Program Manager (OEM / Automotive)",
+  "seniority": {
+    "level": "Senior IC / Staff (experienced program manager leading complex OEM programs)",
+    "years_required_min": null,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "Described as 'Extensive program management experience in complex automotive software development'",
+      "Responsible for leading cross-functional teams and full-scale production programs with OEM customers",
+      "Provides first-level customer support and owns risk/change management"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "automotive_software_program_management",
+      "raw_text_from_jd": "Extensive program management experience in complex automotive software development.",
+      "skill_type": "years_of_experience",
+      "domain": "automotive_software_program_management",
+      "minimum_value": null,
+      "unit": "years",
+      "qualifier": "extensive",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "automotive"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "program_management_tools",
+      "raw_text_from_jd": "Proficient in utilising program management tools (e.g., Jira) to optimise workflow efficiency and ensure seamless project execution.",
+      "skill_type": "tool_proficiency",
+      "domain": "program_management",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "Jira"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "automotive_technical_expertise",
+      "raw_text_from_jd": "Robust technical expertise with comprehensive knowledge of the automotive industry.",
+      "skill_type": "domain_knowledge",
+      "domain": "automotive_industry",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "automotive"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "proactive_problem_solving",
+      "raw_text_from_jd": "A proactive problem-solving mindset.",
+      "skill_type": "cultural_fit",
+      "domain": "problem_solving",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_interpersonal_skills",
+      "raw_text_from_jd": "Exceptional communication and interpersonal skills.",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_collaboration",
+      "raw_text_from_jd": "Demonstrated ability to collaborate effectively across multidisciplinary teams.",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "willingness_to_travel",
+      "raw_text_from_jd": "Willingness to travel as needed.",
+      "skill_type": "cultural_fit",
+      "domain": "travel",
+      "evidence_required": "work_history",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "fluent_japanese_business_english",
+      "raw_text_from_jd": "Fluent Japanese and business-level English are required for collaboration with international teams and stakeholders",
+      "skill_type": "capability",
+      "domain": "language_proficiency",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "ai_advancements_knowledge",
+      "raw_text_from_jd": "Knowledge of current AI advancements, including Generative AI, AV 2.0, and Large Language Models (LLMs).",
+      "skill_type": "domain_knowledge",
+      "domain": "artificial_intelligence",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "Generative AI",
+        "AV 2.0",
+        "LLMs"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "software_development_experience",
+      "raw_text_from_jd": "Hands-on experience in software development.",
+      "skill_type": "capability",
+      "domain": "software_development",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "masters_engineering_cs",
+      "raw_text_from_jd": "A Master's degree in Engineering or Computer Science.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "masters",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Master's degree in Engineering",
+        "Master's degree in Computer Science"
+      ]
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "OEM customer programs — from early-stage advanced development to full-scale production programs for automated/assisted driving AI software",
+    "business_model": "B2B, automotive OEM partnerships (AI software / foundation models for automakers)",
+    "primary_metrics_inferred": [
+      "On-time delivery of program milestones",
+      "Customer satisfaction and requirement fulfilment",
+      "Risk identification and mitigation effectiveness",
+      "Change management adherence"
+    ],
+    "cross_functional_partners": [
+      "Product",
+      "R&D",
+      "Internal development teams",
+      "OEM customers"
+    ],
+    "core_responsibilities": [
+      "Lead and support cross-functional teams in executing complex customer programs, ensuring the successful achievement of program objectives.",
+      "Establish and maintain a comprehensive project management framework, including project planning, risk management, change management, and task coordination.",
+      "Engage with customers to understand and address their technical requirements and needs.",
+      "Collaborate closely with teams across Product, R&D, and other departments to translate customer demands into clear, actionable technical requirements.",
+      "Ensure efficient reporting both externally to customers and internally within the organisation.",
+      "Work closely with internal development teams to align customer requirements with internal milestone planning and execution.",
+      "Provide first-level support to customers, ensuring their needs are met promptly and effectively."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "program management",
+    "OEM customers",
+    "automotive software",
+    "embodied AI",
+    "automated driving",
+    "cross-functional",
+    "risk management",
+    "change management",
+    "Japanese language",
+    "Jira",
+    "AV 2.0",
+    "LLMs"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear and specific language requirements stated (fluent Japanese + business English) — signals genuine customer-facing Japan-market role",
+    "Role is described as full-time with hybrid flexibility in Yokohama or Tokyo",
+    "Explicit encouragement to apply even if not meeting all requirements",
+    "Strong product focus (Embodied AI, foundation models) with real-world customer impact",
+    "Inclusive hiring commitments and DEI monitoring process disclosed"
+  ],
+  "red_flags": [
+    "No compensation or salary range disclosed",
+    "No specific years of experience defined despite requiring 'extensive' program management experience — ambiguous seniority bar",
+    "Visa sponsorship and work authorisation not addressed anywhere in the JD",
+    "Office location depends on 'candidate's place of residence' — lack of clarity on what that means for relocation or remote eligibility"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 'extensive' experience language and scope of OEM program leadership)",
+      "scope.business_model (inferred from product description — B2B automaker partnerships)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "compensation.source set to 'unknown' — no compensation data anywhere in JD"
+    ],
+    "ambiguities": [
+      "Location: JD says 'office-based role located in Yokohama or Tokyo, depending on the candidate's place of residence' then also references a hybrid working policy — unclear how much office time is expected vs. remote",
+      "Years of experience: 'Extensive program management experience' used without quantification — no minimum year count given",
+      "Work authorisation and visa sponsorship: not mentioned anywhere in the JD; left as 'unclear'"
+    ]
+  }
+}

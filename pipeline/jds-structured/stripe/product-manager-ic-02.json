@@ -1,0 +1,352 @@
+{
+  "company": "Stripe",
+  "role_title": "Product Manager IC-02",
+  "url": "https://stripe.com/jobs/search?gh_jid=7812346",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7812346",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": "Up to 50% telecommuting permitted (implying ~50% in-office)",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "AI Product Manager",
+  "seniority": {
+    "level": "Mid-level IC (IC-02, consistent with 3 years experience and $151K-$220K base)",
+    "years_required_min": 3,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "Title is explicitly IC-02",
+      "Minimum requirements call for 3 years of experience across multiple PM dimensions",
+      "Base salary range $151,070 - $219,600 consistent with mid-level IC at Stripe"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "education_bachelors_engineering",
+      "raw_text_from_jd": "Bachelor's degree or foreign equivalent in engineering or a related field, followed by 3 years of experience in product design or engineering.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree"
+      ]
+    },
+    {
+      "id": "years_product_design_engineering",
+      "raw_text_from_jd": "Bachelor's degree or foreign equivalent in engineering or a related field, followed by 3 years of experience in product design or engineering.",
+      "skill_type": "years_of_experience",
+      "domain": "product_design_or_engineering",
+      "minimum_value": 3,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "years_end_to_end_product_requirements",
+      "raw_text_from_jd": "3 years of experience driving end-to-end product requirements across multiple teams;",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 3,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "years_complex_deliverables_fintech",
+      "raw_text_from_jd": "3 years of experience in gathering and prioritizing complex deliverables while engaging with customers, managing technical and business trade-offs, and collaborating in a cross-functional environment with customers, business leaders, and technical teams to deliver complex data and platform products in the fintech industry;",
+      "skill_type": "years_of_experience",
+      "domain": "data_and_platform_products_fintech",
+      "minimum_value": 3,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "years_ui_ux",
+      "raw_text_from_jd": "3 years of experience working on user interface (UI) and user experience (UX) principles and best practices;",
+      "skill_type": "years_of_experience",
+      "domain": "UI/UX",
+      "minimum_value": 3,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "years_software_product_management",
+      "raw_text_from_jd": "3 years of experience with software product management;",
+      "skill_type": "years_of_experience",
+      "domain": "software_product_management",
+      "minimum_value": 3,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "years_data_metrics_process_improvement",
+      "raw_text_from_jd": "3 years of experience Utilizing data to manage metric, drive process improvement, and implement business cases;",
+      "skill_type": "years_of_experience",
+      "domain": "data_analytics_and_metrics",
+      "minimum_value": 3,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "years_product_roadmap_gtm",
+      "raw_text_from_jd": "3 years of experience in developing company-wide product roadmaps, generating feature requirements, and executing go-to-market strategies;",
+      "skill_type": "years_of_experience",
+      "domain": "product_roadmap_and_go_to_market",
+      "minimum_value": 3,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "years_gen_ai_fintech",
+      "raw_text_from_jd": "2 years of experience building Gen AI applications for fintech industry.",
+      "skill_type": "years_of_experience",
+      "domain": "generative_ai_applications",
+      "minimum_value": 2,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "Gen AI"
+      ],
+      "industries_named": [
+        "fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "genai_applications_internal",
+      "raw_text_from_jd": "Drive the development of internal GenAI applications, including use case scoping, vendor evaluation, data readiness, and change management for operational adoption;",
+      "skill_type": "capability",
+      "domain": "generative_ai_product_development",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "GenAI"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_center_localization_analysis",
+      "raw_text_from_jd": "Conduct technical and business feasibility analysis for data center localization to support Stripe's global expansion, addressing compliance, latency, and operational readiness;",
+      "skill_type": "capability",
+      "domain": "data_infrastructure_and_compliance",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "platformize_reporting",
+      "raw_text_from_jd": "Lead efforts to platformize reporting by building reusable data models and internal tools that scale across multiple product and finance use cases;",
+      "skill_type": "capability",
+      "domain": "data_platform_and_reporting",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "semantic_layer_analytics",
+      "raw_text_from_jd": "Oversee the development of a semantic layer to standardize key metrics and accelerate self-service analytics for data consumers;",
+      "skill_type": "capability",
+      "domain": "data_analytics_infrastructure",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_collaboration",
+      "raw_text_from_jd": "Collaborate closely with engineering, data science, legal, and compliance teams to ensure scalable, secure, and efficient product delivery.",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Internal reporting, data infrastructure, AI, and GenAI applications at Stripe",
+    "business_model": "B2B financial infrastructure platform",
+    "primary_metrics_inferred": [
+      "Self-service analytics adoption",
+      "Reporting scalability across product and finance use cases",
+      "GenAI application adoption and operational efficiency",
+      "Data platform reliability and metric standardization"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Data Science",
+      "Legal",
+      "Compliance",
+      "Finance"
+    ],
+    "core_responsibilities": [
+      "Define product strategy and lead cross-functional initiatives across reporting, data infrastructure and artificial intelligence to support internal teams at Stripe",
+      "Drive the development of internal GenAI applications, including use case scoping, vendor evaluation, data readiness, and change management for operational adoption",
+      "Conduct technical and business feasibility analysis for data center localization to support Stripe's global expansion, addressing compliance, latency, and operational readiness",
+      "Lead efforts to platformize reporting by building reusable data models and internal tools that scale across multiple product and finance use cases",
+      "Oversee the development of a semantic layer to standardize key metrics and accelerate self-service analytics for data consumers",
+      "Collaborate closely with engineering, data science, legal, and compliance teams to ensure scalable, secure, and efficient product delivery"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      151070,
+      219600
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity mentioned as additional benefit; form not specified",
+    "location_pay_differential": false,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "GenAI applications",
+    "data infrastructure",
+    "reporting",
+    "semantic layer",
+    "self-service analytics",
+    "data platform",
+    "fintech",
+    "data center localization",
+    "cross-functional",
+    "internal tools"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Salary range explicitly disclosed ($151,070 - $219,600/yr)",
+    "Up to 50% telecommuting permitted — meaningful flexibility",
+    "Multiple positions available — higher likelihood of hiring",
+    "Clear and specific responsibilities tied to real infrastructure challenges",
+    "Equity, 401(k), medical/dental/vision, and wellness stipends mentioned as additional benefits"
+  ],
+  "red_flags": [
+    "No cities listed — it is unclear where the role is based or what offices are involved",
+    "Work authorization and visa sponsorship not mentioned — unclear for international candidates",
+    "#LI-DNI tag indicates this role should not be indexed by LinkedIn — may limit candidate reach or indicate posting is compliance-driven (e.g. PERM labor certification)",
+    "3-year hard requirements stacked across many dimensions simultaneously may be a PERM/immigration compliance posting rather than a standard open role",
+    "UI/UX 3-year requirement is unusual for a data infrastructure and AI PM role — may be a PERM artifact"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from IC-02 title, 3-year experience floors, and comp range)",
+      "scope.business_model (inferred from company description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "location.cities_listed (not stated in JD body)",
+      "location.work_auth and visa_sponsorship (not stated)"
+    ],
+    "ambiguities": [
+      "The #LI-DNI tag and rigidly stacked minimum requirements at exactly 3 years across all dimensions strongly suggest this may be a PERM labor certification posting rather than a standard open requisition. Candidates should verify with Stripe whether this is an active open role.",
+      "Location is not specified — '50% telecommuting permitted' implies physical presence required at some office, but which city or office is not stated.",
+      "Salary range description says 'this salary range represents the base salary range for the role and any sales commissions/sales bonuses targets, if applicable' — slightly ambiguous whether any portion includes variable comp or is purely base."
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "company": "Stripe",
+  "role_title": "Program Manager, Risk Ops Enablement",
+  "url": "https://stripe.com/jobs/search?gh_jid=7214197",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7214197",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "BizOps / Strategy & Ops",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of experience in risk program management, strategy, management consulting, business operations, and/or operations program management",
+      "Lead complex global programs and high-impact strategic initiatives",
+      "Cross-functional scope spanning Risk Product, Risk Eng, Policy, Data Science"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_risk_program_mgmt",
+      "raw_text_from_jd": "5+ years of experience in risk program management, strategy, management consulting, business operations, and/or operations program management",
+      "skill_type": "years_of_experience",
+      "domain": "risk_program_management_or_ops_strategy",
+      "minimum_value": 5,
+      "unit": "years",
+      "is_combined": true,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "risk operations"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "management consulting"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "data_driven_first_principles",
+      "raw_text_from_jd": "The ability to dig deep into the data and think from first principles while delivering the best results",
+      "skill_type": "capability",
+      "domain": "analytical_thinking",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "stakeholder_management",
+      "raw_text_from_jd": "Ability to manage multiple stakeholders with varying priorities and drive creative solutions and commitment to a shared goal",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "end_to_end_program_management",
+      "raw_text_from_jd": "Strong program management skills with experience managing end-to-end execution of projects/programs that have transformed their company's operations",
+      "skill_type": "outcome",
+      "domain": "program_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_to_action",
+      "raw_text_from_jd": "Enjoys solving complex and hard problems and can turn incomplete, conflicting, or ambiguous inputs into solid action plans and deliver quantifiable business impact",
+      "skill_type": "capability",
+      "domain": "problem_solving",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "scalable_solutions_building",
+      "raw_text_from_jd": "Ability to identify repeated user and specialist-facing issues and build scalable solutions and processes to address them",
+      "skill_type": "capability",
+      "domain": "process_design",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "consulting_experience",
+      "raw_text_from_jd": "2+ years in consulting",
+      "skill_type": "years_of_experience",
+      "domain": "management_consulting",
+      "minimum_value": 2,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "consulting"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "sql_proficiency",
+      "raw_text_from_jd": "Experience with SQL or willingness to learn",
+      "skill_type": "tool_proficiency",
+      "domain": "data_querying",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "SQL"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "mba_or_graduate_degree",
+      "raw_text_from_jd": "MBA or other graduate degree",
+      "skill_type": "credential",
+      "domain": "education",
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "n/a",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "MBA"
+      ]
+    },
+    {
+      "id": "product_eng_ops_partnership",
+      "raw_text_from_jd": "Prior experience partnering with Product, Eng, and Operations teams preferred",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Risk Operations Enablement — core business and strategic programs spanning operational excellence, Risk User Experience, and cross-functional risk initiatives",
+    "business_model": "B2B financial infrastructure / payments platform",
+    "primary_metrics_inferred": [
+      "Operational efficiency gains in Risk Operations",
+      "Risk User Experience improvement metrics",
+      "Bad actor prevention rates",
+      "Legitimate user experience quality"
+    ],
+    "cross_functional_partners": [
+      "Risk Product",
+      "Risk Engineering",
+      "Policy",
+      "Data Science",
+      "Risk Operations"
+    ],
+    "core_responsibilities": [
+      "Lead complex global programs, from initial scoping to design and execution",
+      "Collaborate with multiple stakeholders across Risk Operations, Risk Product, Risk Eng, and other stakeholder teams to prioritize and maximize the impact of projects",
+      "Design and launch programs that lead to step-change improvements in operational processes and business outcomes",
+      "Serve as the Risk Operations expert and partner with cross-functional stakeholders to scope and execute large projects",
+      "Embody Operating Principles and foster Stripe's values and culture"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "risk operations",
+    "program management",
+    "operational excellence",
+    "cross-functional",
+    "risk product",
+    "scalable solutions",
+    "business impact",
+    "strategy",
+    "global programs",
+    "user experience"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear team mission and dual objectives stated (preventing bad actors + delivering legitimate user experience)",
+    "Explicitly states preferred qualifications are a bonus, not a requirement — lower bar anxiety for applicants",
+    "High-impact scope with cross-functional reach into Product, Eng, Policy, and Data Science",
+    "SQL listed as 'willingness to learn' acceptable — not a hard gate"
+  ],
+  "red_flags": [
+    "No location information provided — office, city, remote eligibility, and work authorization are all unstated",
+    "No compensation range disclosed",
+    "Role scope described broadly and somewhat vaguely ('ambiguous, high priority problem spaces') — ownership boundaries unclear",
+    "5+ years minimum requirement combined across a wide range of domains makes calibration difficult"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years requirement and program scope; not explicitly stated)",
+      "scope.business_model (inferred from Stripe's product description as financial infrastructure / payments)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly listed in JD)",
+      "location.type set to 'unclear' — no location or work arrangement details provided in JD",
+      "compensation.equity_mentioned set to false — no mention of equity in JD"
+    ],
+    "ambiguities": [
+      "Location/work arrangement is entirely unstated; could be onsite, hybrid, or remote — marked as 'unclear'",
+      "The 5+ years requirement spans a wide range of domains (risk PM, strategy, consulting, biz ops, ops PM) making it unclear if all must be in one area or distributed",
+      "Visa sponsorship and work authorization requirements are not mentioned anywhere in the JD"
+    ]
+  }
+}

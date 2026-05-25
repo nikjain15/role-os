@@ -1,0 +1,359 @@
+{
+  "company": "SumUp",
+  "role_title": "Senior Product Manager - Acquiring",
+  "url": "https://sumup.com/careers/positions/8313095002?gh_jid=8313095002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8313095002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [
+      "Sofia"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Generalist PM (payments domain)",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of experience in payment processing",
+      "Senior Product Manager title",
+      "Expected to drive product strategy and influence senior stakeholders",
+      "End-to-end ownership of acquirer and PSP integrations"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_payment_processing",
+      "raw_text_from_jd": "5+ years of experience in payment processing, with strong expertise in the card acquiring domain and hands-on experience building acquiring-related products",
+      "skill_type": "years_of_experience",
+      "domain": "payment_processing",
+      "minimum_value": 5,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "payments",
+        "fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "acquiring_domain_knowledge",
+      "raw_text_from_jd": "Deep domain knowledge of acquiring and payment networks (Visa, Mastercard, Amex), including scheme rules, pricing, risk considerations, reconciliation, real-time transaction processing, clearing, and settlement lifecycle",
+      "skill_type": "domain_knowledge",
+      "domain": "card_acquiring_and_payment_networks",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "real-time transaction processing",
+        "clearing",
+        "settlement"
+      ],
+      "industries_named": [
+        "payments"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_acumen",
+      "raw_text_from_jd": "Strong technical acumen - you understand APIs, system architectures, and can deliver technically complex products while communicating effectively with engineering teams",
+      "skill_type": "capability",
+      "domain": "technical_product_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "APIs",
+        "system architectures"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strategic_thinking",
+      "raw_text_from_jd": "Strategic thinking - you can connect technical details to broader business outcomes, balancing short-term priorities with long-term product vision",
+      "skill_type": "capability",
+      "domain": "product_strategy",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_driven_approach",
+      "raw_text_from_jd": "Data-driven approach - track record of using data and customer insights to make decisions, run experiments, and measure impact",
+      "skill_type": "outcome",
+      "domain": "data_driven_decision_making",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "stakeholder_management",
+      "raw_text_from_jd": "Excellent stakeholder management - ability to influence senior stakeholders, build relationships with external partners, and align cross-functional teams",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "problem_solving",
+      "raw_text_from_jd": "Problem-solving excellence - you systematically break down complex problems and make good decisions in ambiguous situations where there's often no \"right answer\"",
+      "skill_type": "capability",
+      "domain": "problem_solving",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ownership_mentality",
+      "raw_text_from_jd": "Ownership mentality - intellectually honest about your work's performance, relying on data to measure success and continuously striving for improvement",
+      "skill_type": "cultural_fit",
+      "domain": "ownership_and_accountability",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "english_fluency",
+      "raw_text_from_jd": "Fluency in English",
+      "skill_type": "capability",
+      "domain": "language",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "acquirer_psp_integrations",
+      "raw_text_from_jd": "Experience managing acquirer and PSP integrations from end-to-end",
+      "skill_type": "domain_knowledge",
+      "domain": "acquirer_psp_integrations",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "payments"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "PSP"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "card_present_card_not_present",
+      "raw_text_from_jd": "Familiarity with both card-present and card-not-present processing concepts",
+      "skill_type": "domain_knowledge",
+      "domain": "card_processing",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "payments"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "scheme_certifications",
+      "raw_text_from_jd": "Experience with scheme certifications, audits, and compliance milestones",
+      "skill_type": "domain_knowledge",
+      "domain": "payments_compliance_and_certifications",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "payments"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "payment_performance_optimization",
+      "raw_text_from_jd": "Track record of optimizing payment performance metrics and reducing processing costs",
+      "skill_type": "outcome",
+      "domain": "payment_performance_optimization",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "payments"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "complex_org_navigation",
+      "raw_text_from_jd": "Experience navigating complex organizational environments and driving change",
+      "skill_type": "capability",
+      "domain": "organizational_change_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "European acquiring operations and payment processing platform (card acquiring capabilities, acquirer/PSP integrations, CP processing)",
+    "business_model": "B2SMB fintech — card acceptance and payment processing for small merchants",
+    "primary_metrics_inferred": [
+      "CP (Card Present) processing KPIs",
+      "Transaction approval rates / merchant payment performance",
+      "Processing cost optimization",
+      "Compliance adherence"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Payment Operations",
+      "Risk",
+      "Compliance",
+      "Hardware",
+      "Consumer",
+      "Payments Partnerships",
+      "Operations",
+      "Business teams"
+    ],
+    "core_responsibilities": [
+      "Define and drive product strategy for card acquiring capabilities",
+      "Build and maintain relationships with Visa, Mastercard, Amex, acquirers, and PSPs",
+      "Own end-to-end acquirer and PSP integrations across European operations",
+      "Partner with engineering to shape product requirements and lead product development from discovery through launch",
+      "Drive data-driven optimization of transaction flows and CP processing KPIs",
+      "Act as key liaison between external partners and internal teams",
+      "Navigate compliance and regulatory changes proactively"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "card acquiring",
+    "payment processing",
+    "PSP integrations",
+    "Visa",
+    "Mastercard",
+    "Amex",
+    "acquirer",
+    "scheme rules",
+    "CP processing",
+    "European acquiring",
+    "settlement",
+    "clearing",
+    "fintech",
+    "compliance",
+    "data-driven"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear and specific domain focus (European card acquiring) — not a vague generalist PM role",
+    "JD explicitly notes candidates do not need to meet 100% of criteria",
+    "Strong perks package including sabbatical leave, learning budget, 10 educational vacation days, and 25+ PTO days",
+    "Global fintech company (3000+ employees, 22 offices) with clear product mission",
+    "Well-defined cross-functional partners and responsibilities"
+  ],
+  "red_flags": [
+    "Compensation range not disclosed",
+    "Visa sponsorship and work authorization policy not mentioned",
+    "Location (city) only inferred from office description ('amazing Sofia view') — not explicitly stated in the role posting",
+    "No information on remote or hybrid eligibility"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "location.cities_listed: inferred as Sofia from 'Innovative office design featuring an amazing Sofia view' — not explicitly stated as the role's city",
+      "location.type: inferred as onsite; no hybrid/remote language present",
+      "scope.business_model: inferred from company description",
+      "scope.primary_metrics_inferred: inferred from responsibilities, not directly stated",
+      "seniority.level: inferred from title and responsibilities",
+      "compensation: not stated anywhere in JD"
+    ],
+    "ambiguities": [
+      "Location city is inferred (Sofia) from an office amenities description rather than an explicit location statement in the role header — may be worth confirming",
+      "Work authorization and visa sponsorship are entirely absent from the JD; marked as 'unclear'"
+    ]
+  }
+}

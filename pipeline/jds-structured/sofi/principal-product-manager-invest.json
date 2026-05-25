@@ -1,0 +1,250 @@
+{
+  "company": "SoFi",
+  "role_title": "Principal Product Manager, Invest",
+  "url": "https://sofi.com/careers/job/7671174003?gh_jid=7671174003",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7671174003",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Growth PM (investing / fintech)",
+  "seniority": {
+    "level": "Principal / Staff IC",
+    "years_required_min": 8,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "8+ years of B2C product management experience",
+      "Principal PM title",
+      "Responsible for mentoring other PMs and raising the bar across the product org",
+      "Operates with high ownership and autonomy, influences executive leadership"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_b2c_pm",
+      "raw_text_from_jd": "8+ years of B2C product management experience, with a track record of owning large, complex product areas",
+      "skill_type": "years_of_experience",
+      "domain": "B2C_product_management",
+      "minimum_value": 8,
+      "unit": "years",
+      "qualifier": "B2C",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "B2C"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_strategy_execution",
+      "raw_text_from_jd": "Demonstrated ability to define and execute product strategy that drives measurable business impact",
+      "skill_type": "outcome",
+      "domain": "product_strategy",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_sense",
+      "raw_text_from_jd": "Strong product sense with the ability to identify high-leverage opportunities and make principled tradeoffs",
+      "skill_type": "capability",
+      "domain": "product_thinking",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_leadership",
+      "raw_text_from_jd": "Experience leading cross-functional teams and influencing stakeholders across multiple organizations",
+      "skill_type": "capability",
+      "domain": "cross_functional_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "experimentation_analytics",
+      "raw_text_from_jd": "Deep understanding of experimentation, analytics, and data-driven decision making",
+      "skill_type": "domain_knowledge",
+      "domain": "experimentation_and_analytics",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "autonomy_ambiguity",
+      "raw_text_from_jd": "Ability to operate with high ownership and autonomy in ambiguous, fast-paced environments",
+      "skill_type": "cultural_fit",
+      "domain": "operating_model",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "executive_communication",
+      "raw_text_from_jd": "Strong communication skills with the ability to influence and align at all levels, including executive leadership",
+      "skill_type": "capability",
+      "domain": "executive_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "ai_tools_fluency",
+      "raw_text_from_jd": "Fluency with modern AI tools for product development: Ability to leverage tools like Cursor and Claude to accelerate product workflows, prototyping, and execution.",
+      "skill_type": "tool_proficiency",
+      "domain": "ai_assisted_product_development",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Cursor",
+        "Claude"
+      ],
+      "technologies_named": [
+        "AI tools"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [
+    "Remote work from Hawaii or Alaska"
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "SoFi Invest — the end-to-end investing experience for members (discovery, engagement, wealth growth)",
+    "business_model": "B2C fintech / national bank, consumer investing product",
+    "primary_metrics_inferred": [
+      "AUM growth",
+      "Funded accounts",
+      "Net deposits",
+      "Engagement",
+      "Retention"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Data",
+      "Marketing",
+      "Risk",
+      "Legal",
+      "Executive leadership"
+    ],
+    "core_responsibilities": [
+      "Define and drive product strategy: Own the long-term vision and strategy for the investing experience",
+      "Lead complex, cross-org initiatives: Drive large, multi-quarter initiatives that span multiple teams and product areas",
+      "Own end-to-end product outcomes: Deliver measurable impact across key metrics such as funded accounts, net deposits, engagement, retention, and AUM growth",
+      "Elevate product quality and differentiation: Set a high bar for user experience",
+      "Drive data-informed decision making: Partner with data and research teams to define measurement frameworks",
+      "Influence platform and system design: Partner with engineering to shape scalable, extensible systems",
+      "Mentor and raise the bar: Act as a thought leader within the product organization, mentoring other PMs"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": true,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Principal Product Manager",
+    "investing experience",
+    "AUM growth",
+    "B2C product management",
+    "cross-functional leadership",
+    "product strategy",
+    "fintech",
+    "wealth management",
+    "data-driven",
+    "experimentation",
+    "AI tools",
+    "member outcomes"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear ownership domain with defined business metrics (AUM, funded accounts, net deposits, engagement, retention)",
+    "Principal-level role with significant scope across the full investing journey",
+    "Mentions AI tool fluency (Cursor, Claude) as a valued capability — signals modern product culture",
+    "EEO and San Francisco Fair Chance Ordinance language suggests inclusive hiring practices"
+  ],
+  "red_flags": [
+    "Compensation range not disclosed — JD references it will be listed below but no figures appear in the extracted content",
+    "Location type is unclear — body only excludes Hawaii and Alaska for remote work, no specific cities or hybrid policy stated",
+    "Visa sponsorship status not addressed",
+    "No explicit mention of investing domain experience as a requirement, which could signal ambiguity around domain depth expectations"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Principal' and 8+ years requirement)",
+      "seniority.manages_people (inferred as false; mentoring is mentioned but not formal people management)",
+      "scope.business_model (inferred from company description and product area)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; listed in JD as examples)",
+      "location.remote_us_eligible (inferred from Hawaii/Alaska exclusion implying broader remote eligibility)",
+      "compensation.location_pay_differential (inferred from statement that final pay depends on candidate's location)"
+    ],
+    "ambiguities": [
+      "Compensation range is referenced ('The base pay range for this role is listed below') but no figures appear in the extracted JD content — may have been omitted from the markdown.",
+      "Location type is ambiguous: no hybrid/onsite policy stated; only Hawaii and Alaska excluded for remote, suggesting broader remote eligibility but not confirmed.",
+      "AI tools fluency (Cursor, Claude) appears under 'What you'll do' (responsibilities), not under 'What you'll need' (requirements) — treated as nice-to-have given its framing as a capability expectation rather than a hard gate."
+    ]
+  }
+}

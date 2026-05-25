@@ -1,0 +1,230 @@
+{
+  "company": "SoFi",
+  "role_title": "Principal Product Manager, AI Features",
+  "url": "https://sofi.com/careers/job/7670800003?gh_jid=7670800003",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7670800003",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "AI Product Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Generalist PM",
+  "seniority": {
+    "level": "Principal / Staff IC (IC6+)",
+    "years_required_min": 10,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "10+ years of product management experience required",
+      "Principal PM title",
+      "Expected to set multi-year strategy and present to C-level leadership",
+      "Described as a 'product leader' who sets 'big, ambitious goals'"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "10+ years of product management experience, with demonstrated success in defining and delivering high-impact, customer-facing features.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 10,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "llm_ai_experience",
+      "raw_text_from_jd": "Familiarity or direct experience working with LLMs and AI tooling to build end-to-end user journeys.",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_llm_product_development",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "LLMs",
+        "AI tooling"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "regulated_environment",
+      "raw_text_from_jd": "Ability to operate effectively in complex, ambiguous, and highly-regulated environments.",
+      "skill_type": "capability",
+      "domain": "regulated_industry_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "executive_communication",
+      "raw_text_from_jd": "Superior written and verbal skills; experience communicating complex technical concepts clearly to C-level leadership.",
+      "skill_type": "capability",
+      "domain": "executive_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "education_technical",
+      "raw_text_from_jd": "Bachelor's degree or higher in a technical discipline; able to hold your own with world-class engineers and data scientists.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree"
+      ]
+    },
+    {
+      "id": "customer_passion",
+      "raw_text_from_jd": "A genuine passion for the customer. You are committed to doing right by our members, always, and using technology to democratize financial advice.",
+      "skill_type": "cultural_fit",
+      "domain": "customer_centricity",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "fintech",
+        "financial services"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_skills",
+      "raw_text_from_jd": "Excellent analytical skills with the ability to turn fragmented data into a cohesive story of member progress and business growth.",
+      "skill_type": "capability",
+      "domain": "data_analytics",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [
+    "Remote work from Hawaii or Alaska not accommodated due to insurance coverage issues"
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "SoFi Coach / AI Financial Guide — conversational, AI-powered personalized financial guidance product for SoFi members",
+    "business_model": "B2C / national bank, mobile-first personal finance platform",
+    "primary_metrics_inferred": [
+      "Member acquisition",
+      "Member engagement across SoFi ecosystem",
+      "Multi-product adoption",
+      "Member financial health improvement"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Data Science",
+      "Design",
+      "Marketing"
+    ],
+    "core_responsibilities": [
+      "Own the multi-year strategy for SoFi Coach to drive Member acquisition and engagement across the entire SoFi ecosystem.",
+      "Identify and integrate new technologies to provide a significantly differentiated value proposition that helps members navigate complex financial decisions.",
+      "Transition SoFI's personalized insights from reactive reporting to proactive guidance, creating features that nudge members toward better financial habits in real-time.",
+      "Clearly articulate the vision, strategy, and customer impact to stakeholders at the highest levels of leadership and ensure alignment on shared business objectives.",
+      "Collaborate with engineering, data science, design, and marketing to translate customer needs into industry-leading experiences.",
+      "Operate as a true builder by defining business strategy while driving the technical backlogs and execution plans necessary for launch.",
+      "Use a data-driven approach to monitor performance and ensure measurable improvements in member financial health and multi-product adoption."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": true,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "AI Financial Guide",
+    "SoFi Coach",
+    "LLMs",
+    "personalization",
+    "conversational AI",
+    "proactive guidance",
+    "multi-year strategy",
+    "fintech",
+    "member engagement",
+    "data-driven"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear product surface and ownership defined (SoFi Coach / AI Financial Guide)",
+    "High strategic ownership — multi-year roadmap, C-level exposure",
+    "Mission-driven product with tangible member impact",
+    "Cross-functional scope across all business units provides broad influence"
+  ],
+  "red_flags": [
+    "Compensation range not disclosed despite JD referencing it ('The base pay range for this role is listed below' — range appears to have been omitted from the posting)",
+    "Location type is ambiguous: no cities listed, remote eligibility not explicitly confirmed (only Hawaii/Alaska exclusion mentioned)",
+    "No visa sponsorship information provided",
+    "No nice-to-haves listed — requirements may be inflexible"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Principal PM', 10+ years requirement, and C-level communication expectation)",
+      "scope.business_model (inferred from company description as national bank / fintech)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly stated in JD)",
+      "location.remote_us_eligible (inferred from Hawaii/Alaska exclusion implying remote is otherwise possible)",
+      "compensation.location_pay_differential (inferred from JD language 'Final base pay offer will be determined based on individual factors such as the candidate's experience, skills, and location')"
+    ],
+    "ambiguities": [
+      "Compensation range is referenced ('The base pay range for this role is listed below') but the actual numbers are absent from the JD text — likely a formatting/publishing error.",
+      "Location type is unclear: no specific cities or office requirements stated; Hawaii/Alaska exclusion implies remote-eligible but no explicit confirmation of remote-first or hybrid policy.",
+      "'Familiarity or direct experience' with LLMs is ambiguous — could be interpreted as soft (familiarity acceptable) or hard (direct experience preferred); classified as hard given it appears in the required section."
+    ]
+  }
+}

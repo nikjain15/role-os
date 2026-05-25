@@ -1,0 +1,238 @@
+{
+  "company": "Stripe",
+  "role_title": "Technical Program Manager, Risk",
+  "url": "https://stripe.com/jobs/search?gh_jid=7685855",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7685855",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Risk & Compliance TPM",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7+ years of software engineering, systems engineering and/or technical program management experience",
+      "Experience operating autonomously and leading large-scale efforts across multiple teams and functions",
+      "Leverage data and acquired knowledge to drive strategic decisions at an engineering leadership level"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_experience",
+      "raw_text_from_jd": "7+ years of software engineering, systems engineering and/or technical program management experience.",
+      "skill_type": "years_of_experience",
+      "domain": "software_engineering_or_technical_program_management",
+      "minimum_value": 7,
+      "unit": "years",
+      "is_combined": true,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_skills",
+      "raw_text_from_jd": "Excellent analytical skills; you digest complex information and make recommendations.",
+      "skill_type": "capability",
+      "domain": "analytical_reasoning",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "full_sdlc_program_management",
+      "raw_text_from_jd": "You have a track record of providing program management during all phases of software development from kick-off to launch, demonstrating critical thinking, challenging the norms and thought leadership.",
+      "skill_type": "outcome",
+      "domain": "program_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_and_stakeholder_management",
+      "raw_text_from_jd": "You have very strong written and verbal communication skills, building strong relationships with stakeholders, teams and senior leaders around the organization.",
+      "skill_type": "capability",
+      "domain": "communication_and_stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_process_improvement",
+      "raw_text_from_jd": "You can drive internal and external process improvements across multiple teams and functions and bring a wealth of experience, opinions, proposals and best practices.",
+      "skill_type": "capability",
+      "domain": "process_improvement",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "autonomous_large_scale_leadership",
+      "raw_text_from_jd": "Experience operating autonomously and leading large-scale efforts across multiple teams and functions, with stakeholders in different disciplines across time zones.",
+      "skill_type": "capability",
+      "domain": "large_scale_program_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "financial_risk_compliance_experience",
+      "raw_text_from_jd": "Experience working in financial risk and compliance",
+      "skill_type": "domain_knowledge",
+      "domain": "financial_risk_and_compliance",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "financial services",
+        "fintech",
+        "risk and compliance"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sql_python_skills",
+      "raw_text_from_jd": "SQL and python scripting and/or programming skills",
+      "skill_type": "tool_proficiency",
+      "domain": "data_scripting_and_programming",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "SQL",
+        "Python"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Risk and Compliance Engineering — user-facing products and backend platforms for regulatory and financial partner compliance",
+    "business_model": "B2B financial infrastructure platform",
+    "primary_metrics_inferred": [
+      "KPIs for risk and compliance programs",
+      "Team productivity and efficiency",
+      "Program launch success / on-time delivery",
+      "Financial loss reduction and regulatory compliance"
+    ],
+    "cross_functional_partners": [
+      "Engineering Managers",
+      "Product Managers",
+      "cross-functional partners across Risk organization",
+      "senior leaders"
+    ],
+    "core_responsibilities": [
+      "Execute on technical programs that require deep systems and engineering knowledge",
+      "Partner with Engineering Managers, Product Managers and other cross functional partners to define, scope, and drive large programs to conclusion",
+      "Develop, implement, and iterate on program management techniques, frameworks, and KPIs to achieve goals with well defined success criteria",
+      "Make substantial improvements to how the teams you work with communicate and operate to significantly increase the productivity and efficiency of the teams",
+      "Define and produce high quality written proposals, communications and documentation",
+      "Leverage data and acquired knowledge to drive strategic decisions at an engineering leadership level",
+      "Create widely circulated plans, driving consistency, clarity and building alignment across teams"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Technical Program Manager",
+    "Risk and Compliance",
+    "financial infrastructure",
+    "cross-functional",
+    "large-scale programs",
+    "engineering leadership",
+    "KPIs",
+    "SQL",
+    "Python",
+    "stakeholder management",
+    "process improvement"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear articulation of team mission (Risk and Compliance Engineering)",
+    "Explicit statement that preferred qualifications are bonuses, not requirements — encourages broader applicant pool",
+    "Role operates at engineering leadership level with strategic influence"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "No location information stated — unclear if remote, hybrid, or onsite and which offices are eligible",
+    "No visa sponsorship or work authorization information provided"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 7+ years requirement and engineering leadership scope; not explicitly labeled)",
+      "scope.business_model (inferred from company description as B2B financial infrastructure)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly stated in JD)",
+      "location.type (not stated in JD; marked unclear)",
+      "compensation (not stated; marked unknown)"
+    ],
+    "ambiguities": [
+      "Years requirement covers 'software engineering, systems engineering and/or technical program management' — the combination is not specified, so any of those disciplines could satisfy the requirement individually or in combination.",
+      "Location is entirely absent from the JD body; cannot determine remote eligibility, office requirement, or eligible cities."
+    ]
+  }
+}

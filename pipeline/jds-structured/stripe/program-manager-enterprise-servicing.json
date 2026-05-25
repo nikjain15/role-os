@@ -1,0 +1,301 @@
+{
+  "company": "Stripe",
+  "role_title": "Program Manager, Enterprise Servicing",
+  "url": "https://stripe.com/jobs/search?gh_jid=7467934",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7467934",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "BizOps / Strategy & Ops",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of experience in program management, business operations, management consulting, or a related discipline",
+      "End-to-end ownership of global, complex programs with multiple constituents",
+      "Influencing across all levels from front lines to C-Suite"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_program_management",
+      "raw_text_from_jd": "5+ years of experience in program management, business operations, management consulting, or a related discipline.",
+      "skill_type": "years_of_experience",
+      "domain": "program_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "is_combined": true,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "global_complex_programs",
+      "raw_text_from_jd": "A strong track record of delivering global, complex programs with multiple constituents in a changing, ambiguous environment end-to-end.",
+      "skill_type": "outcome",
+      "domain": "program_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strategic_problem_solving",
+      "raw_text_from_jd": "Strategic Problem Solving: Deep problem solving and analysis experience (solving business problems—commercial, operational, financial) in a Sales-oriented environment. You must have the ability to diagnose, simplify, and structure problems and solutions while having command of \"the details\".",
+      "skill_type": "capability",
+      "domain": "strategic_analysis",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_communication_influence",
+      "raw_text_from_jd": "Excellent analytical, presentation, and communication experience, influencing across all levels from front lines to C-Suite. You set a high-bar in terms of communication effectiveness.",
+      "skill_type": "capability",
+      "domain": "executive_communication",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "adaptability_fast_paced",
+      "raw_text_from_jd": "The ability to seamlessly transition from strategy, high level to very detailed, and a willingness to \"roll up your sleeves\". You work well under pressure, with a high degree of adaptability and flexibility in a fast-paced, rapidly changing environment.",
+      "skill_type": "cultural_fit",
+      "domain": "operational_agility",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_influence",
+      "raw_text_from_jd": "Ability to influence cross functional stakeholders to align and execute on common objectives.",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "incomplete_data_reprioritizing",
+      "raw_text_from_jd": "Experience operating with incomplete data and reprioritizing as business needs change",
+      "skill_type": "capability",
+      "domain": "operational_agility",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "enterprise_customers_exec_engagement",
+      "raw_text_from_jd": "Prior experience with enterprise customers or large accounts and familiarity with executive engagement practices (QBRs, exec briefings)",
+      "skill_type": "domain_knowledge",
+      "domain": "enterprise_customer_success",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_success_tam_background",
+      "raw_text_from_jd": "Background in Customer Success or Technical Account Management programs",
+      "skill_type": "domain_knowledge",
+      "domain": "customer_success",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_science_dashboards_automation",
+      "raw_text_from_jd": "Experience partnering with Data Science or building dashboards/automation for program observability",
+      "skill_type": "capability",
+      "domain": "data_analytics",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sql_analytics_tools",
+      "raw_text_from_jd": "Comfort with SQL or analytics tools to interrogate program and user data",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analytics",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "SQL"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "payments_fintech_experience",
+      "raw_text_from_jd": "Prior payments or fintech experience",
+      "skill_type": "domain_knowledge",
+      "domain": "payments_fintech",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "payments",
+        "fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Enterprise Servicing Program — post-sales engagement model for Stripe's largest users",
+    "business_model": "B2B enterprise, financial infrastructure platform",
+    "primary_metrics_inferred": [
+      "Retention and growth of top enterprise accounts",
+      "Customer satisfaction / service level effectiveness",
+      "Program adoption metrics",
+      "Financial performance of enterprise accounts"
+    ],
+    "cross_functional_partners": [
+      "Customer Success",
+      "Technical Account Managers",
+      "Go-to-market teams",
+      "Product",
+      "Operations",
+      "Finance",
+      "Legal",
+      "Data Science"
+    ],
+    "core_responsibilities": [
+      "Design and lead a differentiated programmatic post-sales engagement model for Stripe's largest users",
+      "Own end-to-end program delivery—strategy, cross-functional alignment, execution, and measurement",
+      "Determine feedback loops to assess service level and create program effectiveness measures",
+      "Refine service level offerings by proposing modifications or additional offerings based on customer feedback",
+      "Develop a roadmap for foundational requirements to operate the program efficiently and at scale",
+      "Drive scalability through process refinement and automation",
+      "Set goals and targets for the overall program and manage key forums/updates for stakeholders"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "program management",
+    "enterprise servicing",
+    "post-sales",
+    "customer success",
+    "cross-functional alignment",
+    "stakeholder management",
+    "scalability",
+    "executive engagement",
+    "QBRs",
+    "automation",
+    "program observability",
+    "fintech"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear program ownership and scope (end-to-end enterprise servicing program)",
+    "High-impact team described as 'small, high-impact' with direct influence on strategy",
+    "Cross-functional scope gives broad visibility across Product, GTM, Finance, Legal, and more",
+    "JD explicitly states preferred qualifications are a bonus, not a requirement, encouraging broader applicant pool"
+  ],
+  "red_flags": [
+    "No location or remote policy disclosed — candidates cannot assess work arrangement",
+    "No compensation range stated",
+    "No visa sponsorship information provided"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 5+ years requirement and scope of responsibilities)",
+      "scope.business_model (inferred from Stripe product description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly listed in JD)",
+      "location.type set to 'unclear' — no location or remote policy stated anywhere in JD",
+      "compensation.source set to 'unknown' — no compensation data in JD"
+    ],
+    "ambiguities": [
+      "Location and work arrangement (remote, hybrid, onsite) are entirely absent from the JD body and metadata provided — cannot determine work_auth or visa_sponsorship policy."
+    ]
+  }
+}

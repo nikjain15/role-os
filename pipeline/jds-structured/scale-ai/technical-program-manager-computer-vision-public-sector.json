@@ -1,0 +1,264 @@
+{
+  "company": "Scale AI",
+  "role_title": "Technical Program Manager (Computer Vision), Public Sector",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4692201005",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "4692201005",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [
+      "Washington DC"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "up to 4 days per week onsite with customers in the DMV area and/or minimum 25% travel",
+    "work_auth": "us-citizenship-required",
+    "visa_sponsorship": "no"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Public Sector Delivery / Computer Vision TPM",
+  "seniority": {
+    "level": "Mid-Senior IC",
+    "years_required_min": 3,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "3+ years of work experience in stakeholder management or customer-facing enterprise delivery",
+      "Comp range $166,400–$249,000 base in Washington DC, consistent with mid-senior IC",
+      "Owns or supports a customer account plan independently"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "active_ts_sci_clearance",
+      "raw_text_from_jd": "An active TS/SCI clearance",
+      "skill_type": "credential",
+      "domain": "security_clearance",
+      "minimum_value": "TS/SCI",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "national security",
+        "public sector"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "TS/SCI clearance"
+      ]
+    },
+    {
+      "id": "years_stakeholder_customer_facing",
+      "raw_text_from_jd": "3+ years of work experience succeeding in stakeholder management or a customer-facing role delivering enterprise-scale applications / solutions",
+      "skill_type": "years_of_experience",
+      "domain": "stakeholder_management",
+      "minimum_value": 3,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ml_operations_understanding",
+      "raw_text_from_jd": "A deep understanding of ML operations process",
+      "skill_type": "domain_knowledge",
+      "domain": "ml_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "ML operations"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytics_driven_problem_solving",
+      "raw_text_from_jd": "A track record of structured, analytics-driven problem solving",
+      "skill_type": "capability",
+      "domain": "analytical_problem_solving",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_skills",
+      "raw_text_from_jd": "Excellent verbal and written communication skills",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "onsite_travel_dmv",
+      "raw_text_from_jd": "Willingness to be onsite with customers up to 4 days per week in the DMV area and / or prepared to travel a minimum of 25%",
+      "skill_type": "cultural_fit",
+      "domain": "travel_availability",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [
+        "DMV area"
+      ],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "technical_background",
+      "raw_text_from_jd": "A technical background (education or professional experience with computer science, economics, statistics, engineering)",
+      "skill_type": "domain_knowledge",
+      "domain": "technical_background",
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "b2b_client_facing_track_record",
+      "raw_text_from_jd": "A proven track record in B2B client-facing roles and expanding client relationships",
+      "skill_type": "capability",
+      "domain": "b2b_client_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "government_technical_implementation",
+      "raw_text_from_jd": "Prior experience owning the technical implementation of solutions to the government",
+      "skill_type": "domain_knowledge",
+      "domain": "government_technology_delivery",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "public sector",
+        "national security"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Computer vision workflows and AI/ML systems for national security / U.S. government customers",
+    "business_model": "B2B / B2G enterprise, public sector AI delivery",
+    "primary_metrics_inferred": [
+      "Customer success and retention",
+      "On-time delivery of computer vision solutions",
+      "Expansion of client relationships"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Operations",
+      "Public Sector teams"
+    ],
+    "core_responsibilities": [
+      "Manage customer relationships from the executive to the end user",
+      "Work alongside customers to scope computer vision use cases that Scale's engineering team will build and you will ultimately refine",
+      "Lead or support a cross-functional project team to deliver on and exceed the customer's AI/ML objectives",
+      "Lead with a 'whatever-it-takes' mentality, proactively identifying customer needs and operator pain points to ensure customer success",
+      "Learn technical concepts and tools to necessary depth, leveraging that expertise to create solutions from scratch or drastically improve existing solutions",
+      "Partner with engineering, operations, and other public sector teams to build and deliver AI systems tailored to unique government use cases in the computer vision domain"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      166400,
+      249000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity grant subject to Board of Director approval",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "computer vision",
+    "technical program manager",
+    "TS/SCI clearance",
+    "national security",
+    "public sector",
+    "ML operations",
+    "stakeholder management",
+    "customer-facing",
+    "DMV",
+    "AI/ML",
+    "enterprise delivery"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range explicitly disclosed ($166,400–$249,000 base in Washington DC)",
+    "Equity mentioned as part of compensation package",
+    "Clear product surface and customer type (U.S. government / national security computer vision)",
+    "Comprehensive benefits package described including health, dental, vision, retirement, L&D stipend, and generous PTO"
+  ],
+  "red_flags": [
+    "Hard requirement for active TS/SCI clearance eliminates most candidates without prior government/cleared work",
+    "Up to 4 days per week onsite in DMV area is effectively full-time onsite with minimal flexibility",
+    "90-day waiting period policy before reconsidering candidates for same role limits re-application options",
+    "No visa sponsorship implied given TS/SCI clearance requirement (cleared roles typically require U.S. citizenship)"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range and years requirement)",
+      "scope.business_model (inferred from customer descriptions)",
+      "scope.primary_metrics_inferred (not stated in JD; inferred from responsibilities)",
+      "location.work_auth set to us-citizenship-required (inferred from TS/SCI clearance requirement; not explicitly stated)",
+      "location.visa_sponsorship set to no (inferred from TS/SCI clearance requirement; not explicitly stated)"
+    ],
+    "ambiguities": [
+      "The 'nice to haves' section is introduced as 'many have' rather than standard 'preferred' or 'nice to have' language — treated as soft/nice-to-have given the separate explicit 'Must haves' section that follows",
+      "Travel requirement states 'up to 4 days per week onsite in DMV area and/or minimum 25% travel' — unclear if these are additive or alternatives; both captured verbatim",
+      "Location type set to 'onsite' based on 4-days/week customer presence requirement, though role could technically be home-based when not with customers"
+    ]
+  }
+}

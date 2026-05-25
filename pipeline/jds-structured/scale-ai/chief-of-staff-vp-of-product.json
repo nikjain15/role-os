@@ -1,0 +1,219 @@
+{
+  "company": "Scale AI",
+  "role_title": "Chief of Staff, VP of Product",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4693004005",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "4693004005",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [
+      "San Francisco, CA",
+      "New York, NY",
+      "Seattle, WA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Chief of Staff",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Technical Program Manager with product leadership trajectory",
+  "seniority": {
+    "level": "Senior IC / Staff (likely equivalent to Staff PM or Senior Chief of Staff)",
+    "years_required_min": 10,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "10 years of experience in product management, technical program management, strategy, or a role with real operational ownership",
+      "Comp range $211K-$312K base, consistent with senior IC at Scale AI",
+      "Expected to act on behalf of VP of Product and make real prioritization calls"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_experience_product_tpm_strategy",
+      "raw_text_from_jd": "10 years of experience in product management, technical program management, strategy, or a role with real operational ownership - not coordination.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management_or_tpm_or_strategy",
+      "minimum_value": 10,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "complexity_management",
+      "raw_text_from_jd": "Demonstrated record of managing complexity: multiple parallel workstreams, competing stakeholder demands, and ambiguous ownership  and keeping all of it moving without dropping threads.",
+      "skill_type": "outcome",
+      "domain": "program_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "organizational_precision",
+      "raw_text_from_jd": "Extreme organizational precision. Their systems are legible to others, not just themselves.",
+      "skill_type": "capability",
+      "domain": "operations_and_organization",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_fluency",
+      "raw_text_from_jd": "Enough technical fluency to hold a real conversation with a platform engineer. Not deep coding, but genuine comprehension of how systems work: APIs, infrastructure, deployment, architecture at a conceptual level and curiosity to learn.",
+      "skill_type": "domain_knowledge",
+      "domain": "technical_systems",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "APIs",
+        "infrastructure",
+        "deployment",
+        "architecture"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "principal_judgment",
+      "raw_text_from_jd": "The judgment to act on behalf of the principal.",
+      "skill_type": "capability",
+      "domain": "executive_judgment",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "written_communication",
+      "raw_text_from_jd": "Strong, precise written communication. First drafts should be clean. Recaps, briefs, and async updates should require minimal editing.",
+      "skill_type": "capability",
+      "domain": "written_communication",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [
+    "scheduler",
+    "note-taker",
+    "communications coordinator"
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Product organization at Scale AI; supporting VP of Product across all product workstreams",
+    "business_model": "B2B / B2G AI data and infrastructure platform",
+    "primary_metrics_inferred": [
+      "Operational throughput of the product org",
+      "Decision follow-through rate",
+      "VP preparedness for high-stakes meetings"
+    ],
+    "cross_functional_partners": [
+      "Engineering leads",
+      "PMs",
+      "Go-to-market partners",
+      "Customers",
+      "Executives"
+    ],
+    "core_responsibilities": [
+      "Prepare the VP for every significant meeting, external or internal: customer briefings, executive reviews, board-adjacent discussions with the right level of context and the right framing.",
+      "Represent the VP in internal workstreams where her presence isn't required but her perspective is.",
+      "Drive follow-through on decisions made in meetings: own the action items, chase closures, and surface blockers before they become problems.",
+      "Build and maintain the operational infrastructure that keeps the product org coordinated.",
+      "Engage directly with engineering leads, PMs, and go-to-market partners with enough technical and product fluency to move things forward.",
+      "Move people without authority."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      211200,
+      312000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity grant subject to Board of Director approval",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Chief of Staff",
+    "VP of Product",
+    "operational precision",
+    "product leadership",
+    "technical fluency",
+    "stakeholder management",
+    "written communication",
+    "executive support",
+    "program management",
+    "AI infrastructure"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($211K-$312K base) and competitive",
+    "Clear and honest role framing — explicitly distinguishes this from a traditional CoS role",
+    "Explicit growth path described: 'wants to grow into product leadership'",
+    "Highly specific responsibilities signal genuine operational ownership rather than vague support",
+    "Scale AI works with high-profile enterprise and government clients (Meta, U.S. Army, etc.)"
+  ],
+  "red_flags": [
+    "10-year minimum experience floor is high for a CoS role that is not explicitly a GM or executive title",
+    "Role requires being 'in every room, on every decision' — potential for scope creep and burnout",
+    "No remote option stated; onsite in SF, NY, or Seattle only",
+    "No explicit mention of visa sponsorship — unclear for international candidates",
+    "Wide comp band ($100K spread) may indicate significant uncertainty in leveling"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range and 10-year floor)",
+      "scope.business_model (inferred from About Us section describing B2B/B2G AI data platform)",
+      "scope.primary_metrics_inferred (not stated; inferred from responsibilities)",
+      "location.type (inferred as onsite from city-specific pay transparency disclosure and no remote language)",
+      "location.remote_us_eligible (inferred false; no remote option mentioned)"
+    ],
+    "ambiguities": [
+      "Visa sponsorship is not mentioned anywhere in the JD; marked as 'unclear'.",
+      "Office attendance policy is not explicitly stated beyond the implication that this is an onsite role in SF, NY, or Seattle.",
+      "The wide compensation band ($211K-$312K) may reflect different leveling across locations or experience tiers, but this is not clarified."
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "company": "SoFi",
+  "role_title": "Senior Product Manager, Underwriting",
+  "url": "https://sofi.com/careers/job/7616225003?gh_jid=7616225003",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7616225003",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Platform PM (Underwriting / Risk Infrastructure)",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of product management experience",
+      "Title is 'Senior Product Manager'",
+      "Owns roadmap across multiple organizations",
+      "Expected to lead change management and serve as primary point of contact"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "5+ years of product management experience, ideally within fintech, lending, or platform-side roles.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "qualifier": "ideally within fintech, lending, or platform-side roles",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "fintech",
+        "lending"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_depth_system_architecture",
+      "raw_text_from_jd": "Strong understanding of system architecture; ability to opine on technical choices and understand the trade-offs of different technical frameworks.",
+      "skill_type": "capability",
+      "domain": "technical_product_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_skills",
+      "raw_text_from_jd": "Excellent communication skills—able to engage seamlessly with technical, analytical, and business audiences.",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sql_data_analysis",
+      "raw_text_from_jd": "Fluency with SQL and data analysis; experience using data to address customer pain points and iterate into solutions.",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analysis",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "SQL"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_influence",
+      "raw_text_from_jd": "Proven ability to influence beyond your immediate team and foster cross-functional alignment in a matrixed environment.",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_sprints_project_management",
+      "raw_text_from_jd": "Strong organizational skills with a track record of running technical sprints and complex product launches.",
+      "skill_type": "outcome",
+      "domain": "project_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "underwriting_decisioning_platforms",
+      "raw_text_from_jd": "Direct experience building or scaling underwriting/decisioning platforms.",
+      "skill_type": "domain_knowledge",
+      "domain": "underwriting_decisioning",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "lending"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "credit_risk_modeling",
+      "raw_text_from_jd": "Knowledge of credit risk modeling and credit bureau data integrations.",
+      "skill_type": "domain_knowledge",
+      "domain": "credit_risk",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "fintech",
+        "lending"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "lending_platform_experience",
+      "raw_text_from_jd": "Experience working with lending platforms",
+      "skill_type": "domain_knowledge",
+      "domain": "lending_platforms",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "lending"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "llm_generative_ai_experience",
+      "raw_text_from_jd": "Experience working with LLMs or generative AI",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_ml",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "LLMs",
+        "generative AI"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [
+    "Remote work from Hawaii or Alaska (due to insurance coverage issues)"
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Core underwriting and decisioning platforms for SoFi's lending products",
+    "business_model": "B2C fintech / national bank — personal finance and lending products",
+    "primary_metrics_inferred": [
+      "Underwriting throughput",
+      "Cycle time reduction",
+      "Decisioning accuracy",
+      "Member qualification rates"
+    ],
+    "cross_functional_partners": [
+      "Risk",
+      "Engineering",
+      "Data Science",
+      "Legal",
+      "Compliance",
+      "Finance",
+      "UXR"
+    ],
+    "core_responsibilities": [
+      "Define and drive the roadmap for core underwriting and decisioning platforms",
+      "Drive tech capabilities and stakeholder buy-in across multiple organizations (Risk, Engineering, Legal, Compliance)",
+      "Manage 3rd party partner integrations",
+      "Lead technical sprints, manage a complex backlog, and prioritize initiatives",
+      "Translate nuanced risk and policy requirements into clear technical specifications for engineering teams",
+      "Leverage SQL to track performance and inform prioritization",
+      "Drive quality and velocity improvements and contribute to PM best practices",
+      "Serve as the primary point of contact for underwriting technology"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": true,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "underwriting",
+    "decisioning platforms",
+    "lending",
+    "fintech",
+    "SQL",
+    "system architecture",
+    "risk",
+    "credit risk",
+    "technical sprints",
+    "backlog management",
+    "cross-functional",
+    "LLMs",
+    "generative AI"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear product ownership area (underwriting/decisioning infrastructure) with specific partners named",
+    "Explicitly names SQL as a required tool — concrete technical bar",
+    "Nice-to-have list is genuine (LLMs, credit risk modeling) rather than recycled must-haves",
+    "SoFi is a scaled national bank with real lending volume — meaningful product impact stated"
+  ],
+  "red_flags": [
+    "Base pay range is referenced but not disclosed in the JD body — candidates cannot assess compensation without follow-up",
+    "Location type is unclear — JD mentions Hawaii/Alaska exclusion implying remote is possible, but no formal remote/hybrid/onsite designation is stated",
+    "Visa sponsorship and work authorization requirements are not mentioned",
+    "5+ years is listed with 'ideally within fintech/lending' qualifier, making it ambiguous whether non-lending PM experience is genuinely acceptable"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Senior PM' and 5+ year requirement)",
+      "seniority.manages_people (inferred as false; no direct report language present)",
+      "location.type (inferred as unclear; remote implied by Hawaii/Alaska exclusion but never explicitly stated)",
+      "location.remote_us_eligible (inferred as true from Hawaii/Alaska exclusion language)",
+      "scope.business_model (inferred from company description as B2C fintech/national bank)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated verbatim)",
+      "compensation.location_pay_differential (inferred from 'Final base pay offer will be determined based on individual factors such as the candidate's experience, skills, and location')"
+    ],
+    "ambiguities": [
+      "Location type is not explicitly stated as remote, hybrid, or onsite. The JD mentions inability to accommodate remote work from Hawaii or Alaska, suggesting remote is generally permitted, but no formal policy is described.",
+      "The 5+ years experience requirement includes 'ideally within fintech, lending, or platform-side roles' — the word 'ideally' suggests soft preference, but it is listed under 'What you'll need' (must-haves section), creating ambiguity about severity. Treated as hard with qualifier noted.",
+      "Compensation range is referenced ('The base pay range for this role is listed below') but no numbers appear in the extracted JD body."
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "company": "Stripe",
+  "role_title": "Head of Revenue and Growth, Canada",
+  "url": "https://stripe.com/jobs/search?gh_jid=7826843",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7826843",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": false,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Other",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Sales Leader / Head of Sales",
+  "seniority": {
+    "level": "Executive / VP-level Sales Leader",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": true,
+    "level_signals": [
+      "5+ years of people management experience",
+      "Serves as senior Stripe leader and executive sponsor for key customer and partner relationships",
+      "Part of the Americas go-to-market leadership team",
+      "Leads Account Executives and supporting roles across Canada"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "people_management_experience",
+      "raw_text_from_jd": "5+ years of people management experience, ideally leading sales teams in Canada or broader North American markets",
+      "skill_type": "years_of_experience",
+      "domain": "people_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "qualifier": "ideally leading sales teams in Canada or broader North American markets",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [
+        "Canada",
+        "North America"
+      ],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sales_org_leadership_high_growth_tech",
+      "raw_text_from_jd": "Experience leading Sales organizations in a high-growth technology environment",
+      "skill_type": "domain_knowledge",
+      "domain": "sales_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "technology"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "building_scaling_teams",
+      "raw_text_from_jd": "Experience building and scaling high-caliber teams, including launching or growing market presence in new regions",
+      "skill_type": "capability",
+      "domain": "team_building",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "hire_train_coach",
+      "raw_text_from_jd": "Ability to hire, train, and coach a high-performance sales team",
+      "skill_type": "capability",
+      "domain": "talent_development",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "quantitative_analytical_skills",
+      "raw_text_from_jd": "Demonstrated quantitative and analytical skills with a strong command of pipeline and forecast management",
+      "skill_type": "capability",
+      "domain": "sales_analytics",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "canadian_business_landscape",
+      "raw_text_from_jd": "Deep understanding of the Canadian business landscape, including key industries, regulatory environment, and enterprise customer dynamics",
+      "skill_type": "domain_knowledge",
+      "domain": "canadian_market",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [
+        "Canada"
+      ],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "growth_stage_internet_software",
+      "raw_text_from_jd": "Prior experience at a growth-stage internet or software company",
+      "skill_type": "domain_knowledge",
+      "domain": "company_stage_experience",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "internet",
+        "software"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "growth-stage internet or software company"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "enterprise_sales_partnerships_canada",
+      "raw_text_from_jd": "Prior experience in enterprise sales, partnerships, and/or business development in Canada",
+      "skill_type": "domain_knowledge",
+      "domain": "enterprise_sales",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [
+        "Canada"
+      ],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "payments_finserv_experience",
+      "raw_text_from_jd": "Prior experience in the payments industry, card issuing, or financial services",
+      "skill_type": "domain_knowledge",
+      "domain": "payments_financial_services",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "payments",
+        "card issuing",
+        "financial services"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "executive_network_canada",
+      "raw_text_from_jd": "Established executive-level network within the Canadian business community",
+      "skill_type": "capability",
+      "domain": "executive_relationships",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [
+        "Canada"
+      ],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "bilingual_english_french",
+      "raw_text_from_jd": "Bilingual (English/French) is an asset, particularly for engaging customers in Quebec",
+      "skill_type": "capability",
+      "domain": "language",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [
+        "Quebec",
+        "Canada"
+      ],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Canada go-to-market: end-to-end sales strategy and execution for the Canadian market across startups and enterprise",
+    "business_model": "B2B financial infrastructure / payments platform",
+    "primary_metrics_inferred": [
+      "Revenue attainment",
+      "New logo growth",
+      "Pipeline health and forecast accuracy",
+      "Market development KPIs",
+      "Customer expansion and retention"
+    ],
+    "cross_functional_partners": [
+      "Product",
+      "Engineering",
+      "Marketing",
+      "Americas GTM leadership"
+    ],
+    "core_responsibilities": [
+      "Serve as senior Stripe leader and executive sponsor for key customer and partner relationships across Canada",
+      "Own and drive sales growth across Canada through strong leadership, organizational planning, and outstanding execution",
+      "Oversee the expansion and satisfaction of Stripe's existing Canadian customers while pursuing new logo growth",
+      "Develop and refine Stripe's Canada-specific go-to-market strategy",
+      "Make hiring decisions, shaping candidate profile and onboarding strategy",
+      "Lead a senior team of Account Executives and indirectly lead supporting roles",
+      "Develop the long-term vision and strategy for the Canadian market",
+      "Champion Stripe's sales methodology and process, driving best practices on selling, forecasting, and pipeline management",
+      "Act as Stripe's market presence in Canada, engaging with local business community, partners, and industry stakeholders"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Head of Sales",
+    "Canada",
+    "go-to-market",
+    "revenue growth",
+    "enterprise sales",
+    "Account Executives",
+    "pipeline management",
+    "forecast management",
+    "new logo growth",
+    "payments",
+    "high-growth technology",
+    "cross-functional",
+    "GTM strategy"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear ownership of a defined geography (Canada) with executive-level authority",
+    "Role is part of Americas GTM leadership team, signaling high strategic visibility",
+    "Stripe explicitly states preferred qualifications are a bonus, not a requirement — encourages broader applicant pool",
+    "Payments and fintech domain experience listed as preferred (not required), lowering barrier for strong sales leaders from adjacent industries"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "Location / city not specified in JD — unclear whether role is remote, hybrid, or onsite in Canada",
+    "Visa sponsorship and work authorization not addressed",
+    "No posting date information available"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from scope, team leadership, and Americas GTM leadership membership)",
+      "scope.business_model (inferred from Stripe's product description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly listed in JD)",
+      "location.type (not stated; marked unclear)",
+      "compensation.equity_mentioned (not stated; assumed false)"
+    ],
+    "ambiguities": [
+      "Role title in JD header is 'Head of Revenue and Growth, Canada' but body consistently refers to 'Head of Sales - Canada' — may reflect a title discrepancy or informal usage; using the official title from the header.",
+      "Location (city/province in Canada) is not specified anywhere in the JD. Could be Toronto, Vancouver, or remote-Canada. Marked as unclear.",
+      "Whether the role requires physical presence in Canada vs. being Canada-market-focused is not stated."
+    ]
+  }
+}

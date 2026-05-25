@@ -1,0 +1,321 @@
+{
+  "company": "SoFi",
+  "role_title": "Principal Product Manager - Fraud, Risk & ML Platform",
+  "url": "https://sofi.com/careers/job/7638977003?gh_jid=7638977003",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7638977003",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "AI Product Manager",
+  "seniority": {
+    "level": "Principal / Staff IC",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7+ years of Product Management experience",
+      "'Principal Product Manager' title in role name",
+      "Multi-year platform vision ownership, enterprise-scale scope"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "7+ years of Product Management experience: with a focus on platform, infrastructure, or developer-facing products",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 7,
+      "unit": "years",
+      "qualifier": "platform, infrastructure, or developer-facing products",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_fluency",
+      "raw_text_from_jd": "Technical fluency: Deep familiarity with APIs, event-driven systems (sync/async), high-throughput data pipelines, ML lifecycle (training, features, deployment, monitoring), risk decisioning engines/workflows",
+      "skill_type": "domain_knowledge",
+      "domain": "platform_infrastructure_ml",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "APIs",
+        "event-driven systems",
+        "high-throughput data pipelines",
+        "ML lifecycle",
+        "risk decisioning engines"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ml_infrastructure_production",
+      "raw_text_from_jd": "ML Infrastructure: Proven experience operationalizing models in production using tools like Snowflake, Flink/streaming, Kafka, or AWS/SageMaker",
+      "skill_type": "capability",
+      "domain": "ml_infrastructure",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Snowflake",
+        "Flink",
+        "Kafka",
+        "AWS",
+        "SageMaker"
+      ],
+      "technologies_named": [
+        "streaming",
+        "ML model operationalization"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "platform_mindset",
+      "raw_text_from_jd": "Platform mindset:  A strong bias for normalization and generic, self-serve capabilities over bespoke builds.",
+      "skill_type": "cultural_fit",
+      "domain": "platform_product_thinking",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_evangelism",
+      "raw_text_from_jd": "Exceptional Communication & Evangelism: ability to translate complex risk policy, business goals, and technical constraints into precise platform requirements, while rallying teams around a clear, forward-looking platform roadmap and strategy.",
+      "skill_type": "capability",
+      "domain": "stakeholder_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "adaptive_leadership",
+      "raw_text_from_jd": "Adaptive leadership: team‑first, able to navigate the gray space between domain‑specific fraud detection and horizontal platform utilization",
+      "skill_type": "cultural_fit",
+      "domain": "leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "fraud_risk_experience",
+      "raw_text_from_jd": "Direct experience with fraud and risk detection and prevention challenges and techniques.",
+      "skill_type": "domain_knowledge",
+      "domain": "fraud_and_risk",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "fraud",
+        "risk"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "risk_decisioning_rules_engines",
+      "raw_text_from_jd": "Experience with risk decisioning, rules engines, risk mitigations and step-up challenges.",
+      "skill_type": "domain_knowledge",
+      "domain": "risk_decisioning",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "rules engines",
+        "step-up challenges"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "fintech_regulated_environment",
+      "raw_text_from_jd": "Experience in FinTech or highly regulated financial environments.",
+      "skill_type": "domain_knowledge",
+      "domain": "fintech_regulated_finance",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "FinTech",
+        "financial services"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "generative_ai_agentic_workflows",
+      "raw_text_from_jd": "Background in building or scaling Generative AI for task‑automating agents (agentic workflows)",
+      "skill_type": "domain_knowledge",
+      "domain": "generative_ai_agents",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "Generative AI",
+        "agentic workflows"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_science_mle_partnership",
+      "raw_text_from_jd": "Direct experience partnering with Data Science and MLEs to productionalize real-time scoring.",
+      "skill_type": "capability",
+      "domain": "ml_productionalization",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "real-time scoring"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [
+    "Remote work from Hawaii or Alaska (due to insurance coverage issues)"
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Fraud, Risk & ML Platform — unified foundation for event-driven decisioning, risk-based interdictions, real-time feature stores, and self-serve ML capabilities across the enterprise",
+    "business_model": "B2C fintech / national bank, internal platform-as-a-service",
+    "primary_metrics_inferred": [
+      "Time-to-onboard",
+      "Model deployment velocity",
+      "Decision quality (precision/recall/F1)",
+      "Step-up completion/abandon rates",
+      "Platform reliability",
+      "Model time-to-market reduction"
+    ],
+    "cross_functional_partners": [
+      "Fraud",
+      "AML",
+      "Policy Engine",
+      "Data Science",
+      "Infrastructure",
+      "MLEs",
+      "Internal product teams"
+    ],
+    "core_responsibilities": [
+      "Own the multi-year vision for the Fraud, Risk & ML Platform",
+      "Direct the MLOps lifecycle to reduce model time-to-market from months to weeks",
+      "Partner with internal product teams to identify friction in platform adoption",
+      "Drive onboarding for Fraud, AML, and Policy Engine use cases",
+      "Drive Developer Experience (DX) as a core product feature; define clean APIs, versioning, SLAs, and documentation",
+      "Establish a federated extension model for custom events, features, challenges, & actions",
+      "Define and track success metrics",
+      "Flex into adjacent fraud initiatives",
+      "Educate partner teams on platform capabilities"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": true,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "ML Platform",
+    "Fraud",
+    "Risk",
+    "MLOps",
+    "event-driven decisioning",
+    "real-time feature store",
+    "self-serve",
+    "developer experience",
+    "platform-as-a-service",
+    "risk decisioning",
+    "Kafka",
+    "SageMaker",
+    "Snowflake",
+    "Flink",
+    "Principal PM"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear, specific platform scope with well-defined success metrics listed in the JD",
+    "Principal-level role with enterprise-scale ownership and strategic responsibility",
+    "Explicit callout that Hawaii/Alaska remote exclusion is insurance-related — suggests otherwise remote-friendly",
+    "Nice-to-haves clearly separated from must-haves"
+  ],
+  "red_flags": [
+    "Compensation range not disclosed despite JD stating 'The base pay range for this role is listed below' — the range appears missing from the scraped content",
+    "Location type is entirely unclear — no city, hybrid vs remote policy not stated in JD body",
+    "Visa sponsorship and work authorization not addressed",
+    "Broad scope ('flex into adjacent fraud initiatives') may indicate under-resourced team or scope creep risk"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 'Principal' title and 7+ years requirement)",
+      "scope.business_model (inferred from SoFi being a fintech national bank with internal platform context)",
+      "scope.primary_metrics_inferred (inferred from responsibilities section; partially stated in JD)",
+      "compensation.location_pay_differential (inferred from JD language 'Final base pay offer will be determined based on individual factors such as the candidate's experience, skills, and location')",
+      "location.remote_us_eligible (inferred from Hawaii/Alaska exclusion implying other US remote is permitted)"
+    ],
+    "ambiguities": [
+      "JD states 'The base pay range for this role is listed below' but no numeric range appears in the scraped content — compensation.base_range_usd left null.",
+      "Location type not specified — no city, no hybrid/remote policy stated in the JD body. Left as 'unclear'.",
+      "The Hawaii/Alaska exclusion implies remote work is otherwise available, but this is not explicitly confirmed."
+    ]
+  }
+}

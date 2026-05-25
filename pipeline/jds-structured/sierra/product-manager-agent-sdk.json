@@ -1,0 +1,265 @@
+{
+  "company": "Sierra",
+  "role_title": "Product Manager, Agent SDK",
+  "url": "https://jobs.ashbyhq.com/sierra/10d2e2f1-6657-40c9-b6fb-6999c76df6cf",
+  "ats_provider": "ashby",
+  "ats_job_id": "10d2e2f1-6657-40c9-b6fb-6999c76df6cf",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "primarily in-person",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "AI Product Manager",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": null,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "Extensive experience in product management required",
+      "Track record of leading products from ideation through launch and iteration",
+      "Expected to serve as trusted strategic advisor to customers",
+      "End-to-end ownership across full product lifecycle"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "strong_product_foundations",
+      "raw_text_from_jd": "Extensive experience in product management, with a track record of leading products from ideation through launch and iteration.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": null,
+      "unit": "years",
+      "qualifier": "extensive",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_depth",
+      "raw_text_from_jd": "Comfort working deeply with engineering on technical systems and tradeoffs. Experience building or shipping developer-facing or highly technical products (e.g. APIs, SDKs, products serving developers), and the ability to engage credibly in architectural and implementation discussions.",
+      "skill_type": "capability",
+      "domain": "technical_product_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "APIs",
+        "SDKs"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "user_driven_curiosity",
+      "raw_text_from_jd": "Passion for deeply understanding user needs and identifying the right solutions from first principles. Ability to operate in high ambiguity and drive new 0→1 product bets.",
+      "skill_type": "capability",
+      "domain": "user_research_and_zero_to_one",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_collaboration",
+      "raw_text_from_jd": "Proven ability to partner closely with engineering, design, customers, and leadership to turn complex ideas into shipped products.",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_skills",
+      "raw_text_from_jd": "Excellent written and verbal communication skills, with the ability to explain complex technical and product concepts to a wide range of stakeholders.",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "values_alignment",
+      "raw_text_from_jd": "Embodies our values and contributes positively to our culture.",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "adaptability_resilience",
+      "raw_text_from_jd": "Thrives in a fast-paced startup environment, adapts quickly to changing priorities, and navigates ambiguity with confidence.",
+      "skill_type": "cultural_fit",
+      "domain": "startup_adaptability",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "ai_agentic_product_experience",
+      "raw_text_from_jd": "Experience building AI-driven products, especially conversational or agentic systems.",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_conversational_agents",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "conversational AI",
+        "agentic systems"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "hands_on_coding_or_swe_background",
+      "raw_text_from_jd": "Hands-on experience writing production code (e.g. TypeScript, React, or similar), or prior experience as a software engineer.",
+      "skill_type": "capability",
+      "domain": "software_engineering",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "TypeScript",
+        "React"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Agent SDK — developer-facing platform for building and extending AI agents",
+    "business_model": "B2B enterprise SaaS / AI platform",
+    "primary_metrics_inferred": [
+      "Developer adoption of Agent SDK",
+      "API/SDK usage and integration depth",
+      "Enterprise customer satisfaction and retention",
+      "Speed and quality of product launches"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Leadership",
+      "Sales",
+      "Go-to-market",
+      "Forward-deployed teams",
+      "Customers"
+    ],
+    "core_responsibilities": [
+      "Bring Enterprise-grade AI Agents to the World",
+      "Solve for multiple stakeholders: consumers, CX managers, and developers",
+      "Innovate on new tools and processes for building agents",
+      "Partner closely with engineering, design, leadership, and the entire company",
+      "Become a trusted and strategic advisor to customers",
+      "Lead the product through all stages from concept to excellent execution"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "Eligible full-time employees can participate in Sierra's equity plans subject to the terms of the applicable plans and policies.",
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Agent SDK",
+    "developer-facing products",
+    "APIs",
+    "SDKs",
+    "AI agents",
+    "conversational AI",
+    "agentic systems",
+    "0→1 product",
+    "enterprise AI",
+    "technical PM",
+    "TypeScript",
+    "React"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Prominent co-founders (Bret Taylor, Clay Bavor) with strong industry credibility",
+    "Clear product surface: Agent SDK for developer ecosystem",
+    "Encourages applicants even if experience doesn't precisely match the job description",
+    "Equity participation explicitly offered",
+    "Generous benefits package including parental leave, fertility benefits, and flexible PTO",
+    "Explicit DEI commitment in job posting"
+  ],
+  "red_flags": [
+    "Compensation range not disclosed",
+    "In-person company primarily based in San Francisco — no remote option stated, limiting candidate pool",
+    "Visa sponsorship status not mentioned",
+    "Years of experience not specified, making seniority expectations opaque"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 'extensive experience' language and scope of responsibilities; no explicit level stated)",
+      "scope.business_model (inferred from product description and enterprise focus)",
+      "scope.primary_metrics_inferred (not stated in JD; inferred from responsibilities)",
+      "location.office_time_required (inferred from 'primarily an in-person company' language; no explicit percentage given)"
+    ],
+    "ambiguities": [
+      "Years of experience required: JD says 'extensive experience' but provides no numeric minimum. Severity set to hard but years_required_min left null.",
+      "Visa sponsorship: not mentioned anywhere in the JD; marked 'unclear'.",
+      "Remote eligibility: JD says 'primarily an in-person company based in San Francisco' but does not explicitly prohibit remote for this role. Treated as onsite given primary-in-person language."
+    ]
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "company": "Whatnot",
+  "role_title": "Revenue Operations Manager, Compensation",
+  "url": "https://jobs.ashbyhq.com/whatnot/cf5ce9e0-d595-46f8-981e-c7f95778e6fa",
+  "ats_provider": "ashby",
+  "ats_job_id": "cf5ce9e0-d595-46f8-981e-c7f95778e6fa",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "Los Angeles, CA",
+      "San Francisco, CA",
+      "New York City, NY"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "within commuting distance of LA, SF, or NYC hubs",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Revenue Operations / Sales Compensation",
+  "seniority": {
+    "level": "Mid-Senior IC",
+    "years_required_min": 4,
+    "years_required_max": 5,
+    "manages_people": false,
+    "level_signals": [
+      "4-5 years of experience working in a fast-paced organization",
+      "Owns compensation model for incentive-based employees",
+      "Individual contributor role building sales compensation models"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_experience_fast_paced",
+      "raw_text_from_jd": "You have 4-5 years of experience working in a fast-paced organization, and a track record of working quickly, iteratively, and cross-functionally",
+      "skill_type": "years_of_experience",
+      "domain": "operations_or_strategy",
+      "minimum_value": 4,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sales_compensation_experience",
+      "raw_text_from_jd": "You have prior experience working with sales organizations and on sales compensation models",
+      "skill_type": "domain_knowledge",
+      "domain": "sales_compensation",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_and_data_acumen",
+      "raw_text_from_jd": "You have business acumen, are deeply analytical, detail-oriented, and comfortable understanding and manipulating data to take action on business insights",
+      "skill_type": "capability",
+      "domain": "data_analysis",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sql_and_dashboarding",
+      "raw_text_from_jd": "Your deep analytical experience includes using SQL and dashboarding tools as part of your day to day work",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analytics",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "SQL"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "compensation_model_building",
+      "raw_text_from_jd": "Use forecasting, in-depth analyses, and input from RevOps, Sales leadership and Finance to build sales compensation models and inform OKR-setting",
+      "skill_type": "capability",
+      "domain": "sales_compensation_modeling",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "quota_setting_and_tracking",
+      "raw_text_from_jd": "Drive the sales planning cycle by setting and tracking quota targets across various Sales teams that align with growth strategy and goals",
+      "skill_type": "capability",
+      "domain": "quota_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "dashboarding_for_compensation",
+      "raw_text_from_jd": "Build dashboarding for compensation tracking and payouts that informs improvement of the sales commission model each quarter",
+      "skill_type": "capability",
+      "domain": "business_intelligence_dashboarding",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "location_commuting_distance",
+      "raw_text_from_jd": "Team members in this role are required to be within commuting distance of our Los Angeles, San Francisco, or New York City hubs.",
+      "skill_type": "cultural_fit",
+      "domain": "location_requirement",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [
+        "Los Angeles, CA",
+        "San Francisco, CA",
+        "New York City, NY"
+      ],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "sigma_hex_salesforce_proficiency",
+      "raw_text_from_jd": "Proficiency in Sigma, Hex and Salesforce",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analytics_crm",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Sigma",
+        "Hex",
+        "Salesforce"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "high_growth_startup_experience",
+      "raw_text_from_jd": "Experience at a high-growth startup, marketplace, or creator-focused platform",
+      "skill_type": "domain_knowledge",
+      "domain": "startup_marketplace_experience",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "marketplace",
+        "creator economy"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "high-growth startup",
+        "marketplace",
+        "creator-focused platform"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "passion_for_creator_communities",
+      "raw_text_from_jd": "Passion for creator communities and/or new product categories that are uniquely suited to live ecommerce",
+      "skill_type": "cultural_fit",
+      "domain": "creator_economy_live_commerce",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "live ecommerce",
+        "creator economy"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "online_marketplace_buying_selling",
+      "raw_text_from_jd": "Experience buying and selling in online marketplaces",
+      "skill_type": "domain_knowledge",
+      "domain": "online_marketplace_user_experience",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "online marketplace"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Sales compensation modeling and commission operations for incentive-based employees across Sales teams",
+    "business_model": "B2C/B2B livestream shopping marketplace",
+    "primary_metrics_inferred": [
+      "Accuracy and timeliness of commission payouts",
+      "Quota attainment rates across sales teams",
+      "Standardization and automation of compensation processes",
+      "OKR alignment with sales growth strategy"
+    ],
+    "cross_functional_partners": [
+      "RevOps",
+      "Sales Leadership",
+      "Finance",
+      "People Team"
+    ],
+    "core_responsibilities": [
+      "Use forecasting, in-depth analyses, and input from RevOps, Sales leadership and Finance to build sales compensation models and inform OKR-setting",
+      "Serve as a trusted partner to Sales Leadership and People Team in rolling out new sales plans/quotas quarterly",
+      "Drive the sales planning cycle by setting and tracking quota targets across various Sales teams",
+      "Build net new compensation structures for new partnerships and customer segments",
+      "Build dashboarding for compensation tracking and payouts",
+      "Collaborate with Finance to facilitate accurate and timely commission payouts",
+      "Drive standardization and automation of all processes related to commission-setting and tracking",
+      "Support broader RevOps needs such as conducting strategic analyses, building performance monitoring, and taking on special projects"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "revenue operations",
+    "sales compensation",
+    "commission models",
+    "quota setting",
+    "OKR",
+    "SQL",
+    "dashboarding",
+    "Salesforce",
+    "Sigma",
+    "Hex",
+    "livestream shopping",
+    "marketplace",
+    "sales planning",
+    "RevOps"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear ownership of a defined domain (sales compensation and commissions)",
+    "Named specific tools and technologies expected (SQL, Sigma, Hex, Salesforce)",
+    "Explicit hub location requirements stated clearly",
+    "Company named #1 Best Startup Employer in America by Forbes — strong brand signal",
+    "Comprehensive benefits package including 401k match, parental leave, wellness allowances",
+    "Remote co-located model with flexibility across multiple hubs"
+  ],
+  "red_flags": [
+    "Compensation range not disclosed",
+    "Visa sponsorship and work authorization requirements not stated",
+    "JD says 'remote co-located team' in intro but body requires commuting distance to LA, SF, or NYC — potential tension in messaging",
+    "Equity not mentioned despite startup stage",
+    "Years range stated as '4-5 years' which is unusually narrow and may be a soft ceiling"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years range and scope of individual ownership)",
+      "scope.business_model (inferred from product description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "compensation.equity_mentioned set to false (not referenced in JD body)",
+      "location.work_auth and location.visa_sponsorship set to unclear (not addressed in JD)"
+    ],
+    "ambiguities": [
+      "The JD opens by describing Whatnot as 'a remote co-located team' but the body explicitly requires candidates to be 'within commuting distance of our Los Angeles, San Francisco, or New York City hubs.' Treated as hybrid (office presence expected) rather than remote.",
+      "Years of experience stated as '4-5 years' — ambiguous whether this is a hard floor of 4 or a target band; classified as hard with minimum_value 4.",
+      "Nice-to-have section header is '🙏 Nice to Have' which clearly signals soft requirements; all items classified accordingly."
+    ]
+  }
+}

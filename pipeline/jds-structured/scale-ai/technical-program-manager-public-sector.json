@@ -1,0 +1,303 @@
+{
+  "company": "Scale AI",
+  "role_title": "Technical Program Manager, Public Sector",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4633072005",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "4633072005",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [
+      "Washington DC"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "unclear",
+    "work_auth": "us-citizenship-required",
+    "visa_sponsorship": "no"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Customer-facing Technical Delivery / Public Sector",
+  "seniority": {
+    "level": "Senior IC / Staff TPM",
+    "years_required_min": 3,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "3+ years stakeholder management or customer-facing role (hard floor)",
+      "Nice-to-have signals 10+ years of professional experience",
+      "Comp range $187K–$234K base in DC, consistent with senior IC level",
+      "Leads cross-functional teams and drives organizational change"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "ts_sci_clearance",
+      "raw_text_from_jd": "An active TS/SCI clearance",
+      "skill_type": "credential",
+      "domain": "security_clearance",
+      "minimum_value": "TS/SCI",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "government",
+        "public sector"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "TS/SCI clearance"
+      ]
+    },
+    {
+      "id": "years_stakeholder_customer_facing",
+      "raw_text_from_jd": "3+ years of experience succeeding in stakeholder management or customer-facing role",
+      "skill_type": "years_of_experience",
+      "domain": "stakeholder_management",
+      "minimum_value": 3,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_background",
+      "raw_text_from_jd": "A technical background (education or professional experience with CS, Economics, Statistics, Engineering)",
+      "skill_type": "credential",
+      "domain": "technical_education_or_experience",
+      "accepts_equivalent_experience": true,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "CS degree",
+        "Economics degree",
+        "Statistics degree",
+        "Engineering degree"
+      ]
+    },
+    {
+      "id": "ml_operations_understanding",
+      "raw_text_from_jd": "A deep understanding of ML operations process",
+      "skill_type": "domain_knowledge",
+      "domain": "machine_learning_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "ML operations",
+        "AI/ML"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytics_driven_problem_solving",
+      "raw_text_from_jd": "A track record of structured, analytics-driven problem-solving",
+      "skill_type": "outcome",
+      "domain": "analytics_problem_solving",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_skills",
+      "raw_text_from_jd": "Excellent verbal and written communication skills",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "travel_requirement",
+      "raw_text_from_jd": "Willingness to travel at least 25% of the time",
+      "skill_type": "cultural_fit",
+      "domain": "travel_availability",
+      "minimum_value": 25,
+      "unit": "percent",
+      "evidence_required": "work_history",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "years_professional_experience",
+      "raw_text_from_jd": "10+ years of professional experience, often in a customer-facing technical program management role in industry or government.",
+      "skill_type": "years_of_experience",
+      "domain": "technical_program_management",
+      "minimum_value": 10,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "government"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "api_company_experience",
+      "raw_text_from_jd": "Prior experience at an API technology company and / or managing technical customers using an API",
+      "skill_type": "domain_knowledge",
+      "domain": "api_technology",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "API"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "API technology company"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "programming_proficiency",
+      "raw_text_from_jd": "Proficiency in Python, SQL or other programming languages",
+      "skill_type": "tool_proficiency",
+      "domain": "programming",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Python",
+        "SQL"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Public Sector Delivery — AI/ML solutions and products for U.S. government and public sector customers (computer vision and generative AI domains)",
+    "business_model": "B2G (business-to-government) / enterprise AI data and full-stack technology platform",
+    "primary_metrics_inferred": [
+      "Customer retention and long-term partnership health",
+      "Customer AI/ML objective attainment",
+      "Repeatability and scalability of customer success processes",
+      "Issue resolution rate and triage efficiency"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Operations",
+      "Public Sector teams",
+      "Product development teams"
+    ],
+    "core_responsibilities": [
+      "Drive innovation and transformation by diving deep into technical and operational challenges, solving undefined problems, and delivering impactful solutions for Public Sector customers",
+      "Leverage technical concepts, tools, and expertise to create solutions from scratch or drastically improve existing solutions",
+      "Use data, analytics, and technical expertise to align internal resources and create tools that directly add value to customers in the public sector space",
+      "Transition AI/ML technologies and processes into working Public Sector products / solutions even when requirements are undefined or ambiguous",
+      "Partner with engineering, operations, and other public sector teams to build and deliver AI systems tailored to unique government use cases in the computer vision and generative AI domains",
+      "Lead a cross-functional team to exceed the customer's AI/ML objectives",
+      "Manage the long-term health of the customer base by identifying and preempting areas of risk or concern",
+      "Strategically identify ways we can make customer success repeatable and solve issues for future customers",
+      "Address engineering problems alongside the product development teams"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      187200,
+      234000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity grant (subject to Board of Director approval)",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "TS/SCI clearance",
+    "public sector",
+    "technical program management",
+    "AI/ML",
+    "ML operations",
+    "government",
+    "computer vision",
+    "generative AI",
+    "customer success",
+    "stakeholder management",
+    "analytics-driven",
+    "cross-functional"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range explicitly stated ($187K–$234K base in Washington DC)",
+    "Equity compensation mentioned",
+    "Clear must-have list including specific clearance requirement — reduces ambiguity in screening",
+    "Defined travel requirement (25%) stated upfront",
+    "Comprehensive benefits package described including health, dental, vision, retirement, L&D stipend, and generous PTO"
+  ],
+  "red_flags": [
+    "Active TS/SCI clearance is a hard requirement — eliminates the vast majority of candidates and cannot be quickly obtained",
+    "Role appears to require onsite presence in Washington DC area given clearance-sensitive work, but location type is not explicitly stated as remote/hybrid/onsite in the body",
+    "3+ year floor is low for the seniority implied by comp and responsibilities; the 10+ year nice-to-have signals actual expectations may be much higher",
+    "90-day waiting period policy before reconsidering candidates for same role noted explicitly"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range, responsibilities, and 10+ year nice-to-have signal)",
+      "location.type (inferred as onsite based on TS/SCI clearance requirement and Washington DC salary basis; not explicitly stated in body)",
+      "location.work_auth (inferred as us-citizenship-required due to active TS/SCI clearance hard requirement)",
+      "location.visa_sponsorship (inferred as no due to TS/SCI clearance requirement)",
+      "scope.business_model (inferred from product description and customer examples)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)"
+    ],
+    "ambiguities": [
+      "The JD does not explicitly state whether the role is onsite, hybrid, or remote. However, an active TS/SCI clearance and Washington DC salary range strongly imply onsite or hybrid with DC presence. Treated as onsite here.",
+      "Must-have floor is '3+ years' but nice-to-have signals '10+ years'; true experience expectation is ambiguous — could screen for either depending on recruiter.",
+      "The nice-to-haves section is framed as 'many have' rather than 'preferred' or 'bonus' — treated as soft/nice-to-have here but the language is slightly unusual."
+    ]
+  }
+}

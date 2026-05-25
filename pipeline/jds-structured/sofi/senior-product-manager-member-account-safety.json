@@ -1,0 +1,261 @@
+{
+  "company": "SoFi",
+  "role_title": "Senior Product Manager, Member Account Safety",
+  "url": "https://sofi.com/careers/job/7616217003?gh_jid=7616217003",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7616217003",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Generalist PM (fraud/identity/safety domain)",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of Product Management experience",
+      "Role title explicitly states 'Senior Product Manager'",
+      "Executive-level reporting mentioned",
+      "Owns full domain vision and roadmap"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "5+ years of Product Management experience, with a focus on Identity, Safety, Fraud, or Fintech.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "qualifier": "focus on Identity, Safety, Fraud, or Fintech",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "Identity",
+        "Safety",
+        "Fraud",
+        "Fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strong_ownership",
+      "raw_text_from_jd": "Strong Ownership: A proactive, results-oriented approach to ambiguous, high-stakes environments.",
+      "skill_type": "capability",
+      "domain": "leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_fluency",
+      "raw_text_from_jd": "Technical Fluency: The ability to discuss integrated systems and APIs deeply with engineers.",
+      "skill_type": "capability",
+      "domain": "technical_product_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "APIs",
+        "integrated systems"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "adversarial_empathy",
+      "raw_text_from_jd": "Adversarial Empathy: A demonstrated ability to grasp complex user scenarios while anticipating the moves of a malicious actor.",
+      "skill_type": "domain_knowledge",
+      "domain": "fraud_and_security",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_first_ux_of_safety",
+      "raw_text_from_jd": "Customer-First Mindset: A passion for the \"UX of Safety\" and a commitment to reducing member complaints through better interdiction experiences.",
+      "skill_type": "capability",
+      "domain": "user_experience_and_safety",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "exceptional_communication",
+      "raw_text_from_jd": "Exceptional Communication: The proficiency to distill complex fraud or technical issues into clear, actionable product strategies.",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "adaptive_leadership",
+      "raw_text_from_jd": "Adaptive Leadership: A low-ego, team-first approach with the ability to operate across different product charters, supporting peer PMs and taking on adjacent work when it's the best thing for the member and the business.",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "identity_tech_experience",
+      "raw_text_from_jd": "Experience with Auth0, Identity Verification, Passkeys, WebAuthn, or similar identity technologies.",
+      "skill_type": "tool_proficiency",
+      "domain": "identity_and_authentication",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Auth0"
+      ],
+      "technologies_named": [
+        "Identity Verification",
+        "Passkeys",
+        "WebAuthn"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [
+    "Remote work from Hawaii or Alaska"
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Member Account Safety — authentication, MFA, account recovery, fraud investigation experiences, account takeover prevention, anti-scam/phishing/social engineering defenses",
+    "business_model": "B2C financial services / national bank (mobile-first)",
+    "primary_metrics_inferred": [
+      "Reduction in account takeover (ATO) incidents",
+      "Reduction in fraud-related member complaints",
+      "Authentication success rate for legitimate users",
+      "Scam/phishing incident prevention rate"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Fraud Product team",
+      "Fraud Risk Center of Excellence",
+      "Multiple Product teams"
+    ],
+    "core_responsibilities": [
+      "Articulate a comprehensive roadmap for the Member Safety domain, aligning with SoFi's broader objectives and executive-level reporting.",
+      "Own authentication, MFA, and account recovery, ensuring that the first point of contact with SoFi is both seamless and secure.",
+      "Build active awareness into risk checkpoints, defending against scams and social engineering attacks to high-risk surface areas such as crypto.",
+      "Guide a vision to improve the member experience during active fraud investigations, reducing fraud-related complaints and maintaining trust during high-stress events.",
+      "Design and implement robust defenses for sensitive profile changes, utilizing step-up challenges.",
+      "Partner with Engineering to implement security layers that accurately identify suspicious behavior or potential account takeovers (ATO) without adding friction for legitimate users.",
+      "Champion transparency and security education through products that drive safety awareness.",
+      "Drive cross-functional collaboration with the Fraud Risk Center of Excellence, multiple Product teams, Design, and Engineering.",
+      "Partner closely with the Fraud Product team to align on a unified defense strategy."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": true,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "authentication",
+    "MFA",
+    "account recovery",
+    "account takeover",
+    "fraud",
+    "identity",
+    "safety",
+    "scam prevention",
+    "social engineering",
+    "passkeys",
+    "WebAuthn",
+    "Auth0",
+    "UX of safety",
+    "step-up challenge",
+    "fintech"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear domain ownership described in detail — 'Front Door' of SoFi experience is well-scoped",
+    "High-impact, mission-driven role with direct effect on member trust and safety",
+    "Company is a national bank with millions of members, providing significant scale",
+    "Explicitly values low-ego, team-first culture",
+    "San Francisco Fair Chance Ordinance compliance mentioned — inclusive hiring signal"
+  ],
+  "red_flags": [
+    "Compensation range referenced ('listed below') but not actually present in the JD as provided — candidates cannot evaluate total comp",
+    "Location type is unclear — JD neither explicitly states remote-friendly nor lists a primary office city for this role, though Hawaii/Alaska remote exclusion implies some remote eligibility",
+    "Visa sponsorship status not mentioned anywhere in the JD",
+    "No mention of equity despite being a senior IC role at a fintech company"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Senior PM' + 5+ years requirement)",
+      "seniority.manages_people (inferred as false — no management language present)",
+      "location.type (inferred as 'unclear' — body excludes HI/AK remote but does not state remote-first, hybrid, or onsite policy explicitly)",
+      "location.remote_us_eligible (inferred as true based on Hawaii/Alaska exclusion implying other remote work is allowed)",
+      "scope.business_model (inferred from company description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "compensation.location_pay_differential (inferred from 'Final base pay offer will be determined based on individual factors such as the candidate's experience, skills, and location')"
+    ],
+    "ambiguities": [
+      "Compensation range is explicitly referenced ('The base pay range for this role is listed below') but no actual numbers appear in the JD content provided — may have been omitted in the markdown extraction.",
+      "Location policy is ambiguous: the JD excludes Hawaii and Alaska remote work ('Due to insurance coverage issues, we are unable to accommodate remote work from Hawaii or Alaska'), implying other remote US locations may be acceptable, but no explicit remote/hybrid/onsite designation is given for the role.",
+      "Work authorization and visa sponsorship are not addressed anywhere in the posting."
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "company": "Supabase",
+  "role_title": "Product Manager - Security & Trust (EMEA/AMER)",
+  "url": "https://jobs.ashbyhq.com/supabase/b8010a28-109c-46a9-b8b7-c7f9b24077fa",
+  "ats_provider": "ashby",
+  "ats_job_id": "b8010a28-109c-46a9-b8b7-c7f9b24077fa",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "remote-global",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Generalist PM with security/infrastructure domain focus",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7+ years in product management",
+      "Leads platform-wide security roadmap end-to-end",
+      "Drives cross-functional RFCs from proposal to shipped code",
+      "Expected to define strategy across auth, IAM, compliance, and AI agent security"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm",
+      "raw_text_from_jd": "Have 7+ years in product management, with serious time on security, identity and access, infrastructure, or developer platform products at a company where security mattered to enterprise buyers.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 7,
+      "unit": "years",
+      "qualifier": "with serious time on security, identity and access, infrastructure, or developer platform products",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "enterprise"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "security_primitives_knowledge",
+      "raw_text_from_jd": "Have deep working knowledge of the security primitives our customers use like authentication, authorization (RBAC, RLS), audit logging, secrets management, OAuth.",
+      "skill_type": "domain_knowledge",
+      "domain": "security_and_identity",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "authentication",
+        "authorization",
+        "RBAC",
+        "RLS",
+        "audit logging",
+        "secrets management",
+        "OAuth"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_leadership",
+      "raw_text_from_jd": "Have a track record of leading cross-functional initiatives across Product, Engineering, Security, GTM, and Compliance, and driving multi-team RFCs from proposal to shipped code.",
+      "skill_type": "outcome",
+      "domain": "cross_functional_program_leadership",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "remote_async_culture",
+      "raw_text_from_jd": "Are 100% comfortable in a remote, async, write-it-down culture.",
+      "skill_type": "cultural_fit",
+      "domain": "remote_work",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "exceptional_writing",
+      "raw_text_from_jd": "Are an exceptional writer. You can draft a customer-facing security disclosure, an internal threat model, a docs page, or a one-pager for a CISO without losing voice or precision.",
+      "skill_type": "capability",
+      "domain": "technical_writing",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "compliance_fluency",
+      "raw_text_from_jd": "Compliance fluency. You've worked alongside auditors and security teams on programs like SOC2, HIPAA, ISO 27001, PCI, or FedRAMP, and you can tell which requirements are real customer needs and which are checkbox theater.",
+      "skill_type": "domain_knowledge",
+      "domain": "compliance_and_regulatory",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "SOC2",
+        "HIPAA",
+        "ISO 27001",
+        "PCI",
+        "FedRAMP"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_depth_postgres_auth_networking",
+      "raw_text_from_jd": "Technical depth in Postgres, auth systems, or networking primitives.",
+      "skill_type": "domain_knowledge",
+      "domain": "infrastructure_and_databases",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "Postgres",
+        "auth systems",
+        "networking primitives"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_agent_access_model_design",
+      "raw_text_from_jd": "Experience designing access models for AI agents or other automated systems.",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_agent_security",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "AI agents"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "enterprise_ciso_security_features",
+      "raw_text_from_jd": "Shipped security features that enterprise CISOs had to approve before adoption.",
+      "skill_type": "outcome",
+      "domain": "enterprise_security_product",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "enterprise"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Platform-wide security and trust: firewall, security advisors, audit logs, Supabase Vault, just-in-time database access, IAM, SSO, SCIM, OAuth integrations, AI agent authentication and scoping, compliance roadmap",
+    "business_model": "developer platform, B2D and enterprise B2B",
+    "primary_metrics_inferred": [
+      "Enterprise and regulated-industry adoption",
+      "Security roadmap delivery (SOC2, HIPAA, and future compliance programs)",
+      "Developer experience scores vs. security control friction",
+      "AI agent authentication and audit coverage"
+    ],
+    "cross_functional_partners": [
+      "Security Engineering",
+      "Compliance",
+      "Platform teams (auth, networking, audit)",
+      "GTM"
+    ],
+    "core_responsibilities": [
+      "Lead Supabase's platform security roadmap end-to-end",
+      "Balance security controls against developer experience at platform scale",
+      "Lead security strategy for AI agents (authentication, scoping, auditing agent activity)",
+      "Own roadmap for security tooling: firewall, security advisors, audit logs, Supabase Vault, just-in-time database access, IAM primitives",
+      "Define the unified access model across Supabase (roles, permissions, PATs, OAuth, SSO, SCIM)",
+      "Drive compliance roadmap beyond SOC2 and HIPAA",
+      "Be the customer's voice for security across enterprise and regulated customers",
+      "Ship security documentation on supabase.com"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "ESOP (equity ownership)",
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "security",
+    "developer experience",
+    "IAM",
+    "RBAC",
+    "RLS",
+    "OAuth",
+    "SSO",
+    "SCIM",
+    "audit logging",
+    "Supabase Vault",
+    "AI agents",
+    "compliance",
+    "SOC2",
+    "HIPAA",
+    "enterprise",
+    "Postgres",
+    "platform security roadmap",
+    "just-in-time database access"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Fully remote with open global hiring across EMEA and AMER",
+    "Clear product surface and ownership described in detail",
+    "Strong company traction: 7M+ developers, $500M raised, 280+ team members",
+    "ESOP equity for all team members",
+    "100% health insurance covered for employees, 80% for dependents",
+    "Async-first culture explicitly valued",
+    "Annual company offsite and professional development allowance included",
+    "Open-source-first, well-known developer brand"
+  ],
+  "red_flags": [
+    "Compensation range not disclosed",
+    "Visa sponsorship policy not stated",
+    "7+ year PM experience bar with domain-specific security knowledge is a narrow candidate pool",
+    "Role spans a very broad surface area (IAM, compliance, AI agents, audit, firewall) which could indicate under-resourcing or unclear scope boundaries"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 7+ years requirement and strategic scope described)",
+      "seniority.manages_people (inferred as false; no management language in JD)",
+      "scope.business_model (inferred from product description as B2D and enterprise B2B)",
+      "scope.primary_metrics_inferred (not stated in JD; inferred from responsibilities)",
+      "location.work_auth (inferred as open based on globally distributed hiring language)",
+      "location.visa_sponsorship (not addressed; marked unclear)",
+      "compensation.location_pay_differential (inferred as false from fully-remote global hiring posture)"
+    ],
+    "ambiguities": [
+      "JD says 'This is a remote position and we're open to considering candidates located across EMEA and AMER time zones' — it is unclear whether candidates outside EMEA/AMER are excluded or merely deprioritized. Treated as remote-global with EMEA/AMER preference.",
+      "The must-have requirement for 7+ years mentions 'security, identity and access, infrastructure, or developer platform products' — the 'or' structure means the full domain list is not required, only one qualifying area. Treated as hard given unconditional '7+' framing."
+    ]
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "company": "SoFi",
+  "role_title": "Senior Product Manager, Originations Core",
+  "url": "https://sofi.com/careers/job/7717851003?gh_jid=7717851003",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7717851003",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Platform PM / Fintech Lending PM",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of product management experience",
+      "Title is 'Senior Product Manager'",
+      "Expected to operate with high degree of ownership and autonomy",
+      "Expected to present to senior leadership and influence cross-functionally"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "Bachelor's degree or equivalent experience",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": true,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree"
+      ]
+    },
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "5+ years of product management experience, ideally in fintech, lending, or platform-focused roles",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "fintech",
+        "lending"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "complex_platform_ownership",
+      "raw_text_from_jd": "Proven track record of owning complex product areas or platforms and delivering measurable business impact",
+      "skill_type": "outcome",
+      "domain": "platform_product_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_team_strategy_execution",
+      "raw_text_from_jd": "Experience defining product strategy and driving execution across multiple teams or squads",
+      "skill_type": "capability",
+      "domain": "cross_functional_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "systems_thinking",
+      "raw_text_from_jd": "Strong systems thinking, with the ability to connect user experiences, platform capabilities, and business outcomes",
+      "skill_type": "capability",
+      "domain": "systems_thinking",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_system_collaboration",
+      "raw_text_from_jd": "Experience working on technically complex systems, with the ability to partner deeply with engineering on architecture and trade-offs",
+      "skill_type": "capability",
+      "domain": "technical_product_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_driven_mindset",
+      "raw_text_from_jd": "Data-driven mindset with experience defining metrics, running experiments, and using insights to inform decisions",
+      "skill_type": "capability",
+      "domain": "data_analytics",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_stakeholder_management",
+      "raw_text_from_jd": "Exceptional communication and stakeholder management skills, including experience influencing across teams and presenting to senior leadership",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "autonomy_ambiguity",
+      "raw_text_from_jd": "Ability to operate with a high degree of ownership and autonomy in ambiguous, fast-paced environments",
+      "skill_type": "cultural_fit",
+      "domain": "self_direction",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "lending_originations_experience",
+      "raw_text_from_jd": "Experience with lending or financial services products, particularly originations or underwriting flows",
+      "skill_type": "domain_knowledge",
+      "domain": "lending_originations",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "lending",
+        "financial services"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "credit_decisioning_familiarity",
+      "raw_text_from_jd": "Familiarity with credit decisioning systems or risk models",
+      "skill_type": "domain_knowledge",
+      "domain": "credit_decisioning",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "financial services"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "platform_shared_infrastructure",
+      "raw_text_from_jd": "Experience building platform capabilities or shared infrastructure used across multiple teams",
+      "skill_type": "capability",
+      "domain": "platform_engineering_partnership",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "funnel_conversion_optimization",
+      "raw_text_from_jd": "Experience optimizing application funnels, conversion, and user flows",
+      "skill_type": "capability",
+      "domain": "conversion_optimization",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "post_origination_systems",
+      "raw_text_from_jd": "Background working with servicing, collections, or post-origination systems",
+      "skill_type": "domain_knowledge",
+      "domain": "loan_servicing_collections",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "financial services"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "large_scale_technical_initiatives",
+      "raw_text_from_jd": "Experience driving large-scale technical initiatives requiring cross-team alignment",
+      "skill_type": "capability",
+      "domain": "technical_program_leadership",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [
+    "Remote work from Hawaii or Alaska not accommodated due to insurance coverage issues"
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Originations Core platform within the Borrow business unit — Borrow web and mobile experience, reusable UI systems, application entry points, application data models, credit decisioning infrastructure",
+    "business_model": "B2C personal lending / national bank",
+    "primary_metrics_inferred": [
+      "Conversion rate across loan application funnel",
+      "Platform velocity and reusability across product teams",
+      "Origination volume and efficiency",
+      "Member experience scores"
+    ],
+    "cross_functional_partners": [
+      "Engineering squads",
+      "Multiple product teams / PMs",
+      "Servicing",
+      "Collections",
+      "Settlements",
+      "Senior leadership",
+      "Business stakeholders"
+    ],
+    "core_responsibilities": [
+      "Define and drive the product vision, strategy, and multi-quarter roadmap for Originations Core, spanning platform capabilities and member-facing experiences",
+      "Own and evolve the Borrow experience across web and mobile, including application entry points, flows, and supporting UI systems",
+      "Lead the development of reusable UI components and shared capabilities that enable consistency and velocity across multiple product teams",
+      "Drive strategy and execution for core originations infrastructure, including application data models and credit decisioning systems",
+      "Act as the central product partner for cross-functional domains such as servicing, collections, and settlements, ensuring seamless end-to-end member journeys",
+      "Partner with multiple PMs and engineering teams to align roadmaps, manage dependencies, and drive cohesive product outcomes across the Borrow ecosystem",
+      "Identify and lead high-impact technical initiatives, building alignment and buy-in across teams to execute against a broader platform roadmap",
+      "Define success metrics and use data to evaluate performance, identify opportunities, and guide prioritization",
+      "Balance short-term delivery with long-term platform investments, making thoughtful trade-offs to support scalability, reliability, and business growth",
+      "Communicate product strategy, progress, and insights effectively to senior leadership and cross-functional stakeholders"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": true,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Originations Core",
+    "lending",
+    "credit decisioning",
+    "platform product management",
+    "application funnel",
+    "reusable UI components",
+    "fintech",
+    "Borrow",
+    "web and mobile",
+    "cross-team alignment",
+    "application data models",
+    "conversion"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear product surface and ownership area described in detail",
+    "Role sits at the center of a core business unit (Borrow / lending), indicating strategic importance",
+    "Encourages experience equivalents to a bachelor's degree",
+    "San Francisco Fair Chance Ordinance compliance mentioned, signals inclusive hiring",
+    "Explicitly lists reasonable accommodations for disabilities"
+  ],
+  "red_flags": [
+    "Compensation range not disclosed despite JD stating 'The base pay range for this role is listed below' — range appears to be missing from the JD body",
+    "Location type is unclear — JD does not specify whether this role is remote, hybrid, or on-site (only excludes Hawaii and Alaska)",
+    "Visa sponsorship and work authorization not addressed",
+    "Posting first seen and last updated dates not available"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Senior Product Manager' and 5+ years requirement)",
+      "scope.business_model (inferred from company description as national bank offering personal loans)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly named in JD)",
+      "location.type (not stated; marked unclear — only exclusion of HI/AK mentioned, implying some remote eligibility)",
+      "compensation.location_pay_differential (inferred from JD text 'Final base pay offer will be determined based on individual factors such as the candidate's experience, skills, and location')",
+      "equity_mentioned (inferred as false; no mention in JD)"
+    ],
+    "ambiguities": [
+      "JD states 'The base pay range for this role is listed below' but no range appears in the extracted content — compensation range may have been omitted in the markdown capture.",
+      "The 'ideally in fintech, lending, or platform-focused roles' qualifier on the 5+ years requirement creates ambiguity: the years_of_experience is hard but the industry context is soft. Classified as hard for years, with industry context captured in the field.",
+      "Location type is not stated. The only location signal is 'unable to accommodate remote work from Hawaii or Alaska', which implies remote eligibility in other US states but does not clarify hybrid vs. fully remote. Marked as 'unclear'."
+    ]
+  }
+}

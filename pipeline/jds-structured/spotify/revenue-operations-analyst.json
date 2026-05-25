@@ -1,0 +1,248 @@
+{
+  "company": "Spotify",
+  "role_title": "Revenue Operations Analyst",
+  "url": "https://jobs.lever.co/spotify/6a026d34-6314-4090-b7b7-b528049d9088",
+  "ats_provider": "lever",
+  "ats_job_id": "6a026d34-6314-4090-b7b7-b528049d9088",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "New York City"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "2–3 times per week",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Revenue Operations / Order-to-Cash Analyst",
+  "seniority": {
+    "level": "Junior-Mid IC",
+    "years_required_min": 2,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "2+ years of experience in Revenue Operations or related Finance function",
+      "Base range $66,189–$94,556 consistent with junior-to-mid individual contributor"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_revenue_ops_or_related",
+      "raw_text_from_jd": "You have 2+ years of experience in Revenue Operations, Accounts Receivable, Credit & Collections, Compliance, or a related Finance function",
+      "skill_type": "years_of_experience",
+      "domain": "revenue_operations_finance",
+      "minimum_value": 2,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "erp_experience",
+      "raw_text_from_jd": "You are experienced working with ERP systems such as SAP, Oracle, or NetSuite",
+      "skill_type": "tool_proficiency",
+      "domain": "erp_systems",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "SAP",
+        "Oracle",
+        "NetSuite"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "large_datasets_excel",
+      "raw_text_from_jd": "You are comfortable working with large datasets and have strong Excel skills",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analysis",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Excel"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "time_management_prioritization",
+      "raw_text_from_jd": "You know how to manage your time, prioritize tasks, and meet deadlines in a fast-moving environment",
+      "skill_type": "capability",
+      "domain": "time_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_collaboration",
+      "raw_text_from_jd": "You communicate clearly and collaborate effectively across teams and stakeholders",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "detail_oriented_data_integrity",
+      "raw_text_from_jd": "You are detail-oriented and care about accuracy and data integrity",
+      "skill_type": "cultural_fit",
+      "domain": "data_quality",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "adaptability",
+      "raw_text_from_jd": "You adapt well to change and are comfortable navigating evolving priorities",
+      "skill_type": "cultural_fit",
+      "domain": "adaptability",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "process_improvement_automation_ai",
+      "raw_text_from_jd": "You are curious about improving processes and open to using automation or AI tools",
+      "skill_type": "cultural_fit",
+      "domain": "process_improvement",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Order to Cash (O2C) process — sales order review, customer master data, credit workflows, billing and collections",
+    "business_model": "B2B and B2C audio streaming subscription",
+    "primary_metrics_inferred": [
+      "Order accuracy and compliance rates",
+      "Service level adherence / SLA timelines",
+      "Data quality metrics (customer master data)",
+      "Collections efficiency"
+    ],
+    "cross_functional_partners": [
+      "Finance",
+      "Sales",
+      "Product",
+      "Leadership"
+    ],
+    "core_responsibilities": [
+      "Review and support sales orders to ensure accuracy, compliance, and alignment with internal standards",
+      "Monitor key processes and service levels, helping the team stay on track and meet agreed timelines",
+      "Support manual processes and special projects as business needs evolve",
+      "Maintain and improve customer master data across systems, including account setup, updates, and data quality checks",
+      "Partner with cross-functional teams to improve workflows and address data issues impacting billing or collections",
+      "Support credit processes and workflows using internal tools",
+      "Handle urgent cases and escalations, partnering with leadership to resolve issues thoughtfully and efficiently",
+      "Contribute to reporting, metrics tracking, and insights that support decision-making",
+      "Identify opportunities to improve processes through automation or AI-driven solutions"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      66189,
+      94556
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity (form not specified)",
+    "location_pay_differential": false,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Revenue Operations",
+    "Order to Cash",
+    "O2C",
+    "Accounts Receivable",
+    "Credit & Collections",
+    "ERP",
+    "SAP",
+    "Oracle",
+    "NetSuite",
+    "Excel",
+    "customer master data",
+    "data integrity",
+    "automation",
+    "process improvement"
+  ],
+  "buzzword_density": "low",
+  "green_flags": [
+    "Compensation range explicitly stated ($66,189–$94,556 base plus equity)",
+    "Detailed benefits package disclosed (health insurance, 6-month parental leave, 401k, meal allowance, 23 PTO days, sick leave)",
+    "Clear hybrid flexibility (2–3 days/week in office) with work-from-home allowed",
+    "Specific team context and cross-functional partners identified (Finance, Sales, Product)",
+    "Role at a globally recognized brand with scale and visibility"
+  ],
+  "red_flags": [
+    "Visa sponsorship and work authorization not mentioned — unclear for non-US-authorized candidates",
+    "Base range tops out at ~$94K for a NYC-based role at a large tech company, which may be below market for the city",
+    "Role involves significant manual process support which may limit growth opportunities"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years requirement and compensation range)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "scope.business_model (inferred from company description)",
+      "location.work_auth (not stated)",
+      "location.visa_sponsorship (not stated)"
+    ],
+    "ambiguities": [
+      "The nice-to-have for process improvement/automation is phrased as a personality trait ('curious', 'open to') making it borderline cultural_fit vs. domain_knowledge; classified as cultural_fit with soft severity.",
+      "ERP requirement lists SAP, Oracle, NetSuite as examples ('such as'), suggesting experience with any comparable ERP may satisfy it; flagged as bridgeable: maybe."
+    ]
+  }
+}

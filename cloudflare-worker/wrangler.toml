@@ -1,0 +1,9 @@
+name = "roleos-chat"
+main = "src/index.ts"
+compatibility_date = "2025-01-01"
+
+[vars]
+ALLOWED_ORIGIN = "https://nikjain15.github.io"
+
+# Secrets (set via wrangler):
+#   wrangler secret put ANTHROPIC_API_KEY

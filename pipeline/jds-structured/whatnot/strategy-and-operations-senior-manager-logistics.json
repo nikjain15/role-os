@@ -1,0 +1,242 @@
+{
+  "company": "Whatnot",
+  "role_title": "Strategy & Operations Senior Manager, Logistics",
+  "url": "https://jobs.ashbyhq.com/whatnot/1aca28c6-c235-4e0f-ab22-935fbeaa7d30",
+  "ats_provider": "ashby",
+  "ats_job_id": "1aca28c6-c235-4e0f-ab22-935fbeaa7d30",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "New York, NY",
+      "San Francisco, CA",
+      "Phoenix, AZ",
+      "Los Angeles, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "within commuting distance of hub; specific office time not stated",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Logistics / Supply Chain Operations",
+  "seniority": {
+    "level": "Senior Manager / IC6",
+    "years_required_min": 8,
+    "years_required_max": 10,
+    "manages_people": false,
+    "level_signals": [
+      "8–10 years of experience in strategy and operations roles",
+      "'Senior Manager' in title",
+      "Owns carrier network strategy and cross-functional stakeholder management including senior leadership"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_strategy_ops",
+      "raw_text_from_jd": "you should have 8–10 years of experience in strategy and operations roles (e.g., consulting, finance, logistics, supply chain, carrier operations)",
+      "skill_type": "years_of_experience",
+      "domain": "strategy_and_operations",
+      "minimum_value": 8,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "logistics",
+        "supply chain",
+        "carrier operations",
+        "consulting",
+        "finance"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strategy_execution",
+      "raw_text_from_jd": "Demonstrated success developing and executing strategies that drive scalable, high-quality operations.",
+      "skill_type": "outcome",
+      "domain": "operations_strategy",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "process_design",
+      "raw_text_from_jd": "Ability to identify operational inefficiencies and design scalable processes, systems, and operating models. You default to repeatable systems over one-off solutions.",
+      "skill_type": "capability",
+      "domain": "process_design",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_judgment_sql",
+      "raw_text_from_jd": "Strong analytical judgment, with the ability to synthesize quantitative and qualitative insights into clear recommendations and decisions. Proficiency in SQL or analytics platforms (e.g., Looker, Sigma, Hex).",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analytics",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Looker",
+        "Sigma",
+        "Hex"
+      ],
+      "technologies_named": [
+        "SQL"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "stakeholder_management",
+      "raw_text_from_jd": "Excellent communication and stakeholder management skills, with the ability to influence across Product, Engineering, Operations, and senior leadership.",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_high_growth",
+      "raw_text_from_jd": "Comfort with ambiguity and speed. You've operated in high-growth environments where the playbook didn't exist yet, and you wrote it anyway.",
+      "skill_type": "cultural_fit",
+      "domain": "high_growth_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "logistics_multimarket_experience",
+      "raw_text_from_jd": "Direct experience with logistics operations and multi-market shipping networks is a strong plus.",
+      "skill_type": "domain_knowledge",
+      "domain": "logistics_shipping_networks",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "logistics"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Logistics Strategy & Operations — shipping performance, reliability, and pricing across all Whatnot markets",
+    "business_model": "marketplace / livestream shopping platform (B2C and B2B seller-facing)",
+    "primary_metrics_inferred": [
+      "Carrier performance and pricing health",
+      "Shipping disruption resolution speed and reliability",
+      "Carrier network coverage across categories and geographies",
+      "Shipping cost efficiency"
+    ],
+    "cross_functional_partners": [
+      "BD",
+      "Finance",
+      "Product",
+      "Engineering",
+      "Operations"
+    ],
+    "core_responsibilities": [
+      "Help define the operating model and strategy to enable scalable, high-quality logistics across all of Whatnot's markets",
+      "Own carrier performance and pricing health, monitoring key metrics, managing rate structures, and driving accountability with external carrier partners",
+      "Lead operational response to shipping disruptions, building scalable processes and playbooks that ensure fast, reliable resolution for buyers and sellers",
+      "Inform the product and technology roadmap, translating operational pain points into prioritized requirements for Product and Engineering",
+      "Shape carrier network strategy, evaluating coverage gaps, managing vendor relationships, and recommending updates as Whatnot scales into new categories and geographies",
+      "Partner cross-functionally with BD, Finance, Product, and Operations as a strategic thought partner, providing data-driven recommendations to inform shipping decisions"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "logistics",
+    "carrier operations",
+    "shipping strategy",
+    "supply chain",
+    "operating model",
+    "multi-market",
+    "SQL",
+    "analytics",
+    "strategy and operations",
+    "scalable processes",
+    "vendor management",
+    "cross-functional"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Role has clear ownership scope (carrier performance, pricing, disruption response, carrier network strategy)",
+    "Company is high-growth with strong brand signal (#1 Best Startup Employer in America by Forbes)",
+    "Generous benefits package including 16 weeks paid parental leave, 401k match, family planning lifetime benefit",
+    "Multiple hub city options (New York, San Francisco, Phoenix, Los Angeles) offering geographic flexibility",
+    "Explicitly values low ego and growth mindset in team culture",
+    "Monthly dogfooding budget signals genuine product immersion culture"
+  ],
+  "red_flags": [
+    "Compensation range not disclosed",
+    "Visa sponsorship not mentioned — unclear for international applicants",
+    "Role requires commuting distance to hub but JD describes team as 'remote co-located' — may create ambiguity about actual in-office expectations",
+    "8–10 years experience range phrased as a should-have, but context and title suggest this is effectively a hard floor"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Senior Manager' and 8-10 years requirement)",
+      "seniority.manages_people (inferred as false — no direct reports mentioned)",
+      "scope.business_model (inferred from product description as marketplace/livestream shopping)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated verbatim)",
+      "location.type (inferred as hybrid — body says 'remote co-located' but also requires commuting distance to hub)",
+      "compensation.equity_mentioned (inferred as false — no mention in JD body)"
+    ],
+    "ambiguities": [
+      "JD describes Whatnot as a 'remote co-located team' but role requirement states candidates 'are required to be within commuting distance' of specific hubs — unclear how much in-office time is expected. Treated as hybrid.",
+      "The 8–10 years experience requirement uses 'should have' language but is listed under a 'You' requirements section with no explicit separation into required vs. preferred — treated as hard given seniority level and context.",
+      "Manages people: title is 'Senior Manager' but no direct reports or team management are mentioned in responsibilities — flagged as ambiguous, defaulted to false."
+    ]
+  }
+}

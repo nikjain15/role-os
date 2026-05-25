@@ -1,0 +1,261 @@
+{
+  "company": "Whatnot",
+  "role_title": "Product Manager, International Growth",
+  "url": "https://jobs.ashbyhq.com/whatnot/785be295-393c-4157-b8d2-cc45100ae566",
+  "ats_provider": "ashby",
+  "ats_job_id": "785be295-393c-4157-b8d2-cc45100ae566",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "San Francisco, CA",
+      "Los Angeles, CA",
+      "Seattle, WA",
+      "New York City, NY",
+      "London, UK"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "within commuting distance of one of our office hubs",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Growth PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "International / Marketplace PM",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 6,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "6+ years of product management experience",
+      "Reports to a Senior Director of Product",
+      "Expected to own international growth roadmap and country scorecards end-to-end"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "6+ years of product management experience, including substantial time as a Growth PM or similar role (e.g., owning acquisition, activation, engagement, or monetization in a consumer or marketplace product).",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 6,
+      "unit": "years",
+      "qualifier": "including substantial time as a Growth PM or similar role",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "consumer",
+        "marketplace"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "growth_track_record",
+      "raw_text_from_jd": "Proven track record driving measurable growth in a high‑velocity consumer product or marketplace—owning end‑to‑end funnels, setting targets, and using experimentation to move core KPIs.",
+      "skill_type": "outcome",
+      "domain": "growth_product_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "consumer",
+        "marketplace"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "international_market_experience",
+      "raw_text_from_jd": "Experience scaling international (non‑US) markets, such as: launching or growing products in multiple countries, adapting product experiences to local behaviors, regulations, or infrastructure, and partnering with regional teams to build repeatable playbooks.",
+      "skill_type": "domain_knowledge",
+      "domain": "international_growth",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_and_experimentation_skills",
+      "raw_text_from_jd": "Strong data and experimentation skills: comfortable defining metrics, digging into country‑level analytics and scorecards, designing experiments, and using both quantitative and qualitative insights to inform decisions.",
+      "skill_type": "capability",
+      "domain": "data_analytics_and_experimentation",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguous_fast_paced_decision_making",
+      "raw_text_from_jd": "Demonstrated ability to work in ambiguous, fast‑paced environments, making sound decisions with imperfect information, and balancing speed, risk, and quality on complex multi‑team initiatives.",
+      "skill_type": "capability",
+      "domain": "decision_making_under_ambiguity",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_leadership",
+      "raw_text_from_jd": "Excellent cross‑functional leadership and communication, with experience partnering closely with Engineering, Design, Data Science, UXR, BizOps, CX/Trust, Logistics, Payments/Tax, and regional go‑to‑market teams.",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "international_user_empathy",
+      "raw_text_from_jd": "High empathy for international users and stakeholders, with a strong desire to build trustworthy, transparent, and locally resonant experiences for buyers and sellers.",
+      "skill_type": "cultural_fit",
+      "domain": "user_empathy",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "marketplace_pm_experience",
+      "raw_text_from_jd": "Experience working as a PM in a marketplace or multi‑sided platform is preferred but not required.",
+      "skill_type": "domain_knowledge",
+      "domain": "marketplace_product_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "marketplace"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "International growth product experience across Whatnot's non-US markets (acquisition, activation, engagement, retention, monetization)",
+    "business_model": "B2C/B2B marketplace, livestream commerce, two-sided platform",
+    "primary_metrics_inferred": [
+      "International GMV share",
+      "Acquisition, activation, retention, and monetization metrics per country",
+      "Country scorecards and market health",
+      "Core KPI movement via experimentation"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Data Science",
+      "UXR",
+      "BizOps",
+      "CX/Trust",
+      "Logistics",
+      "Payments/Tax",
+      "Regional CatEx/Sales",
+      "Ops",
+      "Marketing"
+    ],
+    "core_responsibilities": [
+      "Own the international growth vision and roadmap across geos",
+      "Drive systemic unlocks and continuously reduce chronic friction across multiple markets",
+      "Champion a hub-and-spoke model for international product needs",
+      "Own international growth metrics and country scorecards",
+      "Design and run experiments across the funnel",
+      "Translate regional expertise into scalable productized playbooks",
+      "Ensure product is global-ready by default, including i18n, localization, and regulatory compliance"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "not specified beyond mention of equity being part of total compensation (implied by startup context)",
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "international growth",
+    "marketplace",
+    "livestream commerce",
+    "acquisition",
+    "activation",
+    "retention",
+    "experimentation",
+    "localization",
+    "i18n",
+    "country scorecards",
+    "hub-and-spoke",
+    "multi-sided platform",
+    "GMV",
+    "growth PM"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear product scope and ownership: international growth roadmap across all non-US markets",
+    "Explicit reporting structure (Senior Director of Product)",
+    "Broad list of cross-functional partners named, indicating organizational maturity",
+    "Dogfooding budget included as benefit — signals user-centric culture",
+    "Company recognized as #1 Best Startup Employer in America by Forbes",
+    "Explicitly states marketplace PM experience is 'preferred but not required', lowering bar for adjacent backgrounds"
+  ],
+  "red_flags": [
+    "Compensation range not disclosed",
+    "Requires commuting distance to one of five US cities or London — limits truly remote candidates despite 'remote-first' framing",
+    "Visa sponsorship status not mentioned anywhere in JD",
+    "No specific headcount or team size provided for the international product org",
+    "Equity form and amount not specified"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 6+ years requirement and reporting line to Senior Director of Product)",
+      "scope.business_model (inferred from product description as two-sided marketplace/livestream commerce)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly listed as KPIs in JD)",
+      "compensation.equity_mentioned (inferred from startup context; not explicitly stated in benefits section)",
+      "location.remote_us_eligible (inferred: JD says remote-first but requires commuting distance to hub cities)"
+    ],
+    "ambiguities": [
+      "JD describes the team as 'remote co-located' and 'remote-first' but then states the role requires 'being within commuting distance of one of our office hubs'. Treated as hybrid here.",
+      "Visa sponsorship is not mentioned anywhere in the JD; set to 'unclear'.",
+      "Equity is not explicitly mentioned in the benefits list but is strongly implied by the startup context; flagged as equity_mentioned: true with unknown form."
+    ]
+  }
+}

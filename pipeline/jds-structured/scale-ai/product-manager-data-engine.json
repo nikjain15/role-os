@@ -1,0 +1,357 @@
+{
+  "company": "Scale AI",
+  "role_title": "Product Manager, Data Engine",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4670064005",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "4670064005",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "San Francisco, CA",
+      "New York, NY",
+      "Seattle, WA",
+      "Hawaii",
+      "Washington, DC",
+      "Texas",
+      "Colorado",
+      "St. Louis, MO"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "unclear",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "AI Product Manager (ML Ops / Computer Vision focus, Public Sector)",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": null,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "Comp range $205,600–$266,000 base depending on location — consistent with senior IC",
+      "Expected to architect vision for ML Ops tooling and own technical scoping independently",
+      "Interface with 'elite Government stakeholders' and world-class engineers"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "technical_background",
+      "raw_text_from_jd": "You have a background in Software Engineering, Field Engineering, or Vision Systems. You can read code, understand system architecture, and earn the immediate respect of world-class engineers.",
+      "skill_type": "domain_knowledge",
+      "domain": "software_engineering_or_vision_systems",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "Software Engineering",
+        "Vision Systems"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ml_cv_experience",
+      "raw_text_from_jd": "You have experience in Computer Vision or ML Ops. You understand the lifecycle of a model—from data acquisition to Test & Evaluation.",
+      "skill_type": "domain_knowledge",
+      "domain": "computer_vision_or_ml_ops",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "Computer Vision",
+        "ML Ops"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "grit_ambiguity_tolerance",
+      "raw_text_from_jd": "You possess a \"whatever-it-takes\" drive. You are comfortable running through walls, grinding through ambiguity, and delivering results in high-pressure environments.",
+      "skill_type": "cultural_fit",
+      "domain": "resilience_and_execution",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "structured_thinking_action_oriented",
+      "raw_text_from_jd": "You can take a challenging problem, decompose it, create action plans, and drive results.",
+      "skill_type": "capability",
+      "domain": "structured_problem_solving",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "roadmap_ownership_mlops",
+      "raw_text_from_jd": "Drive the roadmap for Public Sector ML Ops tools, ensuring they serve as the \"ground truth\" foundation for building, evaluating, and deploying AI systems.",
+      "skill_type": "outcome",
+      "domain": "product_roadmap_ml_ops",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "ML Ops"
+      ],
+      "industries_named": [
+        "public sector",
+        "national security"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_scoping_infra_apis",
+      "raw_text_from_jd": "Partner with Engineering to make high-stakes design decisions on infrastructure, APIs, and model evaluation frameworks (T&E).",
+      "skill_type": "capability",
+      "domain": "technical_product_management",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "APIs",
+        "model evaluation frameworks"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "stakeholder_alignment",
+      "raw_text_from_jd": "Use high EQ and structured thinking to align Engineering, Operations, and elite Government stakeholders.",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "government"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "clearance_willingness",
+      "raw_text_from_jd": "If you do not have an active clearance, you must be willing to obtain one.",
+      "skill_type": "credential",
+      "domain": "security_clearance",
+      "minimum_value": null,
+      "unit": null,
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "national security",
+        "government"
+      ],
+      "geographies_named": [
+        "United States"
+      ],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Secret clearance",
+        "TS/SCI clearance"
+      ]
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "active_security_clearance",
+      "raw_text_from_jd": "An active Secret or TS/SCI clearance is a nice to have for this role.",
+      "skill_type": "credential",
+      "domain": "security_clearance",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "n/a",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "national security",
+        "government"
+      ],
+      "geographies_named": [
+        "United States"
+      ],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Secret clearance",
+        "TS/SCI clearance"
+      ]
+    },
+    {
+      "id": "advanced_degree_top_tier",
+      "raw_text_from_jd": "Advanced degree (CS, Engineering, or a related field) from a top-tier institution, or equivalent experience that showcases deep technical problem-solving ability.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": null,
+      "unit": null,
+      "accepts_equivalent_experience": true,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "top-tier institution"
+      ],
+      "credentials_named": [
+        "Advanced degree",
+        "CS degree",
+        "Engineering degree"
+      ]
+    },
+    {
+      "id": "cv_expertise_large_scale",
+      "raw_text_from_jd": "Practical experience designing, building, or evaluating large-scale Computer Vision models, including advanced data processing and deployment techniques.",
+      "skill_type": "domain_knowledge",
+      "domain": "computer_vision_model_development",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "Computer Vision",
+        "large-scale models",
+        "data processing"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Public Sector Data Engine — ML Ops tooling for computer vision and generative AI models supporting national security systems",
+    "business_model": "B2G (government/public sector), full-stack AI partner",
+    "primary_metrics_inferred": [
+      "Model evaluation quality and reliability (Test & Evaluation metrics)",
+      "Speed of ML Ops flywheel for government customers",
+      "Breadth of data management and curation coverage across CV and GenAI"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Operations",
+      "Government stakeholders"
+    ],
+    "core_responsibilities": [
+      "Drive the roadmap for Public Sector ML Ops tools",
+      "Support diverse customer profiles from satellite/video labeling to bespoke ML Ops partnerships",
+      "Partner with Engineering on high-stakes design decisions on infrastructure, APIs, and model evaluation frameworks",
+      "Align Engineering, Operations, and elite Government stakeholders",
+      "Architect the vision for ML Ops tooling covering data management, curation, model development, and model evaluation"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      205600,
+      266000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity grant (subject to Board of Director approval)",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "ML Ops",
+    "Computer Vision",
+    "Generative AI",
+    "Public Sector",
+    "Data Engine",
+    "national security",
+    "model evaluation",
+    "Test & Evaluation",
+    "infrastructure",
+    "security clearance",
+    "technical PM",
+    "data labeling",
+    "full-stack AI"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range explicitly disclosed and competitive ($205K–$266K base depending on location)",
+    "Clear product surface and ownership area (Public Sector Data Engine / ML Ops)",
+    "Role spans both Computer Vision and Generative AI — broad technical scope",
+    "Equity included in compensation package",
+    "Clearance not required upfront — willingness to obtain is sufficient",
+    "Benefits package described in detail including health, dental, vision, retirement, L&D stipend"
+  ],
+  "red_flags": [
+    "Hybrid role but office time requirement not quantified",
+    "Security clearance required eventually — eligibility constraints apply (likely US citizenship required) but work auth not explicitly stated",
+    "No years-of-experience floor stated, making seniority expectations ambiguous",
+    "Public sector / national security focus may limit candidate pool and require prolonged clearance process",
+    "90-day waiting period policy for reconsidering candidates is restrictive"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range and scope of responsibilities)",
+      "scope.business_model (inferred from 'Public Sector' and government customers described)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "location.work_auth (not stated; likely US citizenship required given clearance expectation, but not explicit)",
+      "location.visa_sponsorship (not stated)",
+      "compensation.base_range_usd upper bound uses Washington DC / Hawaii / Texas / Colorado range ($266K) as the stated maximum across all listed geographies"
+    ],
+    "ambiguities": [
+      "Security clearance: listed under 'Nice to haves' as 'a nice to have' but the same section states 'you must be willing to obtain one' — active clearance is soft but willingness to obtain is treated as hard requirement here.",
+      "Work authorization: not explicitly stated, but clearance requirement implies US citizenship or at minimum US person status; classified as 'unclear' pending confirmation.",
+      "Multiple salary bands listed for different geographies — base_range_usd captures the absolute min ($205,600 in SF/NY/Seattle) and absolute max ($266,000 in DC/Hawaii/TX/CO); the St. Louis range ($177,600–$222,000) is lower but also stated.",
+      "Role described as 'hybrid' in JD body ('This is a hybrid role') but office time percentage not specified."
+    ]
+  }
+}

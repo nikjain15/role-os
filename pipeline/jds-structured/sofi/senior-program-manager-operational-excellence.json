@@ -1,0 +1,220 @@
+{
+  "company": "SoFi",
+  "role_title": "Senior Program Manager, Operational Excellence",
+  "url": "https://sofi.com/careers/job/7705625003?gh_jid=7705625003",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7705625003",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "BizOps / Strategy & Ops",
+  "seniority": {
+    "level": "Staff / Principal IC (very senior individual contributor)",
+    "years_required_min": 12,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "12+ years of related experience (or 10+ with Master's degree)",
+      "Accomplished subject matter expert status",
+      "Operates autonomously, advises senior leadership and executive staff",
+      "Advanced professional certifications expected at this level of seniority"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_experience",
+      "raw_text_from_jd": "Typically 12+ years of related experience (or 10+ years with a Master's degree), demonstrating a track record of solving unique problems with complex scope.",
+      "skill_type": "years_of_experience",
+      "domain": "program_management_operational_excellence",
+      "minimum_value": 12,
+      "unit": "years",
+      "qualifier": "or 10+ years with a Master's degree",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Master's degree"
+      ]
+    },
+    {
+      "id": "subject_matter_expert_operational_excellence",
+      "raw_text_from_jd": "Accomplished subject matter expert status in Operational Excellence, with a deep understanding of how the specialization fits into and impacts the larger company objectives.",
+      "skill_type": "domain_knowledge",
+      "domain": "operational_excellence",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "autonomy",
+      "raw_text_from_jd": "Proven ability to operate autonomously in setting goals, deciding priorities, and running after problems without the need for direct supervision.",
+      "skill_type": "capability",
+      "domain": "autonomous_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "influence_and_ambiguity",
+      "raw_text_from_jd": "Exceptional ability to maneuver through ambiguity and shifting priorities with ease while engaging and educating stakeholders on the strategic \"why\".",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "Minimum Bachelor's Degree in Business Management, Technology, or a related field; advanced professional certifications are expected at this level of seniority.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's Degree"
+      ]
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "pmp_capm_scm_certification",
+      "raw_text_from_jd": "PMP, CAPM or SCM certification is preferred",
+      "skill_type": "credential",
+      "domain": "project_management_certification",
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "PMP",
+        "CAPM",
+        "SCM"
+      ]
+    }
+  ],
+  "explicitly_excluded": [
+    "Remote work from Hawaii or Alaska"
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Operational Excellence function across all SoFi products",
+    "business_model": "B2C financial services / national bank, mobile-first",
+    "primary_metrics_inferred": [
+      "Operational efficiency improvements",
+      "Cross-functional initiative delivery",
+      "Risk mitigation outcomes",
+      "Team/function upskilling and performance"
+    ],
+    "cross_functional_partners": [
+      "Senior leadership",
+      "Executive staff",
+      "Cross-functional stakeholders across all SoFi products"
+    ],
+    "core_responsibilities": [
+      "Advise leadership on the vision and strategy for the organization",
+      "Deconstruct extremely large, significantly complex efforts into straightforward implementation strategies",
+      "Lead the development of experiments and pilots, making it 'safe to fail' as part of the ideation and invention process",
+      "Handle critical escalations that require sensitive solutions, such as those impacting brand trust",
+      "Develop and leverage strategic partnerships to align highest-level stakeholders",
+      "Actively work to upskill the function and help peers understand complex trade-offs",
+      "Assume a leadership role in identifying and mitigating risks at the departmental and cross-functional level"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": true,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Operational Excellence",
+    "Program Manager",
+    "Senior Leadership",
+    "Cross-functional",
+    "Complex Problem Solving",
+    "Strategic Partnerships",
+    "Risk Leadership",
+    "Autonomy",
+    "Organizational Upskilling",
+    "Vision and Strategy",
+    "Escalations",
+    "Individual Contributor"
+  ],
+  "buzzword_density": "high",
+  "green_flags": [
+    "High-impact, high-visibility individual contributor role advising executive leadership",
+    "Clear articulation of responsibilities and scope",
+    "Role spans all SoFi products, offering broad organizational exposure",
+    "EEO and San Francisco Fair Chance Ordinance commitments noted",
+    "Accommodations process explicitly mentioned"
+  ],
+  "red_flags": [
+    "Compensation range not disclosed in JD body despite reference to base pay range",
+    "Location type is ambiguous — JD mentions Hawaii/Alaska remote exclusion, implying remote is possible, but no explicit remote/hybrid/onsite designation is stated",
+    "Advanced professional certifications are 'expected' at this seniority level but only PMP/CAPM/SCM listed as preferred — creates ambiguity about which certs are truly required",
+    "High buzzword density may obscure concrete day-to-day expectations",
+    "12+ years minimum experience bar is very high and narrowly defined"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "location.type (inferred as 'unclear' — JD references Hawaii/Alaska remote exclusion implying some remote eligibility, but no explicit work model stated)",
+      "location.remote_us_eligible (inferred true from Hawaii/Alaska exclusion language)",
+      "scope.business_model (inferred from company description as B2C financial services / national bank)",
+      "scope.primary_metrics_inferred (not stated in JD; inferred from responsibilities)",
+      "seniority.level (inferred from years requirement, autonomy signals, and advisory role to executives)",
+      "compensation.location_pay_differential (inferred from standard language about final offer based on location)"
+    ],
+    "ambiguities": [
+      "The JD states 'advanced professional certifications are expected at this level of seniority' under must-haves, but the Nice To Have section lists PMP/CAPM/SCM as 'preferred'. This creates a contradiction — certifications may be simultaneously expected (hard) and merely preferred (soft). Treated the general certification expectation as hard and the specific named certs as soft.",
+      "Location type is not explicitly stated. The Hawaii/Alaska exclusion implies remote work is possible, but no hybrid or onsite requirement is mentioned. Treated as 'unclear'.",
+      "Compensation range is referenced ('The base pay range for this role is listed below') but no actual numbers appear in the JD content provided."
+    ]
+  }
+}

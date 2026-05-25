@@ -1,0 +1,331 @@
+{
+  "company": "Sierra",
+  "role_title": "Product Manager, Agent Development - Healthcare",
+  "url": "https://jobs.ashbyhq.com/sierra/65eb2c63-c936-4e8e-87e7-ea080dcdca73",
+  "ats_provider": "ashby",
+  "ats_job_id": "65eb2c63-c936-4e8e-87e7-ea080dcdca73",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "primarily in-person",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "AI Product Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Technical PM with customer-facing / solutions engineering flavor",
+  "seniority": {
+    "level": "Senior PM / Staff PM",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5-7+ years experience in product development of highly technical products",
+      "Past experience in Product Management or other similar product development roles at or above the level of Senior Product Manager"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_product_development",
+      "raw_text_from_jd": "5-7+ years experience in product development of highly technical products.",
+      "skill_type": "years_of_experience",
+      "domain": "product_development",
+      "minimum_value": 5,
+      "unit": "years",
+      "qualifier": "highly technical products",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "senior_pm_level",
+      "raw_text_from_jd": "Past experience in Product Management or other similar product development roles at or above the level of Senior Product Manager.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": null,
+      "unit": null,
+      "qualifier": "at or above Senior PM level",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "executive_communication",
+      "raw_text_from_jd": "Experience crafting and tailoring a message for potential customers, including executives.",
+      "skill_type": "capability",
+      "domain": "executive_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_communication",
+      "raw_text_from_jd": "Ability to communicate highly technical concepts to both non-technical and technically proficient audiences, including recent AI developments.",
+      "skill_type": "capability",
+      "domain": "technical_communication",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_degree",
+      "raw_text_from_jd": "Degree in a technical or related field, or equivalent professional experience.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": true,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "technical degree"
+      ]
+    },
+    {
+      "id": "healthcare_interest",
+      "raw_text_from_jd": "Genuine interest in healthcare and improving patient/member experiences",
+      "skill_type": "cultural_fit",
+      "domain": "healthcare",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "healthcare"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "healthcare_tech_experience",
+      "raw_text_from_jd": "Experience in healthcare technology, health IT or working with healthcare organizations",
+      "skill_type": "domain_knowledge",
+      "domain": "healthcare_technology",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "healthcare",
+        "health IT"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "healthcare organizations"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "healthcare_compliance",
+      "raw_text_from_jd": "Understanding of healthcare compliance requirements (HIPAA, PHI handling and healthcare data privacy)",
+      "skill_type": "domain_knowledge",
+      "domain": "healthcare_compliance",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "healthcare"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "HIPAA"
+      ]
+    },
+    {
+      "id": "ai_agent_product_experience",
+      "raw_text_from_jd": "AI-related experience (experience with product development for AI agents a plus).",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_agents",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "AI agents"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "coding_experience",
+      "raw_text_from_jd": "Some coding experience with React, Typescript, and Go.",
+      "skill_type": "tool_proficiency",
+      "domain": "software_engineering",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "React",
+        "Typescript",
+        "Go"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "mba",
+      "raw_text_from_jd": "MBA or equivalent professional experience (while this is a product management role, you will have the opportunity to lean into broader business roles).",
+      "skill_type": "credential",
+      "domain": "business_education",
+      "accepts_equivalent_experience": true,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "MBA"
+      ]
+    },
+    {
+      "id": "customer_facing_product_influence",
+      "raw_text_from_jd": "Past roles that interface with end customers to influence software development.",
+      "skill_type": "capability",
+      "domain": "customer_facing_product",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "AI agents for healthcare vertical (health plans, providers, RCM, pharma) — covering benefits, billing, scheduling, intake, and provider search use cases",
+    "business_model": "B2B enterprise SaaS / AI platform — selling to health insurance networks, providers, and healthcare platforms",
+    "primary_metrics_inferred": [
+      "Agent conversation volume (thousands of conversations per day)",
+      "Healthcare vertical revenue growth",
+      "Customer acquisition and expansion in healthcare",
+      "Pre-visit intake conversion rates",
+      "Cost reduction and revenue impact for healthcare customers"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Research",
+      "Platform",
+      "Healthcare customers (health plans, providers, RCMs, pharma companies)"
+    ],
+    "core_responsibilities": [
+      "Partner directly with engineers and customers to build and ship AI agents handling thousands of customer conversations a day",
+      "Discover new use cases and opportunities for AI agents with providers, payers, RCMs, and pharmaceutical companies",
+      "Engage with all levels of customers' businesses to discover requirements, present demonstrations, and overcome technical challenges",
+      "Develop and improve Sierra virtual agents to fit and anticipate customers' needs and business processes",
+      "Become trusted advisors and drive strategic technical strategies for customers",
+      "Surface unmet needs, prototype new tools and features, and collaborate with research, product, and platform to shape the future of AI agent development in healthcare"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "Eligible full-time employees can participate in Sierra's equity plans subject to the terms of the applicable plans and policies",
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "AI agents",
+    "healthcare",
+    "HIPAA",
+    "health plans",
+    "providers",
+    "RCM",
+    "voice agents",
+    "chat agents",
+    "enterprise",
+    "product management",
+    "agentic",
+    "patient experience",
+    "health IT",
+    "Sierra platform"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Healthcare vertical already at scale — 'agents already reach over 50% of U.S. families' signals real deployment, not just vision",
+    "Prestigious co-founders (Bret Taylor, Clay Bavor) with strong AI ecosystem connections",
+    "Clear product surface with concrete example projects listed",
+    "Encourages applicants who don't precisely match the job description",
+    "Equity participation offered to full-time employees",
+    "Comprehensive benefits package including parental leave, fertility benefits, and medical/dental/vision"
+  ],
+  "red_flags": [
+    "Compensation range not disclosed",
+    "Visa sponsorship status not mentioned",
+    "Role blends PM and solutions/pre-sales engineering responsibilities, which may create ambiguous scope or heavy travel expectations",
+    "Primarily in-person at San Francisco HQ — eliminates remote candidates",
+    "No explicit mention of team size or reporting structure"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from '5-7+ years' and 'at or above Senior PM' language)",
+      "scope.team_size_estimate (not stated; left as 'unclear')",
+      "scope.primary_metrics_inferred (inferred from responsibilities and example projects; not in JD)",
+      "scope.business_model (inferred from customer description and platform context)",
+      "location.type (inferred as onsite from 'primarily an in-person company based in San Francisco')",
+      "compensation.location_pay_differential (inferred false; no differential mentioned)"
+    ],
+    "ambiguities": [
+      "Years range stated as '5-7+' which is unusual; treated minimum_value as 5 years per schema. The '+' after 7 suggests no hard upper bound.",
+      "Role combines deep PM responsibilities with customer-facing advisory/solutions engineering duties — archetype is primarily AI PM but has significant pre-sales/solutions flavor.",
+      "Work authorization and visa sponsorship not addressed in JD; marked as 'unclear'."
+    ]
+  }
+}

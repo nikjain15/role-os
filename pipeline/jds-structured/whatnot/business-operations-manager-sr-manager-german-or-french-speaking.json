@@ -1,0 +1,289 @@
+{
+  "company": "Whatnot",
+  "role_title": "Business Operations Manager/Sr Manager - German or French Speaking",
+  "url": "https://jobs.ashbyhq.com/whatnot/2e1f9b0b-0ae0-4281-9a83-3a5703e2163a",
+  "ats_provider": "ashby",
+  "ats_job_id": "2e1f9b0b-0ae0-4281-9a83-3a5703e2163a",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "remote-global",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Program Manager",
+  "seniority": {
+    "level": "Mid-Senior IC (Manager / Senior Manager)",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5-6+ years experience in consulting, investment banking/private equity, or a fast-growing startup",
+      "Comp range $167K-$215K base, consistent with Manager/Senior Manager IC",
+      "Role title spans Manager and Sr Manager"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "Bachelor's degree in Business, Economics, or related field",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree in Business, Economics, or related field"
+      ]
+    },
+    {
+      "id": "years_experience",
+      "raw_text_from_jd": "5-6+ years experience in consulting, investment banking/private equity, or a fast-growing startup",
+      "skill_type": "years_of_experience",
+      "domain": "strategy_and_operations",
+      "minimum_value": 5,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "consulting",
+        "investment banking/private equity",
+        "fast-growing startup"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "language_fluency",
+      "raw_text_from_jd": "Professional fluency in German or French, with strong written and verbal communication skills",
+      "skill_type": "capability",
+      "domain": "language_proficiency",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "move_fast_unstructured",
+      "raw_text_from_jd": "Able to move remarkably fast with little structure, guidance",
+      "skill_type": "cultural_fit",
+      "domain": "operating_style",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "independent_ambiguous",
+      "raw_text_from_jd": "Ability to operate independently and go deep on ambiguous projects",
+      "skill_type": "capability",
+      "domain": "problem_solving",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_influence",
+      "raw_text_from_jd": "Demonstrated ability to work and influence cross-functionally. You are proactive, great at communicating with different audiences and can bring stakeholders on-board. You seek out and have a track record for driving change and impact in a fluid, unstructured working environment",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_tools_fluency",
+      "raw_text_from_jd": "Fluency in using AI tools to enhance problem-solving, analysis, and execution across a wide range of business challenges",
+      "skill_type": "tool_proficiency",
+      "domain": "ai_tools",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI tools"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "marketplace_experience",
+      "raw_text_from_jd": "Experience working on a marketplace or a two-sided platform",
+      "skill_type": "domain_knowledge",
+      "domain": "marketplace_platforms",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "marketplace",
+        "two-sided platform"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "online_marketplace_passion",
+      "raw_text_from_jd": "Experience or passion for buying and selling in online marketplace communities",
+      "skill_type": "cultural_fit",
+      "domain": "ecommerce",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "online marketplace"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sql_dashboards",
+      "raw_text_from_jd": "Proficiency with SQL & dashboards",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analysis",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "SQL"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Cross-functional business operations: international market scaling, marketing investments, margin and growth analysis, tooling/reporting, product/ops partnerships",
+    "business_model": "B2C/B2B two-sided livestream shopping marketplace",
+    "primary_metrics_inferred": [
+      "Buyer and seller funnel metrics",
+      "Market growth rates",
+      "Marketing channel ROI",
+      "Margin dynamics",
+      "Resource allocation efficiency"
+    ],
+    "cross_functional_partners": [
+      "Product",
+      "Engineering",
+      "StratFin",
+      "Data",
+      "Operations",
+      "Leadership team"
+    ],
+    "core_responsibilities": [
+      "Take Whatnot global: partnering with Product and Engineering to ensure international needs are built into scalable, global solutions, conducting primary research to identify high-impact opportunities across product, pricing, and incentives, and owning the key metrics that define success in each market including buyer and seller funnels, growth, marketing investments, and margin dynamics",
+      "Scale our marketing engine: bring business-side rigor to how capital is deployed, measured, and prioritized — deep-diving into complex channel decisions, building nascent capabilities, and ensuring the org and hiring roadmap keeps pace with our ambitions",
+      "Build a great business: Partner with StratFin and Data to ensure we are building a healthy, durable business — leading analyses across our key margin levers and growth investments, informing pricing decisions, and translating findings into concrete recommendations and actions for leadership",
+      "Help Whatnot run better: Build tooling to serve as a single source of truth for tracking progress against aggressive goals, highlighting key metrics, resource allocation, and blockers",
+      "Deliver for our users: Be among the first to pressure-test new products and capabilities Whatnot is building, partnering with Product, Engineering, and Operations to translate what we learn into initiatives that improve the buyer and seller experience"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      167000,
+      215000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "stock options",
+    "location_pay_differential": false,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "business operations",
+    "German",
+    "French",
+    "international markets",
+    "marketplace",
+    "livestream commerce",
+    "cross-functional",
+    "consulting",
+    "investment banking",
+    "growth",
+    "margin",
+    "AI tools",
+    "SQL",
+    "two-sided platform",
+    "strategy"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($167K-$215K base) plus stock options",
+    "Remote-first with international hubs — broad geographic flexibility",
+    "Forbes #1 Best Startup Employer in America recognition",
+    "Clear scope spanning multiple high-visibility workstreams",
+    "Strong benefit package including parental leave, wellness, childcare, and retirement match"
+  ],
+  "red_flags": [
+    "Language requirement (German or French) is a hard filter that significantly narrows the candidate pool",
+    "Compensation stated as US-only; no salary range disclosed for non-US applicants",
+    "Role spans Manager and Senior Manager — leveling and expectations may be ambiguous until deep in the process",
+    "No mention of visa sponsorship status despite international role framing"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range + years + title span)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly listed in JD)",
+      "scope.business_model (inferred from product description)",
+      "location.remote_us_eligible (inferred from compensation section referencing US-based applicants)",
+      "location.type set to remote-global (inferred from 'remote co-located team' language and international hubs)"
+    ],
+    "ambiguities": [
+      "Role title covers both Manager and Sr Manager — unclear if these are two separate levels or one flexible hire; JD does not distinguish requirements between them",
+      "Compensation stated only for US-based applicants; non-US comp not disclosed despite international hub presence and language requirements targeting European markets",
+      "Visa sponsorship not mentioned anywhere in the JD; left as 'unclear'"
+    ]
+  }
+}

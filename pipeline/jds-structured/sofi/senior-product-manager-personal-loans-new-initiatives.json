@@ -1,0 +1,359 @@
+{
+  "company": "SoFi",
+  "role_title": "Senior Product Manager, Personal Loans New Initiatives",
+  "url": "https://sofi.com/careers/job/7644783003?gh_jid=7644783003",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7644783003",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Growth PM",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Generalist PM with personalization/recommendation systems focus",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of product management experience",
+      "Title is 'Senior Product Manager'",
+      "Expected to own multi-quarter roadmap and present to senior leadership"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "Bachelor's degree or higher, ideally in a technical, finance, or quantitative field.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree"
+      ]
+    },
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "5+ years of product management experience",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "measurable_business_impact",
+      "raw_text_from_jd": "Proven track record of owning product areas or initiatives and delivering measurable business impact",
+      "skill_type": "outcome",
+      "domain": "product_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "multi_quarter_roadmap",
+      "raw_text_from_jd": "Experience defining product strategy and driving execution across a multi-quarter roadmap",
+      "skill_type": "capability",
+      "domain": "product_strategy",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_intuition_prioritization",
+      "raw_text_from_jd": "Strong product intuition with the ability to identify high-impact opportunities and make sound prioritization decisions",
+      "skill_type": "capability",
+      "domain": "product_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_driven_mindset",
+      "raw_text_from_jd": "Data-driven mindset with experience using metrics, experimentation, and analysis to guide decisions",
+      "skill_type": "capability",
+      "domain": "data_analysis",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_collaboration",
+      "raw_text_from_jd": "Experience working cross-functionally with engineering, design, and data science teams",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "stakeholder_communication",
+      "raw_text_from_jd": "Strong communication skills, including experience influencing stakeholders and presenting to senior leadership",
+      "skill_type": "capability",
+      "domain": "communication_and_influence",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_tolerance",
+      "raw_text_from_jd": "Ability to thrive in a fast-paced, ambiguous environment with high ownership",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "growth_personalization_recs",
+      "raw_text_from_jd": "Experience with growth, personalization, or recommendation systems",
+      "skill_type": "domain_knowledge",
+      "domain": "personalization_and_recommendation_systems",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "fintech_lending_background",
+      "raw_text_from_jd": "Background in fintech, lending, or consumer financial products",
+      "skill_type": "domain_knowledge",
+      "domain": "fintech_lending",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "fintech",
+        "lending",
+        "consumer financial products"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "zero_to_one_scaling",
+      "raw_text_from_jd": "Experience working on 0→1 and scaling product initiatives",
+      "skill_type": "capability",
+      "domain": "product_development",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "experimentation_ab_testing",
+      "raw_text_from_jd": "Familiarity with experimentation frameworks and A/B testing",
+      "skill_type": "tool_proficiency",
+      "domain": "experimentation",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "A/B testing"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ml_ranking_systems",
+      "raw_text_from_jd": "Exposure to machine learning–driven products or ranking systems",
+      "skill_type": "domain_knowledge",
+      "domain": "machine_learning_products",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "machine learning",
+        "ranking systems"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_sell_multi_product",
+      "raw_text_from_jd": "Experience building cross-sell or multi-product ecosystems",
+      "skill_type": "capability",
+      "domain": "cross_sell_product_ecosystems",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [
+    "Remote work from Hawaii or Alaska (due to insurance coverage issues)"
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Personal Loans new initiatives, cross-sell experiences, recommendation and ranking systems across SoFi surfaces",
+    "business_model": "B2C consumer fintech / national bank, personal lending platform",
+    "primary_metrics_inferred": [
+      "Personal Loans growth",
+      "Cross-sell conversion rates",
+      "Member engagement and product adoption",
+      "Recommendation system performance metrics"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Data Science",
+      "Design",
+      "Marketing",
+      "Risk",
+      "Operations",
+      "Business stakeholders"
+    ],
+    "core_responsibilities": [
+      "Identify and define new product opportunities that drive growth for Personal Loans, with a focus on cross-sell, engagement, and member value",
+      "Build and iterate on recommendation and ranking systems that surface the right products to the right members at the right time",
+      "Lead 0→1 product development from problem definition through launch, including experimentation, iteration, and scaling",
+      "Partner closely with Data Science to define models, inputs, and success metrics for personalization and optimization systems",
+      "Collaborate cross-functionally with Engineering, Design, Marketing, Risk, and Operations to deliver high-quality experiences",
+      "Define and track key metrics, using data to inform prioritization, evaluate performance, and drive continuous improvement",
+      "Maintain a high-quality backlog and drive execution in a fast-paced, agile environment",
+      "Communicate product strategy, progress, and insights clearly to stakeholders and leadership"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": true,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "personal loans",
+    "cross-sell",
+    "recommendation systems",
+    "ranking systems",
+    "personalization",
+    "0→1 product development",
+    "data science partnership",
+    "growth",
+    "multi-quarter roadmap",
+    "experimentation",
+    "fintech",
+    "agile"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clearly scoped product surface (Personal Loans new initiatives, cross-sell, recommendation/ranking systems)",
+    "Cross-functional scope is well-defined, listing specific partner teams",
+    "Role described as 'high-impact' with direct member-facing outcomes",
+    "SoFi is a national bank with millions of members — large product scale",
+    "Remote work appears broadly permitted (excluding Hawaii and Alaska only)"
+  ],
+  "red_flags": [
+    "Compensation range referenced ('listed below') but not included in the JD body — no pay transparency provided",
+    "Location type is unclear — no cities or hybrid/remote policy explicitly stated in body",
+    "Visa sponsorship status not mentioned anywhere in the JD"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Senior PM' and 5+ years requirement)",
+      "seniority.manages_people (inferred as false; no people management mentioned)",
+      "scope.business_model (inferred from company description as B2C fintech/national bank)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly stated in JD)",
+      "compensation.location_pay_differential (inferred from statement 'based on candidate's experience, skills, and location')",
+      "location.remote_us_eligible (inferred as true from Hawaii/Alaska exclusion implying other remote is permitted)"
+    ],
+    "ambiguities": [
+      "Location type is not explicitly stated — no office, city, hybrid, or remote policy is described in the body. The only location signal is the exclusion of Hawaii and Alaska for remote work, suggesting remote is otherwise available, but this is not confirmed.",
+      "Compensation range is referenced ('The base pay range for this role is listed below') but the actual range does not appear in the provided JD content — likely a rendering/extraction gap.",
+      "Visa sponsorship is not addressed anywhere in the JD; work_auth set to 'open' and visa_sponsorship to 'unclear' as defaults."
+    ]
+  }
+}

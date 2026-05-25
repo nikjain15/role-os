@@ -1,0 +1,196 @@
+{
+  "company": "Stripe",
+  "role_title": "Product Manager, Terminal - Unified Commerce",
+  "url": "https://stripe.com/jobs/search?gh_jid=6683456",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "6683456",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": false,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Technical PM (platform / enterprise commerce)",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 6,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "6+ years of product management experience or equivalent",
+      "Owns end-to-end enterprise platform with multi-year vision responsibility",
+      "Engages directly with enterprise users and external forums"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "6+ years of product management experience or equivalent",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 6,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "b2b_product_experience",
+      "raw_text_from_jd": "Experience working on B2B products, ideally with a track record of building for external users",
+      "skill_type": "domain_knowledge",
+      "domain": "B2B_product_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_systems_thinker",
+      "raw_text_from_jd": "Technically adept systems thinker, ideally with an engineering degree strongly preferred.",
+      "skill_type": "capability",
+      "domain": "technical_product_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "engineering degree"
+      ]
+    },
+    {
+      "id": "communication_skills",
+      "raw_text_from_jd": "Great interpersonal skills and strong verbal and written communication. You can make complex concepts accessible with clear communication.",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "payments_product_track_record",
+      "raw_text_from_jd": "Demonstrated success and strong execution track record in building payment products",
+      "skill_type": "outcome",
+      "domain": "payments",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "payments",
+        "fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Stripe Terminal Unified Commerce platform — end-to-end in-person payments platform for global enterprises",
+    "business_model": "B2B enterprise platform, payments infrastructure",
+    "primary_metrics_inferred": [
+      "Terminal revenue growth / enterprise user adoption",
+      "In-person payment volume",
+      "OKR milestone achievement",
+      "Cross-border payment volume"
+    ],
+    "cross_functional_partners": [
+      "Product partnerships",
+      "Product marketing",
+      "Partner marketing",
+      "Product legal",
+      "Vertical industry teams",
+      "Terminal Enterprise team"
+    ],
+    "core_responsibilities": [
+      "Own Stripe's unified commerce platform for Enterprise users worldwide",
+      "Operate at both a massive and nuanced scale, identifying holistic investments for Stripe as well as specific needs for users",
+      "Represent Terminal and Stripe in external forums like front of users: directly engaging in product discovery and roadmapping conversations",
+      "Set a motivating multi-year vision and then break it down into measurable, meaningful milestones for the Terminal Enterprise team",
+      "Creating buy-in, crafting roadmaps and OKRs, and navigating trade-offs",
+      "Engage with various teams at Stripe like product partnerships, product marketing, partner marketing, product legal and vertical industry teams to collaborate on user and partner needs, industry events, and GTM motions"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "unified commerce",
+    "Terminal",
+    "in-person payments",
+    "enterprise",
+    "B2B",
+    "platform",
+    "OKRs",
+    "roadmap",
+    "cross-border payments",
+    "AI powered optimizations",
+    "fraud protection",
+    "global enterprise"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Terminal described as one of the fastest growing products at Stripe — high visibility role",
+    "Clear product surface and ownership (end-to-end unified commerce platform)",
+    "Multi-year vision scope signals significant strategic ownership",
+    "Cross-functional stakeholder engagement with executive-level exposure implied"
+  ],
+  "red_flags": [
+    "No location or remote policy specified anywhere in the JD — candidates cannot assess geography fit",
+    "No compensation range disclosed",
+    "Visa sponsorship and work authorization not addressed",
+    "Engineering degree described as 'strongly preferred' but framed as a 'nice to have' qualifier — ambiguous classification"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 6+ years requirement and scope of ownership)",
+      "scope.business_model (inferred from product description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "location.type (set to 'unclear' — no location data in JD)",
+      "compensation.source (unknown — no compensation data in JD)"
+    ],
+    "ambiguities": [
+      "'Technically adept systems thinker, ideally with an engineering degree strongly preferred.' — phrasing uses 'ideally' and 'strongly preferred' but appears in the main 'We're looking for someone who has' section (must-haves). Treated as hard/must-have with the credential as a soft signal within it.",
+      "'Experience working on B2B products, ideally with a track record of building for external users' — 'ideally' qualifier softens this; however it appears in the required section so classified as hard severity.",
+      "No location, remote eligibility, visa sponsorship, or work authorization mentioned anywhere in the JD."
+    ]
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "company": "SoFi",
+  "role_title": "Senior Product Manager, Home Loans Consumer Experience",
+  "url": "https://sofi.com/careers/job/7720241003?gh_jid=7720241003",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7720241003",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Growth PM",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Generalist PM with fintech/lending focus",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 3,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "3+ years of product management experience",
+      "Senior PM title",
+      "Expected to present to executive leadership",
+      "Expected to own product strategy and roadmap independently"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "Bachelor's degree or higher, ideally in a technical, finance, or quantitative field",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree"
+      ]
+    },
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "3+ years of product management experience",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 3,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "first_and_third_party_platforms",
+      "raw_text_from_jd": "Experience developing and launching features across both 1st and 3rd party platforms, while consistently prioritizing a high-quality user experience",
+      "skill_type": "capability",
+      "domain": "product_development",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_skills_executive",
+      "raw_text_from_jd": "Superior communication skills, written and verbal. Experience presenting to executive leadership",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "quality_software_delivery",
+      "raw_text_from_jd": "Experience delivering quality software that solves business and user needs",
+      "skill_type": "outcome",
+      "domain": "software_product_delivery",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_data_driven",
+      "raw_text_from_jd": "Strong analytical and data-driven mindset; able to dive into financial and operational metrics",
+      "skill_type": "capability",
+      "domain": "data_analytics",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "end_to_end_product_delivery",
+      "raw_text_from_jd": "Experience owning end-to-end product delivery, from discovery through launch and iteration",
+      "skill_type": "capability",
+      "domain": "product_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "bias_for_action_ownership",
+      "raw_text_from_jd": "High bias for action, strong ownership, and comfort operating in ambiguous, fast-moving cross-functional environments",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "user_passion",
+      "raw_text_from_jd": "Passion for your users! You do right by them, always",
+      "skill_type": "cultural_fit",
+      "domain": "user_empathy",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "remote_team_collaboration",
+      "raw_text_from_jd": "Ability to work with remote teams",
+      "skill_type": "capability",
+      "domain": "remote_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "product_experimentation",
+      "raw_text_from_jd": "Experience with hypothesis-based product experimentation",
+      "skill_type": "capability",
+      "domain": "product_experimentation",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "user_research_insights",
+      "raw_text_from_jd": "Experience speaking to actual users, empathizing with them and gathering insights, and translating those insights into meaningful product enhancements",
+      "skill_type": "capability",
+      "domain": "user_research",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "fintech_experience",
+      "raw_text_from_jd": "Experience in the Fintech space",
+      "skill_type": "domain_knowledge",
+      "domain": "fintech",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [
+    "Remote work from Hawaii or Alaska (due to insurance coverage issues)"
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "End-to-end digital home loan consumer experience (digital funnel: discovery, application, completion)",
+    "business_model": "B2C digital lending / fintech national bank",
+    "primary_metrics_inferred": [
+      "Application completion rate / conversion",
+      "Funnel drop-off / friction reduction",
+      "Home loan origination volume",
+      "Member experience / satisfaction"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Data Science",
+      "User Research",
+      "Marketing",
+      "Operations",
+      "Finance",
+      "Risk",
+      "Legal",
+      "Compliance",
+      "Capital Markets",
+      "Executive Leadership"
+    ],
+    "core_responsibilities": [
+      "Define and execute a product vision that brings differentiated innovation to market and helps set a new standard for digital home lending",
+      "Own and prioritize the product backlog for your engineering squad, writing detailed requirements and partnering closely with developers to deliver iteratively",
+      "Own instrumentation and data for your products to drive deep understanding, sharper product decisions, and new growth opportunities",
+      "Lead experimentation to accelerate learning, uncover member insights, and drive measurable customer and business impact",
+      "Identify and launch new functionality that reduces friction, improves application completion, and further differentiates SoFi's home loan offering from competitors",
+      "Collaborate cross-functionally to translate customer needs and market opportunities into product strategy and execution",
+      "Operate in a fast-paced agile environment, making clear trade-offs and decisions"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": true,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "home loans",
+    "digital lending",
+    "product strategy",
+    "experimentation",
+    "conversion",
+    "funnel optimization",
+    "data-driven",
+    "agile",
+    "fintech",
+    "user experience",
+    "roadmap",
+    "growth"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear product ownership described (end-to-end home loan consumer experience)",
+    "Cross-functional scope is broad and well-articulated",
+    "Encourages growth-minded, builder mentality — signals autonomy",
+    "Nice-to-haves list is short and reasonable, lowering the effective bar",
+    "Company is a national bank with large membership base — meaningful product impact"
+  ],
+  "red_flags": [
+    "Compensation range not disclosed in the JD body despite mention of a listed range",
+    "Location/work arrangement is ambiguous — no city, office requirement, or explicit remote policy stated (only Hawaii and Alaska exclusions mentioned)",
+    "Only 3+ years minimum experience for a Senior PM title may indicate title inflation or unclear leveling",
+    "No mention of home loans or mortgage domain experience in requirements — unusual for a specialized lending role"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title and responsibilities, not stated explicitly)",
+      "location.type (inferred as unclear — no office or remote policy stated beyond Hawaii/Alaska exclusion)",
+      "location.remote_us_eligible (inferred true from mention of remote teams and no office requirement stated)",
+      "scope.business_model (inferred from product description and company context)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly in JD)",
+      "compensation.location_pay_differential (inferred from language 'Final base pay offer will be determined based on individual factors such as the candidate's experience, skills, and location')"
+    ],
+    "ambiguities": [
+      "Location policy is entirely unstated — the JD mentions ability to work with remote teams and only excludes Hawaii and Alaska, but does not specify hybrid, onsite, or fully remote. Treated as 'unclear'.",
+      "Compensation range is referenced ('The base pay range for this role is listed below') but the actual numbers are absent from the provided JD content.",
+      "The role title is 'Senior' PM but minimum requirement is only 3+ years, which is low for a senior level — possible leveling ambiguity."
+    ]
+  }
+}

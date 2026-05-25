@@ -1,0 +1,321 @@
+{
+  "company": "Stripe",
+  "role_title": "Strategic Program Manager, Support",
+  "url": "https://stripe.com/jobs/search?gh_jid=7822560",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7822560",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "BizOps / Strategy & Ops",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7+ years of experience in strategy and operations, consulting, and/or program management",
+      "Scope spans highly cross-functional strategic programs across Stripe",
+      "Expected to execute with minimal guidance in high-ambiguity contexts"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_strategy_ops_consulting_pm",
+      "raw_text_from_jd": "7+ years of experience in strategy and operations, consulting, and/or program management",
+      "skill_type": "years_of_experience",
+      "domain": "strategy_operations_program_management",
+      "minimum_value": 7,
+      "unit": "years",
+      "is_combined": true,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_strategy_ops_experience",
+      "raw_text_from_jd": "Experience working in highly cross-functional settings, and in a role that spans strategy, analysis, and operations in a fast-paced environment",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "program_management_end_to_end",
+      "raw_text_from_jd": "Strong program management skills with experience managing end-to-end execution of projects/programs that have transformed their company's operations and delivered quantifiable business impact",
+      "skill_type": "outcome",
+      "domain": "program_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_critical_thinking",
+      "raw_text_from_jd": "Robust critical thinking and analytical skills, with the ability to derive strategic insights from data",
+      "skill_type": "capability",
+      "domain": "data_analysis",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "written_verbal_communication",
+      "raw_text_from_jd": "Excellent written and verbal communication skills, with the the ability to articulate complex topics in an easy-to-consume way to leaders and peers across different teams, such as product, engineering, and sales",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "stakeholder_management",
+      "raw_text_from_jd": "Ability to manage multiple stakeholders with varying priorities and drive creative solutions and commitment to a shared goal",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "tracking_reporting_tools",
+      "raw_text_from_jd": "Experience with tools for tracking and reporting progress such as dashboards, project trackers, or internal documentation platforms",
+      "skill_type": "tool_proficiency",
+      "domain": "program_management_tooling",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "dashboards",
+        "project trackers",
+        "internal documentation platforms"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_process_detail_orientation",
+      "raw_text_from_jd": "An interest in digging into the details of products and processes to improve the experience of our users and internal teams alike",
+      "skill_type": "cultural_fit",
+      "domain": "product_and_process_curiosity",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "autonomy_ambiguity_tolerance",
+      "raw_text_from_jd": "An ability to execute with minimal guidance, and in contexts with a high degree of ambiguity",
+      "skill_type": "cultural_fit",
+      "domain": "autonomy",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "customer_facing_role_experience",
+      "raw_text_from_jd": "Experience working in customer-facing roles (e.g. customer support, sales, partnerships, consulting, professional services, etc.)",
+      "skill_type": "domain_knowledge",
+      "domain": "customer_facing_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "fintech_payments_experience",
+      "raw_text_from_jd": "Experience in fintech, financial services, payments, or regulated technology environments",
+      "skill_type": "domain_knowledge",
+      "domain": "fintech_payments",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "fintech",
+        "financial services",
+        "payments",
+        "regulated technology"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_product_understanding",
+      "raw_text_from_jd": "Experience digging in to understand how new-to-you technical products work, and understanding customer and agent pain points",
+      "skill_type": "capability",
+      "domain": "technical_product_comprehension",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sql_data_analysis_platforms",
+      "raw_text_from_jd": "Familiarity with SQL and data analysis platforms such as Looker, Power BI, or Tableau",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analysis",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Looker",
+        "Power BI",
+        "Tableau"
+      ],
+      "technologies_named": [
+        "SQL"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Support Programs team — strategic initiatives spanning Support, Product, and internal operations serving 1M+ cases/year",
+    "business_model": "B2B financial infrastructure platform",
+    "primary_metrics_inferred": [
+      "User support experience quality",
+      "Operational efficiency and effectiveness of support organization",
+      "Quantifiable business impact from strategic programs"
+    ],
+    "cross_functional_partners": [
+      "Support leadership",
+      "Product",
+      "Engineering",
+      "Sales"
+    ],
+    "core_responsibilities": [
+      "Partner closely with Support leadership and cross-functional stakeholders to scope and execute large projects addressing highest priorities for the Support organization",
+      "Seamlessly transition from strategy to execution by defining objectives, facilitating decision making, translating into operational plans, and ensuring delivery against those plans",
+      "Facilitate alignment, resolve ambiguity, and unblock dependencies across internal teams and cross-functional stakeholders",
+      "Drive joint Support-Product strategy and operating model",
+      "Improve end-to-end experience of priority user groups (large platforms, AI start-ups, Enterprises)",
+      "Drive paid support value delivery"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "program management",
+    "strategy and operations",
+    "cross-functional",
+    "support programs",
+    "customer experience",
+    "stakeholder management",
+    "analytical skills",
+    "operational plans",
+    "ambiguity",
+    "fintech",
+    "payments"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear description of example strategic programs (Support-Product strategy, priority user group experience, paid support)",
+    "Minimum requirements are clearly separated from preferred qualifications",
+    "Explicitly encourages applications from candidates who meet only minimum requirements",
+    "Role has significant strategic ownership and cross-functional influence at Stripe scale (1M+ support cases/year)"
+  ],
+  "red_flags": [
+    "Location, work authorization, and visa sponsorship are entirely absent from the JD — key logistics unknown",
+    "Compensation is not disclosed",
+    "Role scope is broad and potentially diffuse across Support, Product, and internal operations — could indicate undefined ownership"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 7+ years requirement and scope of responsibilities)",
+      "seniority.manages_people (inferred as false; no people management signals in JD)",
+      "scope.business_model (inferred from company description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly stated)",
+      "location.type (set to 'unclear'; no location information provided in JD)",
+      "compensation.equity_mentioned (set to false; not mentioned in JD)"
+    ],
+    "ambiguities": [
+      "No location information is provided in the JD body — work type (remote/hybrid/onsite), city, and work authorization are all unknown.",
+      "The role spans both TPM and Strategy/Ops archetypes; classified as Technical Program Manager with BizOps secondary given emphasis on program execution and operational transformation."
+    ]
+  }
+}

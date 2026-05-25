@@ -1,0 +1,305 @@
+{
+  "company": "RunPod",
+  "role_title": "Senior Product Manager",
+  "url": "https://job-boards.greenhouse.io/runpod/jobs/5112001008",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "5112001008",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "remote-us",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": null,
+    "work_auth": "no-sponsorship",
+    "visa_sponsorship": "no"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Generalist PM with GTM and new market ownership",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of experience in Product Management",
+      "Meaningful ownership over complex, technical products",
+      "Base pay range $175,000–$225,000",
+      "Leading new business line from scratch; cross-functional leadership scope"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "5+ years of experience in Product Management, with meaningful ownership over complex, technical products.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "developer_platform_infrastructure_experience",
+      "raw_text_from_jd": "Experience working with developer platforms, infrastructure products, or DX-focused tools.",
+      "skill_type": "domain_knowledge",
+      "domain": "developer_platforms_and_infrastructure",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strategy_in_ambiguity",
+      "raw_text_from_jd": "Proven ability to define strategy in ambiguous environments and translate it into execution.",
+      "skill_type": "capability",
+      "domain": "product_strategy",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_and_stakeholder_management",
+      "raw_text_from_jd": "Excellent communication, presentation, and stakeholder-management skills.",
+      "skill_type": "capability",
+      "domain": "communication_and_stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "agile_sdlc_knowledge",
+      "raw_text_from_jd": "Strong understanding of modern software development workflows and agile execution.",
+      "skill_type": "domain_knowledge",
+      "domain": "agile_software_development",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "remote_early_stage_adaptability",
+      "raw_text_from_jd": "Ability to operate effectively in an early-stage, fast-moving, remote-first environment.",
+      "skill_type": "cultural_fit",
+      "domain": "startup_environment",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_driven_analytical_skills",
+      "raw_text_from_jd": "Strong analytical and problem-solving skills with a data-driven mindset.",
+      "skill_type": "capability",
+      "domain": "analytics_and_problem_solving",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "background_check",
+      "raw_text_from_jd": "Successful completion of a background check",
+      "skill_type": "credential",
+      "domain": "compliance",
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "new_market_product_launch_experience",
+      "raw_text_from_jd": "Demonstrated experience launching new products or entering new markets strongly preferred.",
+      "skill_type": "outcome",
+      "domain": "go_to_market_and_product_launches",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "software_engineer_distributed_systems",
+      "raw_text_from_jd": "Prior experience as a professional software engineer building distributed systems strongly preferred.",
+      "skill_type": "domain_knowledge",
+      "domain": "distributed_systems_engineering",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "distributed systems"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_ml_platforms_experience",
+      "raw_text_from_jd": "Experience with AI and ML platforms strongly preferred.",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_ml_platforms",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "AI",
+        "ML"
+      ],
+      "industries_named": [
+        "AI infrastructure"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [
+    "Candidates requiring employment visa sponsorship (currently unable to sponsor)"
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "RunPod Anywhere — new business line enabling customers who own GPU/storage infrastructure to orchestrate workloads via RunPod's platform with cloud burst capability",
+    "business_model": "B2B cloud infrastructure / hybrid-cloud platform (SaaS + consumption)",
+    "primary_metrics_inferred": [
+      "Adoption and engagement of RunPod Anywhere",
+      "Revenue impact from new market segment",
+      "Customer-owned infrastructure onboarded to the platform",
+      "Customer outcomes (reliability, performance, developer experience)"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Infrastructure",
+      "UX/UI",
+      "Sales",
+      "Marketing",
+      "Customer Success",
+      "Partnerships",
+      "Legal",
+      "Business teams"
+    ],
+    "core_responsibilities": [
+      "Engage with prospects, customers, and partners who own and operate GPU infrastructure",
+      "Define target customer segments and ICP for RunPod Anywhere",
+      "Develop and execute multi-quarter product strategy and roadmap",
+      "Collaborate with UX/UI teams on developer experience",
+      "Analyze competitors across on-prem orchestration, hybrid cloud, and GPU management platforms",
+      "Maintain backlog and lead agile planning with engineering",
+      "Partner with Sales, Marketing, and Customer Success on go-to-market launch",
+      "Define and track KPIs spanning adoption, engagement, revenue impact, and customer outcomes",
+      "Communicate product strategy and tradeoffs to executive leadership",
+      "Represent RunPod at conferences and community events as thought leader"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      175000,
+      225000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "stock options for all team members",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "RunPod Anywhere",
+    "GPU infrastructure",
+    "cloud infrastructure",
+    "hybrid cloud",
+    "developer platforms",
+    "distributed systems",
+    "AI/ML platforms",
+    "new market entry",
+    "ICP definition",
+    "go-to-market",
+    "agile execution",
+    "product roadmap",
+    "infrastructure product management"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range explicitly stated ($175K–$225K base)",
+    "Equity offered to all team members (stock options)",
+    "Clear product surface and new-market ownership scope (RunPod Anywhere)",
+    "Remote-first organization",
+    "$1,200 home office stipend provided",
+    "Well-funded, fast-growing company founded 2022 with proven infrastructure platform",
+    "High-ownership, greenfield opportunity building a new business line from scratch"
+  ],
+  "red_flags": [
+    "No visa sponsorship available — eliminates non-US-authorized candidates entirely",
+    "Compensation range is wide ($50K spread) and may be narrowed based on location, suggesting potential location-based pay differential",
+    "Several 'strongly preferred' items (new market launches, software engineering background, AI/ML experience) read almost as hard requirements given the role scope but are classified as preferred",
+    "Fully remote with no stated collaboration overlap requirements — timezone expectations unclear for a global team"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range and scope; not explicitly stated)",
+      "scope.business_model (inferred from product description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated verbatim)",
+      "location.type set to remote-us (inferred from 'eligible to work in the United States' and remote-first language; not explicitly labeled remote-us)",
+      "compensation.location_pay_differential (inferred from JD language 'will be narrowed… based on… location')"
+    ],
+    "ambiguities": [
+      "'Demonstrated experience launching new products or entering new markets strongly preferred' and 'Prior experience as a professional software engineer building distributed systems strongly preferred' and 'Experience with AI and ML platforms strongly preferred' all use 'strongly preferred' language, making them borderline hard requirements given the role's scope. Classified as nice_to_haves per schema rules but noted here.",
+      "Location differential: JD states salary range 'may be inclusive of several career levels' and 'narrowed based on… location' — unclear whether this means geographic pay tiers or simply seniority calibration.",
+      "Work authorization: JD states 'we welcome every qualified candidate eligible to work in the United States' which could imply US-only eligibility, but company is described as 'remote-first organization spread globally'. Treated as remote-us eligible with no sponsorship."
+    ]
+  }
+}

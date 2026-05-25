@@ -1,0 +1,285 @@
+{
+  "company": "SoFi",
+  "role_title": "Security Product Lead –  Enterprise & Identity Security",
+  "url": "https://sofi.com/careers/job/7655880003?gh_jid=7655880003",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7655880003",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "AI Product Manager / Security Product Lead",
+  "seniority": {
+    "level": "Senior IC / Principal (Security Product Lead)",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7+ years of experience in cybersecurity, risk management, or technology strategy roles",
+      "Responsible for multi-year strategy and roadmap ownership",
+      "Influences without direct authority across executive and cross-functional stakeholders"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "Bachelor's degree in Computer Science, Cybersecurity, or related discipline.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree",
+        "Computer Science",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "id": "years_cybersecurity_experience",
+      "raw_text_from_jd": "7+ years of experience in cybersecurity, risk management, or technology strategy roles.",
+      "skill_type": "years_of_experience",
+      "domain": "cybersecurity_risk_technology_strategy",
+      "minimum_value": 7,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "iam_pam_enterprise_security_experience",
+      "raw_text_from_jd": "Demonstrated experience in Identity & Access Management (IAM), Privileged Access Management (PAM), Enterprise Security, Data Security, or AI/ML Security domains.",
+      "skill_type": "domain_knowledge",
+      "domain": "identity_access_management_enterprise_security",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "IAM",
+        "PAM",
+        "AI/ML Security",
+        "Data Security"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strategic_roadmap_management",
+      "raw_text_from_jd": "Demonstrated experience building and managing strategic roadmaps tied to measurable outcomes.",
+      "skill_type": "capability",
+      "domain": "product_roadmap_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "security_frameworks_identity_protocols",
+      "raw_text_from_jd": "Strong understanding of security frameworks, identity protocols (e.g., OAuth, SAML, SCIM), and enterprise risk.",
+      "skill_type": "domain_knowledge",
+      "domain": "security_frameworks_identity_protocols",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "OAuth",
+        "SAML",
+        "SCIM"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_ml_security_understanding",
+      "raw_text_from_jd": "Understanding of AI/ML concepts and associated security risks, including data provenance, model integrity, and adversarial machine learning.",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_ml_security",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI/ML",
+        "adversarial machine learning",
+        "model integrity",
+        "data provenance"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_mindset_strategy_execution",
+      "raw_text_from_jd": "Strong product mindset with ability to translate strategy into execution.",
+      "skill_type": "capability",
+      "domain": "product_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "matrixed_org_cross_functional",
+      "raw_text_from_jd": "Experience working in matrixed organizations with cross-functional stakeholders.",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_communication_executive_presentation",
+      "raw_text_from_jd": "Strong analytical, communication, and executive presentation skills.",
+      "skill_type": "capability",
+      "domain": "communication_executive_presentations",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [
+    "Remote work from Hawaii or Alaska"
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Enterprise & Identity Security — covering IAM, PAM, Authentication, AI Security, Data Security, Infrastructure Security",
+    "business_model": "B2C financial services / national bank (mobile-first)",
+    "primary_metrics_inferred": [
+      "Reduction in over-privileged accounts",
+      "Faster access revocation",
+      "IAM coverage completeness",
+      "Access certification completeness",
+      "KPI-based risk reduction outcomes"
+    ],
+    "cross_functional_partners": [
+      "Identity & Access Management (IAM)",
+      "Infrastructure Security",
+      "Engineering",
+      "IT",
+      "HR",
+      "Legal",
+      "Risk",
+      "Compliance",
+      "Product Management",
+      "Data Science",
+      "AI/ML functional leaders"
+    ],
+    "core_responsibilities": [
+      "Develop and maintain a multi-year strategy and roadmap for Enterprise Security, Identity Security (IAM, PAM, Authentication), and AI Security capabilities.",
+      "Align roadmap priorities with enterprise risk objectives, regulatory requirements, and evolving threat landscape.",
+      "Define the value proposition and service model for Enterprise Security and Identity Management capabilities.",
+      "Establish product requirements and roadmaps for Data Security capabilities, including DLP, data classification, data encryption.",
+      "Own the portfolio view of Enterprise, Identity, and AI Security initiatives within the broader security strategy.",
+      "Structure and manage strategic programs required to deliver roadmap objectives.",
+      "Manage cross-functional dependencies across Engineering, IT, HR, Legal, and other stakeholders.",
+      "Monitor industry trends in enterprise architecture security, identity threats, and AI-specific threats.",
+      "Incorporate lessons learned from security audits and penetration tests into roadmap evolution."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": true,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Enterprise Security",
+    "Identity Security",
+    "IAM",
+    "PAM",
+    "AI Security",
+    "Zero Trust",
+    "Data Loss Prevention",
+    "OAuth",
+    "SAML",
+    "SCIM",
+    "Security Roadmap",
+    "Privileged Access",
+    "Model Integrity",
+    "Adversarial Machine Learning",
+    "Security Product Lead"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Role sits within a named team (Security Strategy & Delivery), suggesting established structure",
+    "Clear scope across IAM, PAM, AI Security, and Data Security — not vague",
+    "Explicit mention of measurable outcomes and KPIs as part of role expectations",
+    "SoFi is a national bank with significant regulatory accountability, giving the role real strategic weight",
+    "Role explicitly calls out 'influence without direct authority' — signals IC career path without people management burden"
+  ],
+  "red_flags": [
+    "Compensation range is not disclosed despite the JD stating 'The base pay range for this role is listed below' — range appears missing from the posted content",
+    "Location type is unclear — no city, hybrid, or remote policy specified in the JD body (only Hawaii/Alaska excluded)",
+    "Visa sponsorship status not mentioned",
+    "No information on team size or reporting structure"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 7+ years requirement, multi-year roadmap ownership, and executive-level collaboration signals)",
+      "seniority.manages_people (inferred as false; JD describes 'influence without direct authority')",
+      "scope.business_model (inferred from company description as B2C financial services / national bank)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly labeled as KPIs in JD)",
+      "compensation.location_pay_differential (inferred from JD statement that 'Final base pay offer will be determined based on individual factors such as the candidate's experience, skills, and location')",
+      "location.remote_us_eligible (inferred as true from Hawaii/Alaska exclusion language implying other remote is allowed)"
+    ],
+    "ambiguities": [
+      "Compensation section states 'The base pay range for this role is listed below' but no range appears in the extracted JD content — may have been omitted from the markdown source.",
+      "Location type is not specified; the only geographic constraint mentioned is the exclusion of Hawaii and Alaska for remote work, suggesting remote-US eligibility elsewhere, but no explicit policy (hybrid vs. remote) is stated.",
+      "Visa sponsorship is not addressed anywhere in the JD."
+    ]
+  }
+}

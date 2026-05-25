@@ -1,0 +1,290 @@
+{
+  "company": "Stripe",
+  "role_title": "Design Program Manager, AI",
+  "url": "https://stripe.com/jobs/search?gh_jid=7868564",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7868564",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "AI-focused Design Enablement / Internal Tools Builder",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of experience in design thinking, product design, user experience, design engineering, or program management",
+      "Track record of coaching, teaching, or enabling others",
+      "Expected to operate independently and drive org-level transformation"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_experience_design_or_pm",
+      "raw_text_from_jd": "5+ years of experience in design thinking, product design, user experience, design engineering, or program management, and experience partnering with design teams.",
+      "skill_type": "years_of_experience",
+      "domain": "design_or_program_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "hands_on_ai_tool_building",
+      "raw_text_from_jd": "Demonstrated, hands-on experience building AI-powered tools, agents, automations, or workflows that transformed real work processes (not just using AI as a chatbot — building with it) for designers, researchers, creative teams, or product teams.",
+      "skill_type": "capability",
+      "domain": "ai_tool_building",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI-powered tools",
+        "agents",
+        "automations",
+        "workflows"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "coaching_and_enabling_others",
+      "raw_text_from_jd": "Track record of coaching, teaching, or enabling others — formally or informally — with evidence that people you've helped actually changed how they work.",
+      "skill_type": "outcome",
+      "domain": "coaching_and_enablement",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_skills",
+      "raw_text_from_jd": "Strong written and verbal communication skills, with the ability to explain technical concepts to non-technical audiences and adapt your style to different learners.",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "multi_workstream_management",
+      "raw_text_from_jd": "Comfort working across multiple workstreams and relationships simultaneously (you'll be supporting Design teams at varying stages of their AI journey).",
+      "skill_type": "capability",
+      "domain": "program_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_builder_mindset",
+      "raw_text_from_jd": "\"Product builder\" mindset to solve the \"last mile\" problem: transforming standalone AI experiments into polished, production-ready products that prioritize discoverability and ease of use.",
+      "skill_type": "capability",
+      "domain": "internal_product_development",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "design_tooling_ecosystem_experience",
+      "raw_text_from_jd": "Experience with design and research tooling ecosystems (Figma plugins, design system management, plugin APIs).",
+      "skill_type": "tool_proficiency",
+      "domain": "design_tooling",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Figma"
+      ],
+      "technologies_named": [
+        "plugin APIs",
+        "design system management"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_dev_tools_proficiency",
+      "raw_text_from_jd": "Proficiency with AI development tools and platforms (e.g., Claude, Claude Code, Codex, custom agent frameworks, API integrations, workflow automation tools).",
+      "skill_type": "tool_proficiency",
+      "domain": "ai_development_tools",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Claude",
+        "Claude Code",
+        "Codex"
+      ],
+      "technologies_named": [
+        "custom agent frameworks",
+        "API integrations",
+        "workflow automation tools"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "change_management_experience",
+      "raw_text_from_jd": "Experience with change management, organizational transformation, or large-scale enablement programs.",
+      "skill_type": "domain_knowledge",
+      "domain": "change_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "internal_tools_scaling",
+      "raw_text_from_jd": "Experience building and scaling internal tools, templates, or playbooks that were adopted beyond your immediate team.",
+      "skill_type": "outcome",
+      "domain": "internal_tooling",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "AI-assisted tooling and workflows for Stripe's Design organization (product, brand, marketing designers, researchers, content designers, design engineers)",
+    "business_model": "internal platform / enablement role at a B2B fintech company",
+    "primary_metrics_inferred": [
+      "Number of workflows permanently transformed",
+      "Proportion of Design Stripes defaulting to AI in their work",
+      "Individual and cohort progress against a defined maturity model"
+    ],
+    "cross_functional_partners": [
+      "Design",
+      "Engineering",
+      "Research",
+      "Product",
+      "Legal",
+      "Security",
+      "Procurement"
+    ],
+    "core_responsibilities": [
+      "Identify and document the highest-leverage workflow transformations within Design's day-to-day work",
+      "Partner with designers to imagine AI-powered tools and agents that accelerate velocity",
+      "Build custom tools, agents, automations, and skills tailored to Design's workflows",
+      "Enable and uplevel designers to build and iterate on their own tools over time",
+      "Recognize patterns across Design and systematically scale what works",
+      "Document every tool, playbook, and transformation pattern built",
+      "Track individual and cohort progress against a defined maturity model",
+      "Prepare Designers for an agentic future including multi-agent workflows",
+      "Ensure all tooling meets Stripe's quality, security, and performance expectations",
+      "Source and evaluate vendors; interface with legal, security, and procurement teams"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "AI-powered tools",
+    "design program management",
+    "agents",
+    "automations",
+    "workflow transformation",
+    "design tooling",
+    "Figma",
+    "enablement",
+    "agentic workflows",
+    "internal tools",
+    "maturity model",
+    "coaching",
+    "design systems"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clearly articulated mission and success metrics (workflow transformation, maturity model progression)",
+    "High-impact, novel role building a new team and operating model — significant ownership opportunity",
+    "Explicit focus on building real things ('build in real time alongside the people you support') rather than slide decks",
+    "Cross-functional exposure to design, engineering, research, product, legal, security, and procurement"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "No location or remote/hybrid policy stated — candidates cannot assess relocation requirements",
+    "No visa sponsorship or work authorization guidance provided",
+    "Role is explicitly described as 'a new team building a new operating model' — high ambiguity and potential for scope instability",
+    "Posting and last-updated dates not available — unclear how current this listing is"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 5+ years requirement and scope of independence expected; no level title stated)",
+      "scope.business_model (inferred from Stripe's product description and internal-facing role)",
+      "scope.primary_metrics_inferred (inferred from responsibilities section; not explicitly named as KPIs)",
+      "location.type (set to 'unclear' — no location information provided in JD)",
+      "compensation.equity_mentioned (set to false — no compensation details provided)"
+    ],
+    "ambiguities": [
+      "The JD does not specify a location, office requirement, or remote eligibility. Location.type is set to 'unclear'.",
+      "The role title is 'Design Program Manager' but the responsibilities are heavily technical (building agents, automations, custom tools) — could be classified as Technical Program Manager or a hybrid Technical/Program Manager archetype. Classified as Technical Program Manager with secondary note.",
+      "Minimum requirements include 'experience in design thinking, product design, user experience, design engineering, OR program management' — very broad; it is unclear which domain is truly required vs. acceptable alternative."
+    ]
+  }
+}

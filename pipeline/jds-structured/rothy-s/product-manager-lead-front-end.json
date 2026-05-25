@@ -1,0 +1,336 @@
+{
+  "company": "Rothy's",
+  "role_title": "Product Manager Lead, Front End",
+  "url": "https://jobs.ashbyhq.com/rothys/8777cfad-c763-4fbb-bfbe-ce0f1a0666d8",
+  "ats_provider": "ashby",
+  "ats_job_id": "8777cfad-c763-4fbb-bfbe-ce0f1a0666d8",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Technical Program Manager / People Manager (Director-level PM)",
+  "seniority": {
+    "level": "Director / Lead PM (people manager)",
+    "years_required_min": 8,
+    "years_required_max": null,
+    "manages_people": true,
+    "level_signals": [
+      "8+ years of product management experience, including experience leading or mentoring Product Managers",
+      "Lead Product Manager (Director level) role",
+      "Build, lead, and mentor a team of Product Managers",
+      "Comp range $236K-$287K base, consistent with Director-level at a mid-size DTC brand"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "8+ years of product management experience, including experience leading or mentoring Product Managers",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 8,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ecommerce_product_strategy",
+      "raw_text_from_jd": "Proven experience owning product strategy across e-commerce, marketing technology, retail, or omni channel platforms",
+      "skill_type": "domain_knowledge",
+      "domain": "ecommerce_and_omnichannel",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "e-commerce",
+        "retail"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_facing_product_delivery",
+      "raw_text_from_jd": "Strong track record of delivering customer-facing and operational products that drive measurable business impact",
+      "skill_type": "outcome",
+      "domain": "product_delivery",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_team_management",
+      "raw_text_from_jd": "Experience managing and scaling cross-functional teams across engineering, UX/design, and QA",
+      "skill_type": "capability",
+      "domain": "people_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ecommerce_platform_familiarity",
+      "raw_text_from_jd": "Deep familiarity with e-commerce platforms, CMS, CRM, marketing automation tools, and analytics platforms (e.g., Google Analytics, Adobe Analytics, or similar)",
+      "skill_type": "tool_proficiency",
+      "domain": "ecommerce_martech_analytics",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Google Analytics",
+        "Adobe Analytics"
+      ],
+      "technologies_named": [
+        "CMS",
+        "CRM",
+        "marketing automation"
+      ],
+      "industries_named": [
+        "e-commerce"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_journey_omnichannel_knowledge",
+      "raw_text_from_jd": "Strong understanding of customer journeys, conversion funnels, omnichannel experiences, and digital marketing ecosystems",
+      "skill_type": "domain_knowledge",
+      "domain": "omnichannel_digital_marketing",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "retail",
+        "e-commerce"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "pm_best_practices",
+      "raw_text_from_jd": "Experience establishing product management best practices, including roadmapping, prioritization, and discovery frameworks",
+      "skill_type": "capability",
+      "domain": "product_management_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "backlog_management_tools",
+      "raw_text_from_jd": "Expertise in writing and overseeing product requirements, user stories, and backlog management in tools like Jira, Asana, or similar",
+      "skill_type": "tool_proficiency",
+      "domain": "product_requirements_and_backlog",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "Jira",
+        "Asana"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "agile_scrum",
+      "raw_text_from_jd": "Comfort operating in Agile or Scrum environments at scale",
+      "skill_type": "capability",
+      "domain": "agile_delivery",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "Agile",
+        "Scrum"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_skills",
+      "raw_text_from_jd": "Strong analytical skills with the ability to interpret complex data and translate insights into strategic action",
+      "skill_type": "capability",
+      "domain": "data_analysis",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "Bachelor's degree in a relevant field (business, technology, or similar)",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree"
+      ]
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "mba_or_equivalent",
+      "raw_text_from_jd": "MBA or equivalent experience is a plus",
+      "skill_type": "credential",
+      "domain": "education",
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "MBA"
+      ]
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Ecommerce/Marketing, Retail, and Wholesale digital and omnichannel product domains",
+    "business_model": "DTC e-commerce + retail (omnichannel), sustainable fashion brand",
+    "primary_metrics_inferred": [
+      "Revenue and conversion optimization",
+      "Digital customer journey performance",
+      "Roadmap delivery and product team velocity",
+      "Omnichannel experience quality"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Customer Experience (CX)",
+      "Marketing",
+      "Retail",
+      "Wholesale",
+      "UX/Design",
+      "QA",
+      "Executive stakeholders"
+    ],
+    "core_responsibilities": [
+      "Define and own the product vision, strategy, and multi-year roadmap across Ecommerce/Marketing, Retail, and Wholesale domains",
+      "Build, lead, and mentor a team of Product Managers",
+      "Serve as the central leadership hub between Engineering, CX, Marketing, Retail, Wholesale, and executive stakeholders",
+      "Oversee multiple cross-functional squads embedded within business groups",
+      "Guide translation of business needs and customer insights into product requirements, user stories, and success metrics",
+      "Establish prioritization frameworks aligned to business value, customer impact, and technical feasibility",
+      "Drive end-to-end product delivery from discovery through launch, optimization, and iteration",
+      "Leverage data, analytics, and experimentation frameworks to inform decision-making",
+      "Scale product management processes, tools, and operating models"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      236000,
+      287000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": "additional discretionary bonuses/incentives mentioned but no equity explicitly stated",
+    "location_pay_differential": false,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "product manager lead",
+    "ecommerce",
+    "omnichannel",
+    "retail",
+    "marketing technology",
+    "roadmap",
+    "cross-functional",
+    "people management",
+    "conversion optimization",
+    "agile",
+    "experimentation",
+    "customer journey",
+    "Director level"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed and competitive ($236K-$287K base)",
+    "Clear Director-level scope and title explicitly stated in JD body",
+    "Well-defined cross-functional ownership across Ecommerce, Retail, and Wholesale",
+    "Mentions people management responsibilities explicitly — avoids vague 'lead' title inflation",
+    "Sustainability-forward brand with clear product mission"
+  ],
+  "red_flags": [
+    "Onsite San Francisco only — no remote or hybrid option stated, limiting candidate pool",
+    "Role title says 'Front End' but JD body focuses on omnichannel/e-commerce strategy; the 'Front End' framing may be misleading or narrower than described",
+    "Equity not mentioned despite Director-level comp range — unusual omission at this seniority",
+    "Visa sponsorship and work authorization not addressed anywhere in JD"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "location.type (inferred as onsite — no hybrid or remote language in JD body)",
+      "scope.team_size_estimate (not stated; left as 'unclear')",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly listed in JD)",
+      "scope.business_model (inferred from company description and product domains)",
+      "seniority.level (inferred from 'Director level' label in JD body and comp range)"
+    ],
+    "ambiguities": [
+      "Role title is 'Product Manager Lead, Front End' but the JD body never mentions 'front end' engineering or UI-layer specificity — responsibilities cover full omnichannel stack including Retail and Wholesale; 'Front End' in the title may refer to customer-facing surfaces rather than frontend engineering",
+      "Compensation note mentions 'additional discretionary bonuses/incentives' but no equity (RSUs/options) is explicitly offered — unclear whether equity is part of the package at this level",
+      "Location type not explicitly stated as onsite vs. hybrid; 'San Francisco, CA' is the only location listed with no remote language present"
+    ]
+  }
+}

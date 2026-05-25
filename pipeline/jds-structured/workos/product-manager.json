@@ -1,0 +1,310 @@
+{
+  "company": "WorkOS",
+  "role_title": "Product Manager",
+  "url": "https://jobs.ashbyhq.com/workos/5550ddd5-c3eb-459a-aa4d-8b1216346d88",
+  "ats_provider": "ashby",
+  "ats_job_id": "5550ddd5-c3eb-459a-aa4d-8b1216346d88",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "remote-us",
+    "cities_listed": [
+      "San Francisco, CA",
+      "New York, NY"
+    ],
+    "remote_us_eligible": true,
+    "office_time_required": "willingness to travel roughly once a month for team or customer meetings",
+    "work_auth": "no-sponsorship",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Generalist PM with developer-tools / B2B SaaS focus",
+  "seniority": {
+    "level": "Mid to Senior IC",
+    "years_required_min": null,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "Full end-to-end ownership of product areas",
+      "Autonomy described as 'rare at most companies'",
+      "Expected to contribute to broader product strategy and roadmap as company scales",
+      "0-to-1 experience and independent prioritization calls expected"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "b2b_saas_experience",
+      "raw_text_from_jd": "B2B SaaS experience — you understand the developer or enterprise buyer and have shipped products for them",
+      "skill_type": "domain_knowledge",
+      "domain": "B2B SaaS",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "B2B SaaS"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "auth_identity_or_devtools_domain",
+      "raw_text_from_jd": "One of: deep domain knowledge in auth, identity, or developer tooling, or a strong track record building developer-facing products specifically",
+      "skill_type": "domain_knowledge",
+      "domain": "auth / identity / developer tooling",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "auth",
+        "identity"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "zero_to_one_experience",
+      "raw_text_from_jd": "Real 0-to-1 experience — you've started something from scratch, not just inherited a roadmap",
+      "skill_type": "outcome",
+      "domain": "product_launches",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_obsession",
+      "raw_text_from_jd": "Customer obsession in practice, not just on a resume — you talk to users constantly and it visibly shapes what you build",
+      "skill_type": "capability",
+      "domain": "customer_discovery",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "bias_to_action",
+      "raw_text_from_jd": "Bias to action — you move fast, make decisions without perfect information, and iterate rather than waiting for consensus",
+      "skill_type": "cultural_fit",
+      "domain": "decision_making",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_collaboration",
+      "raw_text_from_jd": "Strong cross-functional collaboration — you've worked closely with design, engineering, and marketing, and you know how to bring those relationships to get the best work out of a team",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "us_based",
+      "raw_text_from_jd": "Based in the United States — SF or NYC is a plus but not required",
+      "skill_type": "capability",
+      "domain": "location_eligibility",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [
+        "United States"
+      ],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "travel_willingness",
+      "raw_text_from_jd": "Willingness to travel roughly once a month for team or customer meetings",
+      "skill_type": "capability",
+      "domain": "travel",
+      "minimum_value": null,
+      "unit": null,
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "pricing_packaging",
+      "raw_text_from_jd": "Experience with pricing and packaging decisions — understanding how product and monetization interact",
+      "skill_type": "domain_knowledge",
+      "domain": "pricing_and_packaging",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "plg_or_developer_gtm",
+      "raw_text_from_jd": "Background at a company with a PLG motion or developer-first go-to-market",
+      "skill_type": "domain_knowledge",
+      "domain": "product-led growth / developer GTM",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sf_or_nyc_location",
+      "raw_text_from_jd": "Based in the United States — SF or NYC is a plus but not required",
+      "skill_type": "capability",
+      "domain": "location_preference",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [
+        "San Francisco, CA",
+        "New York, NY"
+      ],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Authentication, identity, authorization, and developer-facing enterprise infrastructure products",
+    "business_model": "developer-first B2B SaaS / API platform",
+    "primary_metrics_inferred": [
+      "Feature adoption and usage by developer customers",
+      "Customer-defined success metrics per shipped product area",
+      "Enterprise customer acquisition and retention"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Marketing",
+      "Sales",
+      "GTM"
+    ],
+    "core_responsibilities": [
+      "Own specific product areas with full accountability for outcomes — from discovery through delivery and iteration",
+      "Talk to customers regularly and synthesize what you learn into clear, prioritized product direction",
+      "Partner tightly with engineering and design to move from concept to shipped product quickly",
+      "Define success metrics and use them to evaluate whether what you shipped actually worked",
+      "Work cross-functionally with marketing, sales, and GTM to bring new features and products to market effectively",
+      "Identify 0-to-1 opportunities — things that don't exist yet but should — and drive them from blank page to launch",
+      "Make hard prioritization calls with limited information and defend them clearly",
+      "Contribute to the broader product strategy and roadmap as the company scales"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "Substantial equity grants",
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "B2B SaaS",
+    "developer tools",
+    "authentication",
+    "identity",
+    "authorization",
+    "0-to-1",
+    "enterprise ready",
+    "product-led growth",
+    "developer-facing",
+    "cross-functional",
+    "customer discovery",
+    "product roadmap"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Transparent about company stage: $100M Series C, $2B valuation with named investors",
+    "Notable customer logos: OpenAI, Cursor, Perplexity, Vercel, Plaid — strong signal of product-market fit",
+    "Explicit about genuine scope and autonomy being 'rare at most companies'",
+    "Fully remote within the US with no hard city requirement",
+    "Equity described as 'substantial'",
+    "Honest about what the team culture demands (high-caliber engineers with product instincts)"
+  ],
+  "red_flags": [
+    "No compensation range disclosed despite 'Competitive pay' language",
+    "Visa sponsorship status not addressed anywhere in the JD — unclear",
+    "Travel expectation (~once a month) is a logistics requirement not immediately obvious from remote-first framing",
+    "Domain requirement ('One of: deep domain knowledge in auth, identity, or developer tooling, or a strong track record building developer-facing products specifically') uses 'OR' structure which adds some ambiguity about what's sufficient"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from ownership scope, autonomy language, and 0-to-1 expectations; no years stated)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not directly listed in JD)",
+      "scope.business_model (inferred from product description and customer base)",
+      "location.work_auth (inferred as no-sponsorship from 'Based in the United States' requirement with no mention of sponsorship)",
+      "location.visa_sponsorship (not mentioned; marked unclear)"
+    ],
+    "ambiguities": [
+      "The domain requirement uses an OR clause: 'deep domain knowledge in auth, identity, or developer tooling, OR a strong track record building developer-facing products specifically' — it is unclear whether just developer-facing track record (without auth/identity knowledge) is truly sufficient or a lower bar.",
+      "'Based in the United States' is listed under 'Logistics' alongside nice-to-have city preferences (SF/NYC), making it unclear whether US residence is a hard requirement or a strong preference. Treated as hard here.",
+      "Visa sponsorship is completely unaddressed. Work auth classified as no-sponsorship based on US-only framing, but this is inferred."
+    ]
+  }
+}

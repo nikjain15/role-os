@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" font-family="Inter,system-ui,sans-serif">
+  <rect width="1200" height="630" fill="#f6f6f4"/>
+
+  <!-- Mark + wordmark -->
+  <g transform="translate(80, 80)">
+    <rect width="48" height="48" rx="10" fill="#0a0a0a"/>
+    <text x="24" y="33" font-size="20" font-weight="800" letter-spacing="-0.04em" fill="#ffffff" text-anchor="middle">RO</text>
+    <text x="64" y="33" font-size="22" font-weight="600" fill="#0a0a0a">RoleOS</text>
+  </g>
+
+  <!-- Eyebrow -->
+  <text x="80" y="240" font-size="18" font-weight="600" letter-spacing="2.2" fill="#5a5a5a">THE OPERATING SYSTEM FOR YOUR JOB SEARCH</text>
+
+  <!-- Headline -->
+  <text x="80" y="320" font-size="72" font-weight="700" letter-spacing="-2" fill="#0a0a0a">Run your job search</text>
+  <text x="80" y="400" font-size="72" font-weight="700" letter-spacing="-2" fill="#0a0a0a">like a real product.</text>
+
+  <!-- Sub -->
+  <text x="80" y="475" font-size="22" fill="#2a2a2a">For senior PMs targeting AI-native companies. Built by an AI PM,</text>
+  <text x="80" y="505" font-size="22" fill="#2a2a2a">dogfooded live, tracked end-to-end.</text>
+
+  <!-- Live badge -->
+  <g transform="translate(80, 545)">
+    <rect x="0" y="0" width="160" height="36" rx="18" fill="#0a0a0a"/>
+    <circle cx="20" cy="18" r="4" fill="#10b981"/>
+    <text x="32" y="23" font-size="12" font-weight="600" letter-spacing="1.4" fill="#ffffff">LIVE CASE STUDY</text>
+  </g>
+</svg>

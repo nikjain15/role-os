@@ -1,0 +1,435 @@
+{
+  "company": "Stripe",
+  "role_title": "Regulatory Reporting Program Manager, Stablecoin",
+  "url": "https://stripe.com/jobs/search?gh_jid=7650177",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7650177",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Regulatory / Compliance Program Manager (Stablecoin / Digital Assets)",
+  "seniority": {
+    "level": "Senior IC / Mid-Senior Program Manager",
+    "years_required_min": 4,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "4+ years of experience leading delivery of an ongoing regulatory reporting program",
+      "Primary point of contact for regulatory reporting during U.S. regulatory exams",
+      "Owns end-to-end program scope, governance, timelines, and accountability"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_regulatory_reporting_program",
+      "raw_text_from_jd": "4+ years of experience leading the delivery of an ongoing regulatory reporting program within a regulated financial services environment, ideally supporting stablecoin issuance, payments, or custody-related activities.",
+      "skill_type": "years_of_experience",
+      "domain": "regulatory_reporting",
+      "minimum_value": 4,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "financial services",
+        "stablecoin",
+        "payments",
+        "custody"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "regulated financial services"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "us_stablecoin_regulatory_knowledge",
+      "raw_text_from_jd": "Strong understanding of U.S. compliance and regulatory obligations applicable to stablecoins, including evolving federal and state frameworks (including, but not limited to, the GENIUS Act and related Treasury, banking, and payments guidance).",
+      "skill_type": "domain_knowledge",
+      "domain": "stablecoin_regulatory_compliance",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "stablecoins"
+      ],
+      "industries_named": [
+        "payments",
+        "banking",
+        "fintech"
+      ],
+      "geographies_named": [
+        "United States"
+      ],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "us_payment_stablecoin_landscape_regulator_engagement",
+      "raw_text_from_jd": "Excellent working knowledge of the U.S. payment stablecoin regulatory landscape, with experience engaging directly with U.S. federal regulators (e.g., OCC, Treasury) and state regulators on regulatory reporting, data submissions, or supervisory requests.",
+      "skill_type": "domain_knowledge",
+      "domain": "stablecoin_regulatory_landscape_and_regulator_engagement",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "stablecoins"
+      ],
+      "industries_named": [
+        "payments",
+        "fintech"
+      ],
+      "geographies_named": [
+        "United States"
+      ],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "complex_data_environments_onchain_offchain",
+      "raw_text_from_jd": "Demonstrated ability to work across complex data environments, including navigating on-chain and off-chain data sources, internal ledgers, and third-party systems to produce accurate, cohesive, and regulator-ready reporting deliverables.",
+      "skill_type": "capability",
+      "domain": "data_management_blockchain",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "on-chain data",
+        "off-chain data",
+        "internal ledgers"
+      ],
+      "industries_named": [
+        "financial services",
+        "digital assets"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "financial_statements_reserve_data_analysis",
+      "raw_text_from_jd": "Experience reading, analyzing, and compiling financial statements, reserve-related data, transaction-level reporting, and other financial regulatory reports relevant to stablecoin and payments activity.",
+      "skill_type": "capability",
+      "domain": "financial_reporting_analysis",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "stablecoins"
+      ],
+      "industries_named": [
+        "payments",
+        "financial services"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "financial_services_digital_assets_background",
+      "raw_text_from_jd": "Background in financial services with direct exposure to stablecoins, digital assets, payments, e-money, or other money services business activities.",
+      "skill_type": "domain_knowledge",
+      "domain": "financial_services_digital_assets",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "stablecoins",
+        "digital assets",
+        "e-money"
+      ],
+      "industries_named": [
+        "financial services",
+        "payments",
+        "fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "money services business"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_program_execution",
+      "raw_text_from_jd": "Demonstrated success executing complex, cross-functional programs in fast-growing organizations, with an emphasis on building scalable, repeatable regulatory reporting processes.",
+      "skill_type": "outcome",
+      "domain": "program_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_skills_regulatory_data_judgment",
+      "raw_text_from_jd": "Strong analytical skills and judgment, with the ability to quickly understand novel or ambiguous regulatory and data challenges and drive balanced, risk-aware solutions.",
+      "skill_type": "capability",
+      "domain": "analytical_reasoning",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "independent_operation_fast_paced",
+      "raw_text_from_jd": "Ability to operate independently and efficiently in a fast-paced, high-volume, and evolving regulatory environment.",
+      "skill_type": "cultural_fit",
+      "domain": "autonomous_execution",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_collaboration",
+      "raw_text_from_jd": "Proven ability to collaborate effectively across Compliance, Legal, Finance, Engineering, Data, Product, and Accounting teams.",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "culture_of_compliance_mindset",
+      "raw_text_from_jd": "A strong \"culture of compliance\" mindset, with the ability to translate regulatory expectations into practical, business-aligned execution without impeding responsible growth.",
+      "skill_type": "cultural_fit",
+      "domain": "compliance_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "stablecoins_digital_assets_fintech_experience",
+      "raw_text_from_jd": "Experience with stablecoins, digital assets, payments, or fintech platforms",
+      "skill_type": "domain_knowledge",
+      "domain": "stablecoins_digital_assets_fintech",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "stablecoins",
+        "digital assets"
+      ],
+      "industries_named": [
+        "payments",
+        "fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "regulatory_reporting_banks_msb",
+      "raw_text_from_jd": "Familiarity with regulatory reporting for banks, trust companies, payment institutions, or money services businesses",
+      "skill_type": "domain_knowledge",
+      "domain": "bank_msb_regulatory_reporting",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "banking",
+        "payments"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "banks",
+        "trust companies",
+        "payment institutions",
+        "money services businesses"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "call_reports_ffiec",
+      "raw_text_from_jd": "Experience working on Call Reports FFIEC041 and FIEC031",
+      "skill_type": "tool_proficiency",
+      "domain": "bank_call_reports",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "FFIEC041",
+        "FIEC031"
+      ],
+      "technologies_named": [],
+      "industries_named": [
+        "banking"
+      ],
+      "geographies_named": [
+        "United States"
+      ],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "regulatory_exams_audits_support",
+      "raw_text_from_jd": "Experience supporting regulatory exams, audits, or supervisory reviews",
+      "skill_type": "capability",
+      "domain": "regulatory_exam_support",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "financial services"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "reporting_automation_data_pipelines",
+      "raw_text_from_jd": "Exposure to reporting automation, data pipelines, or reporting tools",
+      "skill_type": "tool_proficiency",
+      "domain": "reporting_automation_data_engineering",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "data pipelines",
+        "reporting automation"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "U.S. regulatory reporting program for stablecoin and digital asset activities within Stripe's Global Regulatory Reporting team (NORAM focus)",
+    "business_model": "financial infrastructure platform; regulated payments and financial services, including stablecoin issuance and custody",
+    "primary_metrics_inferred": [
+      "Timely and accurate submission of regulatory filings",
+      "Exam and audit readiness",
+      "Data quality and reconciliation rates",
+      "Regulatory reporting program coverage across all applicable U.S. requirements"
+    ],
+    "cross_functional_partners": [
+      "Legal",
+      "Compliance",
+      "Accounting",
+      "Business/Product",
+      "Data Analytics",
+      "Engineering",
+      "Finance"
+    ],
+    "core_responsibilities": [
+      "Own end-to-end U.S. regulatory reporting program for digital assets including stablecoin related financial activities",
+      "Interpret U.S. regulatory reporting requirements applicable to stablecoins, digital assets, payments, and custody",
+      "Manage the full regulatory reporting lifecycle from data sourcing through submission",
+      "Ensure regulatory reports accurately reflect stablecoin-specific activities and risks",
+      "Design and maintain a robust regulatory reporting control framework",
+      "Partner with Engineering, Data, Finance, Compliance and Legal to improve data lineage, transparency, and automation",
+      "Own regulatory reporting change management for new or evolving stablecoin regulations",
+      "Develop and maintain regulator-ready documentation",
+      "Serve as primary point of contact for regulatory reporting during U.S. regulatory exams, audits, and inquiries"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "stablecoin",
+    "regulatory reporting",
+    "digital assets",
+    "GENIUS Act",
+    "OCC",
+    "Treasury",
+    "on-chain",
+    "off-chain",
+    "payments",
+    "custody",
+    "compliance",
+    "FFIEC",
+    "data lineage",
+    "supervisory review",
+    "program manager"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Highly specific role with clear ownership (end-to-end U.S. regulatory reporting for stablecoins)",
+    "Stablecoin regulatory space is high-growth and strategically important given emerging federal frameworks (GENIUS Act)",
+    "Role works directly with regulators (OCC, Treasury), indicating meaningful external impact",
+    "Cross-functional scope with Engineering, Legal, Finance signals real organizational influence",
+    "Stripe explicitly encourages applicants who meet minimum requirements to apply"
+  ],
+  "red_flags": [
+    "No location, compensation, or visa sponsorship information disclosed in JD",
+    "Minimum requirements overlap significantly with preferred qualifications (e.g., stablecoin experience appears in both), creating ambiguity about true thresholds",
+    "GENIUS Act reference is to legislation still evolving at time of posting, suggesting regulatory scope may change rapidly",
+    "No mention of team size or reporting structure"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 4+ years minimum and program ownership scope; not explicitly stated)",
+      "seniority.manages_people (inferred as false; no people management language in JD)",
+      "scope.business_model (inferred from company description and product context)",
+      "scope.primary_metrics_inferred (not stated in JD; inferred from responsibilities)",
+      "location.type (set to 'unclear'; no location information in JD body)",
+      "compensation.equity_mentioned (set to false; no compensation details in JD)"
+    ],
+    "ambiguities": [
+      "Stablecoin experience appears in both minimum requirements ('ideally supporting stablecoin issuance') and preferred qualifications ('Experience with stablecoins, digital assets, payments, or fintech platforms'). The minimum phrasing uses 'ideally' which could soften it to preferred; classified as hard based on overall context and repeated emphasis throughout the JD.",
+      "Location is not stated anywhere in the JD; location.type set to 'unclear' and work_auth/visa_sponsorship set to 'unclear'.",
+      "FIEC031 appears to be a typo for FFIEC031 in the JD; reproduced verbatim as required."
+    ]
+  }
+}

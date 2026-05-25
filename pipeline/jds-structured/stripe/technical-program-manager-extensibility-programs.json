@@ -1,0 +1,248 @@
+{
+  "company": "Stripe",
+  "role_title": "Technical Program Manager, Extensibility Programs",
+  "url": "https://stripe.com/jobs/search?gh_jid=7749540",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7749540",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Platform / Developer Experience TPM",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of technical program management experience",
+      "Drives cross-org decisions and owns critical path to major launches",
+      "Sets program strategy in partnership with DEeP leadership"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_tpm_experience",
+      "raw_text_from_jd": "5+ years of technical program management experience with demonstrated success in driving complex cross organizational programs.",
+      "skill_type": "years_of_experience",
+      "domain": "technical_program_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_sense_enterprise",
+      "raw_text_from_jd": "Strong product sense and ability to understand enterprise customer needs",
+      "skill_type": "capability",
+      "domain": "product_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_communication",
+      "raw_text_from_jd": "Demonstrated ability to communicate with precision and credibility across engineering, product, and executive audiences, translating complex technical trade-offs into strategic decisions, and driving alignment.",
+      "skill_type": "capability",
+      "domain": "stakeholder_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_leadership",
+      "raw_text_from_jd": "Demonstrated ability to lead and align cross-functional teams — driving decisions, resolving conflict, and building consensus across organizations with competing priorities",
+      "skill_type": "capability",
+      "domain": "cross_functional_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "program_delivery_track_record",
+      "raw_text_from_jd": "Proven track record of successful program delivery in complex technical environments",
+      "skill_type": "outcome",
+      "domain": "program_delivery",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "Bachelor's degree or equivalent practical experience",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": true,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree"
+      ]
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "pm_or_product_ops_background",
+      "raw_text_from_jd": "Background in product management or product operations",
+      "skill_type": "domain_knowledge",
+      "domain": "product_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "developer_platform_experience",
+      "raw_text_from_jd": "Experience with developer platforms, API products, or payment systems",
+      "skill_type": "domain_knowledge",
+      "domain": "developer_platforms",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "API products"
+      ],
+      "industries_named": [
+        "payments"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "10+ cross-functional teams",
+    "surface": "Extensibility platform — Scripts, Custom Objects, and Workflows within the Developer Experience & Product Platform (DEeP) organization",
+    "business_model": "B2B developer platform / financial infrastructure",
+    "primary_metrics_inferred": [
+      "Extensibility program health and delivery",
+      "Successful launch of Scripts, Custom Objects, and Workflows",
+      "Customer retention and TAM expansion via extensibility",
+      "Cross-team alignment and roadmap execution"
+    ],
+    "cross_functional_partners": [
+      "Script Platform",
+      "Custom Objects",
+      "Apps",
+      "SDK",
+      "Observability",
+      "DevEx",
+      "Versioning",
+      "ProServ",
+      "Partnerships",
+      "DEeP leadership"
+    ],
+    "core_responsibilities": [
+      "Drive cross-org decisions across DRIs in Script Platform, Custom Objects, Apps, SDK, Observability, DevEx, and Versioning",
+      "Own the critical path to major launches — proactively shaping scope, driving descope decisions, and negotiating trade-offs across teams",
+      "Influence and shape product and engineering roadmaps at the program level",
+      "Support ProServ and Partnerships by surfacing their requirements into the roadmap",
+      "Set program strategy in partnership with DEeP leadership"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "technical program management",
+    "extensibility",
+    "developer platform",
+    "cross-functional",
+    "Scripts",
+    "Custom Objects",
+    "Workflows",
+    "API",
+    "TypeScript",
+    "platform engineering",
+    "DEeP",
+    "program strategy",
+    "roadmap",
+    "Stripe"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clearly described product surface and strategic importance of the role within DEeP",
+    "Newly created, high-impact role with explicit ownership of a flagship program",
+    "Preferred qualifications are explicitly positioned as bonuses, not requirements — signals openness in hiring bar",
+    "JD describes concrete primitives (Scripts, Custom Objects, Workflows) giving a clear sense of scope"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "No location or remote/hybrid/onsite policy stated anywhere in the JD",
+    "No visa sponsorship or work authorization information provided",
+    "Posting date not available — unclear how fresh the role is"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years required, scope of responsibilities, and strategic ownership)",
+      "scope.business_model (inferred from company description and product context)",
+      "scope.primary_metrics_inferred (inferred from responsibilities and program goals; not stated in JD)",
+      "scope.team_size_estimate (inferred from '10+ cross-functional teams' mentioned in JD body)",
+      "location.type (set to 'unclear' — no location information in JD)",
+      "compensation.equity_mentioned (set to false — not mentioned in JD)"
+    ],
+    "ambiguities": [
+      "Location is entirely absent from the JD body — no city, no remote/hybrid/onsite policy is specified. Set to 'unclear'.",
+      "Work authorization and visa sponsorship are not mentioned anywhere in the JD."
+    ]
+  }
+}

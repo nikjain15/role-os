@@ -1,0 +1,302 @@
+{
+  "company": "SumUp",
+  "role_title": "Growth Account Manager",
+  "url": "https://sumup.com/careers/positions/8496755002?gh_jid=8496755002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8496755002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [
+      "Greenwood Village, CO"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "Monday-Friday in-office",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Growth (non-PM)",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Account Manager / Direct Sales",
+  "seniority": {
+    "level": "Junior to Mid-level IC",
+    "years_required_min": 1,
+    "years_required_max": 3,
+    "manages_people": false,
+    "level_signals": [
+      "1-3 years+ previous experience in customer success, sales, account management",
+      "Base salary $45K + uncapped commissions OTE ~$60-70K, consistent with junior/mid-level individual contributor"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_experience_account_management",
+      "raw_text_from_jd": "Have 1-3 years+ previous experience in customer success, sales, account management, relationship/partner management or client services (SMB)",
+      "skill_type": "years_of_experience",
+      "domain": "account_management_or_sales",
+      "minimum_value": 1,
+      "unit": "years",
+      "is_combined": false,
+      "qualifier": "SMB context",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "SMB"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "salesforce_experience",
+      "raw_text_from_jd": "You have significant Salesforce experience - specifically with SF case management",
+      "skill_type": "tool_proficiency",
+      "domain": "crm",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Salesforce"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sales_track_record",
+      "raw_text_from_jd": "Strong desire to achieve top results with a personable, positive \"can-do\" demeanor with a consistent record of success in a sales environment.",
+      "skill_type": "outcome",
+      "domain": "sales",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_skills_english",
+      "raw_text_from_jd": "Excellent written/verbal communication skills in English, and Spanish is a plus",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "onsite_monday_friday",
+      "raw_text_from_jd": "Want to be in the office Mon - Fri 🥳",
+      "skill_type": "cultural_fit",
+      "domain": "work_arrangement",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "multitasking_prioritization",
+      "raw_text_from_jd": "You're able to appropriately manage multiple tasks with varying levels of complexity and priority",
+      "skill_type": "capability",
+      "domain": "task_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "upsell_sales_cycle_management",
+      "raw_text_from_jd": "Successfully upsell merchants with additional products that will help fuel growth to their business and properly manage the entire sales cycle within our Salesforce system",
+      "skill_type": "capability",
+      "domain": "upselling_and_sales_cycle",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Salesforce"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_empathy_communication",
+      "raw_text_from_jd": "You love to communicate while being empathetic, concise, and patient with our customers",
+      "skill_type": "cultural_fit",
+      "domain": "customer_success",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "spanish_language",
+      "raw_text_from_jd": "Excellent written/verbal communication skills in English, and Spanish is a plus",
+      "skill_type": "capability",
+      "domain": "language_skills",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "payments_industry_knowledge",
+      "raw_text_from_jd": "Expand your knowledge about the payments industry, as you closely work together with other departments within the company",
+      "skill_type": "domain_knowledge",
+      "domain": "payments_industry",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "payments",
+        "fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "small_business_passion",
+      "raw_text_from_jd": "A love for small business and merchant success",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "SMB"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Direct sales and account management for SumUp merchants; upselling products and managing merchant relationships",
+    "business_model": "B2SMB fintech — payment solutions and POS products sold to small businesses",
+    "primary_metrics_inferred": [
+      "Revenue from upsells",
+      "Merchant retention",
+      "Commission attainment vs. OTE"
+    ],
+    "cross_functional_partners": [
+      "Marketing",
+      "Save Desk",
+      "CX",
+      "Product",
+      "Sales",
+      "Logistics",
+      "Risk & Compliance"
+    ],
+    "core_responsibilities": [
+      "Serve as an advisor and SumUp brand ambassador to merchants",
+      "Upsell merchants with additional products and manage the entire sales cycle within Salesforce",
+      "Mentor, empower and educate merchants on SumUp's suite of products",
+      "Consistently meet and exceed success metrics including revenue and retention",
+      "Connect with customers through phone, email, and chat",
+      "Research and resolve merchant inquiries and issues",
+      "Identify opportunities for merchants to consume additional products and services",
+      "Contribute to scalability by continuously optimizing processes and creating new support content",
+      "Report on themed merchant issues or opportunities with products",
+      "Identify and recommend areas to improve efficiency and assist global teams with upsell launches"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      45000,
+      45000
+    ],
+    "total_comp_estimate_usd": [
+      60000,
+      70000
+    ],
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "account management",
+    "upsell",
+    "Salesforce",
+    "SMB",
+    "merchant success",
+    "direct sales",
+    "customer success",
+    "payments",
+    "retention",
+    "fintech"
+  ],
+  "buzzword_density": "low",
+  "green_flags": [
+    "Compensation fully disclosed: base $45K + uncapped commissions, OTE ~$60-70K",
+    "Strong benefits package: medical, dental, vision, 401K match, paid parental leave, sabbatical",
+    "22 vacation days + 8 sick days + 11 paid holidays — generous PTO",
+    "Explicitly encourages candidates who don't meet all requirements to apply",
+    "Clear cross-functional exposure across Marketing, Product, CX, and more",
+    "Defined, specific office location (Greenwood Village, CO)"
+  ],
+  "red_flags": [
+    "Fully in-office Monday-Friday requirement eliminates any flexibility for remote/hybrid candidates",
+    "OTE range ($60-70K) is relatively modest for an account management role with full in-office requirement in Denver metro",
+    "Role blends customer success, support, and sales without a clear primary mandate — could mean high task volume"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range and years of experience requirement)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly listed in JD)",
+      "scope.business_model (inferred from product description and merchant focus)",
+      "compensation.total_comp_estimate_usd (stated as OTE range ~$60-70K, treated as total comp estimate)"
+    ],
+    "ambiguities": [
+      "JD states '1-3 years+' experience which is an unusual range; treated as minimum 1 year with 3 years as a soft upper benchmark for the level, not a hard cap.",
+      "The JD lists compensation both as '$45K base + uncapped commissions OTE ~$60-70K' and as '$21.63 hourly' — these are stated as equivalent but may reflect hourly vs. salaried framing; both are captured.",
+      "Spanish language skill appears in the same bullet as the hard English requirement but is explicitly marked 'a plus' — classified as nice-to-have."
+    ]
+  }
+}

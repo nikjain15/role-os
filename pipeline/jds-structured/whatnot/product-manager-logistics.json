@@ -1,0 +1,248 @@
+{
+  "company": "Whatnot",
+  "role_title": "Product Manager, Logistics",
+  "url": "https://jobs.ashbyhq.com/whatnot/c8736c5e-a60e-43d5-b2c0-face8aa35458",
+  "ats_provider": "ashby",
+  "ats_job_id": "c8736c5e-a60e-43d5-b2c0-face8aa35458",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "San Francisco, CA",
+      "Seattle, WA",
+      "Los Angeles, CA",
+      "New York City, NY"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "within commuting distance of hub; in-person time for planning, problem-solving, and connection",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Technical PM (logistics platform/infrastructure focus)",
+  "seniority": {
+    "level": "Senior IC / Staff PM",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7+ years of product management experience",
+      "Owns product strategy, roadmap, and execution",
+      "Balancing short and long-term goals at platform scale",
+      "Operates across ambiguity and drives execution across multiple teams"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "7+ years of product management experience, with a track record of owning product strategy, roadmap, and execution while balancing short and long-term goals.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 7,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_judgment",
+      "raw_text_from_jd": "Strong product judgment with the ability to balance buyer experience, seller needs, and business economics",
+      "skill_type": "capability",
+      "domain": "product_strategy",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "complex_systems_experience",
+      "raw_text_from_jd": "Experience building or scaling complex systems that combine user experience with underlying platform or infrastructure",
+      "skill_type": "capability",
+      "domain": "platform_infrastructure",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_driven_mindset",
+      "raw_text_from_jd": "A data-driven mindset with experience defining metrics, running experiments, and using insights to drive decisions",
+      "skill_type": "capability",
+      "domain": "data_analytics",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_and_execution",
+      "raw_text_from_jd": "Ability to operate across ambiguity, identify high-leverage opportunities, and drive execution across multiple teams",
+      "skill_type": "capability",
+      "domain": "cross_functional_execution",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_collaboration",
+      "raw_text_from_jd": "Excellent cross-functional collaboration skills, with experience partnering closely with Engineering, Design, and Operations",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "logistics_shipping_experience",
+      "raw_text_from_jd": "Experience with shipping, fulfillment, or multi-sided marketplaces with logistics components",
+      "skill_type": "domain_knowledge",
+      "domain": "logistics_fulfillment",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "shipping",
+        "fulfillment",
+        "marketplace"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "marketplace_or_systems_environment",
+      "raw_text_from_jd": "Experience in a marketplace, logistics, or systems-heavy environment",
+      "skill_type": "domain_knowledge",
+      "domain": "marketplace_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "marketplace",
+        "logistics"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Logistics — shipping systems, carrier integrations, pricing/bundling, fulfillment tools, and logistics platform infrastructure across global marketplace",
+    "business_model": "B2C/B2B marketplace (live commerce / livestream shopping platform), multi-sided",
+    "primary_metrics_inferred": [
+      "On-time scan rates",
+      "Fulfillment standards compliance",
+      "Shipping affordability and transparency",
+      "Logistics unit economics",
+      "Seller success / new seller/category/country unlock"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Data Science",
+      "Operations",
+      "External partners (carriers)"
+    ],
+    "core_responsibilities": [
+      "Ensure that anything can be sold and fulfilled on Whatnot by identifying shipping options that unlock new categories, countries, and seller segments",
+      "Accomplish best-in-class shipping reliability as measured by on-time scan rates and fulfillment standards",
+      "Improve shipping affordability and transparency by designing pricing, bundling, and carrier solutions",
+      "Drive sustainable logistics economics by building scalable infrastructure, data systems, and user experiences",
+      "Partner with Engineering, Design, Data Science, Operations, and external partners to deliver user-facing and platform logistics experiences"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "logistics",
+    "shipping",
+    "fulfillment",
+    "marketplace",
+    "live commerce",
+    "carrier",
+    "platform infrastructure",
+    "seller success",
+    "on-time scan rates",
+    "product roadmap",
+    "data-driven",
+    "cross-functional"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear product surface with specific measurable outcomes (on-time scan rates, fulfillment standards, shipping affordability)",
+    "Role sits at the center of the platform — high business-critical visibility",
+    "Explicit hub cities listed for hybrid arrangement — no ambiguity about location requirement",
+    "Strong benefits package including 401k match, parental leave, and dogfooding budget",
+    "Named #1 Best Startup Employer in America by Forbes — employer brand signal",
+    "Encourages candidates without every qualification through EOE and culture section"
+  ],
+  "red_flags": [
+    "Compensation not disclosed",
+    "Visa sponsorship not mentioned — unclear for international candidates",
+    "Hybrid policy requires commuting distance to SF, Seattle, LA, or NYC — eliminates fully remote candidates outside those metros",
+    "No team size or org structure details provided"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 7+ years requirement and scope of ownership)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not listed as explicit KPIs)",
+      "scope.business_model (inferred from product description as multi-sided live commerce marketplace)",
+      "compensation.equity_mentioned (not stated; left false)",
+      "location.visa_sponsorship (not mentioned; marked unclear)"
+    ],
+    "ambiguities": [
+      "JD describes the team as 'remote co-located' with global hubs, but then specifies team members must live within commuting distance of SF, Seattle, LA, or NYC — treated as hybrid/onsite-required rather than remote-eligible.",
+      "No compensation range disclosed anywhere in the JD — source marked as unknown."
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "company": "Stripe",
+  "role_title": "Operations Program Manager, Managed Operations",
+  "url": "https://stripe.com/jobs/search?gh_jid=7812209",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7812209",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": "50% telecommuting permitted (implies ~50% in office)",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "BizOps / Strategy & Ops",
+  "seniority": {
+    "level": "Mid-level (IC2/IC3)",
+    "years_required_min": 2,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "2+ years minimum experience across stated requirements",
+      "Bachelor's degree required",
+      "Comp range $140,400-$210,600 consistent with mid-level at Stripe",
+      "Leads projects but no people management explicitly stated"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "Bachelor's degree or foreign equivalent in Business, Management Science, Computing, Finance or a related field",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree",
+        "Business degree",
+        "Management Science degree",
+        "Computing degree",
+        "Finance degree"
+      ]
+    },
+    {
+      "id": "years_product_project_strategy",
+      "raw_text_from_jd": "plus 2 years of experience in product or project strategy in a high-tech growth environment",
+      "skill_type": "years_of_experience",
+      "domain": "product_or_project_strategy",
+      "minimum_value": 2,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "high-tech growth environment"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "years_complex_operational_projects",
+      "raw_text_from_jd": "2 years of experience in executing and delivering complex operational projects working directly with diverse, distributed teams and their cross-functional stakeholders.",
+      "skill_type": "years_of_experience",
+      "domain": "operational_project_management",
+      "minimum_value": 2,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "years_fast_paced_problem_solving",
+      "raw_text_from_jd": "2 years of experience in working in a fast-paced work environment crafting rapid and strategic fixes to high intensity, sensitive problems.",
+      "skill_type": "years_of_experience",
+      "domain": "operational_problem_solving",
+      "minimum_value": 2,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "years_written_verbal_communications",
+      "raw_text_from_jd": "2 years of experience in crafting written and verbal communications designed to solve user problems.",
+      "skill_type": "years_of_experience",
+      "domain": "communications",
+      "minimum_value": 2,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_collaboration",
+      "raw_text_from_jd": "Collaborate with Engineering, Product Management, Design and other cross-functional teams to build and scale operational infrastructure that supports the launch of innovative products, ensuring a seamless user experience.",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "simultaneous_project_leadership",
+      "raw_text_from_jd": "Lead multiple projects simultaneously, managing timelines, resources, and stakeholder expectations to deliver impactful results that align with Stripe's goals.",
+      "skill_type": "capability",
+      "domain": "program_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "quality_and_process_improvement",
+      "raw_text_from_jd": "Ensure the operations team continuously delivers high quality customer outcomes, through quality monitoring, training, metric observability and process improvement.",
+      "skill_type": "capability",
+      "domain": "operations_quality_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "standard_operating_procedures",
+      "raw_text_from_jd": "Partner directly with customers to develop Standard Operating Procedures for supporting new Stripe lines of business.",
+      "skill_type": "capability",
+      "domain": "process_documentation",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "fintech",
+        "payments"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "operational_reviews_with_customers",
+      "raw_text_from_jd": "Lead operational reviews with customers to communicate operational performance and uncover customer concerns.",
+      "skill_type": "capability",
+      "domain": "customer_operations",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "partner_bank_card_network_requirements",
+      "raw_text_from_jd": "Identify critical operational requirements from partner banks and card networks and ensure we can fulfil them.",
+      "skill_type": "domain_knowledge",
+      "domain": "financial_services_compliance",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "payments",
+        "fintech",
+        "banking"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Managed Operations — operational infrastructure supporting new Stripe product launches, customer-facing operations, partner bank and card network compliance",
+    "business_model": "B2B financial infrastructure platform",
+    "primary_metrics_inferred": [
+      "Operational quality and customer outcomes",
+      "Project delivery on time and within scope",
+      "Compliance with partner bank and card network requirements",
+      "Customer satisfaction from operational reviews"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Product Management",
+      "Design",
+      "Partner banks",
+      "Card networks",
+      "Customers"
+    ],
+    "core_responsibilities": [
+      "Collaborate with Engineering, Product Management, Design and other cross-functional teams to build and scale operational infrastructure that supports the launch of innovative products",
+      "Lead multiple projects simultaneously, managing timelines, resources, and stakeholder expectations",
+      "Ensure the operations team continuously delivers high quality customer outcomes, through quality monitoring, training, metric observability and process improvement",
+      "Partner directly with customers to develop Standard Operating Procedures for supporting new Stripe lines of business",
+      "Lead operational reviews with customers to communicate operational performance and uncover customer concerns",
+      "Identify critical operational requirements from partner banks and card networks and ensure we can fulfil them"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      140400,
+      210600
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity mentioned as additional benefit; form not specified",
+    "location_pay_differential": false,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "operations program manager",
+    "managed operations",
+    "cross-functional",
+    "operational infrastructure",
+    "standard operating procedures",
+    "quality monitoring",
+    "process improvement",
+    "partner banks",
+    "card networks",
+    "payments",
+    "fintech",
+    "stakeholder management"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($140,400-$210,600 base)",
+    "50% telecommuting permitted — genuine hybrid flexibility",
+    "Multiple positions available — higher likelihood of hiring",
+    "Clear and specific responsibilities listed",
+    "Low travel requirement (5%)"
+  ],
+  "red_flags": [
+    "No visa sponsorship information provided — unclear for international candidates",
+    "No cities listed — location of role is ambiguous despite telecommuting detail",
+    "Seniority ceiling unclear — 'Multiple Positions Available' may mean varied seniority levels with same title",
+    "#LI-DNI tag suggests role may not be actively promoted on LinkedIn",
+    "Domain knowledge of partner banks and card networks implied as required but not explicitly listed as a minimum requirement — could be a hidden bar"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range + years requirements)",
+      "scope.business_model (inferred from Stripe company description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "location.cities_listed (no cities named for this role in JD body)",
+      "archetype (inferred from responsibilities; JD title says Program Manager but scope is heavily operational/BizOps)"
+    ],
+    "ambiguities": [
+      "Location not specified — '50% telecommuting permitted' implies a physical office component but no city or office is named for this role.",
+      "The salary range note says 'any sales commissions/sales bonuses targets, if applicable, would be in addition to the base salary' — unclear if this is a sales-adjacent role or boilerplate language.",
+      "Partner bank / card network domain knowledge appears in responsibilities but is not listed under minimum requirements — severity treated as hard based on unconditional bullet placement.",
+      "'Multiple Positions Available' — seniority level and exact team placement may vary across openings."
+    ]
+  }
+}

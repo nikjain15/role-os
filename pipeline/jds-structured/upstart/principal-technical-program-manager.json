@@ -1,0 +1,282 @@
+{
+  "company": "Upstart",
+  "role_title": "Principal Technical Program Manager",
+  "url": "https://careers.upstart.com/jobs?gh_jid=7843512",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7843512",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "remote-us",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": "regular onsites and in-person meetings; most teams meet once or twice per quarter for 2-4 consecutive days at a time",
+    "work_auth": "no-sponsorship",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Technical PM with engineering velocity and ML platform focus",
+  "seniority": {
+    "level": "Principal / Staff TPM (IC6 equivalent)",
+    "years_required_min": 8,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "8+ years of technical program management, product management or related experience",
+      "Principal TPM title",
+      "Comp range $187,900–$260,000 base, consistent with Principal IC at a growth-stage tech company",
+      "Expected to influence senior and executive stakeholders on ambiguous, high-impact initiatives",
+      "Expected to shape how the organization executes at scale"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "education_technical",
+      "raw_text_from_jd": "BA/BS in Computer Science, Engineering, Mathematics, or a related technical field, or equivalent practical experience",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": true,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "BA/BS in Computer Science",
+        "BA/BS in Engineering",
+        "BA/BS in Mathematics"
+      ]
+    },
+    {
+      "id": "years_tpm_pm_experience",
+      "raw_text_from_jd": "8+ years of technical program management, product management or related experience in a software engineering environment",
+      "skill_type": "years_of_experience",
+      "domain": "technical_program_management",
+      "minimum_value": 8,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_program_leadership",
+      "raw_text_from_jd": "Experience leading large-scale, cross-functional programs spanning multiple engineering teams and systems",
+      "skill_type": "capability",
+      "domain": "cross_functional_program_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "concept_to_launch_execution",
+      "raw_text_from_jd": "Experience leading complex technical initiatives from concept through launch, including defining scope, success metrics, and execution strategy",
+      "skill_type": "outcome",
+      "domain": "technical_program_delivery",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "distributed_systems_experience",
+      "raw_text_from_jd": "Experience working on distributed systems, service-oriented architectures, and system design at scale",
+      "skill_type": "domain_knowledge",
+      "domain": "distributed_systems",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "distributed systems",
+        "service-oriented architectures",
+        "system design at scale"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "judgment_prioritization",
+      "raw_text_from_jd": "Strong judgment and prioritization skills; able to navigate trade-offs with confidence and clarity across both technical and business domains.",
+      "skill_type": "capability",
+      "domain": "decision_making",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_skills",
+      "raw_text_from_jd": "Excellent written and verbal communication skills; able to explain complex technical topics to diverse audiences",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "process_adoption_track_record",
+      "raw_text_from_jd": "Track record of driving adoption of new processes, tools, or engineering standards across entire organizations",
+      "skill_type": "outcome",
+      "domain": "organizational_change_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "executive_influence",
+      "raw_text_from_jd": "Proven ability to influence senior and executive stakeholders on ambiguous, high-impact initiatives",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "engineering_velocity_improvements",
+      "raw_text_from_jd": "Experience increasing engineering velocity by driving improvements in tooling, automation, or AI-based solutions",
+      "skill_type": "outcome",
+      "domain": "engineering_productivity",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "automation",
+        "AI-based solutions"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [
+    "Candidates based in Quebec, Canada"
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Company-wide critical engineering initiatives spanning platformization, operational excellence, and ML/data evaluation productization",
+    "business_model": "AI lending marketplace, B2B2C (partners with banks and credit unions)",
+    "primary_metrics_inferred": [
+      "Engineering velocity",
+      "Measurable business value from program delivery",
+      "Reduction in system complexity",
+      "ML advantage / data evaluation throughput"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Product",
+      "Senior and Executive leadership"
+    ],
+    "core_responsibilities": [
+      "Own system-level outcomes, ensuring initiatives deliver measurable business value instead of just ticking off feature completion checkboxes",
+      "Bring clarity to ambiguity by aligning goals, defining milestones, translating high-level designs into actionable implementation details, and ensuring cross-team dependencies are clearly understood",
+      "Proactively identify and mitigate critical risks early to de-risk delivery before failure happens",
+      "Drive critical decisions by surfacing tradeoffs, clarifying priorities, and aligning stakeholders on a path forward",
+      "Create and maintain a single, trusted view of program health to provide stakeholders at all levels with insights into progress, risks, and changes",
+      "Partner with engineering and product leaders to balance feature delivery with long-term system scalability, reliability, and maintainability"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      187900,
+      260000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "annual equity grants that vest quarterly; Employee Stock Purchase Plan (ESPP) with discounted stock purchase options",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Technical Program Manager",
+    "Principal TPM",
+    "engineering velocity",
+    "platformization",
+    "distributed systems",
+    "service-oriented architecture",
+    "ML advantage",
+    "cross-functional",
+    "stakeholder alignment",
+    "AI lending",
+    "program health",
+    "operational excellence"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($187,900–$260,000 base) with bonus and equity mentioned",
+    "Fully remote-eligible across US and most of Canada",
+    "Clear focus areas for the TPM team (platformization, operational excellence, ML/data productization)",
+    "Principal-level ownership and influence scope clearly articulated",
+    "Generous benefits package including 401(k) match up to $15,000 annually"
+  ],
+  "red_flags": [
+    "Several preferred qualifications (communication, judgment, executive influence) read like must-haves in practice but are listed as preferred — ambiguity in classification",
+    "Remote role still requires regular in-person travel (quarterly onsites 2-4 consecutive days); travel burden not fully quantified",
+    "Wide compensation band ($72,100 spread) reflects significant geographic pay differential — actual offer could be significantly lower than the top of the range for non-Bay Area candidates"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Principal', years requirement, comp range, and scope of influence)",
+      "scope.business_model (inferred from company description as AI lending marketplace partnering with banks and credit unions)",
+      "scope.primary_metrics_inferred (inferred from responsibilities and team focus areas; not explicitly stated in JD)",
+      "location.work_auth (no sponsorship statement not explicit; inferred from US/Canada only hiring scope and absence of sponsorship mention)",
+      "location.visa_sponsorship (not stated; marked unclear)"
+    ],
+    "ambiguities": [
+      "Several 'Preferred Qualifications' items (e.g., communication skills, judgment, executive influence) are described using strong language ('Excellent', 'Proven ability') that could reasonably be interpreted as hard requirements; classified as soft per JD section heading",
+      "Work authorization / visa sponsorship status not explicitly stated in the JD; 'unclear' applied",
+      "Geographic pay differential is mentioned but specific regional bands are not disclosed — actual base could vary substantially within the stated range"
+    ]
+  }
+}

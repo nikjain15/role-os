@@ -1,0 +1,242 @@
+{
+  "company": "Stripe",
+  "role_title": "Product Manager, Banking as a Service",
+  "url": "https://stripe.com/jobs/search?gh_jid=7561053",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7561053",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Generalist PM with fintech/platform focus",
+  "seniority": {
+    "level": "Senior IC / Principal PM",
+    "years_required_min": 8,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "8+ years of experience in a product role",
+      "Significant time with senior customer stakeholders discussing strategy and roadmap",
+      "Owns roadmap and go to market for BaaS product area"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "Brings 8+ years of experience in a product role",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 8,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "user_experience_focus",
+      "raw_text_from_jd": "Strong focus on user-experiences, from front-end UI through developer docs and technical integrations",
+      "skill_type": "capability",
+      "domain": "user_experience",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_quality_obsession",
+      "raw_text_from_jd": "Has an obsession over product quality",
+      "skill_type": "cultural_fit",
+      "domain": "product_quality",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "financial_products_domain_knowledge",
+      "raw_text_from_jd": "Has domain knowledge in financial products, particularly card issuing, funds storage, or remittance",
+      "skill_type": "domain_knowledge",
+      "domain": "financial_products",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "fintech",
+        "card issuing",
+        "funds storage",
+        "remittance"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "platform_api_product_experience",
+      "raw_text_from_jd": "Has experience building platform and/or API products",
+      "skill_type": "capability",
+      "domain": "platform_and_api_products",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "APIs"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "written_verbal_communication",
+      "raw_text_from_jd": "Has strong written and verbal communication skills with a talent for precise articulations of customer problems",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "user_empathy",
+      "raw_text_from_jd": "Can put themselves in the shoes of their users and be a steward of crafting great experiences",
+      "skill_type": "cultural_fit",
+      "domain": "user_empathy",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "generalist_problem_solver",
+      "raw_text_from_jd": "Enjoys being a generalist working on whatever it takes to solve problems and delight users",
+      "skill_type": "cultural_fit",
+      "domain": "generalist_mindset",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Banking as a Service — card programs, financial features, programmatic APIs, embedded and hosted experiences, partner integrations",
+    "business_model": "B2B platform / API-first financial infrastructure",
+    "primary_metrics_inferred": [
+      "Card program growth and activation",
+      "Developer integration success / onboarding rates",
+      "BaaS revenue and user expansion",
+      "Product quality and reliability"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Legal",
+      "Risk",
+      "Compliance",
+      "Sales",
+      "Product Marketing"
+    ],
+    "core_responsibilities": [
+      "Own key user journeys, from integration to core business operation",
+      "Help shape the direction, define product strategy, and establish practices to address user needs",
+      "Collaboratively partner with other Stripe teams (engineering, design, legal, risk, compliance, etc.) early in the product development lifecycle",
+      "Own the roadmap and go to market, with product marketing, of your BaaS product area",
+      "Act as the voice of the user in product and API designs, gathering direct feedback from customers",
+      "Ensure we're building in a scalable, performant way"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Banking as a Service",
+    "BaaS",
+    "card issuing",
+    "API products",
+    "platform products",
+    "financial infrastructure",
+    "fintech",
+    "developer experience",
+    "product roadmap",
+    "user experience",
+    "funds storage",
+    "remittance"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear product surface and ownership area (BaaS, card issuing, funds storage, remittance)",
+    "Stripe is a well-known, high-credibility financial infrastructure company with strong engineering culture",
+    "Described as one of Stripe's fastest growing businesses — strong career upside signal",
+    "Explicitly calls out senior customer stakeholder engagement and strategy influence",
+    "Diverse user base across fintechs, enterprises, BNPL, SaaS, marketplaces — broad exposure"
+  ],
+  "red_flags": [
+    "No location, compensation, or visa sponsorship information provided in the JD",
+    "8+ years requirement with domain knowledge in card issuing/funds storage/remittance is a narrow and hard-to-bridge combination",
+    "No explicit mention of remote eligibility or office requirements — candidates cannot assess location fit"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 8+ years requirement and senior stakeholder scope)",
+      "scope.business_model (inferred from product description and API-first platform context)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "location.type set to 'unclear' — no location information provided in JD",
+      "compensation.source set to 'unknown' — no compensation information provided"
+    ],
+    "ambiguities": [
+      "No location or remote policy stated anywhere in the JD — it is unclear whether this role is remote, hybrid, or onsite, and in which city/country.",
+      "The requirement for 'domain knowledge in financial products, particularly card issuing, funds storage, or remittance' uses 'or', suggesting any one area may suffice — treated as a single hard requirement with alternatives.",
+      "All bullets in 'Who you are' are stated without a 'preferred' qualifier, so all were classified as must_haves with severity: hard. Some (e.g., cultural_fit items) could arguably be soft."
+    ]
+  }
+}

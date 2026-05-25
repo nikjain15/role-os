@@ -1,0 +1,280 @@
+{
+  "company": "Sierra",
+  "role_title": "Product Manager, Agent Data Platform",
+  "url": "https://jobs.ashbyhq.com/sierra/422cb7bb-ab03-447b-808c-6d72f59bbd2f",
+  "ats_provider": "ashby",
+  "ats_job_id": "422cb7bb-ab03-447b-808c-6d72f59bbd2f",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "primarily in-person",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "AI Product Manager",
+  "seniority": {
+    "level": "Mid to Senior IC",
+    "years_required_min": null,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "Extensive experience in product, engineering or related field",
+      "Background leading products from ideation to launch",
+      "End-to-end ownership through all stages from concept to execution",
+      "Trusted and strategic advisor to customers"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "proven_product_experience",
+      "raw_text_from_jd": "Extensive experience in product, engineering or related field, with background leading products from ideation to launch.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": null,
+      "unit": "years",
+      "qualifier": "extensive",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "zero_to_one_ambiguity",
+      "raw_text_from_jd": "Ability to operate in high ambiguity and build new, 0–1 bets.",
+      "skill_type": "capability",
+      "domain": "product_strategy",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "user_curiosity",
+      "raw_text_from_jd": "Passion for deeply understanding user needs and finding the right solutions from first principles.",
+      "skill_type": "cultural_fit",
+      "domain": "user_research",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_collaboration",
+      "raw_text_from_jd": "Product is a team sport, and building great products means working closely with engineering, design, customers, leadership, and more to help bring ideas to life.",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_skills",
+      "raw_text_from_jd": "Strong verbal and written communication skills, with the ability to articulate complex problems, concepts and decisions to various stakeholders.",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "values_alignment",
+      "raw_text_from_jd": "Embodies our values and culture.",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "startup_adaptability",
+      "raw_text_from_jd": "Comfort working in a fast-paced startup environment, able to adapt to changing priorities and handle ambiguity with grace.",
+      "skill_type": "cultural_fit",
+      "domain": "startup_environment",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "ai_conversational_experience",
+      "raw_text_from_jd": "Experience designing for AI-driven products or conversational interfaces.",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_products_conversational_ui",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "AI-driven products",
+        "conversational interfaces"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "enterprise_developer_products",
+      "raw_text_from_jd": "Experience working on enterprise and/or developer products, including SDKs, APIs, and technical tooling.",
+      "skill_type": "domain_knowledge",
+      "domain": "enterprise_developer_products",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "SDKs",
+        "APIs"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "typescript_react_coding",
+      "raw_text_from_jd": "Experience with Typescript, React, and other programming languages.",
+      "skill_type": "tool_proficiency",
+      "domain": "software_engineering",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "Typescript",
+        "React"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Agent Data Platform — enterprise AI agent platform enabling businesses to build AI agents representing their identity and brand",
+    "business_model": "B2B SaaS / enterprise AI platform",
+    "primary_metrics_inferred": [
+      "Enterprise adoption and agent deployment",
+      "Customer experience quality and agent performance",
+      "Developer platform usage and extensibility"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Leadership",
+      "Sales",
+      "Go-to-market",
+      "Forward-deployed teams",
+      "Customers"
+    ],
+    "core_responsibilities": [
+      "Bring enterprise-grade AI agents to market",
+      "Solve for multiple stakeholder needs (end users, CX managers, developers)",
+      "Discover new tools and processes for building AI agents",
+      "Partner with engineering, design, leadership for cohesive product experience",
+      "Become trusted strategic advisor to customers in partnership with sales and GTM teams",
+      "Lead product from concept to excellent execution end-to-end"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity plans for eligible full-time employees",
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "AI agents",
+    "enterprise",
+    "agent data platform",
+    "conversational AI",
+    "developer products",
+    "APIs",
+    "SDKs",
+    "0 to 1",
+    "cross-functional",
+    "customer obsession",
+    "Typescript",
+    "React"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "High-profile co-founders (Bret Taylor, Clay Bavor) with strong AI/tech pedigree",
+    "Clear product mission and multi-stakeholder scope",
+    "End-to-end ownership emphasized — genuine PM autonomy implied",
+    "Encourages applicants whose experience doesn't precisely match the JD",
+    "Equity participation offered for full-time employees",
+    "Strong benefits package including parental leave, fertility benefits, unlimited PTO"
+  ],
+  "red_flags": [
+    "Primarily in-person company in San Francisco — eliminates remote candidates",
+    "No compensation range disclosed",
+    "Visa sponsorship and work authorization not addressed",
+    "Seniority level is vague — 'extensive experience' undefined without years",
+    "Role title references 'Agent Data Platform' but JD body does not describe this surface specifically, creating ambiguity about actual product scope"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from scope language: 'End-to-End Ownership', 'trusted strategic advisor', 'extensive experience')",
+      "scope.business_model (inferred from product description and enterprise focus)",
+      "scope.primary_metrics_inferred (not stated in JD)",
+      "location.remote_us_eligible (inferred from 'primarily an in-person company based in San Francisco')"
+    ],
+    "ambiguities": [
+      "The role title references 'Agent Data Platform' but the JD body describes a broader AI agent platform PM role without specifically scoping the 'Agent Data Platform' surface — the actual product area remains ambiguous.",
+      "Seniority is unclear; 'extensive experience' is used without specifying years or leveling language (e.g. Senior, Staff, Principal).",
+      "Work authorization and visa sponsorship are not mentioned anywhere in the JD."
+    ]
+  }
+}

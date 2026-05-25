@@ -1,0 +1,270 @@
+{
+  "company": "Sierra",
+  "role_title": "Product Manager, Infrastructure",
+  "url": "https://jobs.ashbyhq.com/sierra/1e052261-0c89-4ccb-abfa-3820a1596a6e",
+  "ats_provider": "ashby",
+  "ats_job_id": "1e052261-0c89-4ccb-abfa-3820a1596a6e",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "primarily in-person",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Infrastructure / Platform PM",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": null,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "Deep technical product experience required",
+      "Track record of leading products from 0→1 and through scale",
+      "Drive system architecture decisions with engineering"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "deep_technical_product_experience",
+      "raw_text_from_jd": "Deep technical product experience: building highly technical products, ideally across infrastructure, platform, or developer tooling",
+      "skill_type": "capability",
+      "domain": "technical_product_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "systems_intuition",
+      "raw_text_from_jd": "Strong systems intuition: Ability to reason about distributed systems, scalability, latency, and reliability from first principles",
+      "skill_type": "domain_knowledge",
+      "domain": "distributed_systems",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "distributed systems",
+        "scalability",
+        "latency",
+        "reliability"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "end_to_end_product_ownership",
+      "raw_text_from_jd": "End-to-end product ownership: Track record of leading products from 0→1 and through scale, working closely with engineering and cross-functional teams",
+      "skill_type": "outcome",
+      "domain": "product_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "collaboration_and_communication",
+      "raw_text_from_jd": "Excellent collaboration and communication: Ability to work deeply with engineers while clearly articulating tradeoffs and decisions across stakeholders",
+      "skill_type": "capability",
+      "domain": "cross_functional_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "comfort_with_ambiguity",
+      "raw_text_from_jd": "Comfort with ambiguity and pace: Experience operating in fast-moving environments, building new systems with incomplete information",
+      "skill_type": "cultural_fit",
+      "domain": "startup_environment",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "distributed_systems_infra_experience",
+      "raw_text_from_jd": "Experience with distributed systems, infrastructure, or platform engineering (compute, storage, networking, orchestration)",
+      "skill_type": "domain_knowledge",
+      "domain": "infrastructure_engineering",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "distributed systems",
+        "compute",
+        "storage",
+        "networking",
+        "orchestration"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "developer_platforms_apis_sdks",
+      "raw_text_from_jd": "Experience building developer platforms, APIs, or SDKs",
+      "skill_type": "domain_knowledge",
+      "domain": "developer_tools",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "APIs",
+        "SDKs"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_ml_infra_familiarity",
+      "raw_text_from_jd": "Familiarity with modern AI/ML infrastructure or real-time systems",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_ml_infrastructure",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "AI/ML infrastructure",
+        "real-time systems"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "coding_experience",
+      "raw_text_from_jd": "Some coding experience (e.g., Typescript, Go, Python)",
+      "skill_type": "tool_proficiency",
+      "domain": "software_engineering",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "Typescript",
+        "Go",
+        "Python"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Infrastructure platform powering agent execution — compute, storage, orchestration, networking, developer APIs/SDKs",
+    "business_model": "B2B SaaS — AI platform for enterprises",
+    "primary_metrics_inferred": [
+      "System latency and availability",
+      "Fault tolerance / uptime (enterprise-grade SLAs)",
+      "Developer velocity / time-to-ship for internal teams",
+      "Scalability under high concurrency"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Product",
+      "GTM"
+    ],
+    "core_responsibilities": [
+      "Define the infrastructure platform: Shape the abstractions that power agent execution—including compute, storage, orchestration, and networking layers—making them scalable, reliable, and developer-friendly.",
+      "Own performance, reliability, and scale: Define how Sierra systems handle real-time workloads, high concurrency, and enterprise-grade uptime requirements.",
+      "Design developer primitives and tooling: Build the internal and external interfaces (APIs, SDKs, workflows) that engineers use to deploy, monitor, and iterate on agents.",
+      "Drive system architecture decisions: Partner closely with engineering to make tradeoffs across consistency, cost, performance, and complexity.",
+      "Enable rapid iteration across the company: Ensure infrastructure accelerates product velocity, not slows it down.",
+      "Work across the full stack of the platform: Collaborate with product, engineering, and GTM teams to ensure infrastructure supports real customer use cases."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity plans (RSUs or options implied)",
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "infrastructure",
+    "platform engineering",
+    "distributed systems",
+    "developer tooling",
+    "APIs",
+    "SDKs",
+    "agent execution",
+    "scalability",
+    "reliability",
+    "latency",
+    "orchestration",
+    "AI/ML infrastructure",
+    "technical PM",
+    "0→1"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Co-founders with exceptional pedigree (Bret Taylor, Clay Bavor) signal strong company credibility",
+    "Clear and specific scope — infrastructure PM role with concrete ownership areas",
+    "Explicit encouragement to apply even if experience doesn't precisely match",
+    "Equity participation mentioned for full-time employees",
+    "Comprehensive benefits package including parental leave, fertility benefits, and flexible PTO"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "Primarily in-person in San Francisco — eliminates remote candidates",
+    "Work authorization and visa sponsorship policies not stated",
+    "No years of experience specified, making seniority bar unclear"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from scope of responsibilities and 0→1 track record requirement)",
+      "scope.business_model (inferred from product description — AI platform for businesses)",
+      "scope.primary_metrics_inferred (not stated; inferred from responsibilities)",
+      "location.remote_us_eligible (inferred from 'primarily an in-person company based in San Francisco')",
+      "compensation.equity_form (inferred; JD says 'equity plans' without specifying RSUs vs options)"
+    ],
+    "ambiguities": [
+      "'ideally across infrastructure, platform, or developer tooling' in the must-haves section uses 'ideally' which softens it, but it sits in the required 'What you'll bring' section — treated as hard with domain qualifier noted",
+      "Visa sponsorship and work authorization are completely unaddressed in the JD"
+    ]
+  }
+}

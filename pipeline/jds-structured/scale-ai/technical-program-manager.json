@@ -1,0 +1,313 @@
+{
+  "company": "Scale AI",
+  "role_title": "Technical Program Manager",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4693449005",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "4693449005",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [
+      "San Francisco, CA",
+      "New York, NY"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "BizOps / Strategy & Ops",
+  "seniority": {
+    "level": "Mid to Senior IC",
+    "years_required_min": null,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "Comp range $151,200–$189,000 base, consistent with mid-to-senior IC at Scale AI",
+      "Owns program-level planning and systems workstreams independently",
+      "Expected to develop deep account context and drive lasting operational improvements"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "demand_forecasting_ownership",
+      "raw_text_from_jd": "Own day-to-day monitoring and execution of Production Plan and Opportunity Forecast; act quickly on demand changes.",
+      "skill_type": "capability",
+      "domain": "demand_forecasting",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "staffing_resource_planning",
+      "raw_text_from_jd": "Create/validate staffing requests and communicate staffing changes to Delivery teams, STOs and EMs.",
+      "skill_type": "capability",
+      "domain": "staffing_and_resource_planning",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "fte_budget_monitoring",
+      "raw_text_from_jd": "Monitor account-level FTE budgets and employee spend; contribute to cost/benefit analysis of staffing vs. revenue.",
+      "skill_type": "capability",
+      "domain": "workforce_budget_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "opportunity_ingest_management",
+      "raw_text_from_jd": "Ensure all revenue-generating opportunities are correctly logged in Opportunity Ingest (Linear) and that scoping is consistent.",
+      "skill_type": "capability",
+      "domain": "revenue_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Linear"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "forecast_accuracy_checks",
+      "raw_text_from_jd": "Run weekly checks to confirm Opportunity Forecast accuracy, and coordinate tactical scoping fixes when needed.",
+      "skill_type": "capability",
+      "domain": "forecasting_accuracy",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "Airtable"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "planning_tools_and_dashboards",
+      "raw_text_from_jd": "Design, build and maintain scalable planning tools and account-level reporting artifacts (ramp planning sheets, account dashboards, account playbooks).",
+      "skill_type": "capability",
+      "domain": "operations_tooling_and_reporting",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "process_documentation_sops",
+      "raw_text_from_jd": "Drive systems enablement, process documentation (SOPs), and handoffs that reduce manual work and increase reliability.",
+      "skill_type": "capability",
+      "domain": "process_improvement",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "stakeholder_management",
+      "raw_text_from_jd": "Actively participate in core account meetings (ops, finance, GTM, delivery) as the Ops demand operational lead.",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytics_literacy",
+      "raw_text_from_jd": "This role combines program management, operational rigor, analytics literacy, and strong stakeholder management",
+      "skill_type": "capability",
+      "domain": "analytics",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "supply_ops_partnership",
+      "raw_text_from_jd": "Partner with Supply Ops to review the Production Plan weekly (PP, TCD, historical productive hours) and drive forecasting accuracy and adjustments.",
+      "skill_type": "capability",
+      "domain": "supply_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "deep_account_knowledge",
+      "raw_text_from_jd": "This is a role designed to build deep account knowledge: each Planning TPM will ultimately be assigned to support 1–2 priority accounts to develop the context and relationships required to drive lasting operational improvements and more accurate planning and forecasting.",
+      "skill_type": "domain_knowledge",
+      "domain": "account_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "airtable_proficiency",
+      "raw_text_from_jd": "expedite translation of demand signals into the forecast (Airtable / PP / OF)",
+      "skill_type": "tool_proficiency",
+      "domain": "operations_tooling",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Airtable"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Operations Planning — cross-functional program management spanning demand forecasting, staffing, opportunity ingest, and account-level reporting for 1–2 priority accounts",
+    "business_model": "B2B AI data and services platform",
+    "primary_metrics_inferred": [
+      "Forecasting accuracy (Production Plan and Opportunity Forecast)",
+      "Staffing tracking accuracy",
+      "Opportunity ingest correctness and timeliness",
+      "Account-level FTE budget adherence"
+    ],
+    "cross_functional_partners": [
+      "Engagement Management (EM)",
+      "GenAI Delivery",
+      "GTM",
+      "Growth Ops",
+      "Supply Ops",
+      "Delivery teams",
+      "STOs",
+      "Finance"
+    ],
+    "core_responsibilities": [
+      "Ensure project-level customer demand is captured accurately, consistently and at the right level of granularity",
+      "Own day-to-day monitoring and execution of Production Plan and Opportunity Forecast",
+      "Create/validate staffing requests and communicate staffing changes to Delivery teams, STOs and EMs",
+      "Monitor account-level FTE budgets and employee spend",
+      "Ensure all revenue-generating opportunities are correctly logged in Opportunity Ingest (Linear)",
+      "Design, build and maintain scalable planning tools and account-level reporting artifacts",
+      "Standardize and centralize information flow across customer ops pillars",
+      "Drive systems enablement, process documentation (SOPs), and handoffs"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      151200,
+      189000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity grant subject to Board of Director approval",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Technical Program Manager",
+    "Operations Planning",
+    "Demand Forecasting",
+    "Staffing",
+    "Resource Planning",
+    "Opportunity Ingest",
+    "Production Plan",
+    "Airtable",
+    "Linear",
+    "Account Intelligence",
+    "GenAI Delivery",
+    "SOPs",
+    "Engagement Management"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($151,200–$189,000 base)",
+    "Equity mentioned as part of compensation package",
+    "Clearly defined ownership areas and responsibilities",
+    "Well-scoped role with specific tooling (Linear, Airtable) mentioned",
+    "Comprehensive benefits including health, dental, vision, retirement, L&D stipend, and generous PTO"
+  ],
+  "red_flags": [
+    "No explicit years-of-experience requirement stated — seniority expectations unclear",
+    "Visa sponsorship not mentioned; work authorization posture is unclear",
+    "90-day waiting period policy before reconsidering candidates for the same role",
+    "Location limited to San Francisco or New York — no remote option indicated, limiting candidate pool",
+    "Role heavily involves manual operational coordination (weekly checks, discrepancy correction) which may signal under-automated systems"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range and scope of responsibilities)",
+      "seniority.years_required_min (not stated in JD)",
+      "scope.business_model (inferred from company description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not directly stated)",
+      "location.remote_us_eligible (inferred as false from pay transparency statement referencing only SF and NYC, with instruction to 'reference job posting subtitle for location')",
+      "location.visa_sponsorship (not addressed in JD body)"
+    ],
+    "ambiguities": [
+      "The JD does not explicitly state years of experience required; seniority is inferred from compensation and scope.",
+      "Location type is inferred as onsite based on pay transparency referencing SF and NYC only, but the JD does not explicitly state hybrid vs. onsite vs. remote policy.",
+      "Visa sponsorship is neither confirmed nor denied in the JD body."
+    ]
+  }
+}
