@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="noindex,nofollow">
 <title>RoleOS — Hiring intelligence for the AI economy</title>
-<meta name="description" content="An end-to-end agent for your senior job search. RO finds the right roles, scores your fit, drafts what each one asks for, and tracks every conversation. Live across 79 AI-native companies.">
+<meta name="description" content="An end-to-end agent for your senior job search. RO finds the right roles, scores your fit, drafts what each one asks for, and tracks every conversation.">
 <meta property="og:title" content="RoleOS — Hiring intelligence for the AI economy">
 <meta property="og:description" content="An end-to-end agent for your senior job search. Live across 79 AI-native companies.">
 <meta property="og:image" content="https://nikjain15.github.io/role-os/assets/og-image.svg">
@@ -25,20 +25,20 @@
 </head>
 <body>
 
-<!-- ===== NAV (no waitlist button) ===== -->
+<!-- ===== NAV ===== -->
 <nav class="site-nav">
   <div class="wrap nav-inner">
     <a href="#top" class="nav-logo"><span class="ro-mark">RO</span>RoleOS</a>
     <div class="nav-links">
       <a href="#index">The Index</a>
       <a href="#meet-ro">Meet RO</a>
-      <a href="#faq">FAQ</a>
+      <a href="faq/">FAQ</a>
       <a href="case-study/">About founder</a>
     </div>
   </div>
 </nav>
 
-<!-- ===== HERO ===== -->
+<!-- ===== 1. HERO ===== -->
 <section id="top" class="hero">
   <div class="wrap">
     <span class="badge"><span class="dot"></span>Live · tracking 79 companies</span>
@@ -52,7 +52,7 @@
   </div>
 </section>
 
-<!-- ===== SECTION 2 — THE INDEX, AT A GLANCE ===== -->
+<!-- ===== 2. THE INDEX ===== -->
 <section id="index" class="bg-paper">
   <div class="wrap">
     <div class="section-head">
@@ -61,62 +61,16 @@
       <p class="section-sub">Product, ops, program, and strategy roles across 79 AI-native companies. Updated weekly with new roles and companies.</p>
     </div>
     <div class="stats-row" id="stats">loading…</div>
-  </div>
-</section>
 
-<!-- ===== SECTION 3 — MEET RO (chat centerpiece) ===== -->
-<section id="meet-ro">
-  <div class="wrap">
-    <div class="section-head">
-      <span class="eyebrow">Meet RO</span>
-      <h2>Ask RO anything about the Index.</h2>
-      <p class="section-sub">RO has read every JD in the Index. Ask about who's hiring, what they pay (when they say so), who sponsors visas, what years of experience are realistic, which archetypes are most common. Grounded in 458 real postings — if RO hasn't seen it, RO will tell you.</p>
-    </div>
-
-    <div class="chat-panel" id="chat-panel">
-      <div class="chat-head-inline">
-        <div class="chat-title">RO</div>
-        <span class="chat-status">Private beta · join the waitlist for access</span>
-      </div>
-
-      <div class="chat-log" id="chat-log"></div>
-
-      <div class="chat-prompts">
-        <div class="chat-prompts-label">Try one:</div>
-        <button class="chat-chip" data-q="Which companies have the most senior AI PM roles?">Which companies have the most senior AI PM roles?</button>
-        <button class="chat-chip" data-q="What years of experience do AI-native companies actually require?">Years of experience required?</button>
-        <button class="chat-chip" data-q="Who lists base salary upfront?">Who lists base salary?</button>
-        <button class="chat-chip" data-q="Which companies sponsor visas for PM roles?">Who sponsors visas?</button>
-        <button class="chat-chip" data-q="What's the most common must-have for a Staff PM role?">Most common must-have for Staff PM?</button>
-        <button class="chat-chip" data-q="Show me Chief of Staff roles in the index">Show me Chief of Staff roles</button>
-      </div>
-
-      <form class="chat-form" id="chat-form">
-        <input type="text" id="chat-input" placeholder="Ask RO a question…" autocomplete="off">
-        <button type="submit">→</button>
-      </form>
-    </div>
-  </div>
-</section>
-
-<!-- ===== SECTION 4 — BROWSE THE INDEX ===== -->
-<section id="browse" class="bg-paper">
-  <div class="wrap">
-    <div class="section-head">
-      <span class="eyebrow">Browse</span>
-      <h2>Companies and archetypes in the Index.</h2>
-    </div>
-
-    <div class="browse-grid">
+    <div class="browse-grid" style="margin-top: 40px;">
       <div class="browse-panel">
         <h3>By company</h3>
         <p class="browse-sub">A sample of the 79 in the Index.</p>
-        <div class="company-list" id="company-list">loading…</div>
+        <div id="company-list">loading…</div>
       </div>
-
       <div class="browse-panel">
         <h3>By role type</h3>
-        <p class="browse-sub">Every archetype RO is tracking — PM, TPM, BizOps, Strategy, Chief of Staff, Growth, and more. Across all 458 postings.</p>
+        <p class="browse-sub">PM, TPM, BizOps, Strategy, Chief of Staff, Growth, and more.</p>
         <div class="archetype-list" id="archetype-list">loading…</div>
       </div>
     </div>
@@ -133,153 +87,93 @@
   </div>
 </section>
 
-<!-- ===== SECTION 5 — HOW RO WORKS (3 cards) ===== -->
-<section id="how">
+<!-- ===== 3. MEET RO (chat) ===== -->
+<section id="meet-ro">
+  <div class="wrap">
+    <div class="section-head">
+      <span class="eyebrow">Meet RO</span>
+      <h2>Ask RO anything about the Index.</h2>
+      <p class="section-sub">RO has read every JD in the Index. Ask about who's hiring, what they pay (when they say so), who sponsors visas, what years of experience are realistic. Grounded in 458 real postings — if RO hasn't seen it, RO will tell you.</p>
+    </div>
+
+    <div class="chat-panel" id="chat-panel">
+      <div class="chat-head-inline">
+        <div class="chat-title">RO</div>
+        <span class="chat-status">Private beta · join the waitlist for access</span>
+      </div>
+      <div class="chat-log" id="chat-log"></div>
+      <div class="chat-prompts">
+        <div class="chat-prompts-label">Try one:</div>
+        <button class="chat-chip" data-q="Which companies have the most senior AI PM roles?">Which companies have the most senior AI PM roles?</button>
+        <button class="chat-chip" data-q="What years of experience do AI-native companies actually require?">Years of experience required?</button>
+        <button class="chat-chip" data-q="Who lists base salary upfront?">Who lists base salary?</button>
+        <button class="chat-chip" data-q="Which companies sponsor visas for PM roles?">Who sponsors visas?</button>
+        <button class="chat-chip" data-q="Show me Chief of Staff roles in the index">Show me Chief of Staff roles</button>
+      </div>
+      <form class="chat-form" id="chat-form">
+        <input type="text" id="chat-input" placeholder="Ask RO a question…" autocomplete="off">
+        <button type="submit">→</button>
+      </form>
+    </div>
+  </div>
+</section>
+
+<!-- ===== 4. HOW RO WORKS (flow diagram) ===== -->
+<section id="how" class="bg-paper">
   <div class="wrap">
     <div class="section-head">
       <span class="eyebrow">How RO works</span>
-      <h2>Three things. End to end.</h2>
+      <h2>Three steps. End to end.</h2>
     </div>
-    <div class="promise-grid">
 
-      <div class="promise-card">
-        <div class="icon-bg" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg></div>
-        <h3>Finds the right fit for your role</h3>
-        <p>Pulls fresh roles from Greenhouse, Lever, and Ashby across your target list. Reads each JD, scores it against your fit, and surfaces the matches — skips the rest.</p>
-        <div class="mockup" aria-hidden="true">
-          <div class="mock-head"><span>FIT-SCORED</span><span>top matches</span></div>
-          <div class="mock-list">
-            <div class="mock-row"><span>Sr. AI PM · Anthropic</span><span>0.92</span></div>
-            <div class="mock-row"><span>Staff PM · Stripe</span><span>0.88</span></div>
-            <div class="mock-row"><span>CoS · Decagon</span><span>0.81</span></div>
-            <div class="mock-row"><span>BizOps Lead · Scale</span><span>0.74</span></div>
-          </div>
+    <div class="flow">
+      <div class="flow-node">
+        <div class="flow-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
         </div>
+        <div class="flow-num">01 · Find</div>
+        <h3>Finds the right fit</h3>
+        <p>Reads every JD across your target companies. Scores each one against your fit. Surfaces the matches.</p>
       </div>
 
-      <div class="promise-card">
-        <div class="icon-bg" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 4h14v16H5z"/><path d="M9 9h6M9 13h6M9 17h4"/></svg></div>
+      <div class="flow-arrow" aria-hidden="true">
+        <svg viewBox="0 0 56 24" fill="none" stroke-width="1.5" stroke="currentColor"><line x1="2" y1="12" x2="48" y2="12" stroke-dasharray="3 4"/><polyline points="40,5 52,12 40,19" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </div>
+
+      <div class="flow-node">
+        <div class="flow-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 4h14v16H5z"/><path d="M9 9h6M9 13h6M9 17h4"/></svg>
+        </div>
+        <div class="flow-num">02 · Apply</div>
         <h3>Builds what each role asks for</h3>
-        <p>Cover letter, product spec, take-home, portfolio piece — whatever the application needs, RO drafts it. You review and send. You set the bar for auto-apply vs require-approval.</p>
-        <div class="mockup" aria-hidden="true">
-          <div class="mock-head"><span>DRAFTED</span><span>cover letter</span></div>
-<pre class="mock-json">Dear Anthropic team,
+        <p>Cover letter, product spec, take-home, portfolio piece — whatever the application needs, RO drafts it. You review and send.</p>
+      </div>
 
-I've spent the last 5 years
-shipping AI-native PM work
-across [...] — and the Senior
-AI PM role lines up tightly
-with what I'm looking for.
+      <div class="flow-arrow" aria-hidden="true">
+        <svg viewBox="0 0 56 24" fill="none" stroke-width="1.5" stroke="currentColor"><line x1="2" y1="12" x2="48" y2="12" stroke-dasharray="3 4"/><polyline points="40,5 52,12 40,19" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </div>
 
-[ continue reading → ]</pre>
+      <div class="flow-node">
+        <div class="flow-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 20V10M10 20V4M17 20v-7"/><path d="M3 20h18"/></svg>
         </div>
+        <div class="flow-num">03 · Track</div>
+        <h3>Tracks, closes, helps negotiate</h3>
+        <p>From first application to signed offer. RO tracks every conversation, surfaces comp benchmarks, and drafts negotiation talking points.</p>
       </div>
-
-      <div class="promise-card">
-        <div class="icon-bg" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 20V10M10 20V4M17 20v-7"/><path d="M3 20h18"/></svg></div>
-        <h3>Tracks, closes, and helps you negotiate</h3>
-        <p>From first application to signed offer. RO tracks every conversation, surfaces comp benchmarks for the role, and drafts negotiation talking points when an offer lands.</p>
-        <div class="mockup" aria-hidden="true">
-          <div class="mock-head"><span>FUNNEL</span><span>live</span></div>
-          <div class="mock-funnel">
-            <div class="f-row"><div class="f-label"><span class="f-dot"></span>Applied</div><div class="f-count">12</div></div>
-            <div class="f-row"><div class="f-label"><span class="f-dot"></span>Interview</div><div class="f-count">4</div></div>
-            <div class="f-row"><div class="f-label"><span class="f-dot"></span>Final</div><div class="f-count">2</div></div>
-            <div class="f-row" data-future><div class="f-label"><span class="f-dot"></span>Offer</div><div class="f-count">—</div></div>
-          </div>
-        </div>
-      </div>
-
     </div>
   </div>
 </section>
 
-<!-- ===== SECTION 6 — FOUNDING-USER OFFER ===== -->
-<section>
-  <div class="wrap">
-    <div class="offer-band">
-      <div>
-        <div class="label">Founding users</div>
-        <h2>Early users get free access during beta.</h2>
-        <p>Plus a direct line to the founder, and a voice on what ships next. We're keeping early access small so we can listen carefully.</p>
-      </div>
-      <a href="#waitlist" class="btn btn-white">Join the waitlist →</a>
-    </div>
-  </div>
-</section>
-
-<!-- ===== SECTION 7 — FAQ ===== -->
-<section id="faq" class="bg-paper">
-  <div class="wrap">
-    <div class="section-head">
-      <span class="eyebrow">Questions</span>
-      <h2>Things people ask before signing up.</h2>
-    </div>
-    <div class="faq">
-      <details>
-        <summary>Is the chat actually grounded, or is it making things up?</summary>
-        <p>RO only answers from the 458 real JDs it has read. If something isn't in the data, RO will say so.</p>
-      </details>
-
-      <details>
-        <summary>Is it free?</summary>
-        <p>Early users get free access during beta. Pricing will be announced before your free period ends. No card to join the waitlist.</p>
-      </details>
-
-      <details>
-        <summary>How does RoleOS know which companies to track?</summary>
-        <p>For the public Index, we curated 79 AI-native companies. For your own version, you give it a list — any company with a Greenhouse, Lever, or Ashby careers page works.</p>
-      </details>
-
-      <details>
-        <summary>Does RO apply for me?</summary>
-        <p>Yes. RO drafts the cover letter, fills the form, and submits — for any company with a Greenhouse, Lever, or Ashby careers page. You set the rules: auto-apply where your fit score is high, require approval below it. You see every application before it sends.</p>
-      </details>
-
-      <details>
-        <summary>What about my data?</summary>
-        <p>The public Index here is public job postings — nothing personal. Your CV, application notes, and search history stay on your machine.</p>
-      </details>
-
-      <details>
-        <summary>When does v1 open?</summary>
-        <p>We're opening founding-user access in waves over the coming weeks. Drop your email and we'll be in touch when your wave is up.</p>
-      </details>
-
-      <details>
-        <summary>Who is this for?</summary>
-        <p>Senior PMs and PM-adjacent ICs — TPM, BizOps, Strategy — targeting AI-native companies. We're staying narrow on purpose. Once we serve this group well, we'll expand.</p>
-      </details>
-
-      <details>
-        <summary>Will you spam me?</summary>
-        <p>No. One email when v1 opens. Maybe one more if there's something genuinely worth saying. Unsubscribe with one click.</p>
-      </details>
-    </div>
-  </div>
-</section>
-
-<!-- ===== SECTION 8 — ABOUT FOUNDER ===== -->
-<section id="about">
-  <div class="wrap">
-    <div class="about-card">
-      <span class="eyebrow">About the founder</span>
-      <h3>Nik Jain</h3>
-      <p>Senior PM shipping in the agentic-AI space. Also building <a href="https://github.com/nikjain15/founderfirst.one">FounderFirst</a> (operating software for business owners), <a href="https://github.com/nikjain15/nik-ai-assistant">nik-ai-assistant</a>, and <a href="https://github.com/nikjain15/agentic-payments">agentic-payments</a>.</p>
-      <p class="about-links">[LinkedIn URL pending] · [Resume URL pending] · <a href="case-study/">Read the full case study →</a></p>
-    </div>
-  </div>
-</section>
-
-<!-- ===== SECTION 9 — DARK WAITLIST ===== -->
+<!-- ===== 5. WAITLIST (combined dark section) ===== -->
 <section id="waitlist" class="bg-dark">
   <div class="wrap">
     <div class="waitlist-top">
       <span class="ro-mark">RO</span>
       <div>
-        <span class="eyebrow">RoleOS</span>
-        <h2>Want this for your own search?</h2>
-        <p>Drop your email. Early users get free access during beta.</p>
+        <span class="eyebrow">Founding users</span>
+        <h2>Early users get free access during beta.</h2>
+        <p>Plus a direct line to the founder, and a voice on what ships next. We're keeping early access small so we can listen carefully.</p>
       </div>
     </div>
 
@@ -296,7 +190,7 @@ with what I'm looking for.
       </div>
       <div class="step-tile">
         <span class="eyebrow">03</span>
-        <div class="tile-h">Point RoleOS at your target list</div>
+        <div class="tile-h">Point RoleOS at your list</div>
         <p>Your companies. Your roles. RO does the work.</p>
       </div>
     </div>
@@ -311,8 +205,37 @@ with what I'm looking for.
   </div>
 </section>
 
-<footer>
-  RoleOS · Built with Node + Claude · Updated <span id="ts"></span> · <a href="https://github.com/nikjain15/role-os">source</a> · by <a href="case-study/">Nik Jain</a>
+<!-- ===== 6. FOOTER ===== -->
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <a href="#top" class="nav-logo"><span class="ro-mark">RO</span>RoleOS</a>
+        <p>Hiring intelligence for the AI economy.</p>
+      </div>
+      <div class="footer-col">
+        <div class="footer-label">Product</div>
+        <a href="#index">The Index</a>
+        <a href="#meet-ro">Meet RO</a>
+        <a href="#waitlist">Join waitlist</a>
+      </div>
+      <div class="footer-col">
+        <div class="footer-label">More</div>
+        <a href="faq/">FAQ</a>
+        <a href="case-study/">Case study</a>
+        <a href="https://github.com/nikjain15/role-os">Source</a>
+      </div>
+      <div class="footer-col">
+        <div class="footer-label">By</div>
+        <a href="case-study/">Nik Jain</a>
+        <a href="https://github.com/nikjain15">GitHub</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>RoleOS · Built with Node + Claude</span>
+      <span>Updated <span id="ts"></span></span>
+    </div>
+  </div>
 </footer>
 
 <script src="assets/site.js"></script>
