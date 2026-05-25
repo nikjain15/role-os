@@ -1,37 +1,93 @@
-/* FounderFirst design tokens — single source of truth.
-   Consumed by apps/marketing, apps/blog, and (eventually) the Penny demo.
-   Do NOT redeclare these values in app stylesheets. */
+/* DesignSystem_General — single source of truth.
+   Do not redeclare these values elsewhere. Extend this file instead. */
 
 :root {
-  /* Ink scale — primary text + UI surfaces */
+  /* -- Color: ink scale + surfaces ------------------------------------- */
   --ink:        #0a0a0a;
   --ink-2:      #2a2a2a;
   --ink-3:      #5a5a5a;
   --ink-4:      #8a8a8a;
-
-  /* Lines + surfaces */
   --line:       #e8e8e5;
   --line-2:     #f0f0ed;
   --paper:      #f6f6f4;
   --white:      #ffffff;
   --dark:       #0a0a0a;
 
-  /* Type */
-  --sans:       'Inter', Helvetica, 'Helvetica Neue', Arial, sans-serif;
+  /* -- Semantic accents (meaning only) --------------------------------- */
+  --sage:       #2B7A78;   /* active nav only */
+  --income:     #1A9E6A;   /* success / positive / up */
+  --income-bg:  #f0faf5;
+  --amber:      #C97D1A;   /* warning / needs attention */
+  --amber-bg:   #fdf8f0;
+  --expense-bg: #fdf8f0;   /* alias of --amber-bg */
+  --error:      #b2291e;   /* inline error text only */
+  --error-bg:   #fdf2f1;   /* soft destructive pill tint */
+
+  /* -- Category tints (icon containers only) --------------------------- */
+  --cat-tech:        #4A6FA5;  --cat-tech-bg:     #eef2fa;
+  --cat-food:        #C4702A;  --cat-food-bg:     #fdf3ea;
+  --cat-travel:      #C4702A;  --cat-travel-bg:   #fdf3ea;
+  --cat-personal:    #5a5a5a;  --cat-personal-bg: #f6f6f4;
+  --cat-health:      #5a5a5a;  --cat-health-bg:   #f6f6f4;
+  --cat-office:      #5a5a5a;  --cat-office-bg:   #f6f6f4;
+
+  /* -- Typography ------------------------------------------------------ */
+  --font-sans: 'Inter', -apple-system, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif;
+  --sans: var(--font-sans);   /* alias for legacy refs in existing CSS */
+
+  --fs-h1:           clamp(36px, 5.5vw, 64px);
+  --fs-h2:           clamp(26px, 3.8vw, 44px);
+  --fs-h3:           clamp(17px, 2vw, 21px);
+  --fs-body:         clamp(15px, 1.6vw, 17px);
+  --fs-card-value:   clamp(30px, 8vw, 46px);
+  --fs-screen-title: 17px;
+  --fs-eyebrow:      11px;
+  --fs-tiny:         10px;
+  --fs-data-row:     clamp(13px, 1.4vw, 14px);
+
+  --ls-tight:   -0.028em;
+  --ls-tighter: -0.022em;
+  --ls-normal:   0;
+  --ls-eyebrow:  0.12em;
+  --ls-chip:     0.06em;
+
   --fw-regular:  400;
   --fw-medium:   500;
   --fw-semibold: 600;
   --fw-bold:     700;
   --fw-extra:    800;
 
-  /* Radii */
-  --r-card:      12px;
-  --r-card-emph: 16px;
-  --r-sheet:     20px;
-  --r-pill:      999px;
+  /* -- Radii ----------------------------------------------------------- */
+  --r-card:        12px;
+  --r-card-emph:   16px;
+  --r-sheet:       20px;
+  --r-pill:        999px;
+  --r-bubble-ai:   18px 18px 18px 4px;
+  --r-bubble-user: 14px 14px 4px 14px;
 
-  /* Layout */
-  --page-max:   1080px;
-  --page-pad-x: clamp(24px, 6vw, 80px);
-  --section-y:  clamp(48px, 7vw, 72px);
+  /* -- Spacing --------------------------------------------------------- */
+  --pad-screen:  20px;
+  --pad-card:    16px 20px;
+  --gap-thread:  12px;
+  --gap-card:    12px;
+  --gap-section: 24px;
+
+  /* -- Layout ---------------------------------------------------------- */
+  --page-max:    1080px;
+  --page-pad-x:  clamp(24px, 6vw, 80px);
+  --section-y:   clamp(48px, 7vw, 72px);
+  --phone-width: 375px;
+  --tap-min:     44px;
+  --tab-icon:    22px;
+
+  /* -- Shadows --------------------------------------------------------- */
+  --shadow-phone:     0 8px 32px rgba(10, 10, 10, 0.12);
+  --shadow-card:      0 1px 2px rgba(10, 10, 10, 0.04);
+  --shadow-card-hero: 0 4px 16px rgba(10, 10, 10, 0.09), 0 1px 3px rgba(10, 10, 10, 0.05);
+
+  /* -- Motion ---------------------------------------------------------- */
+  --ease-out:  cubic-bezier(0.2, 0.8, 0.2, 1);
+  --dur-fast:  120ms;
+  --dur-base:  200ms;
+  --dur-slow:  320ms;
 }

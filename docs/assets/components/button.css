@@ -1,32 +1,47 @@
-/* Pill buttons. Variants: default (ink), .btn-ghost, .btn-white, .btn-ghost-white.
-   Size modifier: .btn-sm.
-   Includes shared focus-visible rings for buttons + links. */
+/* Buttons — DesignSystem_General §8.
+   Radius is var(--r-card) (12px) — pills are reserved for chips and avatars.
+   Hover swaps ink → ink-2 (no opacity tricks). */
 
 .btn {
   display: inline-flex;
   align-items: center;
   justify-content: center;
   gap: 6px;
-  padding: 12px 22px;
-  border-radius: var(--r-pill);
+  padding: 12px 20px;
+  border-radius: var(--r-card);
+  border: 1px solid transparent;
   background: var(--ink);
   color: var(--white);
-  font-weight: var(--fw-medium);
-  font-size: 14px;
+  font-family: var(--font-sans);
+  font-weight: var(--fw-semibold);
+  font-size: var(--fs-body);
   white-space: nowrap;
-  transition: opacity 0.15s;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background var(--dur-fast) var(--ease-out),
+              color var(--dur-fast) var(--ease-out),
+              border-color var(--dur-fast) var(--ease-out);
 }
-.btn:hover { opacity: 0.82; }
+.btn:hover { background: var(--ink-2); }
 
-.btn-ghost       { background: transparent; color: var(--ink); border: 1.5px solid var(--ink); }
-.btn-white       { background: var(--white); color: var(--ink); }
-.btn-ghost-white { background: transparent; color: var(--white); border: 1.5px solid rgba(255, 255, 255, 0.55); }
-.btn-sm          { padding: 8px 14px; font-size: 12px; }
+.btn-ghost { background: transparent; color: var(--ink-2); border-color: transparent; }
+.btn-ghost:hover { background: var(--line-2); color: var(--ink); }
 
-/* Keyboard focus rings */
-.btn:focus-visible,
-a:focus-visible,
-button:focus-visible {
+.btn-secondary { background: var(--white); color: var(--ink); border-color: var(--line); }
+.btn-secondary:hover { background: var(--paper); }
+
+.btn-white { background: var(--white); color: var(--ink); border-color: var(--line); }
+.btn-white:hover { background: var(--paper); }
+
+.btn-ghost-white { background: transparent; color: var(--white); border-color: rgba(255,255,255,0.55); }
+.btn-ghost-white:hover { background: rgba(255,255,255,0.08); }
+
+.btn-sm { padding: 8px 14px; font-size: 13px; }
+
+.btn[disabled] { opacity: 0.4; cursor: not-allowed; }
+
+/* Focus ring — per spec §8 */
+:focus-visible {
   outline: 2px solid var(--ink);
   outline-offset: 3px;
   border-radius: var(--r-pill);
