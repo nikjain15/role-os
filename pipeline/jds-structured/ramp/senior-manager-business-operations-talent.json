@@ -1,0 +1,276 @@
+{
+  "company": "Ramp",
+  "role_title": "Senior Manager, Business Operations - Talent",
+  "url": "https://jobs.ashbyhq.com/ramp/bdd28c40-f95b-43df-bebe-3b8a25c8f602",
+  "ats_provider": "ashby",
+  "ats_job_id": "bdd28c40-f95b-43df-bebe-3b8a25c8f602",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [
+      "New York, NY",
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Talent Operations / People Ops Leader",
+  "seniority": {
+    "level": "Senior Manager / People Manager",
+    "years_required_min": 8,
+    "years_required_max": null,
+    "manages_people": true,
+    "level_signals": [
+      "8+ years of relevant operations experience",
+      "3+ years of experience managing high-performing teams",
+      "Lead a team of four Talent Operations professionals",
+      "Senior Manager title"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_ops_experience",
+      "raw_text_from_jd": "8+ years of relevant operations experience",
+      "skill_type": "years_of_experience",
+      "domain": "operations",
+      "minimum_value": 8,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "years_people_management",
+      "raw_text_from_jd": "3+ years of experience managing high-performing teams.",
+      "skill_type": "years_of_experience",
+      "domain": "people_management",
+      "minimum_value": 3,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "headcount_planning",
+      "raw_text_from_jd": "Strong headcount planning, workforce planning, and reporting experience.",
+      "skill_type": "capability",
+      "domain": "headcount_and_workforce_planning",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "scalable_processes_high_growth",
+      "raw_text_from_jd": "Demonstrated experience building scalable processes in high-growth environments.",
+      "skill_type": "outcome",
+      "domain": "operations_process_design",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "project_management",
+      "raw_text_from_jd": "Strong project management skills with the ability to manage multiple high-impact initiatives simultaneously.",
+      "skill_type": "capability",
+      "domain": "project_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "global_hiring_compliance",
+      "raw_text_from_jd": "Experience supporting global hiring and multi-jurisdiction compliance.",
+      "skill_type": "domain_knowledge",
+      "domain": "global_hiring_compliance",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_driven_analytical",
+      "raw_text_from_jd": "Data-driven decision maker with strong analytical capabilities.",
+      "skill_type": "capability",
+      "domain": "data_analysis",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_communication",
+      "raw_text_from_jd": "Exceptional cross-functional communication and stakeholder management skills.",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "years_talent_recruiting_ops",
+      "raw_text_from_jd": "3+ years in talent/recruiting operations a plus.",
+      "skill_type": "years_of_experience",
+      "domain": "talent_recruiting_operations",
+      "minimum_value": 3,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "large_recruiting_org_support",
+      "raw_text_from_jd": "Experience supporting a large, complex recruiting organization (30+ recruiters preferred).",
+      "skill_type": "domain_knowledge",
+      "domain": "recruiting_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "4 direct reports (Talent Operations professionals); supports ~40-person recruiting team",
+    "surface": "Recruiting operations infrastructure — ATS, scheduling, headcount governance, tech stack, interviewer enablement, compliance, candidate experience",
+    "business_model": "B2B fintech / SaaS — corporate spend management platform",
+    "primary_metrics_inferred": [
+      "Recruiter capacity and hiring pace",
+      "Quality of hire",
+      "Candidate experience scores",
+      "Headcount plan attainment",
+      "Operational efficiency of interview scheduling"
+    ],
+    "cross_functional_partners": [
+      "Tech Enablement",
+      "Finance",
+      "People Ops",
+      "Legal"
+    ],
+    "core_responsibilities": [
+      "Lead, coach, and develop a team of four Talent Operations professionals",
+      "Own the full recruiting tech stack (ATS, scheduling tools, sourcing tools, CRM, interview tools, etc.)",
+      "Own execution and operational tracking of the company's headcount plan in partnership with finance",
+      "Own end-to-end interview operations, including scheduling infrastructure",
+      "Own and scale core recruiting programs, including interviewer enablement, referrals, and candidate experience",
+      "Ensure recruiting processes meet compliance requirements across jurisdictions",
+      "Partner with People Ops & Legal to support international hiring expansion"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "talent operations",
+    "recruiting operations",
+    "headcount planning",
+    "ATS",
+    "tech stack",
+    "interview scheduling",
+    "interviewer enablement",
+    "compliance",
+    "global hiring",
+    "scalable processes",
+    "high-growth",
+    "cross-functional"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear team size and organizational context (4 direct reports, ~40-person recruiting org)",
+    "Well-scoped role with explicit ownership areas across tech stack, headcount, and programs",
+    "Generous benefits package including 100% medical/dental/vision, parental leave, and fertility support",
+    "Relocation support to NYC or SF offered",
+    "Company at meaningful scale ($100B+ annualized spend, 50,000+ customers)"
+  ],
+  "red_flags": [
+    "Location and remote eligibility not explicitly stated in the JD body — hybrid vs. remote vs. on-site is unclear",
+    "Compensation range not disclosed",
+    "Visa sponsorship status not stated",
+    "Talent/recruiting operations experience listed as 'a plus' despite being the primary function of the role — may signal misalignment in requirements framing"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "location.type (not explicitly stated in JD body; cities mentioned in relocation support context only)",
+      "location.remote_us_eligible (not stated)",
+      "location.work_auth (not stated)",
+      "location.visa_sponsorship (not stated)",
+      "scope.business_model (inferred from company description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly listed)",
+      "seniority.level (inferred from title and team leadership signals)"
+    ],
+    "ambiguities": [
+      "Location type is unclear — JD body mentions relocation support to 'NYC or SF' but does not specify if the role is remote, hybrid, or on-site. Cities listed are inferred from relocation context.",
+      "Talent/recruiting operations experience (3+ years) is listed as 'a plus' in a role that is entirely talent operations — treated as soft/nice-to-have per JD language but may function as a de facto hard requirement.",
+      "Whether equity is part of the compensation package is not stated."
+    ]
+  }
+}

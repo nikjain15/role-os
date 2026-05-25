@@ -1,0 +1,243 @@
+{
+  "company": "Decagon",
+  "role_title": "Senior Director, Strategy and Operations",
+  "url": "https://jobs.ashbyhq.com/decagon/49742dbb-55ae-4552-b19c-9fa97f2c1533",
+  "ats_provider": "ashby",
+  "ats_job_id": "49742dbb-55ae-4552-b19c-9fa97f2c1533",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [],
+    "remote_us_eligible": false,
+    "office_time_required": "in-office",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Chief of Staff",
+  "seniority": {
+    "level": "Senior Director (likely VP-adjacent / IC or player-coach leader)",
+    "years_required_min": 10,
+    "years_required_max": null,
+    "manages_people": true,
+    "level_signals": [
+      "10+ years of experience with director-level scope",
+      "Lead and grow a high-performing team",
+      "Hire and coach for high ownership",
+      "Comp range $270K–$350K base consistent with Senior Director at a well-funded startup"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_strategy_ops",
+      "raw_text_from_jd": "10+ years of experience with director-level scope in Strategy & Operations, BizOps, post-sales operations, CX operations, delivery operations, or adjacent functions.",
+      "skill_type": "years_of_experience",
+      "domain": "strategy_and_operations",
+      "minimum_value": 10,
+      "unit": "years",
+      "qualifier": "director-level scope",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguous_problem_solving",
+      "raw_text_from_jd": "Demonstrated ability to diagnose ambiguous problems, drive structured workstreams, and influence senior stakeholders.",
+      "skill_type": "capability",
+      "domain": "strategic_problem_solving",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "scaling_post_sales_org",
+      "raw_text_from_jd": "Experience scaling a post-sales, CX, or delivery organization during hypergrowth—building playbooks, operating cadences, and resourcing/capacity planning systems.",
+      "skill_type": "outcome",
+      "domain": "post_sales_operations",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "executive_communication",
+      "raw_text_from_jd": "Strong executive communication and trust-building skills; ability to align cross-functional leaders and drive decisions with clarity and rigor.",
+      "skill_type": "capability",
+      "domain": "executive_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguous_fast_moving_env",
+      "raw_text_from_jd": "Comfort operating in fast-moving, ambiguous environments where you build structure while maintaining momentum.",
+      "skill_type": "cultural_fit",
+      "domain": "startup_environment",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "gtm_deal_scoping",
+      "raw_text_from_jd": "Direct experience partnering with Sales/GTM on deal scoping, success readiness, and pre-close operational rigor.",
+      "skill_type": "domain_knowledge",
+      "domain": "gtm_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "b2b_saas_background",
+      "raw_text_from_jd": "Background in B2B SaaS, enterprise software, or AI-adjacent companies.",
+      "skill_type": "domain_knowledge",
+      "domain": "industry_background",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "B2B SaaS",
+        "enterprise software",
+        "AI"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ops_function_from_scratch",
+      "raw_text_from_jd": "Prior experience building an operations function from scratch or leading it through early scale.",
+      "skill_type": "outcome",
+      "domain": "operations_buildout",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Customer Strategy & Operations — post-sales execution, deployment operations, and delivery infrastructure for enterprise customers",
+    "business_model": "B2B enterprise SaaS / conversational AI platform",
+    "primary_metrics_inferred": [
+      "Deployment consistency and launch predictability",
+      "Delivery health visibility and forecasting accuracy",
+      "Customer outcomes and retention",
+      "Operational efficiency as customer base scales"
+    ],
+    "cross_functional_partners": [
+      "Sales/GTM",
+      "Product",
+      "Engineering",
+      "Customer Success"
+    ],
+    "core_responsibilities": [
+      "Develop and maintain repeatable processes that improve deployment consistency and ongoing customer operations.",
+      "Establish operating rhythms and reporting that create visibility into delivery health, risks, and key bottlenecks.",
+      "Drive planning and resourcing practices that support predictable execution as the business scales.",
+      "Partner with GTM to improve upfront alignment on customer goals, scope, and readiness.",
+      "Lead cross-functional initiatives with Product and Engineering to unblock execution and improve outcomes.",
+      "Own issue management and escalation handling to keep delivery and customer results on track.",
+      "Manage and develop a Strategy & Operations team focused on operational excellence and scalability.",
+      "Hire and coach for high ownership and strong execution, emphasizing durable systems over one-off fixes."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      270000,
+      350000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity (form not specified)",
+    "location_pay_differential": false,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Strategy & Operations",
+    "BizOps",
+    "post-sales operations",
+    "enterprise customers",
+    "deployment",
+    "operating cadences",
+    "hypergrowth",
+    "cross-functional",
+    "playbooks",
+    "capacity planning",
+    "conversational AI",
+    "customer outcomes"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed and competitive ($270K–$350K base + equity)",
+    "Clear ownership scope over a well-defined function (Customer Strategy & Operations)",
+    "Well-known VC backers (a16z, Accel, Bain Capital Ventures, Coatue, Index Ventures) signal funding health",
+    "Named enterprise customers (Avis, Cash App, Square, Chime, Oura) signal real traction",
+    "Role has broad cross-functional influence and direct leadership mandate"
+  ],
+  "red_flags": [
+    "Strictly in-office with no remote option; city/location not specified in JD body, which limits candidates' ability to assess relocation needs",
+    "No visa sponsorship or work authorization information provided",
+    "Hypergrowth environment with ambiguous scope may indicate significant organizational churn and shifting priorities"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title, years requirement, and comp range)",
+      "scope.team_size_estimate (not stated; left as 'unclear')",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly listed in JD)",
+      "scope.business_model (inferred from company description)",
+      "location.cities_listed (no specific city stated for this role despite in-office requirement)"
+    ],
+    "ambiguities": [
+      "The JD states 'We're an in-office company' and describes this as 'a senior, in-office leadership role' but does not name which office city or cities are applicable. Treated as onsite with no cities listed.",
+      "Work authorization and visa sponsorship are entirely absent from the JD; classified as 'unclear'."
+    ]
+  }
+}

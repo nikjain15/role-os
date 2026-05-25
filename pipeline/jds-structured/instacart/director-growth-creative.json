@@ -1,0 +1,313 @@
+{
+  "company": "Instacart",
+  "role_title": "Director, Growth Creative",
+  "url": "https://instacart.careers/job/?gh_jid=7707793",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7707793",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "remote-us",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": "none stated; Flex First policy",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Growth (non-PM)",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Creative Director / Head of Growth Creative",
+  "seniority": {
+    "level": "Director / Senior Director (IC or people-manager)",
+    "years_required_min": 10,
+    "years_required_max": null,
+    "manages_people": true,
+    "level_signals": [
+      "10+ years leading creative teams in performance marketing",
+      "at least 5 years managing multi-disciplinary teams at scale",
+      "Base comp range $194K–$245K depending on state, consistent with Director-level",
+      "Responsible for building and growing a multidisciplinary team"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_leading_creative_teams",
+      "raw_text_from_jd": "10+ years leading creative teams in performance marketing, growth, or digital advertising, with at least 5 years managing multi-disciplinary teams at scale.",
+      "skill_type": "years_of_experience",
+      "domain": "creative_leadership_performance_marketing",
+      "minimum_value": 10,
+      "unit": "years",
+      "qualifier": "including at least 5 years managing multi-disciplinary teams at scale",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "performance marketing",
+        "digital advertising"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "building_scaling_inhouse_creative_orgs",
+      "raw_text_from_jd": "Proven experience building and scaling large in-house creative organizations that support high-volume performance advertising.",
+      "skill_type": "outcome",
+      "domain": "creative_organization_scaling",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "performance advertising"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "performance_creative_channel_expertise",
+      "raw_text_from_jd": "Deep understanding of performance creative dynamics across Meta, TikTok, YouTube, Search, CRM, In-App and emerging channels, including how algorithms evaluate and reward creative.",
+      "skill_type": "domain_knowledge",
+      "domain": "performance_creative_channels",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Meta",
+        "TikTok",
+        "YouTube"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "workflow_systems_design",
+      "raw_text_from_jd": "Demonstrated ability to design workflows, systems, and processes that unlock speed, operational efficiency, and creative excellence.",
+      "skill_type": "capability",
+      "domain": "creative_operations",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_automation_integration",
+      "raw_text_from_jd": "Strong track record of integrating AI tools and automation platforms into creative production to increase throughput and reduce manual work, including a demonstrated ability to design workflows, systems, and processes that unlock speed, operational efficiency, and creative excellence.",
+      "skill_type": "capability",
+      "domain": "ai_automation_in_creative_production",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI",
+        "automation platforms"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "global_creative_operations",
+      "raw_text_from_jd": "Experience leading global creative operations, including localization strategies, regional workflows, and culturally relevant creative development.",
+      "skill_type": "domain_knowledge",
+      "domain": "global_creative_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "performance_insights_to_creative_direction",
+      "raw_text_from_jd": "Exceptional ability to translate performance insights into clear strategic creative direction that teams can execute against at high velocity.",
+      "skill_type": "capability",
+      "domain": "data_driven_creative_strategy",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_leadership",
+      "raw_text_from_jd": "Strong leadership, communication, and cross-functional partnership skills. Able to inspire teams, manage change, and create alignment across Growth, Product, Brand, and leadership.",
+      "skill_type": "capability",
+      "domain": "cross_functional_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "fast_moving_experimental_environments",
+      "raw_text_from_jd": "Comfortable operating in fast-moving, experimental environments where volume, speed, and quality must coexist.",
+      "skill_type": "cultural_fit",
+      "domain": "operational_pace",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "music_creator_consumer_app_experience",
+      "raw_text_from_jd": "Bonus points for experience in music, creator ecosystems, or high-growth consumer apps, though strategic depth and operational excellence matter most.",
+      "skill_type": "domain_knowledge",
+      "domain": "music_creator_ecosystems_consumer_apps",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "music",
+        "creator ecosystems",
+        "consumer apps"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "food_grocery_advertising_experience",
+      "raw_text_from_jd": "Bonus points for experience in food, grocery, advertising, or high-growth consumer apps, though strategic depth and operational excellence matter most.",
+      "skill_type": "domain_knowledge",
+      "domain": "food_grocery_advertising",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "food",
+        "grocery",
+        "advertising",
+        "consumer apps"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Growth Creative / Local Produce (in-house creative agency) — paid and owned channels (media ads, email, SMS, web, digital, video, offline)",
+    "business_model": "B2C grocery delivery marketplace",
+    "primary_metrics_inferred": [
+      "ROI",
+      "CPA",
+      "CTR",
+      "Acquisition costs",
+      "Creative throughput / volume"
+    ],
+    "cross_functional_partners": [
+      "Growth leadership",
+      "Media",
+      "Analytics",
+      "Program Management",
+      "Product",
+      "Brand"
+    ],
+    "core_responsibilities": [
+      "Build and lead a world-class creative team: Grow and mentor a multidisciplinary team across performance design and copy.",
+      "Own performance creative direction: Set the creative direction across Paid and CRM channels in partnership with marketing.",
+      "Drive AI-led transformation: Integrate AI and automation into every stage of the creative workflow.",
+      "Architect the creative engine for scale: Design workflows, pipelines, and systems that enable production of thousands of ads per week.",
+      "Scale creative globally: Build the systems and teams required to deliver locally relevant creative across international markets.",
+      "Partner with Growth leadership: Align creative strategy with media and analytics.",
+      "Champion collaboration and culture: Create an environment where creative teams feel empowered to test boldly, move quickly, and constantly raise the bar."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      194000,
+      245000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "new hire equity grant and annual refresh grants",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "performance creative",
+    "growth creative",
+    "in-house creative agency",
+    "AI automation",
+    "creative at scale",
+    "paid channels",
+    "CRM",
+    "Meta",
+    "TikTok",
+    "YouTube",
+    "direct response",
+    "creative operations",
+    "localization",
+    "multidisciplinary team",
+    "creative director"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range fully disclosed across multiple US state tiers ($194K–$245K base)",
+    "Equity mentioned (new hire + annual refresh grants)",
+    "Fully remote role (#LI-Remote) with Flex First policy",
+    "Clear product surface and ownership area (Local Produce in-house agency)",
+    "Explicit AI-forward mandate signals investment in modern tooling",
+    "Opportunity to build a 'category-defining' function from senior leadership position"
+  ],
+  "red_flags": [
+    "No visa sponsorship information stated — unclear for international candidates",
+    "Extremely high volume expectation ('thousands of ads per week') may indicate a high-pressure environment",
+    "10+ years required is a narrow filter for candidates earlier in their director career",
+    "JD lists 'music, creator ecosystems' as bonus in one bullet but omits it in the separate Preferred Qualifications section — possible copy inconsistency"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "scope.business_model (inferred from company description as B2C grocery delivery marketplace)",
+      "scope.primary_metrics_inferred (ROI, CPA, CTR mentioned in JD body but not listed as direct KPIs for this role)",
+      "seniority.level (inferred from title, years required, and comp range)",
+      "compensation.base_range_usd lower bound taken from 'All other states' tier, upper bound from CA/NY/CT/NJ tier",
+      "location.work_auth and location.visa_sponsorship (not stated in JD)"
+    ],
+    "ambiguities": [
+      "Bonus/nice-to-have overlap: 'Bonus points for experience in music, creator ecosystems, or high-growth consumer apps' appears in Minimum Qualifications section, while a separate bullet in Preferred Qualifications says 'Bonus points for experience in food, grocery, advertising, or high-growth consumer apps' — the first bullet is placed under Minimum Qualifications but uses 'bonus points' language, treated as nice-to-have here.",
+      "Team reporting structure and size not stated — unclear whether this role has direct ICs, managers, or both.",
+      "International scope mentioned ('Scale creative globally', 'international markets') but no specific geographies named."
+    ]
+  }
+}

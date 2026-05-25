@@ -1,0 +1,316 @@
+{
+  "company": "Lyft",
+  "role_title": "Staff Product Manager, Lyft AI Platform & Marketplace Applications",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8461144002?gh_jid=8461144002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8461144002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "3 days per week (Mondays, Wednesdays, Thursdays); flexibility to work from anywhere up to 4 weeks per year",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "AI Product Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Technical PM",
+  "seniority": {
+    "level": "Staff PM (IC6 equivalent)",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7+ years of product management experience",
+      "Works directly with senior leaders and CXO-level executives",
+      "Expected to operate independently with little supervision",
+      "Base pay range $176K-$220K in SF, consistent with Staff-level IC",
+      "Role title is 'Staff Product Manager'"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "7+ years of product management experience",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 7,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technically_complex_products",
+      "raw_text_from_jd": "Experience driving technically complex products end to end, from inception, to launch with significant user adoption, to sunset",
+      "skill_type": "outcome",
+      "domain": "technical_product_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "managing_eng_and_science_teams",
+      "raw_text_from_jd": "Experience in managing (from product perspective) a team of software engineers and scientists, tracking the progress towards a roadmap through appropriate tools (Jira, Linear, Spreadsheets, Clickup etc)",
+      "skill_type": "capability",
+      "domain": "cross_functional_team_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Jira",
+        "Linear",
+        "Clickup"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_visualization_kpis",
+      "raw_text_from_jd": "Experience in crafting data visualizations for the automated measurements of KPIs and metrics, starting from raw databases (SQL, Tableau, Looker, Mode, Python visualization packages etc)",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analytics_and_visualization",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Tableau",
+        "Looker",
+        "Mode"
+      ],
+      "technologies_named": [
+        "SQL",
+        "Python visualization packages"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "executive_presentations",
+      "raw_text_from_jd": "Familiarity with crafting and leading presentations to small groups at the CXO executives level and to big teams (100+ ppl) at an all hands like level in medium to large companies",
+      "skill_type": "capability",
+      "domain": "executive_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "medium to large companies"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "independent_operation",
+      "raw_text_from_jd": "Ease in driving results and operating independently and with little supervision in flat structured organizations where approvals are not needed but results are closely monitored",
+      "skill_type": "cultural_fit",
+      "domain": "autonomous_execution",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "agentic_systems_knowledge",
+      "raw_text_from_jd": "Strong understanding of agentic systems, context engineering, and multi-agent orchestration",
+      "skill_type": "domain_knowledge",
+      "domain": "agentic_ai",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "agentic systems",
+        "context engineering",
+        "multi-agent orchestration"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ml_ai_conceptual_knowledge",
+      "raw_text_from_jd": "Strong conceptual knowledge of machine learning and AI",
+      "skill_type": "domain_knowledge",
+      "domain": "machine_learning_and_ai",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "machine learning",
+        "AI"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "third_party_vendor_experience",
+      "raw_text_from_jd": "Experience in handling third parties as vendors or customers and knowledge of Saas contract practices and software sales processes",
+      "skill_type": "domain_knowledge",
+      "domain": "vendor_management_and_saas_contracts",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_documentation",
+      "raw_text_from_jd": "Excellent skills in documenting and articulating complex technical systems.",
+      "skill_type": "capability",
+      "domain": "technical_writing",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "hands_on_ml_coding",
+      "raw_text_from_jd": "hands-on coding experience with standard libraries (e.g., PyTorch, Keras, Scikit-learn, XGBoost) is a plus",
+      "skill_type": "tool_proficiency",
+      "domain": "machine_learning_engineering",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "PyTorch",
+        "Keras",
+        "Scikit-learn",
+        "XGBoost"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Agentic AI product and platform; AI/ML platform powering hundreds of applications across Lyft; AI-powered marketplace products",
+    "business_model": "B2C ridesharing platform with internal AI/ML platform serving internal stakeholders",
+    "primary_metrics_inferred": [
+      "AI platform adoption across the company",
+      "KPIs and metrics for AI/ML-powered marketplace products",
+      "Decision-making acceleration via AI tooling",
+      "Quarterly progress against roadmap milestones"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Data Science",
+      "Design",
+      "CXO / Senior Leadership",
+      "Internal platform users / product teams"
+    ],
+    "core_responsibilities": [
+      "Define, own and execute the roadmap of the AI platform and AI-powered marketplace products",
+      "Define, track and periodically report on metrics and KPIs of the org",
+      "Engage teams and users of AI platform inside the company to understand their needs, evangelize current offerings and identify gaps or opportunities",
+      "Write detailed product requirements, strategy and planning documents aimed at both technical and non technical audiences",
+      "Proactively engage, research and craft proposals for areas of the company where AI platform can drive efficiency and/or increase effectiveness",
+      "Present to non technical leadership on the progress of the team quarterly",
+      "Oversee and guide build vs buy decisions, grounding them in data and research"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      176000,
+      220000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "potential equity offering mentioned but not specified",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Agentic AI",
+    "AI platform",
+    "multi-agent orchestration",
+    "context engineering",
+    "marketplace",
+    "machine learning",
+    "AI/ML platform",
+    "roadmap",
+    "KPIs",
+    "Staff PM",
+    "build vs buy",
+    "data visualization",
+    "SQL",
+    "internal platform"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($176K-$220K base in SF)",
+    "Clear product surface and ownership (Agentic AI platform + marketplace applications)",
+    "Role has high visibility — direct engagement with senior leaders and CXO-level executives",
+    "Hybrid policy is explicit (3 days/week Mon/Wed/Thu) with flexibility for 4 remote weeks per year",
+    "Generous benefits package including 18 weeks parental leave and 401(k) match"
+  ],
+  "red_flags": [
+    "San Francisco hybrid only (3 days/week in office) — eliminates fully-remote candidates",
+    "Broad scope combining AI platform ownership with marketplace applications may indicate thin PM coverage or resource constraints",
+    "Visa sponsorship status not mentioned — unclear for non-US candidates",
+    "The JD conflates must-haves and nice-to-haves in a single 'Experience' section, making hard/soft classification ambiguous for some items"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from role title 'Staff PM', comp range, and years requirement)",
+      "scope.business_model (inferred from company description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly stated)",
+      "location.visa_sponsorship (not mentioned in JD; marked unclear)",
+      "posting_first_seen (not available)",
+      "posting_last_updated (not available)"
+    ],
+    "ambiguities": [
+      "The entire 'Experience' section is presented as a flat list without 'Required' vs 'Preferred' labels. The ML coding hands-on experience is explicitly called out as 'a plus'; all other items are treated as hard requirements. This interpretation is noted.",
+      "Bonus is mentioned in the compensation disclosure ('not inclusive of potential equity offering, bonus or benefits') but no bonus range is provided.",
+      "Location pay differential is implied ('Salary ranges are dependent on... geographic location') but no other city ranges are stated."
+    ]
+  }
+}

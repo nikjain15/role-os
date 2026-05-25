@@ -1,0 +1,282 @@
+{
+  "company": "Lemonade",
+  "role_title": "Senior Product Manager - Claims Experience",
+  "url": "https://jobs.ashbyhq.com/lemonade/fa5d18a4-f425-4e88-8d9c-340f3bb32a8f",
+  "ats_provider": "ashby",
+  "ats_job_id": "fa5d18a4-f425-4e88-8d9c-340f3bb32a8f",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [],
+    "remote_us_eligible": false,
+    "office_time_required": "most days of the week",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "AI Product Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Generalist PM with automation/ops focus",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "At least 5 years experience working as a product manager",
+      "Experience leading small, agile teams",
+      "Role title is Senior Product Manager"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "At least 5 years experience working as a product manager in a successful startup / fast-growing company - a must",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "qualifier": "startup or fast-growing company",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "successful startup",
+        "fast-growing company"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "genai_hands_on",
+      "raw_text_from_jd": "Hands on experience with building GenAI applications - a must",
+      "skill_type": "tool_proficiency",
+      "domain": "generative_ai",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "GenAI"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "complex_process_understanding",
+      "raw_text_from_jd": "Capable of understanding complex processes, and identifying areas calling for improvement",
+      "skill_type": "capability",
+      "domain": "process_analysis",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "self_organized_process_driven",
+      "raw_text_from_jd": "Self-organized, process driven",
+      "skill_type": "cultural_fit",
+      "domain": "work_style",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_driven_analytical",
+      "raw_text_from_jd": "Data-driven and analytical thinker",
+      "skill_type": "capability",
+      "domain": "data_analysis",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "english_fluency",
+      "raw_text_from_jd": "Fully fluent in English, with top-notch communication skills",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "leading_agile_teams",
+      "raw_text_from_jd": "Experience leading small, agile teams",
+      "skill_type": "capability",
+      "domain": "team_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "self_learning",
+      "raw_text_from_jd": "Self-learning individual who reads constantly and loves to pass on their knowledge to others",
+      "skill_type": "cultural_fit",
+      "domain": "continuous_learning",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "office_presence",
+      "raw_text_from_jd": "Ready to work in an office environment most days of the week",
+      "skill_type": "cultural_fit",
+      "domain": "work_location",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_enthusiasm",
+      "raw_text_from_jd": "Enthusiasm about learning and adapting to the exciting world of AI –  a commitment to exploring this field is a fundamental part of our culture",
+      "skill_type": "cultural_fit",
+      "domain": "ai_adoption",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "automation_experience",
+      "raw_text_from_jd": "Experience with automating manual processes - a big plus",
+      "skill_type": "domain_knowledge",
+      "domain": "process_automation",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "small, agile teams",
+    "surface": "Claims experience, customer ops automation (claims handling, customer support, risk review)",
+    "business_model": "B2C insurance, AI-first",
+    "primary_metrics_inferred": [
+      "Automation rate of customer touchpoints",
+      "Operational efficiency",
+      "Customer experience / satisfaction at scale"
+    ],
+    "cross_functional_partners": [
+      "Designers",
+      "Engineers",
+      "Data analysts",
+      "Customer Ops team stakeholders"
+    ],
+    "core_responsibilities": [
+      "Drive Lemonade's automation efforts to reach infinite scale",
+      "Automate customer touchpoints including claims handling, customer support replies, and risk factor review",
+      "Use latest GenAI tools and LLMs powered by internal tools",
+      "Collaborate with designers, engineers, data analysts, and Customer Ops stakeholders",
+      "Create product strategies consistent with company vision and translate into detailed requirements and prototypes",
+      "Prioritize tasks and generate creative ideas to expand product functions and improve scalability and automation"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "GenAI",
+    "LLMs",
+    "automation",
+    "claims experience",
+    "customer ops",
+    "self-service",
+    "insurance",
+    "AI-first",
+    "product strategy",
+    "scalability"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear articulation of product surface and automation focus",
+    "Explicit GenAI/LLM usage in day-to-day work",
+    "AI-first culture explicitly stated as core to the company, not just marketing",
+    "Cross-functional collaboration with designers, engineers, and data analysts described concretely"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "Office location not specified in JD — city/country unclear",
+    "Visa sponsorship and work authorization not mentioned",
+    "Posting first seen and last updated dates not available"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from role title and 5+ years requirement)",
+      "seniority.manages_people (inferred as false; 'leading small agile teams' suggests influence not direct management)",
+      "scope.business_model (inferred from Lemonade being a B2C insurance company)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "location.type (inferred as onsite from 'office environment most days of the week')",
+      "location.remote_us_eligible (inferred as false from office requirement)"
+    ],
+    "ambiguities": [
+      "Location (city/country) is never specified in the JD body; Lemonade is headquartered in New York but also has offices in Israel — unclear which office this role is tied to.",
+      "Several bullets under 'What you'll need' are unlabeled (no 'a must' or 'a plus' qualifier); treated as hard requirements per instructions.",
+      "seniority.manages_people is ambiguous — 'Experience leading small, agile teams' could imply people management or just cross-functional leadership."
+    ]
+  }
+}

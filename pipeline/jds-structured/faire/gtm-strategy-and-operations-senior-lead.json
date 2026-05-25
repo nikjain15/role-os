@@ -1,0 +1,246 @@
+{
+  "company": "Faire",
+  "role_title": "GTM Strategy & Operations Senior Lead",
+  "url": "https://boards.greenhouse.io/faire/jobs/8530585002?gh_jid=8530585002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8530585002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "3 days per week (Tuesdays, Thursdays, and one flex day); up to 4 weeks remote per year",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "GTM Strategy",
+  "seniority": {
+    "level": "Senior IC / Staff-level",
+    "years_required_min": 10,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "10+ years of relevant work experience",
+      "High-visibility individual contributor role presenting to core leadership",
+      "Comp range $197,500–$271,500 consistent with Senior/Staff IC"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_experience",
+      "raw_text_from_jd": "10+ years of relevant work experience in an analytical and strategic role across analytics, consulting, product, business operations, or finance",
+      "skill_type": "years_of_experience",
+      "domain": "analytics_strategy_operations",
+      "minimum_value": 10,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strategic_problem_solving",
+      "raw_text_from_jd": "You are a strategic problem solver. You can break down ambiguous problems and apply a first principles approach to solving them.",
+      "skill_type": "capability",
+      "domain": "strategic_thinking",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_metrics_focused",
+      "raw_text_from_jd": "You are highly analytical and metrics-focused. You can execute on complex analyses, define KPIs, size opportunity areas, and measure and report on performance across the business",
+      "skill_type": "capability",
+      "domain": "analytics_and_kpi_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "excel_sql_proficiency",
+      "raw_text_from_jd": "Advanced technical skill set and strong proficiency in Excel + SQL",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analysis",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "Excel"
+      ],
+      "technologies_named": [
+        "SQL"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strong_communicator",
+      "raw_text_from_jd": "You are a strong communicator. You can crisply communicate actionable data-driven insights to all audiences.",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_business_intuition",
+      "raw_text_from_jd": "You have strong product and business intuition. You contextualize how insights fit into broader business goals and have a strong understanding of product and business metrics.",
+      "skill_type": "domain_knowledge",
+      "domain": "product_and_business_strategy",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "scrappy_resourceful",
+      "raw_text_from_jd": "You are scrappy and resourceful. When something needs to get done, you always find a way to make it happen.",
+      "skill_type": "cultural_fit",
+      "domain": "execution_mindset",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "fast_learner",
+      "raw_text_from_jd": "You are an extraordinarily fast learner. You have the natural curiosity and intellectual horsepower to deeply understand new topics and pick up new skills in a very short time.",
+      "skill_type": "cultural_fit",
+      "domain": "learning_agility",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "GTM Strategy & Operations for Fulfillment — brand acquisition, fulfillment performance analytics, growth levers",
+    "business_model": "B2B marketplace / wholesale platform connecting independent retailers and brands",
+    "primary_metrics_inferred": [
+      "Brand acquisition and retention rates",
+      "Fulfillment performance metrics",
+      "Company-level growth KPIs"
+    ],
+    "cross_functional_partners": [
+      "Product",
+      "Sales",
+      "Systems",
+      "Program Management",
+      "Marketing",
+      "Operations",
+      "Leadership"
+    ],
+    "core_responsibilities": [
+      "Break down complex and ambiguous strategic problems to uncover actionable insights",
+      "Develop, refine, and execute on go-to-market strategies",
+      "Lead large cross-functional strategic initiatives that move company metrics",
+      "Identify opportunities, develop hypotheses, execute in-depth analyses and make recommendations to Faire's leadership team",
+      "Own the most important metrics for our business by having deep intuition on how they are trending",
+      "Provide thought partnership to cross functional teammates to ensure the organization is using data thoughtfully and correctly",
+      "Develop effective and scalable operational processes and fill operational gaps"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      197500,
+      271500
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity (form not specified)",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "GTM strategy",
+    "supply acquisition",
+    "fulfillment",
+    "SQL",
+    "Excel",
+    "analytics",
+    "KPIs",
+    "cross-functional",
+    "wholesale marketplace",
+    "brand acquisition",
+    "data-driven",
+    "first principles",
+    "go-to-market"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range explicitly disclosed ($197,500–$271,500 base)",
+    "High-visibility individual contributor role with direct access to core leadership",
+    "Clear problem area and mandate (fulfillment, brand acquisition)",
+    "Equity and comprehensive benefits mentioned",
+    "Hybrid with defined flexibility (3 days in-office + up to 4 weeks fully remote per year)"
+  ],
+  "red_flags": [
+    "Visa sponsorship and work authorization requirements not stated anywhere in the JD",
+    "Salary range appears to be San Francisco-only; no indication of pay bands for other locations despite company having offices in Toronto, London, and New York",
+    "10+ years minimum is a steep hard floor with no stated flexibility",
+    "No nice-to-have section — all requirements read as hard, limiting flexibility in candidate pool assessment"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range and years requirement; not explicitly stated)",
+      "scope.business_model (inferred from product description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not listed explicitly in JD)",
+      "compensation.location_pay_differential (inferred from SF-specific pay range label)"
+    ],
+    "ambiguities": [
+      "All qualifications are listed in a flat 'Qualifications' section with no explicit 'required' vs 'preferred' split; all treated as hard/must-haves per schema rules",
+      "Work authorization and visa sponsorship are not mentioned anywhere in the JD; both set to 'unclear'",
+      "JD mentions Faire offices in San Francisco, Kitchener-Waterloo, Toronto, London, and New York, but the pay range is only specified for San Francisco — it is unclear whether this role is available in other locations"
+    ]
+  }
+}

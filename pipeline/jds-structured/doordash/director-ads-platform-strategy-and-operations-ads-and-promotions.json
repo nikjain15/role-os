@@ -1,0 +1,285 @@
+{
+  "company": "DoorDash",
+  "role_title": "Director, Ads Platform Strategy & Operations, Ads & Promotions",
+  "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7844173",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7844173",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Technical Program Manager (ads platform ops + product roadmap ownership)",
+  "seniority": {
+    "level": "Director (likely Senior Director equivalent, IC or people-manager hybrid)",
+    "years_required_min": 10,
+    "years_required_max": null,
+    "manages_people": true,
+    "level_signals": [
+      "10+ years of experience in strategy & operations, product operations, product management, business operations, management consulting, or ad operations",
+      "You are a strong leader who has managed direct reports and teams",
+      "Oversee Ad Operations and manage team leads to scale operations, grow offshore resources",
+      "Comp range $197,200–$290,000 base, consistent with Director-level at DoorDash"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_strategy_ops",
+      "raw_text_from_jd": "You have 10+ years of experience in strategy & operations, product operations, product management, business operations, management consulting, or ad operations — experience in advertising or ad tech is strongly preferred.",
+      "skill_type": "years_of_experience",
+      "domain": "strategy_and_operations",
+      "minimum_value": 10,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "advertising",
+        "ad tech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "management consulting"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "complex_xfn_project_leadership",
+      "raw_text_from_jd": "You have a proven track record of leading highly complex, cross-functional projects and delivering results on time.",
+      "skill_type": "outcome",
+      "domain": "cross_functional_leadership",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "process_design_expertise",
+      "raw_text_from_jd": "You have deep expertise in process design and optimization, with a passion for operational efficiency and a willingness to get into the details.",
+      "skill_type": "capability",
+      "domain": "process_design_and_optimization",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_emerging_tech_interest",
+      "raw_text_from_jd": "You have a strong interest in, or direct experience with, leveraging AI and other emerging technologies to solve real business problems.",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_and_emerging_technology",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_navigation",
+      "raw_text_from_jd": "You don't need a playbook. You dive into difficult, ambiguous problems and develop a clear plan forward.",
+      "skill_type": "capability",
+      "domain": "problem_solving",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "people_management",
+      "raw_text_from_jd": "You are a strong leader who has managed direct reports and teams, and who gets energized by building and developing talent.",
+      "skill_type": "capability",
+      "domain": "people_management",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "multitasking_high_visibility",
+      "raw_text_from_jd": "You thrive while wearing multiple hats and working across a variety of high-visibility projects and workstreams simultaneously.",
+      "skill_type": "cultural_fit",
+      "domain": "organizational_agility",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_skills_tools",
+      "raw_text_from_jd": "You have exceptional analytical skills (Excel / Google Sheets / SQL) and are proficient — and a fast learner — across a variety of tech platforms such as Salesforce, Snowflake, and internal tools.",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analytics",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Excel",
+        "Google Sheets",
+        "Salesforce",
+        "Snowflake"
+      ],
+      "technologies_named": [
+        "SQL"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "advertising_adtech_experience",
+      "raw_text_from_jd": "experience in advertising or ad tech is strongly preferred.",
+      "skill_type": "domain_knowledge",
+      "domain": "advertising_adtech",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "advertising",
+        "ad tech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Ads Platform Strategy & Operations — full sales and campaign lifecycle tooling, automation, Gen AI integration, self-serve merchant tools, and offshore Ad Operations",
+    "business_model": "B2B advertising (brands/merchants buying DoorDash ad inventory); e-commerce and delivery platform context",
+    "primary_metrics_inferred": [
+      "Ads GMV growth",
+      "Campaign operational efficiency / SLA improvements",
+      "Sales cycle automation rate",
+      "Self-serve merchant tool adoption",
+      "Offshore operations scaling"
+    ],
+    "cross_functional_partners": [
+      "Sales",
+      "Product",
+      "Engineering",
+      "Billing",
+      "Accounting",
+      "Finance",
+      "Compliance",
+      "Legal",
+      "Insights",
+      "Merchant teams",
+      "Ad Operations"
+    ],
+    "core_responsibilities": [
+      "Own the overall vision, strategy, and execution of the Ads Platform S&O roadmap, covering the full sales and campaign lifecycle",
+      "Champion and lead the integration of Gen AI across ads workflows",
+      "Partner with Sales and merchant teams to identify gaps in existing workflows; implement, manage, and scale sales and operations via offshore resources, automation tools, and streamlined end-to-end processes",
+      "Work closely with Product and Engineering to create and execute quarterly roadmaps focused on infrastructure, tooling, and automation",
+      "Oversee Ad Operations and manage team leads to scale operations, grow offshore resources, and improve team SLAs",
+      "Work with internal teams (Billing, Accounting, Finance, Compliance, Legal) to support scaled ways to propose, contract, execute, and invoice campaigns",
+      "Use data-driven decision-making to run and scale experiments — from new engagement models for Sales to new self-serve tools for Merchants",
+      "Build systems to improve quality of campaign delivery and overall excellence of what we deliver for our advertisers"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      197200,
+      290000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity grants",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Ads Platform",
+    "Strategy & Operations",
+    "Gen AI",
+    "advertising",
+    "ad tech",
+    "campaign lifecycle",
+    "automation",
+    "self-serve tools",
+    "offshore operations",
+    "cross-functional",
+    "SQL",
+    "Salesforce",
+    "Snowflake",
+    "GMV growth",
+    "Director"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($197,200–$290,000 base) — wide but transparent",
+    "Clear ownership scope articulated (full ads platform S&O roadmap)",
+    "Explicit Gen AI mandate signals modern, forward-looking team",
+    "Cross-functional breadth (Sales, Product, Eng, Finance, Legal) signals high-visibility, strategic role",
+    "DoorDash's advertising business described as in 'hypergrowth' — meaningful leadership opportunity"
+  ],
+  "red_flags": [
+    "Location not specified in JD body — unclear if remote, hybrid, or onsite; pay is 'localized' suggesting office presence likely required",
+    "Visa sponsorship status not stated",
+    "Very wide comp range ($93K spread) may reflect geographic pay tiers rather than role-level flexibility",
+    "10+ years required with advertising/ad tech strongly preferred — broad experience range with a de-facto domain bias",
+    "Offshore resource management implied but scope of that responsibility is not quantified"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Director', years required, comp range, and people management signals)",
+      "scope.business_model (inferred from JD context — DoorDash ads selling to merchants/brands)",
+      "scope.primary_metrics_inferred (not stated explicitly; inferred from responsibilities)",
+      "location.type (not stated; left as 'unclear' — only geographic pay differential hint present)",
+      "location.remote_us_eligible (not stated; null)"
+    ],
+    "ambiguities": [
+      "Work location is not specified in the JD body (no city, remote/hybrid/onsite designation). The phrase 'Base salary is localized according to an employee's work location' implies office presence in specific cities, but no cities are named for this role specifically. Location type set to 'unclear'.",
+      "The 10+ years requirement spans a very broad set of function types (strategy & ops, product ops, PM, biz ops, consulting, ad ops), making seniority calibration ambiguous — treated as Director-level based on title and comp.",
+      "Visa sponsorship is not addressed in the JD; set to 'unclear'."
+    ]
+  }
+}

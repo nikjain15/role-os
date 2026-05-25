@@ -1,0 +1,341 @@
+{
+  "company": "DoorDash",
+  "role_title": "Technical Program Manager - Labs",
+  "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6972095",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "6972095",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Hardware NPI / Robotics TPM",
+  "seniority": {
+    "level": "Senior IC (Staff-level TPM)",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7+ years of experience in hardware program management",
+      "Comp range $159,800–$235,000 base, consistent with senior IC TPM",
+      "'Highly senior team' description implies strong seniority bar",
+      "High-ownership, mission-critical role with executive-level visibility"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_hardware_program_management",
+      "raw_text_from_jd": "7+ years of experience in hardware program management, with a track record of delivering complex electromechanical or robotics systems into production.",
+      "skill_type": "years_of_experience",
+      "domain": "hardware_program_management",
+      "minimum_value": 7,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "electromechanical systems",
+        "robotics"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "hardware_product_dev_processes",
+      "raw_text_from_jd": "Deep understanding of hardware product development processes, including PLM, PDP, and NPI methodologies.",
+      "skill_type": "domain_knowledge",
+      "domain": "hardware_product_development",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "PLM",
+        "PDP",
+        "NPI"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "contract_manufacturer_experience",
+      "raw_text_from_jd": "Hands-on experience working with contract manufacturers, from early development builds through to high-volume production.",
+      "skill_type": "capability",
+      "domain": "contract_manufacturing",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "contract manufacturers"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "manufacturing_processes_familiarity",
+      "raw_text_from_jd": "Familiarity with a range of manufacturing processes including PCBA (SMT), injection molding, die casting, and complex system integration.",
+      "skill_type": "domain_knowledge",
+      "domain": "manufacturing_processes",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "PCBA",
+        "SMT",
+        "injection molding",
+        "die casting",
+        "complex system integration"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_fluency_cross_domain",
+      "raw_text_from_jd": "Excellent technical fluency, capable of facilitating trade-offs and understanding implications across ME, EE, firmware, and controls domains.",
+      "skill_type": "capability",
+      "domain": "multidisciplinary_hardware_engineering",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "ME",
+        "EE",
+        "firmware",
+        "controls"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "organizational_workstream_management",
+      "raw_text_from_jd": "Strong organizational skills with an ability to manage multiple workstreams, dependencies, and cross-functional stakeholders.",
+      "skill_type": "capability",
+      "domain": "program_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_reporting_skills",
+      "raw_text_from_jd": "Exceptional communication and reporting skills; able to deliver clarity and alignment in fast-paced, high-stakes environments.",
+      "skill_type": "capability",
+      "domain": "stakeholder_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "education_engineering_degree",
+      "raw_text_from_jd": "A Bachelor's or higher degree in Mechanical Engineering, Electrical Engineering, or a related technical field.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree",
+        "Mechanical Engineering degree",
+        "Electrical Engineering degree"
+      ]
+    },
+    {
+      "id": "independent_judgment",
+      "raw_text_from_jd": "Must be comfortable regularly exercising discretion and independent judgment in performing job duties, including evaluating options, making informed decisions, and determining appropriate courses of action within the scope of assigned responsibilities.",
+      "skill_type": "cultural_fit",
+      "domain": "decision_making",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "robotics_aerospace_autonomy_background",
+      "raw_text_from_jd": "Background in robotics, aerospace, or autonomy-focused product development.",
+      "skill_type": "domain_knowledge",
+      "domain": "robotics_aerospace_autonomy",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "robotics",
+        "autonomy"
+      ],
+      "industries_named": [
+        "robotics",
+        "aerospace"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "embedded_software_firmware_familiarity",
+      "raw_text_from_jd": "Familiarity with embedded software lifecycles and firmware-hardware integration.",
+      "skill_type": "domain_knowledge",
+      "domain": "embedded_software_firmware",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "embedded software",
+        "firmware-hardware integration"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "high_reliability_safety_critical_manufacturing",
+      "raw_text_from_jd": "Experience coordinating high-reliability or safety-critical system manufacturing and",
+      "skill_type": "domain_knowledge",
+      "domain": "safety_critical_systems",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "DoorDash Labs — automation and robotics hardware programs (NPI, prototype through scaled deployment)",
+    "business_model": "internal innovation / last-mile logistics automation at DoorDash",
+    "primary_metrics_inferred": [
+      "On-time delivery of hardware milestones (prototype to production)",
+      "Manufacturing readiness and quality",
+      "Supply chain partner execution",
+      "Program schedule and critical path adherence"
+    ],
+    "cross_functional_partners": [
+      "Mechanical design",
+      "Embedded systems",
+      "Controls",
+      "Manufacturing operations",
+      "Contract manufacturers",
+      "Supply chain partners",
+      "Engineering leads",
+      "Executives"
+    ],
+    "core_responsibilities": [
+      "Own and drive complex hardware and autonomy programs from concept to production, with cross-functional scope across mechanical, electrical, GNC, and firmware systems.",
+      "Lead New Product Introduction (NPI) efforts, managing build plans, integration milestones, and transfer to contract manufacturing.",
+      "Serve as the central node for coordinating design, manufacturing, validation, and supplier execution across multiple internal and external teams.",
+      "Define and track program timelines, critical paths, and risk mitigation strategies across all technical disciplines.",
+      "Partner with engineering leads to ensure technical decisions align with schedule and manufacturing constraints.",
+      "Communicate program status, risks, and decisions to stakeholders at both engineering and executive levels.",
+      "Help build robust manufacturing plans, including DFM/DFA alignment, pilot builds, and supply chain readiness."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      159800,
+      235000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity grants",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Technical Program Manager",
+    "Hardware NPI",
+    "robotics",
+    "electromechanical",
+    "contract manufacturing",
+    "PLM",
+    "PDP",
+    "DFM/DFA",
+    "embedded systems",
+    "autonomy",
+    "last-mile logistics",
+    "supply chain",
+    "PCBA",
+    "DoorDash Labs"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($159,800–$235,000 national base)",
+    "Clear product surface and ownership area (Hardware NPI for robotics/autonomy programs)",
+    "Described as a highly senior team with deep domain expertise",
+    "Equity grants mentioned as part of compensation",
+    "DoorDash Labs has a defined mission and track record (10B lifetime deliveries milestone cited)",
+    "Comprehensive benefits package explicitly described"
+  ],
+  "red_flags": [
+    "Location/work arrangement not specified in JD — unclear if remote, hybrid, or onsite",
+    "Visa sponsorship policy not mentioned",
+    "Third preferred qualification ('Experience coordinating high-reliability or safety-critical system manufacturing and') appears truncated — content may be incomplete",
+    "Pay range is wide ($75K spread) and explicitly subject to localization, making actual offer difficult to predict without knowing work location"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range, years required, and team description)",
+      "scope.primary_metrics_inferred (not stated in JD; inferred from responsibilities)",
+      "scope.business_model (inferred from team description)",
+      "location.type (not stated; marked unclear)",
+      "location.remote_us_eligible (not stated; left null)"
+    ],
+    "ambiguities": [
+      "Work location/arrangement is never stated in the JD body. The Covey notice references 'NYC or Remote Jobs Associated With Office in NYC Only,' which hints at possible remote eligibility but is not a clear statement of role location type.",
+      "The third preferred qualification appears cut off mid-sentence: 'Experience coordinating high-reliability or safety-critical system manufacturing and' — the full text is likely missing.",
+      "Education requirement lists 'Bachelor's or higher degree' with no equivalent experience clause, treated as hard; however, the phrasing 'or a related technical field' introduces some flexibility in discipline."
+    ]
+  }
+}

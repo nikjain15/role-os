@@ -1,0 +1,266 @@
+{
+  "company": "Lyft",
+  "role_title": "Product Manager, Premium Modes",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8514382002?gh_jid=8514382002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8514382002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "3 days per week on Mondays, Wednesdays, and Thursdays",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Growth PM",
+  "seniority": {
+    "level": "Mid-Senior IC",
+    "years_required_min": 3,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "3+ years of product management experience",
+      "Lead a cross-functional pod of engineers, designers, and data scientists",
+      "Base pay range $128,000-$160,000 in SF area"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "3+ years of product management experience, ideally with meaningful time spent on consumer-facing products",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 3,
+      "unit": "years",
+      "qualifier": "ideally consumer-facing",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "shipping_track_record",
+      "raw_text_from_jd": "Track record of shipping products with measurable user and business impact",
+      "skill_type": "outcome",
+      "domain": "product_launches",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_alignment",
+      "raw_text_from_jd": "Strong ability to drive cross-functional alignment - you manage ambiguity, complexity, and interdependencies in an organized way",
+      "skill_type": "capability",
+      "domain": "cross_functional_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_fluency",
+      "raw_text_from_jd": "Data fluency - you define and analyze metrics that inform the success of your products, and you're comfortable running and interpreting experiments",
+      "skill_type": "capability",
+      "domain": "data_analysis",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_skills",
+      "raw_text_from_jd": "Strong communication skills across audiences and levels, including the ability to convey complex tradeoffs in a clear and compelling way",
+      "skill_type": "capability",
+      "domain": "stakeholder_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_obsession",
+      "raw_text_from_jd": "Customer obsessed - strong user empathy and experience in the customer discovery and product development process",
+      "skill_type": "capability",
+      "domain": "user_research",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "marketplace_or_premium_experience",
+      "raw_text_from_jd": "Ideally have experience with marketplace products or premium consumer experiences",
+      "skill_type": "domain_knowledge",
+      "domain": "marketplace_products",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "travel_supply_ev_familiarity",
+      "raw_text_from_jd": "Bonus: familiarity with travel platforms, supply-side marketplace dynamics, or EV/sustainability initiatives",
+      "skill_type": "domain_knowledge",
+      "domain": "travel_platforms_or_ev_sustainability",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "EV"
+      ],
+      "industries_named": [
+        "travel",
+        "ridesharing",
+        "sustainability"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_tools_leverage",
+      "raw_text_from_jd": "Leverage AI tools and emerging technology to accelerate your team's workflows and enhance the products you build",
+      "skill_type": "tool_proficiency",
+      "domain": "ai_tools",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "AI tools",
+        "emerging technology"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Lyft Black and Black SUV (Premium Modes), EV/electrification strategy",
+    "business_model": "B2C ridesharing marketplace, premium consumer product",
+    "primary_metrics_inferred": [
+      "Rider adoption and retention of Premium modes",
+      "Driver quality / supply for premium tiers",
+      "Mode growth metrics",
+      "EV penetration on Lyft platform"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Data Science",
+      "Executive stakeholders",
+      "Partner teams"
+    ],
+    "core_responsibilities": [
+      "Own your product area end-to-end - from problem identification through launch, growth, and iteration. Translate Lyft's strategic priorities into an ambitious roadmap for your area and be accountable for outcomes",
+      "Deliver on this vision by setting your team's goals, success metrics, and roadmap to align with Lyft's mission - designing and running experiments to drive maximum impact",
+      "Drive a rapid experimentation and learning culture by continuously shipping and iterating on products, while staying deeply customer obsessed",
+      "Lead a cross-functional pod of engineers, designers, and data scientists - setting context, maintaining momentum, and unblocking the team",
+      "Deeply understand your customers across different rider segments and use cases, leveraging data analysis, market research, and user research to inform decisions",
+      "Collaborate across the company and communicate roadmaps, priorities, and decisions clearly to audiences ranging from partner teams to executive levels",
+      "Leverage AI tools and emerging technology to accelerate your team's workflows and enhance the products you build"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      128000,
+      160000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "potential equity offering mentioned but not detailed",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Premium Modes",
+    "Lyft Black",
+    "Lyft Black SUV",
+    "marketplace",
+    "consumer product",
+    "experimentation",
+    "EV",
+    "electrification",
+    "cross-functional",
+    "data fluency",
+    "rider experience",
+    "premium consumer experience"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($128K-$160K base in SF area)",
+    "High ownership role explicitly stated — 'high-ownership role at the center of a business Lyft is betting on'",
+    "Clear product surface with strategic importance (premium growth + EV strategy)",
+    "Equity mentioned as part of package",
+    "Hybrid schedule with flexibility to work from anywhere up to 4 weeks per year"
+  ],
+  "red_flags": [
+    "Hybrid requires 3 specific days per week in office (Mon/Wed/Thu) — limited schedule flexibility",
+    "Compensation range only stated for San Francisco area; other locations not specified",
+    "Visa sponsorship not mentioned — unclear for non-US citizens",
+    "AI tools usage listed as a responsibility but not a stated requirement — ambiguous whether it is truly expected"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range and years required)",
+      "scope.business_model (inferred from product description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "location.work_auth (not stated; defaulted to open)",
+      "location.visa_sponsorship (not mentioned; set to unclear)"
+    ],
+    "ambiguities": [
+      "'Leverage AI tools and emerging technology to accelerate your team's workflows' appears in Responsibilities (suggesting a must-have) but is not listed in the Experience section; classified as nice_to_have due to lack of explicit requirement language",
+      "'ideally with meaningful time spent on consumer-facing products' softens the 3+ years requirement somewhat but the 3-year minimum is treated as hard per unconditional bullet framing",
+      "Compensation range is stated only for San Francisco area; role may be open to other locations at different ranges, but only SF is mentioned in the JD body"
+    ]
+  }
+}

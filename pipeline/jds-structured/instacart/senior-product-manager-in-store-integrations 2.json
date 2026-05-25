@@ -1,0 +1,352 @@
+{
+  "company": "Instacart",
+  "role_title": "Senior Product Manager, In-Store Integrations",
+  "url": "https://instacart.careers/job/?gh_jid=7838738",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7838738",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "remote-global",
+    "cities_listed": [],
+    "remote_us_eligible": false,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Platform/API PM",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 4,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "4+ years of product management experience focused on backend, platform, or API products",
+      "2+ years leading multiple third-party integrations with enterprise customers or vendors",
+      "Title is 'Senior Product Manager'",
+      "Comp range $165K–$174K CAD, consistent with Senior IC level"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_backend_platform_api",
+      "raw_text_from_jd": "4+ years of product management experience focused on backend, platform, or API products.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management_platform_api",
+      "minimum_value": 4,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "APIs"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "years_third_party_integrations",
+      "raw_text_from_jd": "2+ years leading multiple third-party integrations with enterprise customers or vendors from technical discovery to go-live, against tight timelines.",
+      "skill_type": "years_of_experience",
+      "domain": "third_party_integrations",
+      "minimum_value": 2,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "enterprise customers"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "end_to_end_integration_delivery",
+      "raw_text_from_jd": "Proven end-to-end delivery of complex, multi-stakeholder integration programs (built roadmaps, wrote specs, drove cross-functional execution, and launched to production).",
+      "skill_type": "outcome",
+      "domain": "integration_program_delivery",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_communication_stakeholders",
+      "raw_text_from_jd": "Experience communicating technical concepts to C-suite stakeholders and going deep with engineering; demonstrated success running partner scope reviews and negotiating SOWs/SLAs.",
+      "skill_type": "capability",
+      "domain": "technical_communication_and_negotiation",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "Bachelor's degree. Proficiency with APIs and data contracts. Comfortable using AI tools to accelerate PM workflows; still capable of writing PRDs without them.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree"
+      ]
+    },
+    {
+      "id": "api_and_data_contracts_proficiency",
+      "raw_text_from_jd": "Bachelor's degree. Proficiency with APIs and data contracts. Comfortable using AI tools to accelerate PM workflows; still capable of writing PRDs without them.",
+      "skill_type": "tool_proficiency",
+      "domain": "apis_and_data_contracts",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "APIs",
+        "data contracts"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_tools_for_pm_workflows",
+      "raw_text_from_jd": "Bachelor's degree. Proficiency with APIs and data contracts. Comfortable using AI tools to accelerate PM workflows; still capable of writing PRDs without them.",
+      "skill_type": "tool_proficiency",
+      "domain": "ai_tools_productivity",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI tools"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "retail_tech_domain_expertise",
+      "raw_text_from_jd": "Retail technology domain expertise across brick-and-mortar systems such as POS, inventory, loyalty, coupons, or store operations platforms.",
+      "skill_type": "domain_knowledge",
+      "domain": "retail_technology",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "POS",
+        "inventory",
+        "loyalty",
+        "coupons",
+        "store operations platforms"
+      ],
+      "industries_named": [
+        "retail",
+        "brick-and-mortar grocery"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_ml_computer_vision_integration",
+      "raw_text_from_jd": "Experience building or integrating AI/ML or computer vision capabilities, including defining data needs for model training, inference, and feedback loops.",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_ml_computer_vision",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "AI/ML",
+        "computer vision",
+        "model training",
+        "inference",
+        "feedback loops"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "integration_reliability_data_quality",
+      "raw_text_from_jd": "Background in integration reliability and data quality (monitoring, observability, alerting, error budgets, and SLAs).",
+      "skill_type": "domain_knowledge",
+      "domain": "integration_reliability_observability",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "monitoring",
+        "observability",
+        "alerting",
+        "error budgets",
+        "SLAs"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "playbook_handoff_experience",
+      "raw_text_from_jd": "Experience handing off your work to other internal teams to scale (e.g. playbook writing)",
+      "skill_type": "capability",
+      "domain": "scalable_process_documentation",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "retail_data_privacy_compliance",
+      "raw_text_from_jd": "Familiarity with privacy, security, and compliance for retail data (e.g., PCI considerations, PII handling, data retention policies).",
+      "skill_type": "domain_knowledge",
+      "domain": "data_privacy_compliance",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "PCI",
+        "PII handling",
+        "data retention policies"
+      ],
+      "industries_named": [
+        "retail"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [
+    "Hiring only in Ontario, Alberta, British Columbia, and Nova Scotia (Canadian provinces); US-based candidates excluded for this posting"
+  ],
+  "scope": {
+    "team_size_estimate": "11 direct teammates (majority backend engineers); broader Connected Stores org of a few hundred people",
+    "surface": "In-Store Platform — APIs, data pipelines, and foundational integrations powering Caper carts, Foodstorm catering, Carrot Tags, and AI-driven store intelligence",
+    "business_model": "B2B enterprise SaaS / platform — integrations sold/licensed to grocery retailers",
+    "primary_metrics_inferred": [
+      "Time-to-integrate",
+      "Data coverage and quality",
+      "Integration reliability (SLAs, error budgets)",
+      "Product adoption of integrations"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Partnerships",
+      "Enterprise Solutions",
+      "Solution Architects",
+      "External retail technology providers (POS, loyalty, inventory, coupon system vendors)"
+    ],
+    "core_responsibilities": [
+      "Own the integration roadmap for Connected Stores: strategy, scope, and prioritization based on business impact, data value, and technical feasibility",
+      "Drive end-to-end execution: align Engineering, Partnerships, Solution Architecture, and 3rd party teams from discovery through launch and scale",
+      "Lead external partner alignment with retailers and software vendors; define data contracts and ensure technical fit",
+      "Ship first-of-a-kind integrations including those powering new AI products; document patterns and transition repeatable work to Solution Architects",
+      "Establish SOWs and SLAs; draft requirements, timelines, and deliverables; negotiate partner responsibilities",
+      "Set and measure KPIs such as time-to-integrate, data coverage and quality, reliability, and product adoption",
+      "Resolve conflicts and remove blockers across internal product needs and external constraints"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "base_range_cad": [
+      165000,
+      174000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "new hire equity grant and annual refresh grants",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "in-store integrations",
+    "platform PM",
+    "API products",
+    "data pipelines",
+    "Connected Stores",
+    "retail technology",
+    "POS",
+    "third-party integrations",
+    "SOW/SLA",
+    "AI-driven store intelligence",
+    "brick-and-mortar",
+    "Caper carts",
+    "Carrot Tags",
+    "data contracts",
+    "integration roadmap"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($165K–$174K CAD)",
+    "Clear team size stated (11 direct teammates, broader org of a few hundred)",
+    "Well-defined product surface and ownership scope",
+    "Equity (new hire + annual refresh) explicitly mentioned",
+    "Flex First fully remote policy clearly stated",
+    "Specific, concrete responsibilities — not vague boilerplate",
+    "AI focus is substantive and tied to real technical constraints (data foundations for models)"
+  ],
+  "red_flags": [
+    "Hiring restricted to four Canadian provinces only (Ontario, Alberta, British Columbia, Nova Scotia) — excludes all US and most international candidates",
+    "Compensation stated in CAD only; no USD range provided, which may deter US-based candidates who might otherwise be eligible",
+    "First-of-its-kind integrations work implies significant ambiguity and pioneer risk with limited established playbooks",
+    "Hard requirement of 2+ years leading enterprise third-party integrations end-to-end may be difficult to demonstrate outside enterprise SaaS or retail tech backgrounds"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Senior' and comp range)",
+      "scope.business_model (inferred from product description and retailer partnership focus)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; KPI examples partially stated in JD)",
+      "location.remote_us_eligible (inferred as false from explicit Canadian-province-only hiring statement)",
+      "compensation.base_range_cad (stated in CAD; no USD equivalent given — field added outside standard schema to capture stated value)"
+    ],
+    "ambiguities": [
+      "JD is tagged '#LI-Remote' suggesting remote eligibility broadly, but body text restricts hiring to four Canadian provinces only — treated as remote-Canada-only rather than remote-global or remote-US",
+      "work_auth and visa_sponsorship not addressed in JD body; left as 'unclear'",
+      "The education requirement ('Bachelor's degree') does not explicitly state 'or equivalent experience' unlike many JDs — treated as hard with no equivalent accepted, but this may be lenient in practice"
+    ]
+  }
+}

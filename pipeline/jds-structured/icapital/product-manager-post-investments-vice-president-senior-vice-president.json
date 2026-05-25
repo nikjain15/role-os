@@ -1,0 +1,289 @@
+{
+  "company": "iCapital",
+  "role_title": "Product Manager, Post-Investments - Vice President / Senior Vice President",
+  "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8401878002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8401878002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [],
+    "remote_us_eligible": false,
+    "office_time_required": "Monday-Thursday in office, remote on Friday",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Technical PM with WealthTech/fintech domain focus",
+  "seniority": {
+    "level": "Staff / Principal IC (VP to SVP equivalent)",
+    "years_required_min": 8,
+    "years_required_max": null,
+    "manages_people": true,
+    "level_signals": [
+      "8 - 12+ years of product management experience",
+      "Title range of Vice President / Senior Vice President",
+      "Mentor and guide junior product managers",
+      "Partner with executive stakeholders (internal and external)",
+      "Comp range $190K-$230K base consistent with VP/SVP at a fintech firm"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "8 - 12+ years of product management experience, with significant exposure to WealthTech, fintech, alternative investments, or wealth management platforms.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 8,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "WealthTech",
+        "fintech",
+        "alternative investments",
+        "wealth management"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "wealthtech_domain_knowledge",
+      "raw_text_from_jd": "Deep understanding of the U.S. wealth management ecosystem and advisor technology landscape.",
+      "skill_type": "domain_knowledge",
+      "domain": "wealth_management_and_advisor_technology",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "wealth management",
+        "WealthTech"
+      ],
+      "geographies_named": [
+        "U.S."
+      ],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sql_and_data_driven",
+      "raw_text_from_jd": "Strong experience working with large datasets; SQL proficiency and a data-driven decision-making approach are required.",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analysis",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "SQL"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_initiatives",
+      "raw_text_from_jd": "Demonstrated success managing complex, cross-functional initiatives in fast-paced growth environments.",
+      "skill_type": "outcome",
+      "domain": "cross_functional_program_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "external_client_executive_engagement",
+      "raw_text_from_jd": "Experience engaging directly with external clients and executive stakeholders to define requirements and deliver strategic implementations.",
+      "skill_type": "capability",
+      "domain": "client_and_stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "requirements_and_user_stories",
+      "raw_text_from_jd": "Expertise in writing detailed product requirements, user stories, and acceptance criteria for engineering teams.",
+      "skill_type": "capability",
+      "domain": "product_requirements",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "agile_methodology",
+      "raw_text_from_jd": "Experience operating within agile development methodologies, with a bias toward rapid deployment, learning, and iteration.",
+      "skill_type": "capability",
+      "domain": "agile_product_development",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_prioritization",
+      "raw_text_from_jd": "Exceptional analytical, problem-solving, and prioritization skills.",
+      "skill_type": "capability",
+      "domain": "analytical_reasoning",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "executive_communication",
+      "raw_text_from_jd": "Excellent communication skills and executive presence, with the ability to influence senior leadership and build consensus.",
+      "skill_type": "capability",
+      "domain": "executive_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "entrepreneurial_ownership",
+      "raw_text_from_jd": "Entrepreneurial mindset with a strong sense of ownership and accountability.",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Client Architecture Solutions — WealthTech platform capabilities for wealth management and alternative investment distribution, advisor desktop integrations",
+    "business_model": "B2B SaaS / platform serving wealth managers and financial advisors for alternative investment distribution",
+    "primary_metrics_inferred": [
+      "Platform usage and adoption",
+      "Platform stickiness",
+      "Successful client deployment and onboarding",
+      "Advisor desktop integration adoption"
+    ],
+    "cross_functional_partners": [
+      "UX",
+      "Engineering",
+      "Sales",
+      "Marketing",
+      "Legal",
+      "Compliance",
+      "Operations"
+    ],
+    "core_responsibilities": [
+      "Own and define the product vision and roadmap for key WealthTech platform capabilities.",
+      "Lead strategic client engagements to deploy integrated technology solutions and ensure successful adoption across advisor desktops.",
+      "Partner with executive stakeholders (internal and external) to align on product direction, priorities, and strategic initiatives.",
+      "Drive platform usage and adoption by delivering solutions that meet user needs and enhance platform stickiness.",
+      "Lead the end-to-end product lifecycle from ideation to launch, including requirements definition, user stories, acceptance criteria, QA, and iteration.",
+      "Ensure flawless execution of product releases by proactively managing risks, dependencies, and cross-functional coordination.",
+      "Investigate production issues and drive both tactical and strategic resolutions to minimize user impact.",
+      "Mentor and guide junior product managers, fostering a culture of excellence, accountability, and continuous learning."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      190000,
+      230000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity for all full-time employees (form not specified) plus annual performance bonus",
+    "location_pay_differential": false,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "WealthTech",
+    "alternative investments",
+    "wealth management",
+    "product roadmap",
+    "advisor technology",
+    "SQL",
+    "agile",
+    "cross-functional",
+    "client architecture",
+    "executive stakeholders",
+    "platform adoption",
+    "user stories",
+    "post-investments"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed and competitive ($190K-$230K base) with equity and bonus",
+    "Clear product surface and ownership area (Client Architecture Solutions / WealthTech post-investment workflows)",
+    "Comprehensive benefits including 100% employer-paid dental, vision, telemedicine, mental health, and unlimited PTO",
+    "Hybrid with only one remote day (Friday) — clear, predictable structure",
+    "Mentorship responsibility signals meaningful seniority and influence"
+  ],
+  "red_flags": [
+    "No specific city listed in the JD; office location(s) not named, making it unclear where the role is based",
+    "Visa sponsorship not addressed",
+    "8-12+ years range is wide; ambiguity between VP and SVP title levels may affect comp ceiling",
+    "JD combines VP and SVP into one posting — seniority level and comp ceiling may vary significantly"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title range VP/SVP, years 8-12+, and comp)",
+      "seniority.manages_people (inferred from 'Mentor and guide junior product managers')",
+      "scope.business_model (inferred from product description and industry context)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly stated in JD)",
+      "location.cities_listed (not stated in JD body; left empty)",
+      "location.work_auth (not stated; defaulted to open)",
+      "location.visa_sponsorship (not stated; defaulted to unclear)"
+    ],
+    "ambiguities": [
+      "Role title spans two seniority levels (Vice President / Senior Vice President); compensation range may differ between the two but is presented as a single band ($190K-$230K).",
+      "Office location city is never named in the JD body, making it impossible to confirm where hybrid attendance is required.",
+      "Years range '8 - 12+' is unusually wide and the '+' qualifier makes the upper bound open-ended."
+    ]
+  }
+}

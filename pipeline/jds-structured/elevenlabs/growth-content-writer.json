@@ -1,0 +1,253 @@
+{
+  "company": "ElevenLabs",
+  "role_title": "Growth Content Writer",
+  "url": "https://jobs.ashbyhq.com/elevenlabs/6991ab1a-76e9-4f2a-90a8-085452d049f7",
+  "ats_provider": "ashby",
+  "ats_job_id": "6991ab1a-76e9-4f2a-90a8-085452d049f7",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "remote-global",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Growth (non-PM)",
+  "archetype_confidence": "high",
+  "secondary_archetype": "SEO Content / Growth Writer",
+  "seniority": {
+    "level": "Junior to Mid IC",
+    "years_required_min": null,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "No years-of-experience requirement stated",
+      "JD explicitly says 'You don't need a background in growth, SEO or marketing for this role'",
+      "Writing experience framed as 'either for college or personal projects' — suggests entry-to-mid level acceptable",
+      "Described as 'high potential generalist'"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "high_quality_writing_speed",
+      "raw_text_from_jd": "Can write high-quality and engaging content quickly - either for college or personal projects",
+      "skill_type": "capability",
+      "domain": "content_writing",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_low_code_ai_tooling",
+      "raw_text_from_jd": "Relatively technical - you use low-code and AI tooling like ChatGPT, Lovable, and n8n/Zapier",
+      "skill_type": "tool_proficiency",
+      "domain": "ai_and_low_code_tools",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "ChatGPT",
+        "Lovable",
+        "n8n",
+        "Zapier"
+      ],
+      "technologies_named": [
+        "low-code",
+        "AI tooling"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "organized_and_driven",
+      "raw_text_from_jd": "Organized and driven",
+      "skill_type": "cultural_fit",
+      "domain": "work_style",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "content_scaling_high_growth",
+      "raw_text_from_jd": "Experience scaling content creation at a high-growth tech company",
+      "skill_type": "domain_knowledge",
+      "domain": "content_scaling",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "tech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "high-growth tech company"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "seo_tools_familiarity",
+      "raw_text_from_jd": "Familiarity with SEO tools (SEMRush, Ahrefs, etc.) and content management systems",
+      "skill_type": "tool_proficiency",
+      "domain": "seo_and_cms",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "SEMRush",
+        "Ahrefs"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "b2b_saas_ai_ml_content_background",
+      "raw_text_from_jd": "Background in B2B SaaS or AI/ML content creation",
+      "skill_type": "domain_knowledge",
+      "domain": "b2b_saas_and_ai_ml_content",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "AI/ML"
+      ],
+      "industries_named": [
+        "B2B SaaS",
+        "AI"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "investigative_interviews",
+      "raw_text_from_jd": "Ability to conduct investigative interviews with team members and customers for case studies and insights",
+      "skill_type": "capability",
+      "domain": "case_study_research",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "programmatic_content_understanding",
+      "raw_text_from_jd": "Basic understanding of programmatic content and how to work with technical teams",
+      "skill_type": "domain_knowledge",
+      "domain": "programmatic_content",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "programmatic content"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "SEO-optimized content creation (blog posts, use cases, case studies, landing page copy) to establish ElevenLabs as thought leader in AI Audio",
+    "business_model": "B2B and B2C AI audio SaaS (API, agents, creative tools)",
+    "primary_metrics_inferred": [
+      "Organic search traffic growth",
+      "Keyword rankings for competitive terms",
+      "Content volume / throughput",
+      "Revenue attributed to organic channel"
+    ],
+    "cross_functional_partners": [
+      "SEO & Growth team",
+      "Engineering (programmatic content)",
+      "Customers and team members (for case studies)"
+    ],
+    "core_responsibilities": [
+      "Create compelling blog posts, use cases, case studies, and landing page copy",
+      "Drive organic search visibility and traffic growth through SEO-optimized content",
+      "Work closely with SEO & Growth team to understand keyword opportunities, search intent, and content gaps",
+      "Cover user journeys, use case deep-dives, and educational blog posts for new products",
+      "Establish ElevenLabs as the thought leader in AI Audio"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "SEO",
+    "content writing",
+    "AI audio",
+    "blog posts",
+    "landing page copy",
+    "case studies",
+    "organic search",
+    "keyword strategy",
+    "growth content",
+    "low-code",
+    "programmatic content",
+    "ElevenLabs"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Remote-global role with no location restrictions (#LI-Remote)",
+    "Explicitly states no background in growth, SEO, or marketing required — open to high-potential generalists",
+    "Company has clear SEO traction (1M+ users/month, authority score 69 on SEMRush) — gives meaningful context for scope",
+    "Strong company momentum: $781M raised, $11B valuation, blue-chip investors (a16z, Sequoia, ICONIQ)",
+    "Annual L&D stipend, social travel stipend, company offsite — strong benefits for a remote role",
+    "Co-working stipend for non-hub employees"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "No years-of-experience floor stated — seniority and career stage expectations are ambiguous",
+    "Company has no job titles — unusual and may create career progression uncertainty",
+    "High-velocity, high-autonomy culture ('work autonomously from day one') may not suit candidates who need structured onboarding"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 'college or personal projects' framing and 'high potential generalist' language)",
+      "scope.business_model (inferred from product description)",
+      "scope.primary_metrics_inferred (not stated in JD; inferred from role context)",
+      "location.remote_us_eligible (inferred from #LI-Remote tag and 'Global team: We prioritize your talent, not your location')",
+      "location.work_auth (inferred as open from global remote stance)"
+    ],
+    "ambiguities": [
+      "No explicit visa sponsorship statement — could not determine yes/no; marked 'unclear'",
+      "Seniority is ambiguous: JD welcomes candidates with only college or personal project writing experience, yet the role involves scaling a high-traffic SEO channel — actual expectations may differ from what the JD signals"
+    ]
+  }
+}

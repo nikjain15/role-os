@@ -1,0 +1,288 @@
+{
+  "company": "Pinecone",
+  "role_title": "Staff/Principal Product Manager, Database",
+  "url": "https://jobs.ashbyhq.com/pinecone/7261adcb-026d-4552-8f89-7a46156c40c5",
+  "ats_provider": "ashby",
+  "ats_job_id": "7261adcb-026d-4552-8f89-7a46156c40c5",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [
+      "New York"
+    ],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Generalist PM",
+  "seniority": {
+    "level": "Staff / Principal IC",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7+ years experience in product management",
+      "Staff/Principal title in role title",
+      "At least 3 years working on highly technical SaaS or cloud infrastructure products"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_technical_products",
+      "raw_text_from_jd": "7+ years experience in product management of technical products with at least 3 years working on  highly technical SaaS or cloud infrastructure products.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 7,
+      "unit": "years",
+      "qualifier": "technical products",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "SaaS",
+        "cloud infrastructure"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "years_saas_cloud_infra",
+      "raw_text_from_jd": "at least 3 years working on  highly technical SaaS or cloud infrastructure products.",
+      "skill_type": "years_of_experience",
+      "domain": "saas_cloud_infrastructure",
+      "minimum_value": 3,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "SaaS",
+        "cloud infrastructure"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "education_cs_degree",
+      "raw_text_from_jd": "BS/MS/PhD in Computer Science or related technical field",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "BS",
+        "MS",
+        "PhD",
+        "Computer Science"
+      ]
+    },
+    {
+      "id": "data_driven_approach",
+      "raw_text_from_jd": "Strong empirical, data-driven approach to deployment and decision-making.",
+      "skill_type": "capability",
+      "domain": "analytical_decision_making",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "roadmap_strategy_database",
+      "raw_text_from_jd": "You will drive the strategy and roadmap for core database capabilities to make transformative improvements to performance, scalability, efficiency, and search quality.",
+      "skill_type": "capability",
+      "domain": "product_strategy_and_roadmap",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "vector database"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "developer_empathy_ai_applications",
+      "raw_text_from_jd": "The ideal candidate is passionate about understanding developer needs of building AI applications in a highly dynamic and evolving AI landscape.",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_developer_tooling",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI applications"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "unstructured_environment",
+      "raw_text_from_jd": "Demonstrated success in an unstructured environment",
+      "skill_type": "cultural_fit",
+      "domain": "startup_adaptability",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "passion_databases_search",
+      "raw_text_from_jd": "A passion for databases and/or search",
+      "skill_type": "cultural_fit",
+      "domain": "databases_search",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_facing_experience",
+      "raw_text_from_jd": "Experience in a customer-facing role",
+      "skill_type": "capability",
+      "domain": "customer_success_or_sales",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cloud_software_infrastructure_building",
+      "raw_text_from_jd": "Experience building cloud software infrastructure",
+      "skill_type": "domain_knowledge",
+      "domain": "cloud_infrastructure_engineering",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "cloud infrastructure"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Core vector database capabilities — performance, scalability, efficiency, and search quality",
+    "business_model": "B2B SaaS / developer-facing cloud infrastructure",
+    "primary_metrics_inferred": [
+      "Database adoption",
+      "Search quality improvements",
+      "Performance and scalability benchmarks",
+      "Developer usage and retention"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Marketing",
+      "Sales",
+      "Customer Success"
+    ],
+    "core_responsibilities": [
+      "Spearhead the development of core database capabilities from concept through launch, ensuring high quality execution and alignment with the company's strategic vision.",
+      "Collaborate cross-functionally with engineering, marketing, sales, and customer success teams to ensure high quality execution, cohesive product messaging, and effective go-to-market strategies.",
+      "Collect user feedback to inform product strategy and identify new opportunities for innovation.",
+      "Define and prioritize product requirements based on target user personas and market research",
+      "Forecast timelines and communicate product strategy and deliverables to company leadership"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "Equity award",
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "vector database",
+    "product management",
+    "AI applications",
+    "SaaS",
+    "cloud infrastructure",
+    "search quality",
+    "scalability",
+    "performance",
+    "developer tools",
+    "database capabilities",
+    "roadmap",
+    "Staff PM",
+    "Principal PM"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear product surface with technical depth — core database capabilities for a leading vector database",
+    "Named investors (Andreessen Horowitz, ICONIQ, Menlo Ventures, Wing Venture Capital) and disclosed funding ($138M) signal financial stability",
+    "Equity award explicitly mentioned as part of compensation",
+    "Cross-functional ownership scope is well-defined (engineering, marketing, sales, customer success)",
+    "Comprehensive benefits including mental health, parental leave, and WFH stipend"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "Location type is unclear — JD does not explicitly state remote, hybrid, or on-site expectations",
+    "Visa sponsorship policy not mentioned",
+    "Hard credential requirement (BS/MS/PhD in CS) with no 'or equivalent experience' clause may exclude strong practitioners without formal CS degrees"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Staff/Principal' and 7+ years requirement)",
+      "scope.business_model (inferred from 'SaaS or cloud infrastructure' context and product description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "location.cities_listed (New York mentioned as company HQ; role-specific location not stated)",
+      "compensation.location_pay_differential (inferred false; no mention of geographic pay tiers)"
+    ],
+    "ambiguities": [
+      "Location type is not specified in the JD body — the company is 'based in New York' but whether this role is remote, hybrid, or on-site is never stated. Marked as 'unclear'.",
+      "The credential requirement 'BS/MS/PhD in Computer Science or related technical field' does not include an 'or equivalent experience' clause, which is unusual — severity kept as hard but may be negotiable in practice.",
+      "The distinction between 'Staff' and 'Principal' level is not clarified; both titles appear in the role name without differentiation in requirements."
+    ]
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "company": "Cohere",
+  "role_title": "Product Manager, Agent Harness & Modelling",
+  "url": "https://jobs.ashbyhq.com/cohere/1d1b300d-254b-48c4-958f-99c6b907f295",
+  "ats_provider": "ashby",
+  "ats_job_id": "1d1b300d-254b-48c4-958f-99c6b907f295",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "Toronto",
+      "New York",
+      "San Francisco",
+      "London",
+      "Paris"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "unclear",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "AI Product Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Technical PM",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of product management experience required",
+      "Expected to engage at implementation level, contributing to architecture decisions",
+      "Platform-layer product ownership with cross-team connective tissue responsibilities"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "5+ years of product management experience in agentic AI systems, developer infrastructure, or applied ML products",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "qualifier": "in agentic AI systems, developer infrastructure, or applied ML products",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "agentic AI systems",
+        "applied ML"
+      ],
+      "industries_named": [
+        "developer infrastructure"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "llm_agent_architecture_knowledge",
+      "raw_text_from_jd": "Deep understanding of modern LLM agent architectures, including multi-agent systems, tool-augmented reasoning, memory and retrieval, programmatic orchestration, RAG, and long-horizon execution",
+      "skill_type": "domain_knowledge",
+      "domain": "LLM_agent_architectures",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "LLM agent architectures",
+        "multi-agent systems",
+        "tool-augmented reasoning",
+        "memory and retrieval",
+        "programmatic orchestration",
+        "RAG",
+        "long-horizon execution"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "agentic_eval_design",
+      "raw_text_from_jd": "Strong grasp of agentic evaluation design, including how to measure task completion, failure recovery, and long-horizon reliability, and how to diagnose model vs. scaffolding gaps",
+      "skill_type": "domain_knowledge",
+      "domain": "agentic_evaluation",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "agentic evaluation",
+        "failure recovery",
+        "long-horizon reliability"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_depth_architecture",
+      "raw_text_from_jd": "Technically deep enough to contribute to architecture decisions at the implementation level: comfortable reviewing and shaping design docs, reasoning about async execution patterns, sandboxed environments, filesystem design, and the tradeoffs that come with building harness capabilities into a production platform",
+      "skill_type": "capability",
+      "domain": "technical_architecture",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "async execution patterns",
+        "sandboxed environments",
+        "filesystem design"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ml_research_engineering_fluency",
+      "raw_text_from_jd": "Ability to flex between ML research conversations and engineering architecture discussions with equal fluency",
+      "skill_type": "capability",
+      "domain": "cross_functional_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "ML research"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "platform_product_track_record",
+      "raw_text_from_jd": "Track record of shipping platform-layer products with demonstrated impact on reliability, performance, or capability.",
+      "skill_type": "outcome",
+      "domain": "platform_product_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "active_agent_practitioner",
+      "raw_text_from_jd": "An active practitioner of agent frameworks who regularly builds with and follows the latest developments in open-source harnesses, coding agents, and orchestration tools in both professional and personal work",
+      "skill_type": "hands_on_use",
+      "domain": "agent_frameworks",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "agent frameworks",
+        "open-source harnesses",
+        "coding agents",
+        "orchestration tools"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "enterprise_agentic_deployments",
+      "raw_text_from_jd": "Hands-on experience with enterprise agentic deployments: multi-tenant orchestration, tool permissioning, audit trails, and compliance requirements",
+      "skill_type": "domain_knowledge",
+      "domain": "enterprise_agentic_deployments",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "multi-tenant orchestration",
+        "tool permissioning",
+        "audit trails"
+      ],
+      "industries_named": [
+        "enterprise AI"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "enterprise_infra_constraints",
+      "raw_text_from_jd": "Familiarity with infrastructure constraints relevant to enterprise deployments: on-premises environments, scalability challenges, and the operational tradeoffs of running complex agent workloads in restricted or air-gapped settings",
+      "skill_type": "domain_knowledge",
+      "domain": "enterprise_infrastructure",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "on-premises environments",
+        "air-gapped settings"
+      ],
+      "industries_named": [
+        "enterprise AI"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "research_to_product_translation",
+      "raw_text_from_jd": "Prior work at the intersection of research and product, translating nascent model capabilities into shipped product features",
+      "skill_type": "outcome",
+      "domain": "research_product_translation",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ml_research_team_background",
+      "raw_text_from_jd": "Background working within or closely alongside an ML research or post-training team",
+      "skill_type": "domain_knowledge",
+      "domain": "ML_research",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "ML research",
+        "post-training"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "North agent harness — agent loop, context engineering layer, tool orchestration, sandbox execution, sub-agent delegation",
+    "business_model": "B2B enterprise AI platform",
+    "primary_metrics_inferred": [
+      "Agent task completion rate",
+      "Failure recovery reliability",
+      "Long-horizon agent execution reliability",
+      "Harness-model co-evolution velocity"
+    ],
+    "cross_functional_partners": [
+      "North Engineering",
+      "Cohere Modeling Team",
+      "Enterprise Customers"
+    ],
+    "core_responsibilities": [
+      "Define and own the roadmap for North's agent harness, including the agent loop, context engineering layer, tool orchestration, sandbox execution, and sub-agent delegation",
+      "Serve as the primary interface between North engineering and Cohere's Modeling team",
+      "Own North's agentic evaluation framework",
+      "Engage enterprise customers to surface real-world agentic failures and translate findings into concrete product and model requirements",
+      "Stay current with the open-source and commercial agent ecosystem and drive adoption decisions"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity options mentioned as part of compensation package",
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "agent harness",
+    "agent loop",
+    "context engineering",
+    "multi-agent systems",
+    "RAG",
+    "tool orchestration",
+    "sandbox execution",
+    "agentic evaluation",
+    "LLM architectures",
+    "North",
+    "enterprise AI",
+    "model-scaffolding co-evolution",
+    "long-horizon execution"
+  ],
+  "buzzword_density": "high",
+  "green_flags": [
+    "Clear and specific product surface ownership (agent harness, context engineering, model-scaffolding co-evolution)",
+    "Encourages candidates to apply even if experience doesn't perfectly align",
+    "Explicit equity and competitive compensation mentioned",
+    "Generous perks: 6 weeks vacation, full health/dental, parental leave top-up",
+    "Hybrid flexibility with multiple global office locations",
+    "High-impact role at frontier of agentic AI product development"
+  ],
+  "red_flags": [
+    "No compensation range disclosed despite equity mention",
+    "Role spans three complex domains (agent loop, context engineering, model-scaffolding) — may be unusually broad for one PM",
+    "Visa sponsorship and work authorization requirements not addressed in JD",
+    "Buzzword density is high; concrete scope of responsibility may be difficult to assess pre-interview",
+    "No mention of team size or reporting structure"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 5+ years requirement and architecture-level engagement expectations)",
+      "scope.business_model (inferred from North platform description as enterprise B2B)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly stated in JD)",
+      "location.remote_us_eligible (inferred as false given hybrid model with named offices only)",
+      "compensation.location_pay_differential (inferred as false; not stated)"
+    ],
+    "ambiguities": [
+      "JD mentions 'Remote-flexible' in perks section but describes a 'Hybrid work model' in Why Join section — unclear whether fully remote is permitted or hybrid office attendance is required",
+      "Work authorization and visa sponsorship are not addressed anywhere in the JD",
+      "Cities listed in Why Join section include Toronto, Montreal, New York, San Francisco, London, Paris, and Korea — but Montreal and Korea only appear in the 'About' section, not the role-specific flexibility section; treated conservatively as role-relevant cities"
+    ]
+  }
+}

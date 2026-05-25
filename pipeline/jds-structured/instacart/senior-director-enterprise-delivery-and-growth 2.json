@@ -1,0 +1,425 @@
+{
+  "company": "Instacart",
+  "role_title": "Senior Director, Enterprise Delivery and Growth",
+  "url": "https://instacart.careers/job/?gh_jid=7813002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7813002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "remote-global",
+    "cities_listed": [
+      "Toronto"
+    ],
+    "remote_us_eligible": true,
+    "office_time_required": "preference for proximity to Toronto for key cross-functional collaboration",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Technical Program Manager (enterprise delivery & CS leadership)",
+  "seniority": {
+    "level": "VP / Senior Director (Executive IC or Executive leader)",
+    "years_required_min": 12,
+    "years_required_max": null,
+    "manages_people": true,
+    "level_signals": [
+      "12+ years of enterprise software leadership",
+      "5+ years managing Director-level leaders across distinct functional disciplines",
+      "Ownership of a combined post-sale P&L with $200M+ ARR",
+      "Leads three Director-led organizations",
+      "Comp range $264K–$278.5K CAD consistent with Senior Director / VP"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_enterprise_software_leadership",
+      "raw_text_from_jd": "12+ years of enterprise software leadership spanning post-sale functions at a B2B SaaS or enterprise technology company.",
+      "skill_type": "years_of_experience",
+      "domain": "enterprise_software_post_sale_leadership",
+      "minimum_value": 12,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "B2B SaaS",
+        "enterprise technology"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "B2B SaaS company",
+        "enterprise technology company"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "professional_services_delivery_leadership",
+      "raw_text_from_jd": "Direct, accountable leadership of a professional services, implementation, or delivery organization, with demonstrated understanding of org design, quality drivers, and scale failure modes.",
+      "skill_type": "capability",
+      "domain": "professional_services_and_delivery_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_success_leadership",
+      "raw_text_from_jd": "Direct, accountable leadership of a customer success or account management organization responsible for post-live growth, NRR, and expansion.",
+      "skill_type": "capability",
+      "domain": "customer_success_and_account_management",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "post_sale_pnl_ownership",
+      "raw_text_from_jd": "Ownership of a combined post-sale P&L with $200M+ ARR, accountable across the full customer lifecycle (implementation through renewal/expansion).",
+      "skill_type": "outcome",
+      "domain": "post_sale_revenue_ownership",
+      "minimum_value": 200,
+      "unit": "million_usd_arr",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "years_managing_director_level_leaders",
+      "raw_text_from_jd": "5+ years managing Director-level leaders across distinct functional disciplines, with a track record of setting standards and holding senior leaders accountable without micromanagement.",
+      "skill_type": "years_of_experience",
+      "domain": "executive_people_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "bd_led_commercial_environment",
+      "raw_text_from_jd": "Proven success operating in a BD/Sales-led commercial environment and establishing shared norms across BD, Delivery, and CS without imposing rigid process.",
+      "skill_type": "capability",
+      "domain": "commercial_go_to_market_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "solutions_architecture_or_tam_leadership",
+      "raw_text_from_jd": "Experience leading or directly managing a solutions architecture, technical account management, or professional services engineering function, with an understanding of how technical delivery teams complement commercial account teams on shared enterprise accounts.",
+      "skill_type": "capability",
+      "domain": "technical_delivery_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "unified_technical_commercial_operating_model",
+      "raw_text_from_jd": "Demonstrated ability to integrate technical and commercial organizations under a unified operating model — including solutions architecture, technical account management, and engineering functions alongside commercial success teams — while preserving functional depth and career paths within each discipline.",
+      "skill_type": "capability",
+      "domain": "org_design_and_operating_models",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "enterprise_retail_domain_knowledge",
+      "raw_text_from_jd": "Deep familiarity with enterprise retail, grocery, or adjacent complex B2B domains, including how large retailers evaluate, implement, and scale technology solutions.",
+      "skill_type": "domain_knowledge",
+      "domain": "enterprise_retail_and_grocery_technology",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "enterprise retail",
+        "grocery",
+        "B2B"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "time_to_live_improvement",
+      "raw_text_from_jd": "Track record of improving time-to-live and implementation quality at scale, with measurable gains in launch speed, activation rates, or delivery consistency.",
+      "skill_type": "outcome",
+      "domain": "implementation_delivery_excellence",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cs_transformation_to_advisory",
+      "raw_text_from_jd": "Experience transforming CS from reactive enablement to proactive business advisory, including talent strategy, operating model, and tooling changes.",
+      "skill_type": "capability",
+      "domain": "customer_success_transformation",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "implementation_to_success_motion_design",
+      "raw_text_from_jd": "Hands-on design of implementation-to-success motions where delivery and success run in parallel on the same accounts.",
+      "skill_type": "capability",
+      "domain": "lifecycle_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cs_and_tam_as_distinct_disciplines",
+      "raw_text_from_jd": "Experience running commercial success and technical account management as distinct disciplines within the same organization, with clear role boundaries, shared account ownership models, and escalation protocols.",
+      "skill_type": "capability",
+      "domain": "org_design_cs_and_tam",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "tam_function_building",
+      "raw_text_from_jd": "Track record of building or scaling a TAM or technical success function — including defining the role boundary between TAM, solutions architecture, and support — with clear career ladders that attract and retain technical talent.",
+      "skill_type": "capability",
+      "domain": "technical_account_management_org_building",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "multi_business_line_portfolio",
+      "raw_text_from_jd": "Background operating across multiple software business lines with distinct GTM and delivery motions and establishing cross-portfolio coordination standards.",
+      "skill_type": "domain_knowledge",
+      "domain": "multi_product_portfolio_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "tiered_cs_models",
+      "raw_text_from_jd": "Familiarity with tiered CS models (high-touch for strategic accounts and scaled/digital for the long tail) and when to apply each.",
+      "skill_type": "domain_knowledge",
+      "domain": "customer_success_models",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_augmentation_cs_tam_delivery",
+      "raw_text_from_jd": "Experience applying AI to augment CS, TAM, and delivery workflows to scale coverage and quality without linear headcount growth.",
+      "skill_type": "capability",
+      "domain": "ai_augmented_operations",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "AI"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "grocery_retail_tech_background",
+      "raw_text_from_jd": "Background in or strong exposure to grocery, retail technology, ecommerce platforms, or supply chain software.",
+      "skill_type": "domain_knowledge",
+      "domain": "grocery_retail_ecommerce_technology",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "grocery",
+        "retail technology",
+        "ecommerce",
+        "supply chain software"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "Three Director-led organizations (Retailer Delivery, Enterprise Architecture & Engineering, Retailer Success)",
+    "surface": "StorefrontPro, Enterprise API (Fulfillment and Ads), FoodStorm — full enterprise software portfolio for North American grocery and retail chains",
+    "business_model": "B2B SaaS / enterprise software, serving large grocery and retail chains",
+    "primary_metrics_inferred": [
+      "Net Revenue Retention (NRR)",
+      "Expansion GTV",
+      "Gross revenue retention",
+      "Time-to-live",
+      "Implementation quality and CSAT",
+      "Post-live adoption velocity"
+    ],
+    "cross_functional_partners": [
+      "Business Development",
+      "Product",
+      "Engineering",
+      "Data Science",
+      "Support"
+    ],
+    "core_responsibilities": [
+      "Act as the leader for StorefrontPro, Enterprise API, and FoodStorm, owning the software portfolio's business outcomes end to end",
+      "Lead and set the strategic agenda for three Director-led teams — Retailer Delivery, Enterprise Architecture & Engineering, and Retailer Success",
+      "Build a senior consultative CS capability by hiring and sponsoring Principal Growth Strategists",
+      "Define and operationalize the joint BD-CS operating model for enterprise accounts",
+      "Set the strategic standard for enterprise implementations and own time-to-live as a business lever",
+      "Design the implementation-to-success motion as an intentionally managed lifecycle",
+      "Lead the Enterprise Architecture & Engineering organization to drive technical delivery excellence",
+      "Represent the portfolio narrative to executive leadership"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "base_range_cad": [
+      264000,
+      278500
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "new hire equity grant as well as annual refresh grants",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Enterprise Delivery",
+    "Customer Success",
+    "NRR",
+    "StorefrontPro",
+    "FulfillmentPro",
+    "post-sale",
+    "implementation",
+    "technical account management",
+    "solutions architecture",
+    "forward-deployed engineering",
+    "B2B SaaS",
+    "grocery retail",
+    "ecommerce",
+    "expansion GTV",
+    "time-to-live"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($264K–$278.5K CAD base)",
+    "Equity mentioned (new hire + annual refresh)",
+    "Remote-first policy (Flex First) with flexibility across US and Canada",
+    "Clear ownership scope and three named Director-led organizations",
+    "Explicit metrics for success (NRR, GTV, time-to-live, CSAT) reduce ambiguity about role impact",
+    "High visibility, executive-level role with clear mandate"
+  ],
+  "red_flags": [
+    "Canadian candidates only eligible in Ontario, Alberta, British Columbia, and Nova Scotia — limits remote flexibility within Canada",
+    "Preference for Toronto proximity may effectively disadvantage non-Toronto candidates despite remote label",
+    "Compensation stated in CAD only — US-based candidate compensation is entirely unstated and unquantifiable",
+    "$200M+ ARR post-sale P&L requirement is a very high bar that will eliminate most candidates",
+    "Role spans three distinct Director-led functions with very different disciplines; potential for organizational complexity and conflict"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years required, direct reports, and ARR ownership)",
+      "scope.primary_metrics_inferred (inferred from responsibilities and role description; partially stated in JD)",
+      "scope.business_model (inferred from product descriptions and customer base)",
+      "compensation.base_range_usd (not stated; only CAD range provided)",
+      "location.work_auth (not stated)",
+      "location.visa_sponsorship (not stated)"
+    ],
+    "ambiguities": [
+      "Role is described as 'remote across the United States and Canada' but compensation is only disclosed in CAD, leaving US candidate compensation entirely unknown.",
+      "JD says 'preference for proximity to Toronto' but is tagged #LI-Remote — could be interpreted as hybrid in practice for Toronto-area candidates or fully remote with a preference signal.",
+      "Canadian hiring is restricted to Ontario, Alberta, British Columbia, and Nova Scotia, which may conflict with 'remote across Canada' framing for candidates in other provinces.",
+      "It is unclear whether the $200M+ ARR threshold refers to a single org's P&L or combined across functions — interpreted as combined post-sale P&L per JD wording."
+    ]
+  }
+}

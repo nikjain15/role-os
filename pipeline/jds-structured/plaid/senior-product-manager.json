@@ -1,0 +1,240 @@
+{
+  "company": "Plaid",
+  "role_title": "Senior Product Manager",
+  "url": "https://jobs.ashbyhq.com/plaid/94ecbba3-660c-4604-a4f5-071f5c2c74d8",
+  "ats_provider": "ashby",
+  "ats_job_id": "94ecbba3-660c-4604-a4f5-071f5c2c74d8",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Technical PM (fintech/open finance)",
+  "seniority": {
+    "level": "Mid-Senior IC (despite 'Senior' title, JD notes 'early in their PM career')",
+    "years_required_min": 3,
+    "years_required_max": 7,
+    "manages_people": false,
+    "level_signals": [
+      "3-7 years of experience in a product-related role",
+      "This role suits someone early in their PM career who loves to learn, collaborate"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_product_experience",
+      "raw_text_from_jd": "3-7 years of experience in a product-related role (e.g. Product Manager, APM, startup operator, founder, or product analyst).",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 3,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "end_to_end_launch_track_record",
+      "raw_text_from_jd": "Proven track record of building or launching products end-to-end.",
+      "skill_type": "outcome",
+      "domain": "product_launches",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "eng_design_collaboration",
+      "raw_text_from_jd": "Experience collaborating closely with engineering and design teams to deliver value quickly.",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication",
+      "raw_text_from_jd": "Excellent written and verbal communication; able to explain complex ideas simply and effectively",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguous_environment",
+      "raw_text_from_jd": "Comfortable operating in fast-moving, ambiguous environments.",
+      "skill_type": "cultural_fit",
+      "domain": "adaptability",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_in_product_work",
+      "raw_text_from_jd": "Familiarity using AI in your day-to-day product work, such as prototyping, research, or analysis.",
+      "skill_type": "tool_proficiency",
+      "domain": "ai_tools",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "startup_experience",
+      "raw_text_from_jd": "Experience in an early-stage or high-growth startup environment.",
+      "skill_type": "domain_knowledge",
+      "domain": "startup_environment",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "early-stage startup",
+        "high-growth startup"
+      ],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "fintech_experience",
+      "raw_text_from_jd": "[Nice to Have] Experience in fintech.",
+      "skill_type": "domain_knowledge",
+      "domain": "fintech",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Open finance / financial connectivity products (connecting consumers' financial accounts to apps and services)",
+    "business_model": "B2B developer platform / API, serving fintech apps and financial institutions",
+    "primary_metrics_inferred": [
+      "Product adoption and usage",
+      "Customer success metrics",
+      "Reliability and quality metrics"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Go-to-market"
+    ],
+    "core_responsibilities": [
+      "Own a product area: define problems, write clear requirements, and drive execution with cross-functional teams.",
+      "Shape the roadmap using data, feedback, and market signals.",
+      "Collaborate with Engineering and Design to deliver intuitive, high-quality experiences.",
+      "Use metrics and user insights to measure and improve outcomes.",
+      "Communicate clearly, align stakeholders, and guide decisions.",
+      "Act with a founder mindset–simplify, move fast, and embrace feedback.",
+      "Learn continuously and help raise the bar for Plaid's products and culture."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "open finance",
+    "financial connectivity",
+    "product manager",
+    "fintech",
+    "API platform",
+    "developer tools",
+    "roadmap",
+    "cross-functional",
+    "AI",
+    "startup"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Explicitly states nice-to-haves vs. must-haves, making requirements transparent",
+    "Encourages applications even if experience doesn't fully match",
+    "Clear product mission and well-known company (Plaid) with established scale (12,000 financial institutions)",
+    "AI proficiency is a stated requirement, signaling a modern product team"
+  ],
+  "red_flags": [
+    "Title says 'Senior Product Manager' but JD body says 'This role suits someone early in their PM career' — inconsistency between seniority signal in title and description",
+    "No compensation range disclosed",
+    "Location/remote policy not specified in the JD body — unclear if hybrid, remote, or onsite",
+    "7-year upper band on experience is unusual; combined with 'early in PM career' language, signals a somewhat junior-to-mid role despite the Senior title"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years range 3-7 and 'early in their PM career' language combined with Senior title)",
+      "location.cities_listed (San Francisco mentioned as HQ; role location not explicitly stated)",
+      "location.type (not stated in JD; marked unclear)",
+      "scope.business_model (inferred from company description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated explicitly)",
+      "compensation fields (not stated)"
+    ],
+    "ambiguities": [
+      "Title is 'Senior Product Manager' but the body states 'This role suits someone early in their PM career' — it is unclear whether this is a true senior role or a junior/mid role with a senior title.",
+      "Location type is not specified in the JD body (no mention of remote, hybrid, or onsite policy). San Francisco is listed as HQ but the JD does not confirm this is the role's required location.",
+      "Years range of 3-7 could indicate a wide bracket spanning associate to senior; the 7-year max may signal the role does not want overly senior candidates."
+    ]
+  }
+}

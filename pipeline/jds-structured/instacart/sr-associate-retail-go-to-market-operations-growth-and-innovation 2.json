@@ -1,0 +1,256 @@
+{
+  "company": "Instacart",
+  "role_title": "Sr. Associate, Retail Go-To-Market Operations - Growth & Innovation",
+  "url": "https://instacart.careers/job/?gh_jid=7909652",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7909652",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "remote-us",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": "no fixed requirement; regular in-person events mentioned under Flex First policy",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Program Manager",
+  "seniority": {
+    "level": "Mid-Senior IC (Senior Associate)",
+    "years_required_min": 3,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "3+ years of experience in operations, program coordination, business strategy, or a related field",
+      "Title is 'Sr. Associate' — typically mid-to-senior individual contributor",
+      "Compensation range tops at $126,500 base in highest-cost markets, consistent with senior associate / mid-level IC"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_ops_program_strategy",
+      "raw_text_from_jd": "3+ years of experience in operations, program coordination, business strategy, or a related field in a fast-paced environment where priorities shift frequently.",
+      "skill_type": "years_of_experience",
+      "domain": "operations_program_management_strategy",
+      "minimum_value": 3,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_skills_experimentation",
+      "raw_text_from_jd": "Strong analytical skills with a demonstrated ability to design experiments, analyze results, and make data-driven decisions.",
+      "skill_type": "capability",
+      "domain": "data_analysis_experimentation",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "project_management_xfn",
+      "raw_text_from_jd": "Excellent project management skills, with the ability to lead complex, cross-functional initiatives from concept to completion.",
+      "skill_type": "capability",
+      "domain": "project_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_stakeholder_management",
+      "raw_text_from_jd": "Exceptional communication and stakeholder management skills, with the ability to influence and align partners across various departments.",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strategic_innovative_mindset",
+      "raw_text_from_jd": "A strategic and innovative mindset with a passion for identifying new opportunities and solving complex problems.",
+      "skill_type": "cultural_fit",
+      "domain": "strategy_problem_solving",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "operational_workflows_documentation",
+      "raw_text_from_jd": "Experience building and maintaining operational workflows, trackers, and documentation that keep cross-functional teams organized and accountable. You default to creating structure, not waiting for it.",
+      "skill_type": "capability",
+      "domain": "operations_documentation",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "retail_ops_experience",
+      "raw_text_from_jd": "Experience in retail operations or in-store programs.",
+      "skill_type": "domain_knowledge",
+      "domain": "retail_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "retail"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_comfort",
+      "raw_text_from_jd": "Comfort operating in ambiguity and through competing priorities. You build a process where none exists, stay steady when multiple workstreams need attention at once, and know how to move forward without waiting for perfect information.",
+      "skill_type": "cultural_fit",
+      "domain": "ambiguity_tolerance",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "performance_metrics_kpis",
+      "raw_text_from_jd": "Experience with performance metrics and KPIs, such as increasing order volume and maintaining high store associate satisfaction",
+      "skill_type": "domain_knowledge",
+      "domain": "performance_metrics",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Retail Go-To-Market Operations — Growth & Innovation pillar; in-store technology and operational programs across Instacart's launched retail partner store portfolio",
+    "business_model": "B2B2C — Instacart sells in-store technology and grocery delivery infrastructure to retail partners, who serve consumers",
+    "primary_metrics_inferred": [
+      "Order volume increase",
+      "Store associate satisfaction",
+      "Operational quality / quality KPIs",
+      "Cost reduction",
+      "Pilot program success and scale"
+    ],
+    "cross_functional_partners": [
+      "Product",
+      "Retail",
+      "Data Science",
+      "Field partners",
+      "Leadership"
+    ],
+    "core_responsibilities": [
+      "Support the design and execution of pilot programs aimed at improving quality, increasing order volume, reducing costs, and enhancing in-store workflows for our retail partners.",
+      "Collaborate with Product, Retail, and Data Science teams to test, validate, and help scale successful operational innovations across our network of launched stores.",
+      "Contribute to the development of strategic frameworks used to identify and evaluate new growth opportunities and address operational process gaps.",
+      "Track the impact of initiatives against established KPIs, help synthesize results, and support reporting to leadership and cross-functional stakeholders.",
+      "Champion a culture of continuous improvement and data-driven experimentation within the team and broader organization.",
+      "Travel to support on-the-ground observations and experimentation, working directly in stores to understand operations and provide hands-on support in rolling out initiatives."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      100000,
+      126500
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "new hire equity grant plus annual refresh grants",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "retail operations",
+    "go-to-market",
+    "pilot programs",
+    "growth initiatives",
+    "in-store technology",
+    "cross-functional",
+    "KPIs",
+    "data-driven",
+    "experimentation",
+    "program coordination",
+    "operational workflows",
+    "order volume",
+    "continuous improvement"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation ranges explicitly disclosed for all US geographies",
+    "Equity (new hire + annual refresh) mentioned",
+    "Fully remote eligible (Flex First policy, #LI-Remote)",
+    "Clear ownership area with real product and operational scope",
+    "High visibility role described: 'sitting at the intersection of operations, experimentation, and strategy'",
+    "Explicit growth path mentioned: 'opportunity to grow into program ownership'"
+  ],
+  "red_flags": [
+    "Role requires travel to stores for on-the-ground observations — remote candidates should be aware of this travel expectation",
+    "Compensation ceiling ($126,500 in CA/NY/CT/NJ) is relatively modest for a senior IC role at a public tech company in high-cost markets",
+    "Some preferred qualifications (ambiguity comfort, structure-building) are described in behavioral/cultural terms that are difficult to assess objectively"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Sr. Associate', years requirement, and compensation range)",
+      "scope.business_model (inferred from product description and retail partner context)",
+      "scope.primary_metrics_inferred (inferred from responsibilities and preferred qualifications; not explicitly listed as a standalone section)",
+      "compensation.base_range_usd min/max (stated as multiple geo-bands; $100,000–$126,500 represents the full US floor-to-ceiling spread)"
+    ],
+    "ambiguities": [
+      "The JD is tagged #LI-Remote and references Flex First remote policy, but also requires travel to stores for on-the-ground operations support. Treated as remote-us with travel obligation.",
+      "No explicit visa sponsorship or work authorization language; left as 'unclear'.",
+      "Compensation is listed in four geographic tiers; base_range_usd is populated with the absolute min ($100,000) and absolute max ($126,500) across all US tiers for queryability."
+    ]
+  }
+}

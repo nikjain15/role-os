@@ -1,0 +1,328 @@
+{
+  "company": "Klaviyo",
+  "role_title": "Senior Product Manager, Profiles Platform",
+  "url": "https://www.klaviyo.com/careers/jobs?gh_jid=7709909003",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7709909003",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "3 days/week in SF office",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Platform / Data Infrastructure PM",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 6,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "6+ years of product management experience",
+      "Title is 'Senior Product Manager'",
+      "Base pay range $136,000–$204,000 consistent with Senior IC at a growth-stage SaaS company"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "You have 6+ years of product management experience, ideally in platform, data infrastructure, or backend systems",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 6,
+      "unit": "years",
+      "qualifier": "ideally in platform, data infrastructure, or backend systems",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_infrastructure_experience",
+      "raw_text_from_jd": "You have experience working on data models, pipelines, or large-scale distributed systems",
+      "skill_type": "domain_knowledge",
+      "domain": "data_infrastructure",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "data models",
+        "pipelines",
+        "large-scale distributed systems"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_environment_comfort",
+      "raw_text_from_jd": "You are comfortable operating in highly technical environments and partnering closely with engineering",
+      "skill_type": "capability",
+      "domain": "technical_product_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_team_alignment",
+      "raw_text_from_jd": "You have experience driving cross-team alignment across multiple stakeholders",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "systems_tradeoffs_thinking",
+      "raw_text_from_jd": "You think in terms of systems and tradeoffs (scale, cost, performance, usability)",
+      "skill_type": "capability",
+      "domain": "systems_thinking",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "balance_long_short_term",
+      "raw_text_from_jd": "You can balance long-term platform investments with short-term product needs",
+      "skill_type": "capability",
+      "domain": "product_strategy",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_communication",
+      "raw_text_from_jd": "You communicate clearly and can translate complex technical concepts into business impact",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "cdp_identity_experience",
+      "raw_text_from_jd": "Experience with customer data platforms (CDPs) or identity systems",
+      "skill_type": "domain_knowledge",
+      "domain": "customer_data_platforms",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_modeling_pipelines_storage",
+      "raw_text_from_jd": "Familiarity with data modeling, event pipelines, or storage systems (e.g., KVS, streaming ingestion)",
+      "skill_type": "tool_proficiency",
+      "domain": "data_engineering",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "KVS"
+      ],
+      "technologies_named": [
+        "data modeling",
+        "event pipelines",
+        "streaming ingestion"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "enterprise_scale_systems",
+      "raw_text_from_jd": "Experience supporting enterprise-scale or high-volume systems",
+      "skill_type": "domain_knowledge",
+      "domain": "enterprise_infrastructure",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_analytics_platforms",
+      "raw_text_from_jd": "Exposure to AI/analytics platforms that depend on structured customer data",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_analytics",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "AI",
+        "analytics platforms"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_residency_compliance",
+      "raw_text_from_jd": "Experience with data residency, privacy, or compliance (e.g., GDPR, HIPAA)",
+      "skill_type": "domain_knowledge",
+      "domain": "data_privacy_compliance",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "GDPR",
+        "HIPAA"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [
+    "Fully remote candidates"
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Klaviyo's core customer profile data system — profile traits, transformations, storage layers, computed properties, and ingestion infrastructure",
+    "business_model": "B2B SaaS, martech/CDP platform serving ecommerce brands",
+    "primary_metrics_inferred": [
+      "Profile data quality and accuracy",
+      "System performance and latency",
+      "Ingestion scalability (billions of profiles)",
+      "Cost efficiency (sharding, write optimization)",
+      "Compliance coverage (data residency, GDPR)"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Identity team",
+      "Data team",
+      "Consent team",
+      "Segmentation",
+      "Flows",
+      "Reporting",
+      "Analytics",
+      "AI teams"
+    ],
+    "core_responsibilities": [
+      "Own the strategy and roadmap for Klaviyo's core profile data system, including profile traits, transformations, and storage layers",
+      "Serve as the product owner for the source of truth for customer data across the platform",
+      "Partner closely with engineering to evolve profile data architecture and services at massive scale",
+      "Collaborate with the Identity, Data, and Consent teams to ensure accurate and unified customer records",
+      "Drive improvements in profile data quality, usability, and modeling for downstream consumers (segmentation, flows, analytics, AI)",
+      "Enable enterprise and global expansion by supporting data residency, compliance, and regional infrastructure requirements",
+      "Define and track key metrics around data quality, performance, and system efficiency"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      136000,
+      204000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity mentioned as part of total compensation package",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "profile data",
+    "data infrastructure",
+    "platform PM",
+    "computed properties",
+    "distributed systems",
+    "data modeling",
+    "ingestion",
+    "data residency",
+    "enterprise scale",
+    "customer data platform",
+    "identity",
+    "scalability",
+    "GDPR",
+    "backend systems"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Salary range disclosed ($136K–$204K base)",
+    "Clear product surface and ownership area with concrete technical scope",
+    "High-impact platform role influencing nearly every product team",
+    "Explicit callout of long-term strategic work (computed properties, residency, identity quality)",
+    "Encourages close but not exact match candidates to apply",
+    "Role sits at foundation of platform — strong career leverage"
+  ],
+  "red_flags": [
+    "Hard requirement for 3 days/week in SF office; fully remote candidates explicitly excluded — geographically restrictive",
+    "Visa sponsorship policy not stated — unclear for non-US candidates",
+    "Broad comp range ($136K–$204K) provides limited signal on actual offer band for senior candidates",
+    "No mention of team size or reporting structure"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title, years, and comp range)",
+      "scope.team_size_estimate (not stated; left as 'unclear')",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly listed in JD)",
+      "scope.business_model (inferred from product description and company context)",
+      "location.visa_sponsorship (not stated; marked unclear)",
+      "compensation.location_pay_differential (inferred from statement 'range reflects the cost of labor across various U.S. geographic markets')"
+    ],
+    "ambiguities": [
+      "The JD states '6+ years of product management experience, ideally in platform, data infrastructure, or backend systems' — the domain qualifier 'ideally' softens this, but the years requirement is unconditional. Treated as hard on years, with domain qualifier noted.",
+      "Visa sponsorship is not mentioned anywhere in the JD; marked as 'unclear' rather than 'no' or 'yes'."
+    ]
+  }
+}

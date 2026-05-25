@@ -1,0 +1,268 @@
+{
+  "company": "Ramp",
+  "role_title": "Growth Manager, Website CRO",
+  "url": "https://jobs.ashbyhq.com/ramp/8e91631a-7e69-4d76-a73b-de2f09d7de9f",
+  "ats_provider": "ashby",
+  "ats_job_id": "8e91631a-7e69-4d76-a73b-de2f09d7de9f",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "New York, NY",
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "unclear",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Growth (non-PM)",
+  "archetype_confidence": "high",
+  "secondary_archetype": "CRO / Web Growth Manager",
+  "seniority": {
+    "level": "Mid-level IC",
+    "years_required_min": 1,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "Minimum 1 year of experience in growth, product management, product marketing or adjacent field",
+      "High degree of autonomy expected",
+      "No management responsibilities mentioned"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_experience_growth",
+      "raw_text_from_jd": "Minimum 1 year of experience in growth, product management, product marketing or adjacent field",
+      "skill_type": "years_of_experience",
+      "domain": "growth_or_product_marketing",
+      "minimum_value": 1,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "complex_problem_solving_autonomy",
+      "raw_text_from_jd": "Demonstrated ability to dissect complex problems, identify solutions, and drive these solutions to completion with a high degree of autonomy",
+      "skill_type": "capability",
+      "domain": "problem_solving",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_analytics_proficiency",
+      "raw_text_from_jd": "Proficiency with data analytics with an ability to draw key insights from both quantitative and qualitative data",
+      "skill_type": "capability",
+      "domain": "data_analytics",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "resourcefulness_fast_learner",
+      "raw_text_from_jd": "High level of resourcefulness and a track record of being a fast learner",
+      "skill_type": "cultural_fit",
+      "domain": "learning_agility",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_communication",
+      "raw_text_from_jd": "Communication skills to influence others at all levels and across all functions within the organization to rally behind shared business goals",
+      "skill_type": "capability",
+      "domain": "cross_functional_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_leverage_demonstrated",
+      "raw_text_from_jd": "Demonstrated ability to leverage AI to accelerate and improve your work – we'll ask about what you've built",
+      "skill_type": "capability",
+      "domain": "ai_tooling",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "sql_proficiency",
+      "raw_text_from_jd": "SQL proficiency",
+      "skill_type": "tool_proficiency",
+      "domain": "data_querying",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "SQL"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "pipeline_revenue_metric_ownership",
+      "raw_text_from_jd": "Experience owning a pipeline, revenue, or metric goal",
+      "skill_type": "outcome",
+      "domain": "revenue_or_pipeline_ownership",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "nocode_lowcode_tools",
+      "raw_text_from_jd": "Experience with no-code / low-code tools (eg Zapier, Webflow, Retool)",
+      "skill_type": "tool_proficiency",
+      "domain": "no_code_low_code",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Zapier",
+        "Webflow",
+        "Retool"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Ramp website — conversion rate optimization (CRO), landing pages, top-of-funnel demand generation",
+    "business_model": "B2B SaaS / fintech — finance automation platform for businesses",
+    "primary_metrics_inferred": [
+      "Conversion rates",
+      "Net new leads generated via website",
+      "User engagement metrics",
+      "User traffic patterns",
+      "Sales lead generation"
+    ],
+    "cross_functional_partners": [
+      "Sales",
+      "Marketing",
+      "Engineering",
+      "Product",
+      "Risk",
+      "Operations",
+      "Design",
+      "Data"
+    ],
+    "core_responsibilities": [
+      "Drive net new leads for Ramp, with an emphasis on Conversion Rate Optimization (CRO) on our website and Top-of-Funnel demand generation campaigns.",
+      "Own the feedback loop of testing new copy, imagery, layouts, and engagement mechanisms on our website, analyzing the results, and sharing learnings with our broader Growth & Marketing teams.",
+      "Leverage web analytics tools to monitor website performance and uncover trends and opportunities.",
+      "Find and build AI-powered workflows like finding experimentation opportunities, reporting on metrics to the broader growth team, and any other ways to make the Web/growth teams operate more effectively and efficiently.",
+      "Regularly report on key performance indicators (KPIs) such as conversion rates, user engagement, user traffic patterns, and sales lead generation.",
+      "Work across Sales, Marketing, Engineering, Product, Risk, and Operations to execute against Ramp's growth goals"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "CRO",
+    "Conversion Rate Optimization",
+    "website optimization",
+    "top-of-funnel",
+    "lead generation",
+    "A/B testing",
+    "web analytics",
+    "AI-powered workflows",
+    "no-code",
+    "growth",
+    "data analytics",
+    "landing pages",
+    "demand generation"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear ownership of a specific growth surface (website CRO and top-of-funnel)",
+    "Explicit encouragement of AI tool usage and builder mindset",
+    "Broad cross-functional exposure across Sales, Marketing, Engineering, Product, Risk, and Operations",
+    "Company discloses meaningful scale ($100B+ annualized spend, 50,000+ customers)",
+    "Comprehensive benefits package including relocation support to NYC or SF",
+    "Low minimum experience bar (1 year) with emphasis on demonstrated output over credentials"
+  ],
+  "red_flags": [
+    "Compensation range not disclosed",
+    "Visa sponsorship status not mentioned",
+    "Office time requirement is unclear — relocation support to NYC or SF is mentioned, suggesting in-office expectation, but not explicitly stated",
+    "Location type (hybrid vs remote) is ambiguous; benefits mention relocation to NYC or SF but JD does not explicitly state office policy"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 1-year minimum and scope of responsibilities)",
+      "scope.business_model (inferred from company description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities section, not explicitly listed as success metrics)",
+      "location.type (inferred as hybrid based on relocation support to NYC/SF; not explicitly stated)",
+      "location.cities_listed (inferred from relocation support mention; not explicitly listed as role locations)"
+    ],
+    "ambiguities": [
+      "Work location policy is not explicitly stated (hybrid vs onsite vs remote). Relocation support to NYC or SF is mentioned in benefits, suggesting an office-present expectation, but no office time percentage or hybrid label is given. Treated as hybrid.",
+      "Visa sponsorship is not mentioned anywhere in the JD; set to 'unclear'.",
+      "The JD mentions global benefits and Canada/UK-specific benefits, suggesting potential openness to non-US hiring, but the role does not explicitly state remote-global eligibility."
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "company": "Glean",
+  "role_title": "Senior Technical Program Manager, Strategic Escalations",
+  "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4688023005",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "4688023005",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "Mountain View, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "4 days a week in Mountain View office",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Customer Escalations / Incident Management TPM",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7+ years of experience in technical program management or related cross-functional technical role",
+      "Compensation range $198,000 - $235,500 base, consistent with Senior IC",
+      "Role title includes 'Senior'"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_tpm_experience",
+      "raw_text_from_jd": "7+ years of experience in technical program management, technical account management, support engineering, solutions engineering, or a related cross-functional technical role.",
+      "skill_type": "years_of_experience",
+      "domain": "technical_program_management",
+      "minimum_value": 7,
+      "unit": "years",
+      "is_combined": true,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_escalations_experience",
+      "raw_text_from_jd": "Proven experience managing complex customer escalations, critical incidents, or high-priority technical programs in a B2B SaaS environment.",
+      "skill_type": "domain_knowledge",
+      "domain": "customer_escalation_management",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "B2B SaaS"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_fluency",
+      "raw_text_from_jd": "Strong technical fluency and the ability to engage effectively with Engineering teams on product behavior, integrations, APIs, infrastructure, and issue triage.",
+      "skill_type": "capability",
+      "domain": "technical_fluency",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "APIs"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "program_management_skills",
+      "raw_text_from_jd": "Excellent program management skills, including experience driving cross-functional execution, managing stakeholders, and operating effectively under pressure.",
+      "skill_type": "capability",
+      "domain": "program_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "executive_communication",
+      "raw_text_from_jd": "Exceptional written and verbal communication skills, with experience preparing executive-facing updates and customer-sensitive communications.",
+      "skill_type": "capability",
+      "domain": "executive_communication",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_problem_solving",
+      "raw_text_from_jd": "Strong analytical and problem-solving skills, with the ability to identify patterns, structure ambiguous problems, and drive durable outcomes.",
+      "skill_type": "capability",
+      "domain": "analytical_problem_solving",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "influence_without_authority",
+      "raw_text_from_jd": "Demonstrated ability to influence without authority and align teams with competing priorities around urgent customer needs.",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_obsessed_mindset",
+      "raw_text_from_jd": "Customer-obsessed mindset with sound judgment, composure, and a bias for action.",
+      "skill_type": "cultural_fit",
+      "domain": "customer_orientation",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "escalation_program_building",
+      "raw_text_from_jd": "Experience building or improving escalation programs, incident management processes, or operational reporting is a plus.",
+      "skill_type": "domain_knowledge",
+      "domain": "escalation_program_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "enterprise_software_familiarity",
+      "raw_text_from_jd": "Familiarity with enterprise software environments, customer-facing operations, and technical issue resolution workflows is preferred.",
+      "skill_type": "domain_knowledge",
+      "domain": "enterprise_software",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "enterprise software"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Strategic customer escalations across enterprise accounts; cross-functional coordination with Engineering, Product, Support, Customer Success, and GTM teams",
+    "business_model": "B2B SaaS — enterprise Work AI platform",
+    "primary_metrics_inferred": [
+      "Time-to-resolution for strategic escalations",
+      "Customer satisfaction / trust restoration",
+      "Reduction in repeat escalations via systemic corrective actions",
+      "Executive and customer communication quality"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Product",
+      "Support",
+      "Customer Success",
+      "Go-to-market / leadership teams"
+    ],
+    "core_responsibilities": [
+      "Own end-to-end management of strategic customer escalations, ensuring timely resolution, clear communication, and strong alignment across internal stakeholders.",
+      "Drive cross-functional incident and escalation workflows involving Engineering, Product, Support, Customer Success, and leadership teams.",
+      "Establish clear plans of action for escalations, including timelines, owners, risks, dependencies, and communication cadences.",
+      "Act as the primary program lead for high-severity or high-visibility customer issues, maintaining momentum and driving decisions through ambiguity.",
+      "Communicate status, risks, mitigation plans, and resolution progress to internal leaders and customer-facing teams with clarity and precision.",
+      "Partner with technical teams to understand root causes, assess tradeoffs, and unblock execution paths toward resolution.",
+      "Identify recurring themes and systemic issues across escalations, and drive long-term corrective actions with cross-functional partners.",
+      "Improve escalation management processes, operating rhythms, reporting, and tooling to increase responsiveness and reduce customer impact.",
+      "Develop executive-ready summaries and post-incident materials that capture business impact, technical context, and follow-up actions.",
+      "Build trusted relationships across internal teams and help reinforce a culture of urgency, accountability, and customer obsession."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      198000,
+      235500
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity eligibility mentioned as conditional ('certain roles may be eligible for variable compensation, equity, and benefits')",
+    "location_pay_differential": false,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "strategic escalations",
+    "technical program management",
+    "incident management",
+    "B2B SaaS",
+    "cross-functional coordination",
+    "executive communication",
+    "customer escalations",
+    "root cause analysis",
+    "enterprise",
+    "Work AI"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed and competitive ($198K-$235.5K base)",
+    "Clear and specific role scope — strategic escalations with defined cross-functional partners",
+    "Hybrid rather than fully on-site, with explicit cadence stated (4 days/week)",
+    "Strong company recognition signals (Fast Company Top 10, Forbes AI 50, CNBC Disruptor 50)",
+    "Comprehensive benefits package described including 401k, stipends, health coverage",
+    "Inclusive hiring statement explicitly noted"
+  ],
+  "red_flags": [
+    "4 days per week in Mountain View office is a near-onsite requirement — eliminates most remote candidates",
+    "Visa sponsorship and work authorization not addressed in the JD",
+    "Equity eligibility is conditional ('certain roles may be eligible') — not guaranteed for this role",
+    "AI fluency exercise required as part of interview process — adds friction for candidates less familiar with AI tooling"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range + title + years requirement)",
+      "scope.business_model (inferred from company description as B2B SaaS)",
+      "scope.primary_metrics_inferred (not stated; inferred from responsibilities)",
+      "location.work_auth (not stated; marked unclear)",
+      "location.visa_sponsorship (not stated; marked unclear)",
+      "posting_first_seen (not available)",
+      "posting_last_updated (not available)"
+    ],
+    "ambiguities": [
+      "Equity is noted as conditional ('certain roles may be eligible') — unclear if this TPM role qualifies; treated as equity_mentioned: true with caveat",
+      "JD hashtag '#LI-HYBRID' and body both say hybrid 4 days/week — consistent, but the near-onsite cadence effectively limits remote candidates significantly"
+    ]
+  }
+}

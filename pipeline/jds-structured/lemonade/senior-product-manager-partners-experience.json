@@ -1,0 +1,226 @@
+{
+  "company": "Lemonade",
+  "role_title": "Senior Product Manager, Partners Experience",
+  "url": "https://jobs.ashbyhq.com/lemonade/b6ec5919-0ccf-488f-8b07-acc5ed98c79f",
+  "ats_provider": "ashby",
+  "ats_job_id": "b6ec5919-0ccf-488f-8b07-acc5ed98c79f",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [],
+    "remote_us_eligible": false,
+    "office_time_required": "most days of the week",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Growth PM (partner/distribution channel ownership)",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 6,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "6+ years of product management experience",
+      "End-to-end ownership of a funnel or business KPI",
+      "Title is explicitly Senior Product Manager"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "6+ years of product management experience, ideally in insurtech, fintech, vertical SaaS, or a marketplace — especially if you've built tools for professionals like agents, brokers, or operators",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 6,
+      "unit": "years",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "insurtech",
+        "fintech",
+        "vertical SaaS",
+        "marketplace"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [],
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard"
+    },
+    {
+      "id": "funnel_kpi_ownership",
+      "raw_text_from_jd": "A track record of owning a funnel or business KPI end-to-end, with results you can speak to clearly and specifically",
+      "skill_type": "outcome",
+      "domain": "funnel_ownership",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [],
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard"
+    },
+    {
+      "id": "external_partner_product_experience",
+      "raw_text_from_jd": "Experience building for external users or partners — you understand B2B, B2B2C, or SMB dynamics and know that operator-facing products have their own rules",
+      "skill_type": "domain_knowledge",
+      "domain": "B2B_B2B2C_partner_products",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [],
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard"
+    },
+    {
+      "id": "analytical_instincts",
+      "raw_text_from_jd": "Strong analytical instincts — you're comfortable with ambiguity, know how to find signal in the data, and make decisions before all the information is in",
+      "skill_type": "capability",
+      "domain": "data_driven_decision_making",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [],
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard"
+    },
+    {
+      "id": "simplify_complexity",
+      "raw_text_from_jd": "The ability to simplify complexity: you can take a messy workflow, a tangled stakeholder map, or a technical constraint and turn it into something clear and actionable",
+      "skill_type": "capability",
+      "domain": "problem_structuring",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [],
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard"
+    },
+    {
+      "id": "communication_and_trust",
+      "raw_text_from_jd": "Sharp communication skills — with external partners and internal teams alike — and a natural ability to build trust across functions",
+      "skill_type": "capability",
+      "domain": "cross_functional_communication",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [],
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard"
+    },
+    {
+      "id": "office_presence",
+      "raw_text_from_jd": "Ready to work in an office environment most days of the week",
+      "skill_type": "cultural_fit",
+      "domain": "work_location_requirement",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [],
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard"
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Agent channel / partner experience product — onboarding through policy management for insurance agents",
+    "business_model": "B2B2C insurance distribution via agent/partner channel",
+    "primary_metrics_inferred": [
+      "Channel contribution",
+      "Funnel conversion",
+      "Cross-sell rates",
+      "Agent retention"
+    ],
+    "cross_functional_partners": [
+      "Agents Partnerships",
+      "Underwriting",
+      "Design",
+      "Engineering",
+      "Growth",
+      "Pricing",
+      "Data Science",
+      "CX"
+    ],
+    "core_responsibilities": [
+      "Help insurance agents grow and succeed with Lemonade by building products that improve their experience, performance, and business impact",
+      "Own the end-to-end agent product experience — from onboarding through policy management — and drive measurable improvements in conversion and retention",
+      "Identify and prioritize the highest-leverage opportunities across the agent funnel, using data to guide decisions and validate bets",
+      "Partner with Agents Partnerships, Underwriting, Design, and Engineering to ship tools that make agents faster, more confident, and more successful with Lemonade",
+      "Translate complex insurance workflows into clean, modern digital experiences that replace legacy friction with real efficiency",
+      "Define and track the metrics that matter — channel contribution, funnel conversion, cross-sell rates — and own the outcomes, not just the output",
+      "Work cross-functionally with Growth, Pricing, Data Science, and CX to align agent-facing experiences with broader business goals",
+      "Build the case for what we build next, combining partner feedback, market signals, and internal data into a clear, prioritized roadmap"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "agent channel",
+    "partner experience",
+    "insurtech",
+    "B2B2C",
+    "funnel conversion",
+    "distribution strategy",
+    "insurance agents",
+    "operator-facing products",
+    "AI-first",
+    "roadmap",
+    "cross-sell",
+    "vertical SaaS"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear product surface and ownership area (agent channel, end-to-end)",
+    "Specific metrics called out (channel contribution, funnel conversion, cross-sell rates)",
+    "Cross-functional partners named explicitly",
+    "AI-first culture signaled as genuine rather than just marketing"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "Office location(s) not specified — city/office unclear from JD",
+    "No visa sponsorship or work authorization information provided",
+    "Posting date not available — unclear how fresh this role is"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title + 6+ years requirement)",
+      "scope.business_model (inferred from agent/partner channel description)",
+      "scope.primary_metrics_inferred (partially inferred; some metrics directly stated in JD)",
+      "location.type (inferred as onsite from 'most days of the week' phrasing; no city named)"
+    ],
+    "ambiguities": [
+      "No city or country is specified for the office requirement; 'most days of the week' implies onsite but location is unknown",
+      "Industries listed in years_pm_experience requirement are framed as 'ideally' (suggesting preference) but sit within the 'What you'll need' section; treated as hard per classification rules, but there is some ambiguity"
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "company": "Faire",
+  "role_title": "Senior Growth Partnerships Manager",
+  "url": "https://boards.greenhouse.io/faire/jobs/8541582002?gh_jid=8541582002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8541582002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "New York"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "3 days per week (Tuesdays, Thursdays, and one flex day); up to 4 weeks remote per year",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Growth PM",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Growth (non-PM) — Partnerships / Affiliate Acquisition",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 4,
+    "years_required_max": 8,
+    "manages_people": false,
+    "level_signals": [
+      "5-8 years of experience in growth marketing or partnerships strategy mentioned in role description",
+      "4+ years hard requirement in qualifications",
+      "'Senior' in title",
+      "Comp range $148K-$203.5K base in New York consistent with Senior IC"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_growth_or_partnerships",
+      "raw_text_from_jd": "4+ years of experience in Growth Marketing or Partnerships, with a focus on acquisition-driven partnerships in B2B or B2C (e.g., affiliates, influencers, referrals, sponsorships).",
+      "skill_type": "years_of_experience",
+      "domain": "growth_marketing_or_partnerships",
+      "minimum_value": 4,
+      "unit": "years",
+      "qualifier": "acquisition-driven partnerships in B2B or B2C",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "B2B",
+        "B2C"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "affiliate_marketing_expertise",
+      "raw_text_from_jd": "Deep understanding of affiliate marketing strategies, including experience with networks, publishers, influencers, and performance-based partnerships; experience managing affiliate networks (e.g., Impact, PartnerStack, CJ, Rakuten, Awin, ShareASale) and developing direct partnerships.",
+      "skill_type": "domain_knowledge",
+      "domain": "affiliate_marketing",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [
+        "Impact",
+        "PartnerStack",
+        "CJ",
+        "Rakuten",
+        "Awin",
+        "ShareASale"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "agency_vendor_management",
+      "raw_text_from_jd": "Proven experience managing external agencies or vendors, including setting deliverables and holding partners accountable to performance targets",
+      "skill_type": "capability",
+      "domain": "agency_and_vendor_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "scale_affiliate_programs",
+      "raw_text_from_jd": "Proven ability to scale affiliate programs within ROI guardrails, optimize partner performance, and manage both long-tail and strategic partnerships with the tenacity to overcome obstacles to growth.",
+      "skill_type": "outcome",
+      "domain": "affiliate_program_scaling",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "new_growth_channel_testing",
+      "raw_text_from_jd": "Hands-on experience in testing and launching new growth channels, including referral programs, influencer partnerships, and non-traditional acquisition channels.",
+      "skill_type": "capability",
+      "domain": "growth_channel_development",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "third_party_partnership_cultivation",
+      "raw_text_from_jd": "Ability to identify and cultivate high-value third-party partnerships, balancing short-term testing with long-term scalability and opportunity sizing.",
+      "skill_type": "capability",
+      "domain": "business_development_partnerships",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "deal_structuring_negotiation",
+      "raw_text_from_jd": "Some experience structuring or negotiating partnership or business development deals",
+      "skill_type": "capability",
+      "domain": "deal_structuring_and_negotiation",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_and_communication_skills",
+      "raw_text_from_jd": "Excellent analytical, organizational, and written/verbal communication skills; Can effectively communicate through data using clear and concise summary",
+      "skill_type": "capability",
+      "domain": "analytics_and_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "project_management",
+      "raw_text_from_jd": "Strong project management and execution skills, able to drive multiple initiatives simultaneously in a fast-paced environment.",
+      "skill_type": "capability",
+      "domain": "project_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "sql_proficiency",
+      "raw_text_from_jd": "familiar with SQL or willingness to learn a plus.",
+      "skill_type": "tool_proficiency",
+      "domain": "data_querying",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "SQL"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Affiliate and partnerships-driven retailer acquisition channel; broader partnerships ecosystem including influencer, referral, blog, sponsorships, trade shows",
+    "business_model": "B2B marketplace / wholesale platform (Faire connects independent retailers with brands/suppliers)",
+    "primary_metrics_inferred": [
+      "Retailer Acquisitions (RAs)",
+      "GMV and revenue growth from affiliate channel",
+      "Acquisition cost efficiency / ROI",
+      "Affiliate channel KPIs and attribution accuracy"
+    ],
+    "cross_functional_partners": [
+      "Growth Marketing",
+      "Marketing Analytics",
+      "MarTech",
+      "Business Development",
+      "Product"
+    ],
+    "core_responsibilities": [
+      "Own and optimize affiliate program end-to-end to maximize retailer acquisition growth while maintaining efficient acquisition costs",
+      "Serve as primary point of contact for affiliate agency; oversee program execution and hold agency accountable to performance targets",
+      "Build ROI case for and test new acquisition channels within the partnerships ecosystem",
+      "Analyze third-party partner ecosystem and invest in innovative BD partnership models",
+      "Analyze and own accountability for campaign and channel performance",
+      "Collaborate cross-functionally with Growth Marketing, Analytics, BD, and Product teams",
+      "Support SEO/AEO initiatives where partnerships can contribute to organic discovery"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      148000,
+      203500
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity mentioned as part of compensation package (form unspecified)",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "affiliate marketing",
+    "growth partnerships",
+    "retailer acquisition",
+    "performance marketing",
+    "affiliate networks",
+    "influencer partnerships",
+    "referral programs",
+    "ROI",
+    "GMV",
+    "agency management",
+    "B2B",
+    "wholesale platform"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($148K-$203.5K base in New York)",
+    "Equity mentioned as part of compensation",
+    "Clear ownership area and metrics (retailer acquisitions, GMV, ROI)",
+    "Well-scoped role with concrete responsibilities",
+    "Backed by top-tier investors (Y Combinator, Sequoia, Founders Fund, etc.)",
+    "Hybrid flexibility including up to 4 weeks remote per year"
+  ],
+  "red_flags": [
+    "JD body mentions '5-8 years of experience' in role description but qualifications section states '4+ years' — creates ambiguity on true minimum requirement",
+    "Visa sponsorship and work authorization not addressed in JD",
+    "Compensation range is New York-specific; no indication of pay in other locations or whether other locations are eligible",
+    "Hybrid requirement of 3 days/week in office is relatively demanding"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Senior', comp range, and responsibilities)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly listed as metrics)",
+      "scope.business_model (inferred from company description)",
+      "location.work_auth (not stated in JD)",
+      "location.visa_sponsorship (not stated in JD)",
+      "compensation.location_pay_differential (inferred from salary being New York-specific)"
+    ],
+    "ambiguities": [
+      "Years of experience: role description states '5-8 years of experience in growth marketing or partnerships strategy' but the qualifications section lists '4+ years'. Both are noted; severity for the years requirement is set to hard based on the explicit qualifications section (4+), with the 5-8 year range used as a seniority signal.",
+      "New Channel Development bullet in responsibilities is not formatted as a dash-prefixed bullet like the others — likely a formatting artifact, treated as equivalent in scope.",
+      "Role location is ambiguous: compensation is stated for New York only, but the JD does not explicitly confirm the role is New York-only. Other Faire offices (San Francisco, Toronto, London) exist. Treated as New York-primary given salary disclosure."
+    ]
+  }
+}

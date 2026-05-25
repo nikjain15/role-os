@@ -1,0 +1,247 @@
+{
+  "company": "Perplexity",
+  "role_title": "Product Manager (Builder)",
+  "url": "https://jobs.ashbyhq.com/perplexity/f25e190e-0508-4707-b575-fcaed358dc13",
+  "ats_provider": "ashby",
+  "ats_job_id": "f25e190e-0508-4707-b575-fcaed358dc13",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "AI Product Manager",
+  "seniority": {
+    "level": "Mid-Senior IC",
+    "years_required_min": 4,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "4+ years of product management experience",
+      "Strong experience with product management and leadership",
+      "Thrives in a small, agile team: has initiative and desire for ownership"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "4+ years of product management experience.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 4,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "pm_leadership_experience",
+      "raw_text_from_jd": "Strong experience with product management and leadership.",
+      "skill_type": "capability",
+      "domain": "product_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_and_metrics_experience",
+      "raw_text_from_jd": "Strong experience working with data and metrics.",
+      "skill_type": "capability",
+      "domain": "data_and_metrics",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "productivity_knowledge_work",
+      "raw_text_from_jd": "Experience with productivity and knowledge work products.",
+      "skill_type": "domain_knowledge",
+      "domain": "productivity_software",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "prototyping_data_viz",
+      "raw_text_from_jd": "Experience with prototyping and data visualization.",
+      "skill_type": "tool_proficiency",
+      "domain": "prototyping_and_data_visualization",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_driven_flywheels",
+      "raw_text_from_jd": "Experience with building data driven flywheels for iterative improvement.",
+      "skill_type": "capability",
+      "domain": "growth_and_retention",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "small_agile_team_ownership",
+      "raw_text_from_jd": "Thrives in a small, agile team: has initiative and desire for ownership.",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_writing_skills",
+      "raw_text_from_jd": "The ideal candidate should have strong communication and writing skills, the ability to envision innovative technology, and willingness to reimagine work to be more efficient and creative.",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "industry_domain_expertise",
+      "raw_text_from_jd": "Ideal candidates have a passion in a particular industry that they are domain experts in: in the application please highlight which industry you are most interested in innovating.",
+      "skill_type": "domain_knowledge",
+      "domain": "industry_vertical",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "small team (explicitly described as small, highly leveraged)",
+    "surface": "Perplexity Computer and core search/agentic AI product experience",
+    "business_model": "B2C and B2B, AI-powered search and agentic productivity",
+    "primary_metrics_inferred": [
+      "Product-led growth and retention",
+      "User adoption and daily active usage",
+      "Enterprise industry value delivery"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Research",
+      "Data / User Research"
+    ],
+    "core_responsibilities": [
+      "Anticipate opportunities for innovation and value in enterprise industries.",
+      "Envision new experiences and deliver a long-term vision.",
+      "Understanding of levers for product-led growth and retention.",
+      "Work closely with engineering and design to align product expectations and capabilities.",
+      "Work with research to evaluate and steer nondeterministic models into the high value outcomes for users.",
+      "Work with data and user research to understand quantitative and qualitative data.",
+      "Have conviction to make difficult product decisions in the face of uncertainty."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "agentic AI",
+    "Computer",
+    "product-led growth",
+    "knowledge work",
+    "data-driven",
+    "enterprise",
+    "prototyping",
+    "data visualization",
+    "iterative improvement",
+    "nondeterministic models"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Small, highly leveraged team signals significant PM ownership and impact",
+    "Clear product surface named (Perplexity Computer + core search experience)",
+    "Company is a high-growth AI consumer product with strong market visibility",
+    "Explicitly values domain expertise and passion, giving candidates a way to differentiate"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "No location or remote/hybrid policy stated — candidates cannot assess logistics",
+    "No visa sponsorship information provided",
+    "Qualifications are broadly stated without specificity, making it hard to assess bar accurately",
+    "Posting first/last updated dates not available — unclear how fresh the role is"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 4+ years requirement and leadership language)",
+      "scope.team_size_estimate (inferred from 'small, highly leveraged' language in JD intro)",
+      "scope.business_model (inferred from product description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not directly stated)",
+      "compensation.equity_mentioned (not stated; defaulted to false)",
+      "location.type (not stated; set to unclear)"
+    ],
+    "ambiguities": [
+      "No location, remote/hybrid policy, or work authorization information is provided anywhere in the JD. Location type set to 'unclear'.",
+      "All qualifications bullets are framed without 'required' or 'preferred' labels — all treated as hard requirements per extraction rules, but several could reasonably be soft.",
+      "The JD intro says 'In 2026, we launched Computer' — unusual phrasing that may reflect an aspirational or future-dated claim, or a copy error. Treated as factual company context."
+    ]
+  }
+}

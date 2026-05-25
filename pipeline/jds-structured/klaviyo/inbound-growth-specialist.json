@@ -1,0 +1,290 @@
+{
+  "company": "Klaviyo",
+  "role_title": "Inbound Growth Specialist",
+  "url": "https://www.klaviyo.com/careers/jobs?gh_jid=7685123003",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7685123003",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Growth (non-PM)",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Inbound Sales / Business Development",
+  "seniority": {
+    "level": "Entry-level / Associate",
+    "years_required_min": null,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "First human touchpoint for high-volume inbound; described as a stepping stone into Account Executive roles",
+      "Requires only 'previous academic, work and/or internship experience'",
+      "6 months+ BDR experience listed as a plus, not required",
+      "Base pay range $23.08–$34.62/hr consistent with entry-level US sales role"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "transferable_experience",
+      "raw_text_from_jd": "Have previous academic, work and/or internship experience with some transferable skills (sales, customer service, support, retail, hospitality, etc.)",
+      "skill_type": "years_of_experience",
+      "domain": "sales_or_customer_service",
+      "minimum_value": null,
+      "unit": null,
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "retail",
+        "hospitality"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "education_ba_bs",
+      "raw_text_from_jd": "Have a BA/BS or equivalent",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": true,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "BA/BS"
+      ]
+    },
+    {
+      "id": "goal_motivation",
+      "raw_text_from_jd": "Excited, motivated, and inspired by exceeding goals and continuously learning",
+      "skill_type": "cultural_fit",
+      "domain": "growth_mindset",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "fast_paced_environment",
+      "raw_text_from_jd": "Experience or the ability to operate in a fast-paced, high-volume environment",
+      "skill_type": "capability",
+      "domain": "high_volume_sales",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "time_management_detail_oriented",
+      "raw_text_from_jd": "Detail-oriented with strong time management and prioritization skills",
+      "skill_type": "capability",
+      "domain": "time_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_skills",
+      "raw_text_from_jd": "Excellent written and verbal communication skills",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "interpersonal_customer_service",
+      "raw_text_from_jd": "Excellent interpersonal and customer service skills; you enjoy talking to customers and helping them make decisions",
+      "skill_type": "capability",
+      "domain": "customer_service",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "google_microsoft_proficiency",
+      "raw_text_from_jd": "Proficient with Google Suite and Microsoft Office Suite or related software",
+      "skill_type": "tool_proficiency",
+      "domain": "productivity_software",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "Google Suite",
+        "Microsoft Office Suite"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "bdr_experience",
+      "raw_text_from_jd": "6 months+ experience in business development is a plus, but not required",
+      "skill_type": "years_of_experience",
+      "domain": "business_development",
+      "minimum_value": 6,
+      "unit": "months",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "crm_proficiency",
+      "raw_text_from_jd": "CRM proficiency (Salesforce or similar) is a plus",
+      "skill_type": "tool_proficiency",
+      "domain": "crm",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Salesforce"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Inbound demo requests and free Klaviyo accounts; smallest accounts from first touch through purchase",
+    "business_model": "SaaS / PLG + sales-assisted; ecommerce marketing platform",
+    "primary_metrics_inferred": [
+      "New logo acquisition (logo count)",
+      "Free-to-paid conversion",
+      "ADS (Average Deal Size implied)",
+      "One-call close rate",
+      "Pipeline velocity"
+    ],
+    "cross_functional_partners": [
+      "Sales",
+      "Business Development",
+      "Product",
+      "Customer Success",
+      "Marketing"
+    ],
+    "core_responsibilities": [
+      "Field inbound demand (demos, trials, free accounts, and product inquiries) via phone, email, and other channels",
+      "Run consultative, decision-driven demos focused on one-call closes whenever possible for smaller opportunities",
+      "Do targeted business discovery to understand goals, urgency, and fit",
+      "Qualify in or out efficiently, so you know where to double-down and where to quickly move on",
+      "Own and work a high-velocity pipeline, using strong prioritization and time management to maximize new logo acquisition",
+      "Drive new logo acquisition as a primary objective",
+      "Contribute to broader Growth team goals across free-to-paid conversion, logo count, ADS, and other core growth metrics",
+      "Consult with customers to advise and design solutions based on ecommerce best practices and optimal utilization of Klaviyo's platform",
+      "Conduct consultative qualification of prospects, and provide demonstrations of the platform",
+      "Collaborate cross-functionally to improve overall customer experience and create a structured feedback loop"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      47985,
+      71929
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity mentioned as part of total compensation package",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "inbound growth",
+    "new logo acquisition",
+    "free-to-paid conversion",
+    "one-call close",
+    "high-velocity pipeline",
+    "ecommerce",
+    "SMS marketing",
+    "email marketing",
+    "consultative selling",
+    "business development",
+    "Salesforce",
+    "Klaviyo platform"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($23.08–$34.62/hr base)",
+    "Explicitly encourages close-but-not-exact-match applicants to apply",
+    "Clear career progression path described (stepping stone to AE and other GTM roles)",
+    "Role sits within Marketing/Growth org with clear cross-functional partnerships",
+    "Equity and bonus mentioned as part of total comp package",
+    "10% travel cap clearly stated"
+  ],
+  "red_flags": [
+    "Location/work-model not specified in JD body — unclear if remote, hybrid, or onsite",
+    "Visa sponsorship not addressed",
+    "Hourly pay range is broad ($23.08–$34.62) and explicitly varies by geography, so actual offer may land far from midpoint",
+    "Use of Covey AI screening tool disclosed; independent bias audit mentioned but warrants review"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from pay range, stepping-stone language, and experience requirements)",
+      "scope.business_model (inferred from product description and ecommerce context)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; partially named in JD as 'free-to-paid conversion, logo count, ADS')",
+      "compensation.base_range_usd annualized (converted from hourly $23.08–$34.62 assuming ~2080 hrs/year for reference; source field left as 'stated' since hourly rate is stated)",
+      "location.type set to 'unclear' — JD body does not specify remote/hybrid/onsite"
+    ],
+    "ambiguities": [
+      "Location/work model not stated in JD body; cities_listed is empty and type is 'unclear'",
+      "Visa sponsorship not mentioned anywhere in the JD",
+      "Base pay is stated as hourly ($23.08–$34.62 USD); annualized figures are an inference and may not reflect actual employment terms (could be part-time or contract)"
+    ]
+  }
+}

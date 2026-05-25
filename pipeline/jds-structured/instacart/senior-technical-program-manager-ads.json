@@ -1,0 +1,336 @@
+{
+  "company": "Instacart",
+  "role_title": "Senior Technical Program Manager, Ads",
+  "url": "https://instacart.careers/job/?gh_jid=7899355",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7899355",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "remote-us",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": "Flex First — employees choose where they do their best work; regular in-person events",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Ads Technology TPM",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7+ years of work experience post-graduation in a technology field",
+      "Managing complex multi-org programs end-to-end",
+      "Driving architectural and strategic decisions at org leadership level",
+      "Base pay range up to $216,500 in top-tier states, consistent with Senior IC"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_experience_technology",
+      "raw_text_from_jd": "7+ years of work experience post-graduation in a technology field, preferably as a technical program or project manager, product manager, software engineer (technical domain), or related technical discipline.",
+      "skill_type": "years_of_experience",
+      "domain": "technology / technical program management",
+      "minimum_value": 7,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "functional_specs_program_structure",
+      "raw_text_from_jd": "Demonstrated ability to create functional specs, set program structure and influence program strategy. Previous experience in managing complex multi-org programs end-to-end, from definition to launch, throughout a software development lifecycle.",
+      "skill_type": "capability",
+      "domain": "program management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strong_communicator",
+      "raw_text_from_jd": "A strong communicator with the ability to distill multiple streams of information, convey priorities and risks, and build a narrative for stakeholders.",
+      "skill_type": "capability",
+      "domain": "stakeholder communication",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ownership_intellectual_curiosity",
+      "raw_text_from_jd": "A strong sense of ownership and intellectual curiosity to understand executional and technical problems in depth, identify potential issues and offer actions to prevent them.",
+      "skill_type": "cultural_fit",
+      "domain": "ownership and problem-solving",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "collaboration_leadership_trust",
+      "raw_text_from_jd": "Excellent collaborator and motivator, able to bring a team together to align and deliver on a common goal. Can build trust and partnerships with senior Engineering and Product leaders.",
+      "skill_type": "capability",
+      "domain": "cross-functional leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "growth_mindset",
+      "raw_text_from_jd": "Growth mindset - seeks and is receptive to actionable feedback and growth opportunities.",
+      "skill_type": "cultural_fit",
+      "domain": "team culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "accountability_independence",
+      "raw_text_from_jd": "Takes accountability seriously; can operate independently to deliver responsibilities and milestones on time and within budget.",
+      "skill_type": "capability",
+      "domain": "execution / delivery",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "self_motivated_fast_paced",
+      "raw_text_from_jd": "Self-motivated and thrives in a fast-paced environment.",
+      "skill_type": "cultural_fit",
+      "domain": "team culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "Bachelor's degree in a technology / engineering discipline.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree"
+      ]
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "masters_degree",
+      "raw_text_from_jd": "Master's degree in a technology/engineering discipline.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "masters",
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "n/a",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Master's degree"
+      ]
+    },
+    {
+      "id": "ads_technology_experience",
+      "raw_text_from_jd": "Direct experience working on Ads Technology and experiences is a big plus.",
+      "skill_type": "domain_knowledge",
+      "domain": "ads technology",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "advertising technology"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "deep_technical_domain_knowledge",
+      "raw_text_from_jd": "Demonstrated ability to showcase deep technical domain knowledge on the programs that you take on, enabling you to be seen as a strong technical voice in the program and adding significant value towards architecting a program.",
+      "skill_type": "capability",
+      "domain": "technical depth / architecture",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "architectural_strategic_decisions",
+      "raw_text_from_jd": "Demonstrated ability to drive architectural and strategic decisions at the org leadership level.",
+      "skill_type": "outcome",
+      "domain": "technical strategy / architecture",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "innovative_program_management_processes",
+      "raw_text_from_jd": "Extensive previous experience around creating innovative program management processes/tools/approaches to deliver company outcomes reliably and efficiently.",
+      "skill_type": "capability",
+      "domain": "program management process innovation",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Ads & Data Organization — ads technology programs across Instacart's multi-sided marketplace",
+    "business_model": "marketplace / retail media / ads platform (B2B2C)",
+    "primary_metrics_inferred": [
+      "Program delivery on time and within budget",
+      "Quality of execution across multi-org programs",
+      "Alignment and adoption of org-wide program management processes"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Product Management",
+      "Data Science",
+      "Design",
+      "Business Development"
+    ],
+    "core_responsibilities": [
+      "Lead planning and high quality technical execution of large Ads domain engineering programs",
+      "Work with cross-functional partners to set project objectives and metric-based success criteria",
+      "Drive definition of project requirements and execution plans",
+      "Own clear and effective communication with stakeholders on priorities, risks, and changes",
+      "Foster a culture of teamwork and shared goals within the program team",
+      "Contribute to Instacart's success by suggesting and driving organization-wide initiatives"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      178000,
+      216500
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "new hire equity grant and annual refresh grants",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Technical Program Manager",
+    "Ads Technology",
+    "multi-org programs",
+    "software development lifecycle",
+    "cross-functional",
+    "program strategy",
+    "stakeholder communication",
+    "engineering programs",
+    "ML/AI",
+    "Gen AI",
+    "Flex First"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation ranges explicitly disclosed across multiple US geographies",
+    "Equity (new hire + annual refresh) explicitly mentioned",
+    "Flex First remote-first policy — role is fully remote-eligible",
+    "Clear scope: Ads & Data Organization with specific domain focus",
+    "JD uses the #LI-Remote tag, confirming remote eligibility"
+  ],
+  "red_flags": [
+    "Visa sponsorship and work authorization not mentioned anywhere in the JD",
+    "Compensation range is wide across states ($178K–$216.5K), creating pay equity ambiguity for remote workers",
+    "7+ years minimum is a hard floor with no stated equivalent-experience pathway",
+    "Preferred qualifications around 'deep technical domain knowledge' and 'architectural decisions' may function as de facto requirements in practice"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years + comp range)",
+      "scope.business_model (inferred from product description)",
+      "scope.primary_metrics_inferred (not stated; inferred from responsibilities)",
+      "location.work_auth (not stated; marked unclear)",
+      "location.visa_sponsorship (not stated; marked unclear)",
+      "compensation.base_range_usd lower bound (taken from lowest state tier: All other states $178K)"
+    ],
+    "ambiguities": [
+      "JD body includes #LI-Remote and describes Flex First policy allowing full remote, but also references 'regular in-person events' — treated as remote-us with optional in-person community events, not a formal hybrid requirement.",
+      "Preferred qualification around 'deep technical domain knowledge' and 'architectural decisions' is listed under Preferred but may carry significant weight for a Senior TPM role; classified as soft/nice-to-have per JD structure."
+    ]
+  }
+}

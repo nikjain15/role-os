@@ -1,0 +1,294 @@
+{
+  "company": "Plaid",
+  "role_title": "Product Lead - Growth",
+  "url": "https://jobs.ashbyhq.com/plaid/0661cdab-9bc9-4614-8d2f-8f38ba4f0ec3",
+  "ats_provider": "ashby",
+  "ats_job_id": "0661cdab-9bc9-4614-8d2f-8f38ba4f0ec3",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "San Francisco, CA",
+      "New York, NY",
+      "Washington D.C.",
+      "London",
+      "Amsterdam"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "unclear",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Growth PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Technical PM (B2B platform, API-first, risk/compliance infra)",
+  "seniority": {
+    "level": "Director / Group PM (managing PMs, multi-team scope)",
+    "years_required_min": 8,
+    "years_required_max": null,
+    "manages_people": true,
+    "level_signals": [
+      "8-10+ years of product management experience",
+      "2+ years managing PMs",
+      "Leads PMs across Growth, Web, and Customer Foundations",
+      "Communicates strategy to Executive, GTM, and Engineering leadership",
+      "Makes resource allocation and prioritization decisions across a high-breadth portfolio"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "8-10+ years of product management experience, including 2+ years managing PMs.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 8,
+      "unit": "years",
+      "qualifier": "including 2+ years managing PMs",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "years_managing_pms",
+      "raw_text_from_jd": "including 2+ years managing PMs.",
+      "skill_type": "years_of_experience",
+      "domain": "people_management",
+      "minimum_value": 2,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "plg_b2b_growth_at_scale",
+      "raw_text_from_jd": "Demonstrated success leading PLG or B2B growth at scale.",
+      "skill_type": "outcome",
+      "domain": "growth_product_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_funnel_optimization",
+      "raw_text_from_jd": "Strong analytical and funnel optimization skills; comfort with data modeling and experimentation.",
+      "skill_type": "capability",
+      "domain": "analytics_and_experimentation",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "data modeling",
+        "experimentation"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "gtm_partnership",
+      "raw_text_from_jd": "Deep experience partnering with GTM teams (Sales, Partnerships, Marketing).",
+      "skill_type": "capability",
+      "domain": "cross_functional_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "enterprise_deals_or_partnerships",
+      "raw_text_from_jd": "Experience supporting enterprise deals or partnership motions.",
+      "skill_type": "domain_knowledge",
+      "domain": "enterprise_sales_support",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "multi_domain_operation",
+      "raw_text_from_jd": "Demonstrated ability to operate across multiple domains: growth, risk, compliance, onboarding, internal systems.",
+      "skill_type": "capability",
+      "domain": "multi_domain_product_leadership",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_and_xfn_leadership",
+      "raw_text_from_jd": "Excellent communication and cross-functional leadership skills",
+      "skill_type": "capability",
+      "domain": "communication_and_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "fintech_onboarding_risk_compliance",
+      "raw_text_from_jd": "Nice-to-have: Experience in fintech, onboarding, risk, or compliance workflows",
+      "skill_type": "domain_knowledge",
+      "domain": "fintech_risk_compliance",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "api_first_platform_background",
+      "raw_text_from_jd": "Nice-to-have: Background in API-first or platform businesses",
+      "skill_type": "domain_knowledge",
+      "domain": "api_platform_products",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "API-first"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear (leads PMs across Growth, Web, and Customer Foundations — likely 3+ direct report PMs)",
+    "surface": "Customer Growth & Experience (CGX): website, PLG, SMB acquisition, enterprise enablement, onboarding risk engine, customer compliance workflows, Customer Lifecycle Model",
+    "business_model": "B2B developer platform / API-first, mixed self-serve PLG and enterprise GTM",
+    "primary_metrics_inferred": [
+      "Traffic → MQL → onboarding → activation funnel conversion",
+      "SMB and long-tail customer acquisition volume",
+      "Enterprise deal support and product gap closure",
+      "Customer lifecycle state accuracy and entitlement logic",
+      "Compliance/risk workflow throughput"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "BI/DS",
+      "Marketing",
+      "Sales",
+      "Partnerships",
+      "Executive leadership",
+      "GTM leadership"
+    ],
+    "core_responsibilities": [
+      "Lead PMs across Growth, Web, and Customer Foundations.",
+      "Define the end-to-end growth strategy across website, PLG, SMB, enterprise, and partnerships.",
+      "Own core funnel performance: traffic → MQL → onboarding → activation.",
+      "Drive scalable SMB and long-tail customer acquisition motions.",
+      "Partner with Sales and Partnerships to support large enterprise deals, identify product gaps, and shape deal mechanics.",
+      "Oversee onboarding risk engine and customer compliance workflows.",
+      "Build and operationalize Plaid's Customer Lifecycle Model (CLM) to ensure clean customer state and entitlement logic.",
+      "Use data to identify funnel opportunities, segment users, validate hypotheses, and drive experimentation.",
+      "Make resource allocation and prioritization decisions across a high-breadth portfolio.",
+      "Communicate strategy, tradeoffs, and insights to Executive, GTM, and Engineering leadership"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "PLG",
+    "B2B growth",
+    "funnel optimization",
+    "SMB acquisition",
+    "enterprise enablement",
+    "Customer Lifecycle Model",
+    "onboarding",
+    "risk engine",
+    "compliance",
+    "API-first",
+    "fintech",
+    "GTM",
+    "data modeling",
+    "experimentation",
+    "platform"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Explicitly encourages applications even if experience doesn't fully match the JD",
+    "Clear portfolio scope and team ownership described in detail",
+    "High-impact, multi-surface role at a well-known fintech infrastructure company",
+    "Covers both growth strategy and foundational platform systems — broad learning opportunity"
+  ],
+  "red_flags": [
+    "Compensation not disclosed",
+    "Office requirements and visa/sponsorship policy not stated in JD body",
+    "Very high breadth portfolio (Growth + Web + Customer Foundations) may indicate organizational complexity or under-resourcing",
+    "8-10+ years minimum with people management is a high bar that limits candidate pool"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from team leadership scope, years required, and executive communication responsibilities)",
+      "scope.team_size_estimate (inferred from three named sub-teams; not stated explicitly)",
+      "scope.business_model (inferred from product description and API-first nice-to-have)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated directly)",
+      "location.type (inferred as hybrid given multiple named office cities; not explicitly stated in JD body)",
+      "location.remote_us_eligible (inferred as false given office-centric language; not explicitly stated)"
+    ],
+    "ambiguities": [
+      "Location type is not explicitly stated; multiple offices listed (SF, NYC, DC, London, Amsterdam) but it is unclear if the role requires presence in a specific city or allows remote work. Treated as hybrid here pending confirmation.",
+      "Visa sponsorship policy is not mentioned; work_auth set to 'open' and visa_sponsorship set to 'unclear'.",
+      "JD uses '8-10+ years' phrasing which is an unusual range; interpreted as minimum 8 years."
+    ]
+  }
+}

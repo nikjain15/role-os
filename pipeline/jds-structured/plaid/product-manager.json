@@ -1,0 +1,241 @@
+{
+  "company": "Plaid",
+  "role_title": "Product Manager",
+  "url": "https://jobs.ashbyhq.com/plaid/64642463-8ee8-4453-b166-449711f61cd0",
+  "ats_provider": "ashby",
+  "ats_job_id": "64642463-8ee8-4453-b166-449711f61cd0",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Growth PM",
+  "seniority": {
+    "level": "Mid-level IC (early-career PM)",
+    "years_required_min": 2,
+    "years_required_max": 4,
+    "manages_people": false,
+    "level_signals": [
+      "2–4 years of experience in a product-related role",
+      "This role suits someone early in their PM career who loves to learn, collaborate, and build meaningful solutions"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_product_experience",
+      "raw_text_from_jd": "2–4 years of experience in a product-related role (e.g. Product Manager, startup operator, founder, or product analyst).",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 2,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "startup operator",
+        "founder"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "end_to_end_product_launch",
+      "raw_text_from_jd": "Proven track record of building or launching products end-to-end.",
+      "skill_type": "outcome",
+      "domain": "product_launches",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_collaboration",
+      "raw_text_from_jd": "Experience collaborating closely with engineering and design teams to deliver value quickly.",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_skills",
+      "raw_text_from_jd": "Excellent written and verbal communication; able to explain complex ideas simply and effectively",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_tolerance",
+      "raw_text_from_jd": "Comfortable operating in fast-moving, ambiguous environments.",
+      "skill_type": "cultural_fit",
+      "domain": "adaptability",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_day_to_day_familiarity",
+      "raw_text_from_jd": "Familiarity using AI in your day-to-day product work, such as prototyping, research, or analysis.",
+      "skill_type": "tool_proficiency",
+      "domain": "ai_tools",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "startup_experience",
+      "raw_text_from_jd": "Experience in an early-stage or high-growth startup environment.",
+      "skill_type": "domain_knowledge",
+      "domain": "startup_environment",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "early-stage startup",
+        "high-growth startup"
+      ],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "fintech_experience",
+      "raw_text_from_jd": "[Nice to Have] Experience in fintech.",
+      "skill_type": "domain_knowledge",
+      "domain": "fintech",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Product area within Plaid's open finance network (connecting, moving, and managing money)",
+    "business_model": "B2B2C — developer-facing API platform enabling financial account connectivity",
+    "primary_metrics_inferred": [
+      "Product adoption / usage",
+      "Customer success outcomes",
+      "Reliability and quality metrics"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Go-to-market"
+    ],
+    "core_responsibilities": [
+      "Own a product area: define problems, write clear requirements, and drive execution with cross-functional teams.",
+      "Shape the roadmap using data, feedback, and market signals.",
+      "Collaborate with Engineering and Design to deliver intuitive, high-quality experiences.",
+      "Use metrics and user insights to measure and improve outcomes.",
+      "Communicate clearly, align stakeholders, and guide decisions.",
+      "Act with a founder mindset–simplify, move fast, and embrace feedback.",
+      "Learn continuously and help raise the bar for Plaid's products and culture."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "open finance",
+    "product roadmap",
+    "financial accounts",
+    "fintech",
+    "cross-functional",
+    "AI tools",
+    "startup environment",
+    "developer platform",
+    "customer-obsessed",
+    "end-to-end product launch"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Explicitly encourages applications from candidates who don't fully match the JD — inclusive hiring stance",
+    "Clear seniority signal: 'early in their PM career', making level expectations transparent",
+    "Well-known brand (Plaid) with established product and scale — strong resume signal",
+    "Specific nice-to-have called out in brackets, making prioritization transparent"
+  ],
+  "red_flags": [
+    "Compensation not disclosed",
+    "Location/remote policy not stated in JD body — city (SF HQ) inferred from company description, not role-specific",
+    "Visa sponsorship and work authorization not addressed",
+    "Role scope is broad and unspecific — no product area named, making it hard to assess fit"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from '2–4 years' and 'early in their PM career' language)",
+      "location.cities_listed (inferred from HQ description in intro, not from a role-specific location field)",
+      "scope.business_model (inferred from product description)",
+      "scope.primary_metrics_inferred (not stated; inferred from responsibilities)",
+      "location.type set to 'unclear' — no remote/hybrid/onsite policy stated in JD"
+    ],
+    "ambiguities": [
+      "The startup experience requirement ('Experience in an early-stage or high-growth startup environment') appears in the Qualifications section without a 'Nice to Have' tag, but is listed alongside other unlabeled bullets that are clearly expected — treated as hard. However, the boundary between required and preferred for this bullet is ambiguous given Plaid itself is a late-stage company.",
+      "Location policy is entirely absent from the JD body. San Francisco is mentioned only as HQ in the company description. Remote eligibility and office requirements are unknown."
+    ]
+  }
+}

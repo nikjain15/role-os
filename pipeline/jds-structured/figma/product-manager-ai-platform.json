@@ -1,0 +1,286 @@
+{
+  "company": "Figma",
+  "role_title": "Product Manager, AI Platform",
+  "url": "https://boards.greenhouse.io/figma/jobs/5830640004?gh_jid=5830640004",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "5830640004",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "remote-us",
+    "cities_listed": [
+      "San Francisco, CA",
+      "New York, NY"
+    ],
+    "remote_us_eligible": true,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "AI Product Manager",
+  "seniority": {
+    "level": "Senior IC / Staff PM",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7+ years of product management experience",
+      "Comp range $169K-$303K base (wide range suggests mid-to-senior levels; upper bound consistent with Staff/Senior)",
+      "Lead complex technical decision-making across platform systems",
+      "Define and drive developer platform strategy"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "7+ years of product management experience working on highly technical products",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 7,
+      "unit": "years",
+      "qualifier": "highly technical products",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "shipping_dev_tools_or_infra",
+      "raw_text_from_jd": "Proven experience shipping developer tools, infrastructure products, or AI-powered technical systems",
+      "skill_type": "outcome",
+      "domain": "developer_tools_and_infrastructure",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI-powered technical systems"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_depth",
+      "raw_text_from_jd": "Strong technical depth: you can go toe-to-toe with engineers on architecture tradeoffs and system design",
+      "skill_type": "capability",
+      "domain": "software_architecture_and_system_design",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "systems_thinking",
+      "raw_text_from_jd": "Clear systems thinking: you understand how complex components interact and can improve the whole, not just the parts",
+      "skill_type": "capability",
+      "domain": "systems_thinking",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strategy_and_execution_in_ambiguity",
+      "raw_text_from_jd": "A track record of driving strategy and execution across ambiguous, fast-moving product areas",
+      "skill_type": "outcome",
+      "domain": "product_strategy_and_execution",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "web_app_or_dev_platform_experience",
+      "raw_text_from_jd": "Experience building or designing web-based applications or developer-facing platforms",
+      "skill_type": "domain_knowledge",
+      "domain": "web_applications_and_developer_platforms",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_agent_or_code_gen_experience",
+      "raw_text_from_jd": "Experience working on AI agent systems, code generation tools, or programmable interfaces",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_agents_and_code_generation",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "AI agent systems",
+        "code generation tools",
+        "programmable interfaces"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "personal_web_product_experience",
+      "raw_text_from_jd": "Personal experience building and deploying web products (side projects, startups, or open-source work)",
+      "skill_type": "capability",
+      "domain": "web_development",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "startups"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "modern_frontend_and_deployment_familiarity",
+      "raw_text_from_jd": "Familiarity with modern frontend frameworks, deployment pipelines, or cloud infrastructure",
+      "skill_type": "tool_proficiency",
+      "domain": "frontend_and_cloud_infrastructure",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "frontend frameworks",
+        "deployment pipelines",
+        "cloud infrastructure"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "platform_scaling_across_teams",
+      "raw_text_from_jd": "Experience scaling platform capabilities across multiple product teams",
+      "skill_type": "outcome",
+      "domain": "platform_product_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Figma Make Platform — code generation, execution runtimes, preview environments, deployments, observability, extensibility, and AI agent infrastructure",
+    "business_model": "B2B SaaS / developer-facing platform",
+    "primary_metrics_inferred": [
+      "Platform reliability and performance (resilience, observability)",
+      "GA milestone achievement for Make",
+      "Developer and technical customer adoption",
+      "Scale of agent infrastructure and eval system"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "cross-functional teams",
+      "developers and technical customers"
+    ],
+    "core_responsibilities": [
+      "Define and drive the developer platform strategy for Figma Make: code generation, editing, previewing, publishing, and integration with production-scale codebases",
+      "Create and execute agent infrastructure and eval system strategies to keep Make at the forefront of AI innovation",
+      "Translate Figma's AI agent roadmaps into clear platform requirements that enable scale, reliability, and extensibility",
+      "Lead complex technical decision-making across code generation, execution environments, agentic workflows, and deployment systems",
+      "Balance rapid feature velocity with long-term platform health",
+      "Engage directly with developers and technical customers and incorporate their requirements into strategy",
+      "Ship zero-to-one platform capabilities that unlock new product surfaces and enable GA milestones"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      169000,
+      303000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity to employees (form unspecified)",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Figma Make",
+    "AI platform",
+    "developer tools",
+    "code generation",
+    "agentic workflows",
+    "execution environments",
+    "deployment",
+    "AI agent infrastructure",
+    "systems thinking",
+    "technical PM",
+    "infrastructure products",
+    "platform strategy"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($169K-$303K base)",
+    "Role is fully remote-US eligible",
+    "Clear product surface and ownership area (Make Platform)",
+    "Encourages applicants whose experience doesn't perfectly align",
+    "Comprehensive benefits package including equity, parental leave, learning stipend, and WFH stipend",
+    "Specific technical scope (runtimes, preview environments, deployments, observability) indicates a well-defined product area"
+  ],
+  "red_flags": [
+    "Very wide base salary range ($169K-$303K) makes it difficult to assess level or where a candidate might land",
+    "Remote pay is localized by 80-100% of range, which could significantly reduce compensation outside major hubs",
+    "Visa sponsorship is not mentioned — unclear policy",
+    "Required in-person onboarding for remote hires adds travel requirement not fully detailed"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 7+ years requirement and comp range)",
+      "scope.business_model (inferred from product description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "location.work_auth (not stated; defaulted to open)",
+      "location.visa_sponsorship (not mentioned; marked unclear)"
+    ],
+    "ambiguities": [
+      "The base salary range is very wide ($169K-$303K), spanning multiple seniority levels. It is unclear whether this role is scoped as Senior IC or Staff PM.",
+      "JD states 'can be held from one of our US hubs or remotely in the United States' — remote-us is the correct classification but cities listed (SF, NY) are hub offices referenced only for pay transparency, not as required locations.",
+      "Nice-to-haves are listed under 'While it's not required, it's an added plus if you also have' — treated as soft/nice-to-have per rules."
+    ]
+  }
+}

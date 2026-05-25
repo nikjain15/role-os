@@ -1,0 +1,254 @@
+{
+  "company": "Mistral AI",
+  "role_title": "Product Manager, Cloud Partnerships",
+  "url": "https://jobs.lever.co/mistral/ca22a1ac-c87e-4463-914a-6753ca79318c",
+  "ats_provider": "lever",
+  "ats_job_id": "ca22a1ac-c87e-4463-914a-6753ca79318c",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "New York, NY"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "at least 3 days per week",
+    "work_auth": "open",
+    "visa_sponsorship": "yes"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Generalist PM with partnerships/GTM focus",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7+ years of product management experience",
+      "Expected to define and champion vision and roadmap independently",
+      "Owns end-to-end product lifecycle for partnerships"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "7+ years of product management experience, preferably in cloud, SaaS, or developer platforms.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 7,
+      "unit": "years",
+      "qualifier": "preferably in cloud, SaaS, or developer platforms",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "cloud",
+        "SaaS",
+        "developer platforms"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "b2b_platform_integrations",
+      "raw_text_from_jd": "Proven success in B2B platform integrations and working with partner ecosystems, especially cloud hyperscalers (Microsoft preferred).",
+      "skill_type": "domain_knowledge",
+      "domain": "B2B_platform_integrations_and_partner_ecosystems",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "cloud"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "hyperscaler_partnership_programs",
+      "raw_text_from_jd": "Deep understanding of Hyperscaler partnership programs (e.g., IP co-sell, ISV Success, Commercial Marketplace onboarding).",
+      "skill_type": "domain_knowledge",
+      "domain": "hyperscaler_partnership_programs",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "IP co-sell",
+        "ISV Success",
+        "Commercial Marketplace onboarding"
+      ],
+      "industries_named": [
+        "cloud"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cloud_infrastructure_hands_on",
+      "raw_text_from_jd": "Hands-on experience with cloud infrastructure services and ability to collaborate with engineers on API design, integrations, and infrastructure tradeoffs.",
+      "skill_type": "capability",
+      "domain": "cloud_infrastructure_and_api_design",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "API design",
+        "cloud infrastructure"
+      ],
+      "industries_named": [
+        "cloud"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_centric_communication",
+      "raw_text_from_jd": "Customer-centric mindset, strong communication and influencing skills, and ability to speak the language of developers, cloud architects, and DevOps professionals.",
+      "skill_type": "capability",
+      "domain": "stakeholder_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "cloud"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strategic_results_oriented",
+      "raw_text_from_jd": "Strategic thinker with a results-oriented, collaborative approach and problem-solving skills.",
+      "skill_type": "cultural_fit",
+      "domain": "strategy_and_execution",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "microsoft_hyperscaler_preferred",
+      "raw_text_from_jd": "Proven success in B2B platform integrations and working with partner ecosystems, especially cloud hyperscalers (Microsoft preferred).",
+      "skill_type": "domain_knowledge",
+      "domain": "microsoft_cloud_partnership",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "cloud"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "Microsoft"
+      ],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Mistral AI Studio integrations via cloud partner ecosystem (Hyperscalers, OEMs, and others)",
+    "business_model": "B2B enterprise SaaS / cloud marketplace, co-sell motions with hyperscaler partners",
+    "primary_metrics_inferred": [
+      "Revenue generation",
+      "Active users",
+      "Usage and retention",
+      "User satisfaction",
+      "Customer acquisition cost (CAC)",
+      "Profitability"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "GTM",
+      "Partner teams",
+      "Science",
+      "Marketing",
+      "UX/Design",
+      "Field teams"
+    ],
+    "core_responsibilities": [
+      "Drive the product strategy, roadmap, and joint initiatives to grow adoption of Mistral AI Studio through partner ecosystem",
+      "Own the end-to-end product lifecycle for partnerships from integration and private preview to general availability and scaling",
+      "Conduct market research to understand ecosystem trends, cloud buyer personas, and competitive dynamics",
+      "Co-create and execute a joint GTM strategy with field and partner marketing teams to accelerate co-sell motion",
+      "Lead packaging and pricing discussions for partner offers",
+      "Establish and track KPIs (revenue generation, active users, usage, retention, user satisfaction, CAC, profitability)",
+      "Serve as a company and product evangelist through thought leadership, blogging, social media, and industry events"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity (form not specified)",
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "cloud partnerships",
+    "hyperscalers",
+    "co-sell",
+    "B2B platform integrations",
+    "Mistral AI Studio",
+    "ISV Success",
+    "Commercial Marketplace",
+    "partner ecosystem",
+    "GTM strategy",
+    "API design",
+    "product roadmap",
+    "enterprise",
+    "cloud infrastructure"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Visa sponsorship explicitly offered",
+    "Comprehensive benefits package (healthcare, 401K matching, meal stipend, gym reimbursement)",
+    "Clear product surface and ownership area (partner ecosystem / Mistral AI Studio integrations)",
+    "Hybrid policy with flexibility stated alongside in-office expectation",
+    "High-impact, ownership-heavy role with end-to-end lifecycle responsibility"
+  ],
+  "red_flags": [
+    "Compensation range not disclosed despite competitive market for senior PM roles",
+    "Role requires relocation to NYC or existing NYC presence — eliminates remote candidates",
+    "At least 3 days/week in-office expectation is a significant commitment",
+    "PTO of only 18 days may be below market for a senior IC role",
+    "JD does not specify team size or reporting structure, making it difficult to assess org context"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 7+ years requirement and scope of responsibilities)",
+      "seniority.manages_people (inferred as false; no mention of direct reports)",
+      "scope.business_model (inferred from product description and co-sell context)",
+      "scope.primary_metrics_inferred (inferred from listed KPIs in JD responsibilities section)",
+      "compensation.source set to 'unknown' — only 'competitive salary and equity' stated, no figures given",
+      "posting_first_seen and posting_last_updated not available from provided data"
+    ],
+    "ambiguities": [
+      "The 'preferably in cloud, SaaS, or developer platforms' qualifier on the 7+ years requirement could make it soft, but it is listed unconditionally in the 'Who you are' section — treated as hard with qualifier noted.",
+      "Microsoft preference is embedded in a hard-requirement bullet ('Microsoft preferred') — extracted as a separate nice-to-have to reflect the 'preferred' language while retaining the broader hyperscaler experience as a must-have.",
+      "Location policy mentions both 'at least 3 days per week' in-office and a 'remote policy' for flexibility — classified as hybrid."
+    ]
+  }
+}

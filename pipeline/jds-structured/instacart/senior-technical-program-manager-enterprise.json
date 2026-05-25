@@ -1,0 +1,343 @@
+{
+  "company": "Instacart",
+  "role_title": "Senior Technical Program Manager, Enterprise",
+  "url": "https://instacart.careers/job/?gh_jid=6932499",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "6932499",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "remote-us",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": "flexible; regular in-person events encouraged under Flex First policy",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Enterprise Platform TPM",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of work experience post-graduation in a technology field",
+      "Senior TPM title",
+      "Base pay range $178K–$226K depending on location, consistent with Senior IC"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_experience_tech",
+      "raw_text_from_jd": "5+ years of work experience post-graduation in a technology field, preferably as a technical program or project manager, product manager, software engineer (technical domain), or related technical discipline.",
+      "skill_type": "years_of_experience",
+      "domain": "technology / technical program management",
+      "minimum_value": 5,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "functional_specs_program_management",
+      "raw_text_from_jd": "Demonstrated ability to create functional specs, set program structure and influence program strategy. Previous experience in managing complex multi-org programs end-to-end, from definition to launch, throughout a software development lifecycle.",
+      "skill_type": "capability",
+      "domain": "program_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "stakeholder_communication",
+      "raw_text_from_jd": "A strong communicator with the ability to distill multiple streams of information, convey priorities and risks, and build a narrative for stakeholders.",
+      "skill_type": "capability",
+      "domain": "stakeholder_communication",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ownership_intellectual_curiosity",
+      "raw_text_from_jd": "A strong sense of ownership and intellectual curiosity to understand executional and technical problems in depth, identify potential issues and offer actions to prevent them.",
+      "skill_type": "cultural_fit",
+      "domain": "ownership_and_problem_solving",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "collaboration_leadership_trust",
+      "raw_text_from_jd": "Excellent collaborator and motivator, able to bring a team together to align and deliver on a common goal. Can build trust and partnerships with senior Engineering and Product leaders.",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "growth_mindset",
+      "raw_text_from_jd": "Growth mindset - seeks and is receptive to actionable feedback and growth opportunities.",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "accountability_independence",
+      "raw_text_from_jd": "Takes accountability seriously; can operate independently to deliver responsibilities and milestones on time and within budget.",
+      "skill_type": "capability",
+      "domain": "execution_and_delivery",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "self_motivated_fast_paced",
+      "raw_text_from_jd": "Self-motivated and thrives in a fast-paced environment.",
+      "skill_type": "cultural_fit",
+      "domain": "work_style",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "bachelors_degree",
+      "raw_text_from_jd": "Bachelor's degree in a technology / engineering discipline.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree"
+      ]
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "masters_degree",
+      "raw_text_from_jd": "Master's degree in a technology/engineering discipline.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "masters",
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "n/a",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Master's degree"
+      ]
+    },
+    {
+      "id": "deep_technical_domain_knowledge",
+      "raw_text_from_jd": "Demonstrated ability to showcase deep technical domain knowledge on the programs that you take on, enabling you to be seen as a strong technical voice in the program and adding significant value towards architecting a program.",
+      "skill_type": "domain_knowledge",
+      "domain": "technical_architecture",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "architectural_strategic_decisions",
+      "raw_text_from_jd": "Demonstrated ability to drive architectural and strategic decisions at the org leadership level.",
+      "skill_type": "capability",
+      "domain": "technical_strategy",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "innovative_program_management_processes",
+      "raw_text_from_jd": "Extensive previous experience around creating innovative program management processes/tools/approaches to deliver company outcomes reliably and efficiently.",
+      "skill_type": "capability",
+      "domain": "program_management_process_design",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ecommerce_at_scale",
+      "raw_text_from_jd": "Experience working with e-commerce solutions at scale.",
+      "skill_type": "domain_knowledge",
+      "domain": "e-commerce",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "e-commerce"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Enterprise platform — retailer onboarding, transitions, and growth across Instacart's multi-sided marketplace",
+    "business_model": "B2B2C marketplace (grocery delivery connecting customers, shoppers, brands, and retailer partners)",
+    "primary_metrics_inferred": [
+      "On-time and high-quality retailer launches",
+      "Program delivery against milestones and budget",
+      "Stakeholder alignment and risk mitigation",
+      "Operational excellence of retailer launch framework"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Product Management",
+      "Data Science",
+      "Design",
+      "Business Development",
+      "Product Operations",
+      "Sales Engineers"
+    ],
+    "core_responsibilities": [
+      "Lead planning and high quality technical execution of large engineering programs with high ambiguity, complexity, and visibility",
+      "Work with cross-functional partners to set project objectives and metric-based success criteria",
+      "Own clear and effective communication with stakeholders on priorities, risks, and changes",
+      "Foster a culture of teamwork and shared goals within the program team",
+      "Contribute to organization-wide initiatives",
+      "Uphold and continuously contribute to the operational excellence framework of retailer launches"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      178000,
+      226000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "New hire equity grant plus annual refresh grants",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Technical Program Manager",
+    "Enterprise",
+    "retailer launches",
+    "multi-org programs",
+    "cross-functional",
+    "software development lifecycle",
+    "operational excellence",
+    "e-commerce",
+    "ML/AI",
+    "Gen AI",
+    "stakeholder communication",
+    "program strategy",
+    "Flex First"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Detailed compensation ranges disclosed across multiple US geographies",
+    "Equity explicitly mentioned (new hire + annual refresh)",
+    "Remote-first (Flex First) policy with flexible work location",
+    "Clear program scope around Enterprise retailer platform",
+    "Cross-functional breadth described in detail",
+    "Role embedded within Engineering org — strong technical credibility signal"
+  ],
+  "red_flags": [
+    "No visa sponsorship information stated — unclear for international candidates",
+    "Wide compensation band across states ($178K–$226K base) may signal significant geographic pay differences",
+    "Fast-paced, high-ambiguity environment described — could indicate resource or organizational churn",
+    "Bachelor's degree in technology/engineering listed as hard requirement with no equivalent experience alternative stated"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Senior' and comp range)",
+      "scope.business_model (inferred from product description of multi-sided marketplace)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not directly stated)",
+      "scope.team_size_estimate (not stated; left as 'unclear')",
+      "location.work_auth (not stated)",
+      "location.visa_sponsorship (not stated)",
+      "compensation.base_range_usd reported as min of lowest band and max of highest band across all US geographies"
+    ],
+    "ambiguities": [
+      "The JD describes a 'Flex First' policy allowing employees to choose where they work, suggesting remote-global eligibility is possible, but all compensation bands listed are US-specific; treated as remote-us.",
+      "Bachelor's degree listed under Minimum Qualifications with no 'or equivalent experience' caveat, making it a hard requirement; however the JD does not explicitly state it is eliminatory — flagged as hard severity based on placement under Minimum Qualifications."
+    ]
+  }
+}

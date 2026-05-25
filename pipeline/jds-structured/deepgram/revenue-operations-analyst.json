@@ -1,0 +1,268 @@
+{
+  "company": "Deepgram",
+  "role_title": "Revenue Operations Analyst",
+  "url": "https://jobs.ashbyhq.com/deepgram/0cad835e-c581-4735-8e8f-b9f1f7107b10",
+  "ats_provider": "ashby",
+  "ats_job_id": "0cad835e-c581-4735-8e8f-b9f1f7107b10",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Revenue Operations / GTM Operations",
+  "seniority": {
+    "level": "Mid-level IC",
+    "years_required_min": 3,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "3–4+ years of experience in Revenue Operations, GTM Engineering, Sales Operations, or a related role",
+      "Hands-on executor role, not a leadership or management position"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_revops_experience",
+      "raw_text_from_jd": "3–4+ years of experience in Revenue Operations, GTM Engineering, Sales Operations, or a related role",
+      "skill_type": "years_of_experience",
+      "domain": "revenue_operations",
+      "minimum_value": 3,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "salesforce_admin",
+      "raw_text_from_jd": "Strong hands-on Salesforce experience (admin, reporting, flows, automations)",
+      "skill_type": "tool_proficiency",
+      "domain": "crm_administration",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Salesforce"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_curiosity_capability",
+      "raw_text_from_jd": "Incredible AI curiosity and capability, using tools like Cursor and Claude to optimize workflows and improve processes.",
+      "skill_type": "capability",
+      "domain": "ai_tooling",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "Cursor",
+        "Claude"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "hyper_growth_saas_ai_experience",
+      "raw_text_from_jd": "Experience at a hyper-growth SaaS or AI company.",
+      "skill_type": "domain_knowledge",
+      "domain": "company_stage_experience",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "SaaS",
+        "AI"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "hyper-growth SaaS or AI company"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "cpq_experience",
+      "raw_text_from_jd": "Experience with CPQ (Salesforce CPQ or similar quoting tools).",
+      "skill_type": "tool_proficiency",
+      "domain": "configure_price_quote",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Salesforce CPQ"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "contract_generation_tools",
+      "raw_text_from_jd": "Familiarity with contract generation tools (e.g.,DocuSign Gen).",
+      "skill_type": "tool_proficiency",
+      "domain": "contract_management",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "DocuSign Gen"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_problem_solving",
+      "raw_text_from_jd": "Strong analytical and problem-solving skills with high attention to detail.",
+      "skill_type": "capability",
+      "domain": "analytics",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_comfort",
+      "raw_text_from_jd": "Comfort working in ambiguity at a fast-growing startup.",
+      "skill_type": "cultural_fit",
+      "domain": "startup_environment",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_communication",
+      "raw_text_from_jd": "Strong cross-functional communication and stakeholder management skills.",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "RevOps team supporting go-to-market functions including quoting, billing, usage tracking, Salesforce administration, and reporting at a rapidly scaling AI company",
+    "business_model": "API-based SaaS / usage-based billing; B2B developer and enterprise customers",
+    "primary_metrics_inferred": [
+      "Quote-to-Cash accuracy and cycle time",
+      "Billing and invoicing accuracy",
+      "CRM data quality",
+      "RevOps request throughput and resolution time"
+    ],
+    "cross_functional_partners": [
+      "Finance",
+      "Sales",
+      "GTM teams",
+      "Engineering (implied)"
+    ],
+    "core_responsibilities": [
+      "Support Quote-to-Cash processes, including CPQ workflows, order form review, and contract provisioning",
+      "Support billing, invoicing, and monetization workflows in partnership with Finance",
+      "Reconcile customer usage, billing, and revenue data across CRM, product, and finance systems",
+      "Serve as a hands-on Salesforce administrator: build reports/dashboards, support flows and automations, maintain data quality",
+      "Triage, prioritize, and execute a wide range of RevOps requests",
+      "Proactively identify inefficiencies and help implement improvements",
+      "Leverage AI tools and automation to increase operational efficiency",
+      "Contribute to documentation and scalable RevOps processes"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Revenue Operations",
+    "Salesforce",
+    "Quote-to-Cash",
+    "CPQ",
+    "billing",
+    "usage tracking",
+    "GTM",
+    "AI tools",
+    "Cursor",
+    "Claude",
+    "RevOps",
+    "SaaS",
+    "Voice AI",
+    "automation"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "AI-native culture with explicit tooling examples (Cursor, Claude) — practical rather than generic",
+    "Clearly scoped hands-on role with defined responsibilities",
+    "Series C-backed company with disclosed major investors and strong customer list",
+    "Benefits package is comprehensive including wellness, learning stipend, and 401(k) match",
+    "Equal opportunity employer statement with accommodation offer"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "Location and remote/hybrid/onsite policy not stated anywhere in the JD",
+    "Visa sponsorship policy not mentioned",
+    "AI-first mindset framed as mandatory ('not optional') which may signal high pace and potential burnout risk",
+    "Many items in 'It Would Be Great If You Had' that are standard RevOps skills (analytical skills, stakeholder management) may be de facto required"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years requirement and role description; not stated)",
+      "location.type (not stated in JD; left as 'unclear')",
+      "scope.business_model (inferred from product description and customer examples)",
+      "scope.primary_metrics_inferred (not stated; inferred from responsibilities)",
+      "compensation.equity_mentioned (no mention of equity anywhere in JD)"
+    ],
+    "ambiguities": [
+      "Several items in 'It Would Be Great If You Had' (analytical skills, stakeholder management, comfort with ambiguity) read as soft skills typically expected at this level; classified as nice_to_haves per JD section heading but may function as implicit requirements.",
+      "Location/work arrangement is completely absent from the JD — remote, hybrid, or onsite is unknown.",
+      "The note about Employer of Record for international employees implies global hiring is possible, but no specific geographies are mentioned for this role."
+    ]
+  }
+}

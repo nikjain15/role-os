@@ -1,0 +1,225 @@
+{
+  "company": "Cohere",
+  "role_title": "Chief of Staff",
+  "url": "https://jobs.ashbyhq.com/cohere/5139acd7-3429-483e-9984-040bd799e8a0",
+  "ats_provider": "ashby",
+  "ats_job_id": "5139acd7-3429-483e-9984-040bd799e8a0",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "Toronto",
+      "New York",
+      "San Francisco",
+      "London",
+      "Paris"
+    ],
+    "remote_us_eligible": true,
+    "office_time_required": "remote-flexible with offices available",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Chief of Staff",
+  "archetype_confidence": "high",
+  "secondary_archetype": "BizOps / Strategy & Ops (Sales-focused)",
+  "seniority": {
+    "level": "Senior Leader / VP-equivalent",
+    "years_required_min": 10,
+    "years_required_max": null,
+    "manages_people": true,
+    "level_signals": [
+      "10+ years in a similar role",
+      "Partners directly with the CRO",
+      "Liaison between sales leadership and executive teams",
+      "Experience creating board level presentation decks",
+      "Mentors teams and drives accountability in high-growth environments"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_sales_ops_strategy",
+      "raw_text_from_jd": "10+ years in a similar role contributing to sales operations, business development and strategy, preferably in AI, SaaS, or enterprise software.",
+      "skill_type": "years_of_experience",
+      "domain": "sales_operations_and_strategy",
+      "minimum_value": 10,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "AI",
+        "SaaS",
+        "enterprise software"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_mindset",
+      "raw_text_from_jd": "Strong analytical mindset, proficiency in CRM platforms (e.g., Salesforce), and expertise in sales process optimization.",
+      "skill_type": "capability",
+      "domain": "analytics_and_crm",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Salesforce"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "leadership_mentoring",
+      "raw_text_from_jd": "Ability to mentor teams, drive accountability, and navigate high-growth environments.",
+      "skill_type": "capability",
+      "domain": "team_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strategic_thinking",
+      "raw_text_from_jd": "Experience translating business goals into actionable sales plans.",
+      "skill_type": "capability",
+      "domain": "strategic_planning",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "executive_communication",
+      "raw_text_from_jd": "Executive level communication skills & experience creating board level presentation decks & customer engagement materials.",
+      "skill_type": "capability",
+      "domain": "executive_communication",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "ai_saas_enterprise_background",
+      "raw_text_from_jd": "10+ years in a similar role contributing to sales operations, business development and strategy, preferably in AI, SaaS, or enterprise software.",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_saas_enterprise_software",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "AI",
+        "SaaS",
+        "enterprise software"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Sales operations, business development, and cross-functional go-to-market alignment",
+    "business_model": "B2B enterprise AI / SaaS",
+    "primary_metrics_inferred": [
+      "Revenue attainment",
+      "Sales conversion rates",
+      "Pipeline health",
+      "Sales KPIs"
+    ],
+    "cross_functional_partners": [
+      "CRO",
+      "Marketing",
+      "Product",
+      "Customer Success",
+      "Executive team"
+    ],
+    "core_responsibilities": [
+      "Partner with the CRO to define and implement sales strategies, forecasts, and performance metrics",
+      "Streamline sales processes, including pipeline management, CRM optimization, and sales enablement tools",
+      "Work closely with marketing, product, and customer success teams to ensure cohesive go-to-market execution",
+      "Monitor sales KPIs, conduct data-driven insights, and recommend adjustments to improve conversion rates and revenue attainment",
+      "Contribute to sales operations, business development, and support functions, fostering a high-performance culture",
+      "Serve as a liaison between sales leadership and executive teams, ensuring clear communication and strategic alignment"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Chief of Staff",
+    "sales operations",
+    "CRO",
+    "revenue growth",
+    "CRM",
+    "Salesforce",
+    "go-to-market",
+    "sales strategy",
+    "enterprise software",
+    "AI",
+    "SaaS",
+    "cross-functional",
+    "performance analytics",
+    "pipeline management"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Direct partnership with CRO — high visibility and influence",
+    "Encourages applicants who don't meet every qualification",
+    "Generous benefits including 6 weeks vacation, full health/dental, 100% parental leave top-up",
+    "Remote-flexible policy with multiple global office options",
+    "Cohere is a well-known frontier AI company with a clear mission"
+  ],
+  "red_flags": [
+    "Compensation not disclosed",
+    "Visa sponsorship not mentioned",
+    "Role title is 'Chief of Staff' but responsibilities are narrowly focused on sales operations — scope may be narrower than a traditional CoS role",
+    "10+ years requirement is firm and the role is senior; limited flexibility indicated despite 'encourage you to apply' language"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 10+ years, CRO partnership, board-level deck experience)",
+      "scope.business_model (inferred from company description and enterprise software context)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly stated)",
+      "location.remote_us_eligible (inferred from 'remote-flexible' language and US office locations)"
+    ],
+    "ambiguities": [
+      "Role title is 'Chief of Staff' but the JD description is almost entirely focused on sales operations and revenue — this could be better described as VP/Head of Sales Operations. Archetype set to 'Chief of Staff' per JD title but flagged here.",
+      "Location is described as 'remote-flexible' with offices in multiple cities; it is unclear whether candidates must be based near an office or can be fully remote.",
+      "Work authorization and visa sponsorship are not mentioned anywhere in the JD."
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "company": "Cohere",
+  "role_title": "Business Operations Lead",
+  "url": "https://jobs.ashbyhq.com/cohere/a3a69960-3c85-4b11-b9b7-d4056d406c2e",
+  "ats_provider": "ashby",
+  "ats_job_id": "a3a69960-3c85-4b11-b9b7-d4056d406c2e",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "Toronto",
+      "New York",
+      "San Francisco",
+      "London",
+      "Paris"
+    ],
+    "remote_us_eligible": true,
+    "office_time_required": "remote-flexible with offices available",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Chief of Staff",
+  "seniority": {
+    "level": "Mid-level IC",
+    "years_required_min": 2,
+    "years_required_max": 4,
+    "manages_people": false,
+    "level_signals": [
+      "3-4 years of top tier investment banking / investing experience OR 2-3 years of top tier consulting experience",
+      "Described as 'intermediate level individual contributor role'",
+      "Reports to Head of BizOps"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "ib_or_investing_experience",
+      "raw_text_from_jd": "Have 3-4 years of top tier investment banking / investing experience, ideally with a focus on software, technology, or digital infrastructure",
+      "skill_type": "years_of_experience",
+      "domain": "investment_banking_or_investing",
+      "minimum_value": 3,
+      "unit": "years",
+      "qualifier": "top tier",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "software",
+        "technology",
+        "digital infrastructure"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "top tier investment banking"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "consulting_experience",
+      "raw_text_from_jd": "OR Have 2-3 years of top tier consulting experience, ideally with a focus on software / technology; further experience in BizOps, product, or investing is also valued",
+      "skill_type": "years_of_experience",
+      "domain": "management_consulting",
+      "minimum_value": 2,
+      "unit": "years",
+      "qualifier": "top tier",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "software",
+        "technology"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "top tier consulting firm"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_background",
+      "raw_text_from_jd": "Have some technical background (e.g., CS, EE, Applied Math, or related undergraduate degree, software engineering internships)",
+      "skill_type": "credential",
+      "domain": "technical_education_or_experience",
+      "accepts_equivalent_experience": true,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "CS degree",
+        "EE degree",
+        "Applied Math degree"
+      ]
+    },
+    {
+      "id": "communication_and_ownership",
+      "raw_text_from_jd": "Are a clear communicator with a high-ownership mentality and bias to action",
+      "skill_type": "cultural_fit",
+      "domain": "communication_and_ownership",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "problem_solving",
+      "raw_text_from_jd": "Are a problem solver: can operate at a level 4-5 on this hierarchy",
+      "skill_type": "capability",
+      "domain": "structured_problem_solving",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "further_bizops_product_investing",
+      "raw_text_from_jd": "further experience in BizOps, product, or investing is also valued",
+      "skill_type": "domain_knowledge",
+      "domain": "bizops_product_investing",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Strategy & Business Operations — strategy, corporate development, and cross-functional projects",
+    "business_model": "B2B enterprise AI platform",
+    "primary_metrics_inferred": [
+      "Pricing and packaging optimization (revenue and margin)",
+      "Strategic decision-making quality / speed",
+      "Corporate development pipeline (fundraising, partnerships, M&A)"
+    ],
+    "cross_functional_partners": [
+      "Product",
+      "GTM",
+      "Research",
+      "Engineering",
+      "C-level leadership"
+    ],
+    "core_responsibilities": [
+      "Influence strategic decision-making by collaborating with and building consensus among leaders across the organization, including product, GTM, and research and engineering",
+      "Optimize pricing and packaging, ensuring that the company's offerings are both attractive to customers and profitable",
+      "Build financial models and analyses to evaluate new and existing opportunities",
+      "Contribute to corporate development activities: fundraising, strategic partnerships, investor relations, M&A, etc.",
+      "Conduct market and competitive analysis to anticipate and respond to emerging trends and to identify new opportunities for innovation and growth"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "BizOps",
+    "Strategy",
+    "Corporate Development",
+    "Investment Banking",
+    "Consulting",
+    "Financial Modeling",
+    "Pricing and Packaging",
+    "M&A",
+    "Competitive Analysis",
+    "AI",
+    "Cross-functional"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear seniority level stated ('intermediate level individual contributor role')",
+    "Two equivalent experience paths offered (banking/investing OR consulting), lowering barrier to entry",
+    "Encourages applications even if experience doesn't line up perfectly",
+    "Diverse office presence across Toronto, New York, San Francisco, London, Paris with remote flexibility",
+    "Strong benefits package: 6 weeks vacation, full health/dental, 100% parental leave top-up",
+    "Cutting-edge AI company with stated mission and strong brand"
+  ],
+  "red_flags": [
+    "Compensation range not disclosed",
+    "Visa sponsorship and work authorization not addressed",
+    "'Top tier' employer requirement for prior experience is subjective and potentially exclusionary",
+    "Reference to 'level 4-5 on this hierarchy' is an internal framework not explained in the JD — ambiguous signal for applicants"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 'intermediate level individual contributor' phrasing and years ranges)",
+      "scope.business_model (inferred from product description: enterprise AI platform)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "location.remote_us_eligible (inferred from 'remote-flexible' language and US office cities listed)",
+      "equity_mentioned set to false (not referenced in JD; benefits listed do not mention equity)"
+    ],
+    "ambiguities": [
+      "The two experience paths (3-4 years IB/investing OR 2-3 years consulting) are presented with 'OR', making it unclear which is the primary expectation; both are listed as must_haves but either path suffices.",
+      "Work authorization and visa sponsorship are not addressed anywhere in the JD.",
+      "'Remote-flexible' is ambiguous — could mean fully remote or hybrid with optional office use; treated as hybrid.",
+      "The 'level 4-5 on this hierarchy' reference links to an unnamed external or internal framework, making this requirement unverifiable from the JD alone."
+    ]
+  }
+}

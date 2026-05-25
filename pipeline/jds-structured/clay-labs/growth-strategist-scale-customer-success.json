@@ -1,0 +1,193 @@
+{
+  "company": "Clay Labs",
+  "role_title": "Growth Strategist, Scale (Customer Success)",
+  "url": "https://jobs.ashbyhq.com/claylabs/55694518-a6ac-4f46-8ec8-ffbf8ab39917",
+  "ats_provider": "ashby",
+  "ats_job_id": "55694518-a6ac-4f46-8ec8-ffbf8ab39917",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Other",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Customer Success / Growth Strategist",
+  "seniority": {
+    "level": "Mid-Senior IC",
+    "years_required_min": null,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "Founding Growth Strategist role — implies high ownership and autonomy",
+      "Expected to build new programs from 0.5 to 100",
+      "Partners directly with Head of CX and product/engineering leadership"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "passion_for_clay",
+      "raw_text_from_jd": "Passion for Clay: This is the #1 most important thing for this role. Loving Clay is easy, but you need to genuinely be Clay's #1 fan to thrive in this position as you will spend a lot of time in the product and be responsible for helping customers feel the same passion you do",
+      "skill_type": "cultural_fit",
+      "domain": "product_affinity",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "Clay"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "b2b_saas_gtm_domain_expertise",
+      "raw_text_from_jd": "Domain Expertise: You can walk the walk and talk the talk of all things B2B SaaS and go-to-market operations.",
+      "skill_type": "domain_knowledge",
+      "domain": "b2b_saas_go_to_market",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "B2B SaaS"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_facing_experience",
+      "raw_text_from_jd": "Customer-Facing Experience: You have worked directly with customers in prior roles in some capacity (doesn't have to have been through a CSM role).",
+      "skill_type": "capability",
+      "domain": "customer_success",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "revenue_expansion_mindset",
+      "raw_text_from_jd": "Customer Value Obsessed and Revenue Minded: You aren't afraid to talk about money and expand a customer contract, but you do this in a way that always has a customer's absolute best interest in mind.",
+      "skill_type": "capability",
+      "domain": "revenue_expansion",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "revops_markops_experience",
+      "raw_text_from_jd": "Major bonus points for prior experience in revops, markops or other go-to-market operator roles in-house or at an agency.",
+      "skill_type": "domain_knowledge",
+      "domain": "revenue_operations_marketing_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "in-house",
+        "agency"
+      ],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Self-serve customer base onboarding, adoption, and expansion; founding Growth Strategist role under Head of CX",
+    "business_model": "B2B SaaS, product-led growth with self-serve plans",
+    "primary_metrics_inferred": [
+      "Time-to-first-value (speed to launch first use case)",
+      "Product adoption rate on self-serve plans",
+      "Expansion revenue / plan upgrades"
+    ],
+    "cross_functional_partners": [
+      "Head of CX",
+      "Engineering",
+      "Design",
+      "Product"
+    ],
+    "core_responsibilities": [
+      "Own onboarding and implementation metric — how fast customers launch first use case and get value from Clay",
+      "Use data via Clay to proactively reach out to high priority customers on self-serve plans",
+      "Drive expansion of customer plans through successful onboarding and adoption",
+      "Partner with Head of CX to build new customer programs from 0.5 to 100",
+      "Synthesize customer feedback and share with engineering, design, and product teams"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "community equity round mentioned for customers and partners; employee equity implied by tender offer mentions",
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Clay",
+    "customer success",
+    "growth strategy",
+    "B2B SaaS",
+    "go-to-market",
+    "onboarding",
+    "product adoption",
+    "expansion",
+    "revops",
+    "markops",
+    "self-serve",
+    "proactive outreach",
+    "customer value"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "High-growth company: $100M ARR, $5B valuation, Sequoia/CapitalG/First Round backed",
+    "Founding role with significant ownership and program-building opportunity",
+    "Company itself is the primary tool used — strong product-mission alignment for the right candidate",
+    "Equity mentioned including tender offers suggesting meaningful employee liquidity",
+    "Unique culture with stated investment in employee development (world-class coaching offered)"
+  ],
+  "red_flags": [
+    "No location type, city, or remote policy stated anywhere in the JD",
+    "No compensation range disclosed",
+    "No visa/sponsorship information provided",
+    "Role scope is broad and loosely defined for a 'founding' position — expectations may shift significantly as team scales"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from founding-role framing and cross-functional partner seniority)",
+      "scope.business_model (inferred from product description and self-serve plan references)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not directly stated)",
+      "compensation.equity_mentioned (inferred from tender offer and community equity round mentions in company context; no direct employee equity promise in role section)",
+      "location.type set to 'unclear' — no location policy stated in JD"
+    ],
+    "ambiguities": [
+      "Location policy is entirely absent from the JD — 'unclear' used for type, work_auth, and visa_sponsorship",
+      "Role title includes 'Customer Success' but JD explicitly states 'This role is not your classic CSM role' — archetype is closer to Growth/CS hybrid; classified as 'Other' with secondary_archetype noted",
+      "Years of experience not mentioned anywhere — severity of customer-facing experience requirement treated as 'hard' per unconditional bullet language, but seniority level is ambiguous"
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "company": "HelloFresh",
+  "role_title": "Senior Product Manager II, Personalisation & Data",
+  "url": "https://careers.hellofresh.com/global/en/job/7824418?gh_jid=7824418",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7824418",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [
+      "Warsaw"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "AI Product Manager",
+  "seniority": {
+    "level": "Senior IC (Senior PM II)",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of experience in product management",
+      "Role title: Senior Product Manager II",
+      "Operates with high autonomy on 15-month technical roadmaps"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_data",
+      "raw_text_from_jd": "5+ years of experience in product management with a specific focus on data products, platforms, or ML-driven environments.",
+      "skill_type": "years_of_experience",
+      "domain": "data_product_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "ML"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sql_python_analysis",
+      "raw_text_from_jd": "Demonstrated ability to perform independent data analysis using SQL/Python and define robust input/output KPIs.",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analysis",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "SQL",
+        "Python"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strategic_prioritization",
+      "raw_text_from_jd": "Strong critical thinking skills used to identify high-impact model or data adjustments and manage stakeholder expectations.",
+      "skill_type": "capability",
+      "domain": "strategic_prioritization",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_communication",
+      "raw_text_from_jd": "Proficiency in translating complex concepts (e.g., data lineage, model cold-starts) into clear narratives for non-technical stakeholders.",
+      "skill_type": "capability",
+      "domain": "technical_communication",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "data lineage"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_integration",
+      "raw_text_from_jd": "Proven experience incorporating AI-assisted workflows into daily professional practice to enhance output quality and discovery speed.",
+      "skill_type": "capability",
+      "domain": "ai_workflows",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ab_testing_roadmaps",
+      "raw_text_from_jd": "Lead the iteration cycle for model testing, designing and executing complex A/B testing roadmaps to improve core metrics and reduce lead time to insights.",
+      "skill_type": "capability",
+      "domain": "experimentation",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "A/B testing"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "long_term_roadmap",
+      "raw_text_from_jd": "Translate high-ambiguity business requirements into long-term (15-month) technical roadmaps, operating with high autonomy to align data infrastructure with global commercial objectives.",
+      "skill_type": "capability",
+      "domain": "product_strategy",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "genai_discovery",
+      "raw_text_from_jd": "Integrate GenAI tools into the product discovery lifecycle to accelerate the synthesis of customer signals and the delivery of decision-ready technical specifications.",
+      "skill_type": "domain_knowledge",
+      "domain": "generative_ai",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "GenAI"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "1000+ in HelloTech organization",
+    "surface": "Personalized Chef initiative — data products powering personalization, marketing, and operational excellence across 18+ business units",
+    "business_model": "subscription-based direct-to-consumer",
+    "primary_metrics_inferred": [
+      "Core personalization model metrics",
+      "Lead time to insights",
+      "Data asset quality and consumption readiness",
+      "A/B test conversion and improvement rates"
+    ],
+    "cross_functional_partners": [
+      "Engineering squads",
+      "Commercial business units",
+      "Global stakeholders",
+      "Marketing"
+    ],
+    "core_responsibilities": [
+      "Architect and deliver a strategy for Core Data Products, ensuring high-quality, connected data assets (customer profiles, subscription plans, order history) are ready for consumption by global stakeholders.",
+      "Lead the iteration cycle for model testing, designing and executing complex A/B testing roadmaps to improve core metrics and reduce lead time to insights.",
+      "Integrate GenAI tools into the product discovery lifecycle to accelerate the synthesis of customer signals and the delivery of decision-ready technical specifications.",
+      "Translate high-ambiguity business requirements into long-term (15-month) technical roadmaps, operating with high autonomy to align data infrastructure with global commercial objectives.",
+      "Act as the primary point of contact between technical engineering squads and commercial business units to ensure data ecosystem connectivity."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "data products",
+    "personalization",
+    "machine learning",
+    "SQL",
+    "Python",
+    "A/B testing",
+    "GenAI",
+    "data infrastructure",
+    "ML-driven",
+    "technical roadmap",
+    "cross-functional",
+    "KPIs",
+    "data lineage",
+    "subscription",
+    "direct-to-consumer"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear product surface and mission-critical domain (Personalized Chef initiative) described in detail",
+    "Explicitly encourages diverse backgrounds — 'we don't tick all the boxes' language",
+    "Promises to respond within 5 business days",
+    "Real-world scale stated: 6+ million customers, 18+ business units",
+    "Modern tech stack in an international team environment"
+  ],
+  "red_flags": [
+    "Role is framed as a 'service provider' and 'consultant' rather than a full-time employee — contractual nature is ambiguous",
+    "No compensation disclosed",
+    "Work authorization and visa sponsorship not mentioned",
+    "Onsite Warsaw requirement may limit applicant pool; no hybrid or remote option stated",
+    "GenAI integration listed as a responsibility but not clearly categorized as required vs. preferred"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Senior PM II' and 5+ years requirement)",
+      "scope.business_model (inferred from JD body description of subscription-based DTC model)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly listed in JD)",
+      "location.type (inferred as onsite based on Warsaw office mention; no hybrid/remote language present)",
+      "nice_to_haves: GenAI integration classified as soft because it appears as a responsibility description, not explicitly flagged as required under ingredients section"
+    ],
+    "ambiguities": [
+      "The JD repeatedly refers to the role as 'service provider' and 'consultant' which may indicate a contractor or consulting engagement rather than direct employment — the nature of the engagement is not explicitly clarified.",
+      "GenAI integration appears both in responsibilities ('What you'll do') and implicitly in requirements ('AI Integration') — it is listed as a must-have under AI Integration but the GenAI tooling specifics in responsibilities were also captured as a nice-to-have to reflect possible overlap.",
+      "No explicit hybrid or remote language found; treating as onsite based solely on office access description, but this is not confirmed."
+    ]
+  }
+}

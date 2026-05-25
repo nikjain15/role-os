@@ -1,0 +1,314 @@
+{
+  "company": "Klaviyo",
+  "role_title": "Senior Product Manager, Platform Integrity",
+  "url": "https://www.klaviyo.com/careers/jobs?gh_jid=7709709003",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7709709003",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "3 days/week in SF office",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Platform / Infrastructure PM",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of product management experience",
+      "Title is Senior Product Manager",
+      "Base pay range $136,000–$204,000 USD consistent with Senior IC",
+      "Single-threaded product owner across multiple domains"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "You have 5+ years of product management experience, ideally in platform, infrastructure, or security domains",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "qualifier": "ideally in platform, infrastructure, or security domains",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "account_systems_experience",
+      "raw_text_from_jd": "You have experience working on account systems, identity, permissions, or data models in B2B SaaS",
+      "skill_type": "domain_knowledge",
+      "domain": "account_systems_identity",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "B2B SaaS"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_comfort",
+      "raw_text_from_jd": "You are comfortable operating in technical problem spaces and partnering closely with engineering",
+      "skill_type": "capability",
+      "domain": "technical_product_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_team_alignment",
+      "raw_text_from_jd": "You have experience driving cross-team alignment and influencing without direct authority",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "short_long_term_balance",
+      "raw_text_from_jd": "You can balance short-term execution with long-term platform strategy",
+      "skill_type": "capability",
+      "domain": "platform_strategy",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_navigation",
+      "raw_text_from_jd": "You are comfortable navigating ambiguity and defining structure in complex environments",
+      "skill_type": "capability",
+      "domain": "problem_structuring",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "clear_communication",
+      "raw_text_from_jd": "You communicate clearly and can articulate tradeoffs to both technical and non-technical audiences",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "iam_experience",
+      "raw_text_from_jd": "Experience with identity and access management (IAM) systems",
+      "skill_type": "domain_knowledge",
+      "domain": "identity_access_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "IAM"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "security_compliance_abuse",
+      "raw_text_from_jd": "Familiarity with security, compliance, or abuse prevention",
+      "skill_type": "domain_knowledge",
+      "domain": "security_compliance_abuse_prevention",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "enterprise_regulated_environments",
+      "raw_text_from_jd": "Experience supporting enterprise or regulated environments",
+      "skill_type": "domain_knowledge",
+      "domain": "enterprise_regulated_environments",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "platform_apis_shared_services",
+      "raw_text_from_jd": "Experience building platform APIs or shared services",
+      "skill_type": "capability",
+      "domain": "platform_engineering_apis",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "mentoring_pms_leading_xfn",
+      "raw_text_from_jd": "Experience mentoring PMs or leading cross-functional initiatives",
+      "skill_type": "capability",
+      "domain": "leadership_mentoring",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [
+    "Fully remote candidates will not be considered at this time"
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Platform Integrity & Protection (PAA) and Accounts — account security, abuse prevention, organization modeling, IAM alignment, shared platform frameworks",
+    "business_model": "B2B SaaS (ecommerce marketing platform)",
+    "primary_metrics_inferred": [
+      "Account security and abuse prevention rates",
+      "Platform health metrics",
+      "Enterprise account onboarding and lifecycle metrics",
+      "Self-serve capability adoption"
+    ],
+    "cross_functional_partners": [
+      "Identity & Access Management (IAM)",
+      "Security",
+      "Compliance",
+      "Legal",
+      "Core Platform",
+      "GTM teams",
+      "Engineering teams"
+    ],
+    "core_responsibilities": [
+      "Own and drive product strategy and roadmap across Platform Integrity & Protection and Accounts",
+      "Define and evolve Klaviyo's account and organization model to support enterprise scale and complexity",
+      "Lead initiatives focused on account security, authentication abuse prevention, and risk mitigation",
+      "Partner deeply with IAM to align authentication, authorization, and identity systems with account modeling",
+      "Collaborate with Security, Compliance, Legal, and GTM teams to meet regulatory and enterprise requirements",
+      "Align multiple engineering teams around shared data models, platform capabilities, and security posture",
+      "Define and track metrics for account security, abuse prevention, and platform health",
+      "Enable other product teams by building shared frameworks (e.g., permissions, lifecycle hooks, settings systems)",
+      "Drive clarity and alignment across stakeholders on tradeoffs between security, usability, and scalability"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      136000,
+      204000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity mentioned as part of total compensation package",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Platform Integrity",
+    "account systems",
+    "identity and access management",
+    "abuse prevention",
+    "B2B SaaS",
+    "platform strategy",
+    "security",
+    "compliance",
+    "cross-functional",
+    "organization modeling",
+    "enterprise",
+    "authentication",
+    "shared services",
+    "platform APIs"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($136,000–$204,000 base)",
+    "Clear product ownership scope described (single-threaded owner across PAA and Accounts)",
+    "Specific and well-defined cross-functional partners listed",
+    "Role acknowledges close-but-not-exact match candidates are welcome to apply",
+    "Concrete work areas described (multi-brand account model, anti-abuse platform, lifecycle management)"
+  ],
+  "red_flags": [
+    "Strictly hybrid — 3 days/week in SF office required; fully remote candidates explicitly excluded, limiting candidate pool",
+    "Wide comp band ($136K–$204K) makes it hard to gauge exact level without recruiter conversation",
+    "No visa sponsorship information stated — unclear for international candidates",
+    "Role spans two large domains (Platform Integrity & Accounts) simultaneously, which may indicate high scope with limited resourcing clarity"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title, years, and comp range)",
+      "scope.business_model (inferred from company description as B2B SaaS ecommerce platform)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly listed in JD)",
+      "location.work_auth (inferred as open; no restriction stated)",
+      "location.visa_sponsorship (not stated; marked unclear)"
+    ],
+    "ambiguities": [
+      "The JD states 'ideally in platform, infrastructure, or security domains' alongside the 5+ years requirement — the domain qualifier appears preferred rather than hard, but the years themselves are clearly hard. Classified the full item as hard with qualifier noted.",
+      "Equity is mentioned generically as part of the total compensation package but form (options vs. RSUs) is not specified."
+    ]
+  }
+}

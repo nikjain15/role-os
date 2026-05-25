@@ -1,0 +1,333 @@
+{
+  "company": "iCapital",
+  "role_title": "Product Manager, Identity Solutions - Vice President",
+  "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8409013002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8409013002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [],
+    "remote_us_eligible": false,
+    "office_time_required": "Monday-Thursday in office, remote on Friday",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Technical PM (KYC/AML / Identity / Fintech)",
+  "seniority": {
+    "level": "Senior IC / VP (likely Staff or Principal PM equivalent)",
+    "years_required_min": 8,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "Minimum of 8 years of experience in product management",
+      "VP title in role name",
+      "Comp range $150K-$190K base consistent with senior IC at a fintech scale-up",
+      "Expected to own product roadmap and influence cross-functional teams"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "Minimum of 8 years of experience in product management, preferably within fintech, wealth management, or related industries.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 8,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "fintech",
+        "wealth management"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_problem_solving",
+      "raw_text_from_jd": "Strong analytical skills, natural problem solver, with a proven track record of solving complex, ambiguous problems and pushing initiatives to conclusions through innovative solutions.",
+      "skill_type": "capability",
+      "domain": "analytical_problem_solving",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "qa_testing_sql",
+      "raw_text_from_jd": "Expertise with QA testing, comfort with leveraging SQL, and ability to generate conclusions based on data.",
+      "skill_type": "tool_proficiency",
+      "domain": "quality_assurance_and_data_analysis",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "SQL"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_team_management",
+      "raw_text_from_jd": "Proven track record of managing technical teams and projects, organizing requests and prioritizing.",
+      "skill_type": "capability",
+      "domain": "technical_project_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "user_stories_acceptance_criteria",
+      "raw_text_from_jd": "Detail-oriented, with the ability to write comprehensive user stories and acceptance criteria.",
+      "skill_type": "capability",
+      "domain": "requirements_writing",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "stakeholder_relationship_building",
+      "raw_text_from_jd": "Strong interpersonal skills and capable of building relationships to gain buy in and achieve business results.",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "alternative_investments_expertise",
+      "raw_text_from_jd": "A willingness and initiative to become an expert in the alternative investments space, understanding both the product intricacies and wider industry to drive informed decision making.",
+      "skill_type": "domain_knowledge",
+      "domain": "alternative_investments",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "alternative investments"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "collaborative_entrepreneurial",
+      "raw_text_from_jd": "Demonstrated ability to work collaboratively in a results-driven, entrepreneurial environment.",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "agile_methodologies",
+      "raw_text_from_jd": "Experience with agile methodologies and a mindset that embraces quick deployment, learning, and iteration.",
+      "skill_type": "capability",
+      "domain": "agile_product_development",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "executive_communication",
+      "raw_text_from_jd": "Excellent communication skills, with the ability to engage executive management for ideas and resolutions.",
+      "skill_type": "capability",
+      "domain": "executive_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_centric_client_engagement",
+      "raw_text_from_jd": "A customer-centric approach, with experience engaging directly with clients to gather insights and feedback and a knack for quick and thoughtful problem solving.",
+      "skill_type": "capability",
+      "domain": "customer_research_and_engagement",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "adaptability_multiple_priorities",
+      "raw_text_from_jd": "Flexible and adaptable, able to manage multiple priorities and adjust to changing demands and timelines.",
+      "skill_type": "cultural_fit",
+      "domain": "adaptability",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "kyc_aml_solutions",
+      "raw_text_from_jd": "Experience of developing KYC/AML solutions a plus.",
+      "skill_type": "domain_knowledge",
+      "domain": "kyc_aml_compliance",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "fintech",
+        "wealth management"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Identity Solutions product — KYC regulatory requirements, AML screening, and alternatives investment onboarding experience",
+    "business_model": "B2B SaaS / fintech platform serving wealth management and alternatives investment clients",
+    "primary_metrics_inferred": [
+      "On-time and in-scope feature delivery",
+      "Post-launch feature performance and improvement",
+      "Client onboarding efficiency and scale",
+      "Reduction of compliance friction (KYC/AML)"
+    ],
+    "cross_functional_partners": [
+      "UX Design",
+      "Engineering",
+      "Sales",
+      "Marketing",
+      "Legal",
+      "Other product lines"
+    ],
+    "core_responsibilities": [
+      "Lead engagement with end users and clients to identify and deliver solutions to core functional areas and user experiences.",
+      "Define product requirements by writing detailed user stories and acceptance criteria for software engineers.",
+      "Lead the end-to-end lifecycle of product feature development from conception to launch, including testing and iteration.",
+      "Own the product roadmap for specific features or segments of the platform, determining prioritization and ensuring that deliverables are met on time and within scope.",
+      "Communicate effectively with business stakeholders to gather requirements, provide updates, and align product vision and strategy.",
+      "Develop and maintain comprehensive project communication plans, ensuring transparency and alignment across teams.",
+      "Investigate bugs and identify tactical solutions to production issues impacting users.",
+      "Monitor the performance of product features post-launch and continuously seek opportunities for improvement.",
+      "Maintain awareness of the competitive landscape from a business and legal / compliance perspective."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      150000,
+      190000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity for all full-time employees",
+    "location_pay_differential": false,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Identity Solutions",
+    "KYC",
+    "AML",
+    "alternative investments",
+    "onboarding",
+    "fintech",
+    "wealth management",
+    "product roadmap",
+    "agile",
+    "user stories",
+    "SQL",
+    "QA testing",
+    "compliance",
+    "Vice President"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range explicitly disclosed ($150K-$190K base)",
+    "Equity included for all full-time employees plus annual performance bonus",
+    "Comprehensive benefits including 100% employer paid dental, vision, telemedicine, and virtual mental health counseling",
+    "Unlimited PTO offered",
+    "Clear product surface and ownership area (Identity Solutions / KYC / AML)",
+    "Hybrid schedule with Friday remote — more flexibility than fully onsite",
+    "Growth opportunity explicitly mentioned ('room to grow and broaden your responsibilities')",
+    "New product area means high impact and visibility opportunity"
+  ],
+  "red_flags": [
+    "Office location city not specified in JD body — candidates cannot confirm geographic fit without additional research",
+    "VP title is used but the role appears to be an individual contributor PM role, not a people manager — title inflation common in fintech",
+    "KYC/AML domain expertise listed only as 'a plus' yet the entire product is Identity Solutions — may be understated as a true requirement",
+    "No visa sponsorship information provided"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from VP title, 8+ years requirement, and comp range)",
+      "scope.business_model (inferred from product description and industry context)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "location.cities_listed (not stated in JD body; left empty)",
+      "location.visa_sponsorship (not stated; marked unclear)"
+    ],
+    "ambiguities": [
+      "KYC/AML experience is listed as 'a plus' at the end of the Candidate Profile, yet the entire product being built is Identity Solutions focused on KYC/AML — this may be more important than a soft requirement in practice.",
+      "VP title suggests seniority but the JD does not describe people management responsibilities; treated as senior IC.",
+      "Preferred industries listed as 'fintech, wealth management, or related industries' alongside the hard 8-year minimum — industry preference classified as context rather than a separate hard requirement."
+    ]
+  }
+}

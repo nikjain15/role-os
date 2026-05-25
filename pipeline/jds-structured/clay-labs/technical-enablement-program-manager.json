@@ -1,0 +1,258 @@
+{
+  "company": "Clay Labs",
+  "role_title": "Technical Enablement Program Manager",
+  "url": "https://jobs.ashbyhq.com/claylabs/494dd605-64a7-4647-bf86-cb1034f2327c",
+  "ats_provider": "ashby",
+  "ats_job_id": "494dd605-64a7-4647-bf86-cb1034f2327c",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "New York, NY"
+    ],
+    "remote_us_eligible": true,
+    "office_time_required": "preferred in-person but remote allowed",
+    "work_auth": "open",
+    "visa_sponsorship": "yes"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Technical Enablement / Customer Success Enablement",
+  "seniority": {
+    "level": "Mid-Senior IC",
+    "years_required_min": 3,
+    "years_required_max": 5,
+    "manages_people": false,
+    "level_signals": [
+      "3–5 years in Technical Enablement, Customer Success, Solutions Engineering, or similar",
+      "First full-time hire for this function — ground-floor opportunity signals IC ownership scope"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_technical_enablement",
+      "raw_text_from_jd": "You have 3–5 years in Technical Enablement, Customer Success, Solutions Engineering, or a similar role in a fast-paced SaaS environment.",
+      "skill_type": "years_of_experience",
+      "domain": "technical_enablement_or_customer_success",
+      "minimum_value": 3,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "SaaS"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_facilitation",
+      "raw_text_from_jd": "You're a strong communicator and facilitator who's comfortable running workshops, certifications, and executive-level conversations.",
+      "skill_type": "capability",
+      "domain": "training_facilitation",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_fluency_data_apis",
+      "raw_text_from_jd": "You're technically fluent and comfortable understanding data workflows, APIs, integrations, and automation concepts.",
+      "skill_type": "domain_knowledge",
+      "domain": "data_workflows_apis_automation",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "APIs",
+        "integrations",
+        "automation"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "gtm_tech_stack_familiarity",
+      "raw_text_from_jd": "You're familiar with the modern GTM tech stack (Clay, Apollo, Salesforce, etc.) and pick up new platforms quickly.",
+      "skill_type": "tool_proficiency",
+      "domain": "gtm_tools",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "Clay",
+        "Apollo",
+        "Salesforce"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "built_scaled_enablement_programs",
+      "raw_text_from_jd": "You've built and scaled enablement programs including: onboarding, ever-boarding, certifications, and playbooks that improved adoption, retention, or expansion outcomes.",
+      "skill_type": "outcome",
+      "domain": "enablement_program_design",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "enablement_systems_content",
+      "raw_text_from_jd": "You have experience building content and managing enablement systems (e.g., Notion, Gong, or an LMS) to centralize resources and measure adoption.",
+      "skill_type": "tool_proficiency",
+      "domain": "enablement_content_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "Notion",
+        "Gong"
+      ],
+      "technologies_named": [
+        "LMS"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "fast_paced_high_growth",
+      "raw_text_from_jd": "You thrive in fast-paced, high-growth environments and know how to bring structure and clarity without slowing teams down.",
+      "skill_type": "cultural_fit",
+      "domain": "high_growth_startup",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_collaboration",
+      "raw_text_from_jd": "You're curious, collaborative, and excited to partner across Product & GTM to ensure teams are equipped to drive growth.",
+      "skill_type": "cultural_fit",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Technical Enablement for Clay's customer-facing technical teams: Product Support Specialists (PSS), Services, and Solutions Engineers (SE)",
+    "business_model": "B2B SaaS, GTM platform",
+    "primary_metrics_inferred": [
+      "Ramp time reduction",
+      "Assessment scores",
+      "Support quality",
+      "Team feedback",
+      "Retention and adoption targets"
+    ],
+    "cross_functional_partners": [
+      "CX leadership",
+      "Product",
+      "GTM leadership",
+      "Support",
+      "Services",
+      "Solutions Engineering"
+    ],
+    "core_responsibilities": [
+      "Design role-based onboarding programs for Support, Services, and Solutions Engineers that accelerate ramp time and build a consistent technical foundation.",
+      "Lead live training sessions, product deep-dives, and hands-on workshops that help technical teams understand new features, workflows, and integrations.",
+      "Translating new releases, workflow updates, and feature changes into clear, practical content and then delivering it directly to the teams.",
+      "Develop and run certifications and knowledge checks that assess technical fluency, surface gaps early, and ensure teams are ready before they're in front of customers.",
+      "Work across Support, Services, and Solutions Engineering leadership to understand where teams are struggling, what's changing on the ground, and what needs to be built, updated, or delivered.",
+      "Capture and scale best practices from top performers into repeatable frameworks, troubleshooting guides, and coaching resources.",
+      "Measure program effectiveness through ramp time, assessment scores, support quality, and team feedback to continuously improve programming."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "community equity round and employee tender offers mentioned as company context; individual equity details not stated for this role",
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Technical Enablement",
+    "Solutions Engineering",
+    "onboarding",
+    "certifications",
+    "SaaS",
+    "GTM tech stack",
+    "APIs",
+    "integrations",
+    "automation",
+    "Clay",
+    "LMS",
+    "ramp time",
+    "customer success",
+    "playbooks",
+    "ever-boarding"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Visa sponsorship explicitly offered",
+    "First full-time hire for the function — high ownership and visibility",
+    "Clay recently crossed $100M revenue and raised a $100M Series C — financially stable high-growth company",
+    "Explicit mention of flexible schedules and remote work (though in-person preferred)",
+    "Clear team and cross-functional context provided",
+    "Named enterprise customers (OpenAI, Notion, Canva, Anthropic) signal product-market fit"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "JD mentions 'Remote work. Though we prefer people being in-person.' — ambiguous commitment to remote; NYC office strongly implied as default",
+    "No nice-to-haves section — all requirements presented as must-haves; may signal high bar or underspecified JD",
+    "First hire for this function means limited existing infrastructure, playbooks, or peer support"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years range and first-hire scope)",
+      "scope.business_model (inferred from product description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities and JD language)",
+      "compensation.equity_form (inferred from company-wide announcements, not stated per-role)",
+      "location.remote_us_eligible (inferred from 'Remote work. Though we prefer people being in-person.' — not explicitly confirmed as US-only)"
+    ],
+    "ambiguities": [
+      "Location type: JD body says 'Remote work. Though we prefer people being in-person.' and lists a Manhattan office — treated as hybrid with remote option, but in-person is preferred and may be a soft requirement.",
+      "No nice-to-haves are explicitly flagged in the JD; all 'We'd love to hear from you if' bullets are treated as must-haves given they appear as unconditional list items with no 'preferred' or 'bonus' language.",
+      "Compensation: JD says 'Competitive salary' but provides no range — classified as unknown source."
+    ]
+  }
+}

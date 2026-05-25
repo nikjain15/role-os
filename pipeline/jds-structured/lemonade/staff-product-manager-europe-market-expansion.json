@@ -1,0 +1,242 @@
+{
+  "company": "Lemonade",
+  "role_title": "Staff Product Manager, Europe Market Expansion",
+  "url": "https://jobs.ashbyhq.com/lemonade/e2a63789-0120-4986-ba56-82b7dd9b66b7",
+  "ats_provider": "ashby",
+  "ats_job_id": "e2a63789-0120-4986-ba56-82b7dd9b66b7",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [],
+    "remote_us_eligible": false,
+    "office_time_required": "most days in a week",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Growth PM — market expansion / international GTM",
+  "seniority": {
+    "level": "Staff PM (IC6 equivalent)",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7+ years of product management experience",
+      "Role title explicitly says 'Staff Product Manager'",
+      "Described as strategic architect of expansion strategy",
+      "Founder-mode leader framing"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "7+ years of product management experience with proven track record leading successful market expansions or high-stakes global product launches",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 7,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "market_expansion_track_record",
+      "raw_text_from_jd": "proven track record leading successful market expansions or high-stakes global product launches",
+      "skill_type": "outcome",
+      "domain": "international_market_expansion",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [
+        "Europe"
+      ],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_sense",
+      "raw_text_from_jd": "Exceptional product sense - spidey sense for what makes products successful and relentless bar for customer experience",
+      "skill_type": "capability",
+      "domain": "product_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_driven_segmentation",
+      "raw_text_from_jd": "Strategic and data-driven approach to customer personas and segmentation, using data-first thinking to package and price products for new audiences",
+      "skill_type": "capability",
+      "domain": "market_segmentation_and_pricing",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "high_agency_mindset",
+      "raw_text_from_jd": "High agency mindset - proactive owner who finds a way through obstacles rather than waiting for permission",
+      "skill_type": "cultural_fit",
+      "domain": "ownership_and_autonomy",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_and_influence",
+      "raw_text_from_jd": "Communication mastery - ability to influence stakeholders at all levels and tell compelling stories about why and how we'll win in new markets",
+      "skill_type": "capability",
+      "domain": "stakeholder_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_enthusiasm",
+      "raw_text_from_jd": "Enthusiasm about learning and adapting to the exciting world of AI - a commitment to exploring this field is a fundamental part of our culture",
+      "skill_type": "cultural_fit",
+      "domain": "artificial_intelligence",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "onsite_availability",
+      "raw_text_from_jd": "Ability to work in an office environment most days in a week",
+      "skill_type": "capability",
+      "domain": "work_arrangement",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "European market expansion — personas, segmentation, packaging, and value proposition for Lemonade insurance in Europe",
+    "business_model": "B2C insurance platform expanding internationally",
+    "primary_metrics_inferred": [
+      "User acquisition and growth in European markets",
+      "Market share / brand recognition in Europe",
+      "Product launch velocity and quality",
+      "Customer satisfaction and experience quality"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Data/Analytics",
+      "Marketing",
+      "Operations"
+    ],
+    "core_responsibilities": [
+      "Own the 0 to 1 of market expansion - nail the personas, segmentation, packaging, and value proposition that allow us to win",
+      "Identify moments of truth and design delightful, winning experiences that feel native but scale globally",
+      "Build winning experiences not just features - ensure every product is honest, transparent, and addresses customer needs with precision and soul",
+      "Invest in the smallest details to make hard moments comforting and dull moments fun",
+      "Think automation and scale in everything. Use data for unfair advantage and build tools that free our team to focus on empathy and big-picture creativity",
+      "Design best-in-class vision and trace back to lay solid foundation - ensure first versions are high-quality building blocks for the next three years",
+      "Harmonize input from diverse makers and help teams converge on decisions quickly to move from ideation to launch with agility"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "market expansion",
+    "Europe",
+    "Staff PM",
+    "0 to 1",
+    "segmentation",
+    "value proposition",
+    "AI-native",
+    "insurance",
+    "global product launch",
+    "founder-mode",
+    "customer personas",
+    "packaging and pricing"
+  ],
+  "buzzword_density": "high",
+  "green_flags": [
+    "Clear ownership of a high-visibility, strategic initiative (European market expansion)",
+    "0-to-1 scope signals meaningful product influence and autonomy",
+    "Staff-level title indicates senior IC scope and compensation band",
+    "Role is explicitly about strategy, not just feature execution"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "No specific European city or country listed — unclear where the role is based or which European market is targeted first",
+    "Heavy buzzword usage ('founder-mode', 'AI-native', 'exoskeleton', 'moments of truth') makes it difficult to assess concrete expectations",
+    "Visa sponsorship and work authorization not mentioned — especially relevant for a European expansion role with unclear location",
+    "'most days in a week' in-office requirement with no city specified is ambiguous",
+    "No explicit mention of insurance domain experience as a requirement — unusual for an expansion role in a regulated industry"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Staff PM' and 7+ years requirement)",
+      "scope.business_model (inferred from Lemonade being a B2C insurance platform)",
+      "scope.primary_metrics_inferred (not stated in JD; inferred from responsibilities)",
+      "scope.cross_functional_partners (inferred from 'diverse makers' language; not explicitly named)",
+      "location.type (inferred as onsite from 'most days in a week' office requirement; no city stated)",
+      "equity_mentioned (no mention of equity in JD; defaulted to false)"
+    ],
+    "ambiguities": [
+      "No city or country is specified for this role despite being titled 'Europe Market Expansion' — unclear if the PM is based in Europe or at Lemonade's US/Israel HQ",
+      "Work authorization and visa sponsorship are entirely absent from the JD — unclear if European work rights are required",
+      "Insurance domain experience is not listed as a requirement despite the role being in a regulated insurance context — may be implicit or intentionally excluded"
+    ]
+  }
+}

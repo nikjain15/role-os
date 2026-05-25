@@ -1,0 +1,276 @@
+{
+  "company": "n8n",
+  "role_title": "Sales Strategy & Operations Manager – US (East Coast-based)",
+  "url": "https://jobs.ashbyhq.com/n8n/e77c1fa5-1232-49a3-9db3-b291cd79006b",
+  "ats_provider": "ashby",
+  "ats_job_id": "e77c1fa5-1232-49a3-9db3-b291cd79006b",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [],
+    "remote_us_eligible": false,
+    "office_time_required": "unclear",
+    "work_auth": "no-sponsorship",
+    "visa_sponsorship": "no"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Sales / Revenue Operations IC",
+  "seniority": {
+    "level": "Mid-Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years in Revenue Operations, Sales Operations, or GTM operations roles",
+      "Explicitly noted as an IC role in the JD",
+      "Partners with VP of US Sales — not a management role"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "revops_experience",
+      "raw_text_from_jd": "You have 5+ years in Revenue Operations, Sales Operations, or GTM operations roles, ideally in B2B SaaS.",
+      "skill_type": "years_of_experience",
+      "domain": "revenue_operations",
+      "minimum_value": 5,
+      "unit": "years",
+      "qualifier": "ideally in B2B SaaS",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "B2B SaaS"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "amer_expertise",
+      "raw_text_from_jd": "You've supported AMER sales teams or multinational GTM operations and understand the regional nuances.",
+      "skill_type": "domain_knowledge",
+      "domain": "AMER_sales_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [
+        "AMER"
+      ],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_mindset",
+      "raw_text_from_jd": "You make data-driven decisions, leveraging analytics and forecasting to inform strategy.",
+      "skill_type": "capability",
+      "domain": "data_analytics_and_forecasting",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "stakeholder_collaboration",
+      "raw_text_from_jd": "You build trusted partnerships with Sales, Finance, and cross-functional teams to deliver impactful outcomes.",
+      "skill_type": "capability",
+      "domain": "cross_functional_stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "systems_proficiency",
+      "raw_text_from_jd": "You're comfortable with Salesforce (admin level), Google Sheets, and automation tools like n8n.",
+      "skill_type": "tool_proficiency",
+      "domain": "sales_and_automation_tools",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "Salesforce",
+        "Google Sheets",
+        "n8n"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "data_visualization",
+      "raw_text_from_jd": "You can build dashboards or reports in Tableau, Looker, or Power BI.",
+      "skill_type": "tool_proficiency",
+      "domain": "data_visualization",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Tableau",
+        "Looker",
+        "Power BI"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "automation_mindset",
+      "raw_text_from_jd": "You're passionate about using AI and automation to streamline RevOps workflows.",
+      "skill_type": "cultural_fit",
+      "domain": "ai_and_automation",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "AI",
+        "automation"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sql_knowledge",
+      "raw_text_from_jd": "You have working knowledge of SQL or similar analytical tools.",
+      "skill_type": "tool_proficiency",
+      "domain": "data_querying",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "SQL"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "scaleup_experience",
+      "raw_text_from_jd": "You've operated in high-growth, fast-scaling B2B SaaS environments.",
+      "skill_type": "domain_knowledge",
+      "domain": "high_growth_saas_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "B2B SaaS"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "AMER GTM / Revenue Operations — strategic planning, forecasting, process improvement, and cross-functional program management",
+    "business_model": "B2B SaaS, open-source-led, PLG + enterprise",
+    "primary_metrics_inferred": [
+      "AMER regional revenue growth",
+      "Pipeline accuracy / forecast quality",
+      "Sales process efficiency and scalability",
+      "GTM program delivery (on-time, measurable)"
+    ],
+    "cross_functional_partners": [
+      "VP of US Sales",
+      "AMER Sales leadership",
+      "GTM Systems & Automation team",
+      "RevOps",
+      "Finance"
+    ],
+    "core_responsibilities": [
+      "Partner with the VP of US Sales to develop regional sales strategies, quotas, and territory plans.",
+      "Analyze sales data to generate actionable insights and drive performance improvement.",
+      "Support accurate forecasting, pipeline management, and performance reviews across the AMER region.",
+      "Design and implement scalable reporting frameworks to track regional sales performance.",
+      "Continuously improve sales and RevOps processes for efficiency, consistency, and scalability.",
+      "Collaborate with the GTM Systems & Automation team to identify automation opportunities and implement best practices.",
+      "Lead and coordinate cross-functional GTM initiatives that drive operational excellence.",
+      "Manage programs from concept to execution, ensuring deliverables are on time and measurable."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity (slice of n8n mentioned as ownership)",
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Revenue Operations",
+    "Sales Operations",
+    "GTM",
+    "AMER",
+    "B2B SaaS",
+    "Salesforce",
+    "forecasting",
+    "pipeline management",
+    "process improvement",
+    "automation",
+    "n8n",
+    "strategic planning",
+    "cross-functional",
+    "data-driven"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "IC role explicitly called out — no ambiguity about management expectations",
+    "Equity offered as part of compensation package",
+    "Generous benefits for US employees including 401(k) match, health/dental/vision, disability and life insurance",
+    "Unlimited AI tools budget and €1K/year learning budget signal investment in employee development",
+    "High eNPS (94 for 2024) is a strong culture signal",
+    "Clear and structured responsibilities broken into four distinct functional areas",
+    "Backed by Sequoia and Highland — credible investors at $2.5bn valuation"
+  ],
+  "red_flags": [
+    "Compensation range not disclosed",
+    "East Coast-based requirement but no specific cities listed — hybrid expectations are vague ('please check the job description' references another document)",
+    "Visa sponsorship only available for Germany; US candidates must have existing right to work — eliminates candidates needing US sponsorship",
+    "JD location disclaimer suggests same role may be posted in multiple locations, creating ambiguity about where the role is actually based"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 5+ years requirement and IC designation)",
+      "scope.business_model (inferred from product description and GitHub/community signals)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "location.office_time_required (JD says 'some roles like sales in the US are hybrid' but does not specify percentage)",
+      "compensation.base_range_usd (not stated)"
+    ],
+    "ambiguities": [
+      "Location type: The JD title says 'East Coast-based' and the benefits section says 'some roles, like sales in the US, are hybrid' but no office percentage or specific cities are named for this role. Treated as hybrid with unclear office time.",
+      "Visa sponsorship: JD states 'We can sponsor visas to Germany; for any other country, you need to have existing right to work.' This means no US visa sponsorship — set to 'no' and work_auth to 'no-sponsorship'.",
+      "The location disclaimer notes that multiple postings of the same role may exist across different cities; the primary location for this specific posting is not stated beyond 'East Coast'."
+    ]
+  }
+}

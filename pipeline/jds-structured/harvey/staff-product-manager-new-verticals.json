@@ -1,0 +1,342 @@
+{
+  "company": "Harvey",
+  "role_title": "Staff Product Manager, New Verticals",
+  "url": "https://jobs.ashbyhq.com/harvey/2cbe13b9-a44b-47d3-abb8-45d9a98b05f6",
+  "ats_provider": "ashby",
+  "ats_job_id": "2cbe13b9-a44b-47d3-abb8-45d9a98b05f6",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "AI Product Manager with enterprise/solutions delivery flavor",
+  "seniority": {
+    "level": "Staff / Senior Staff IC",
+    "years_required_min": 8,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "8+ years of work experience",
+      "3+ years of product management experience",
+      "Staff title in role name",
+      "Compensation range $178,500–$241,500 consistent with Staff IC at a well-funded AI startup",
+      "Expected to define vertical-level roadmaps and influence commercial models"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_total_experience",
+      "raw_text_from_jd": "8+ years of work experience",
+      "skill_type": "years_of_experience",
+      "domain": "general_professional",
+      "minimum_value": 8,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "professional_services_background",
+      "raw_text_from_jd": "Background in professional services (legal, consulting, banking, or adjacent fields) with experience operating in complex, high-stakes workflows.",
+      "skill_type": "domain_knowledge",
+      "domain": "professional_services",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "legal",
+        "consulting",
+        "banking"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "years_pm_or_related",
+      "raw_text_from_jd": "3+ years of product management experience or closely related roles (e.g., solutions, forward deployed engineering, product consulting).",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 3,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "b2b_enterprise_experience",
+      "raw_text_from_jd": "Experience working in B2B or enterprise environments, ideally with AI, automation, or workflow tooling.",
+      "skill_type": "domain_knowledge",
+      "domain": "enterprise_b2b",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI",
+        "automation",
+        "workflow tooling"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ship_enterprise_software",
+      "raw_text_from_jd": "Demonstrated ability to ship and iterate on enterprise-grade software or high-complexity solutions.",
+      "skill_type": "outcome",
+      "domain": "enterprise_software_delivery",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "executive_presence",
+      "raw_text_from_jd": "Executive presence and a customer obsession mindset",
+      "skill_type": "cultural_fit",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strategic_and_detail_oriented",
+      "raw_text_from_jd": "Strong strategic thinking paired with detail orientation—able to zoom out to vertical-level needs while handling precise workflow nuances.",
+      "skill_type": "capability",
+      "domain": "product_strategy",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_and_structuring",
+      "raw_text_from_jd": "Ability to communicate both qualitatively and quantitatively; strong command of structuring ambiguous problem spaces.",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_navigation",
+      "raw_text_from_jd": "Comfort navigating extreme ambiguity, defining structure from zero, and driving clarity for cross-functional teams.",
+      "skill_type": "capability",
+      "domain": "ambiguity_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "scrappy_ownership_mentality",
+      "raw_text_from_jd": "A scrappy, ownership mentality—willing to jump on flights, run QA, troubleshoot with engineering, or support customer teams when needed.",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "ai_agents_experience",
+      "raw_text_from_jd": "Experience building or deploying AI agents, workflow automation tools, or retrieval-augmented systems.",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_agents_and_automation",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "AI agents",
+        "workflow automation",
+        "retrieval-augmented systems"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "forward_deployed_or_solutions_role",
+      "raw_text_from_jd": "Experience as a forward deployed engineer, solutions architect, or consultant with strong product instincts.",
+      "skill_type": "domain_knowledge",
+      "domain": "solutions_engineering_consulting",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "forward deployed engineer",
+        "solutions architect",
+        "consultant"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "hyper_growth_startup_experience",
+      "raw_text_from_jd": "Prior role in a hyper-growth startup or high-performing enterprise product org.",
+      "skill_type": "domain_knowledge",
+      "domain": "startup_or_enterprise_product",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "hyper-growth startup",
+        "high-performing enterprise product org"
+      ],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "AI agent-powered solutions for strategic enterprise customers across new verticals (legal and professional services)",
+    "business_model": "B2B enterprise SaaS with professional services / agentic AI",
+    "primary_metrics_inferred": [
+      "Measurable productivity and quality outcomes for customers",
+      "Repeatability of bespoke deployments into scalable products",
+      "Commercial expansion into new verticals"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Research",
+      "Founders/Executives",
+      "Legal research",
+      "Forward deployed engineering",
+      "Customer teams",
+      "Sales"
+    ],
+    "core_responsibilities": [
+      "Partner directly with strategic accounts to uncover high-impact workflows and translate ambiguous requirements into clear, actionable product definitions for agent-powered solutions.",
+      "Lead discovery for your assigned accounts and verticals, developing a deep understanding of user intentions, data constraints, workflows, and success criteria.",
+      "Map workflows to the broader product, identifying where out-of-the-box agent capabilities fit and where custom development is needed.",
+      "Drive deployments end to end—working with forward deployed engineering and customer teams to implement, test, and refine agent solutions.",
+      "Define and track success metrics for the verticals you support, ensuring solutions deliver measurable productivity and quality outcomes.",
+      "Develop account-level and vertical-level roadmaps, translating customer needs into scalable products or reusable frameworks.",
+      "Collaborate cross-functionally with founders, executives, engineering, and legal research to align product direction and ensure technical feasibility.",
+      "Influence new commercial models, including pricing, packaging, and deployment strategies for agent-led solutions.",
+      "Champion repeatability, helping transform one-off solutions into product features, components, or templates that scale across the customer base."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      178500,
+      241500
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "AI agents",
+    "new verticals",
+    "professional services",
+    "enterprise",
+    "workflow automation",
+    "forward deployed",
+    "B2B",
+    "LLM",
+    "agentic AI",
+    "repeatability",
+    "customer discovery",
+    "commercial models"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range explicitly disclosed ($178,500–$241,500 USD)",
+    "Clear product surface and ownership scope (new verticals, agent-powered solutions)",
+    "High-growth company with 1000+ customers in 60+ countries and strong PMF signals",
+    "Broad definition of PM experience accepted (solutions, FDE, product consulting)",
+    "Role sits at intersection of strategy and execution — high ownership and visibility"
+  ],
+  "red_flags": [
+    "No location or work authorization details stated — remote eligibility and visa sponsorship are entirely unclear",
+    "Role title in identity fields is 'Staff Product Manager, New Verticals' but JD body refers to 'Product Manager, Agents' — possible discrepancy in scope",
+    "Equity not mentioned despite being a common component at AI startups at this seniority level",
+    "'Willing to jump on flights' implies significant travel expectation not formally quantified"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 'Staff' title, comp range, and 8+ years requirement)",
+      "location.type (not stated; set to 'unclear')",
+      "location.work_auth (not stated; set to 'unclear')",
+      "location.visa_sponsorship (not stated; set to 'unclear')",
+      "scope.business_model (inferred from product description and customer context)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not directly listed in JD)",
+      "compensation.equity_mentioned (inferred absence — not mentioned in JD)"
+    ],
+    "ambiguities": [
+      "Role title in identity fields is 'Staff Product Manager, New Verticals' but the JD body Role Overview heading reads 'Product Manager, Agents' — the actual product focus and title may differ; recorded both.",
+      "No location, remote eligibility, or visa/work authorization information is provided anywhere in the JD. All related fields set to 'unclear'.",
+      "The requirement 'ideally with AI, automation, or workflow tooling' in the B2B/enterprise bullet could be read as hard or soft; classified as hard because it appears in the 'What You Have' section without an explicit 'preferred' qualifier, but the word 'ideally' introduces softness — flagged as ambiguous."
+    ]
+  }
+}

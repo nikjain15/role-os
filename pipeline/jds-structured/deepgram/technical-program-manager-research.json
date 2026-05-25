@@ -1,0 +1,302 @@
+{
+  "company": "Deepgram",
+  "role_title": "Technical Program Manager, Research",
+  "url": "https://jobs.ashbyhq.com/deepgram/69d7f329-968a-4c9d-a0b4-972f83f1206c",
+  "ats_provider": "ashby",
+  "ats_job_id": "69d7f329-968a-4c9d-a0b4-972f83f1206c",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Research/ML-embedded TPM",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of experience as a Technical Program Manager or Engineering Program Manager",
+      "Proven track record of delivering complex, multi-workstream technical programs",
+      "Expected to own end-to-end delivery across multiple teams"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_tpm_epm_experience",
+      "raw_text_from_jd": "5+ years of experience as a Technical Program Manager or Engineering Program Manager, ideally with meaningful time spent supporting or embedded in an AI/ML Research organization",
+      "skill_type": "years_of_experience",
+      "domain": "technical_program_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "qualifier": "ideally with meaningful time spent supporting or embedded in an AI/ML Research organization",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI/ML"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ml_systems_knowledge",
+      "raw_text_from_jd": "In-depth, working knowledge of how machine learning systems are built (i.e., data pipelines, model training, evaluation, and serving) that allows you to engage meaningfully with researchers and engineers on technical tradeoffs",
+      "skill_type": "domain_knowledge",
+      "domain": "machine_learning_systems",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "data pipelines",
+        "model training",
+        "model evaluation",
+        "model serving"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "complex_program_delivery",
+      "raw_text_from_jd": "Proven track record of delivering complex, multi-workstream technical programs on time across teams with competing priorities",
+      "skill_type": "outcome",
+      "domain": "technical_program_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "dependency_risk_mapping",
+      "raw_text_from_jd": "Demonstrated ability to map cross-functional dependencies and technical risk across concurrent projects, with clear status communication to all stakeholders",
+      "skill_type": "capability",
+      "domain": "cross_functional_program_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "lightweight_process_design",
+      "raw_text_from_jd": "Experience designing lightweight processes that improve execution velocity and accountability in research or engineering environments without adding bureaucratic overhead",
+      "skill_type": "capability",
+      "domain": "process_design",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_skills_program_health",
+      "raw_text_from_jd": "Strong analytical skills for evaluating program health, spotting bottlenecks early, and making data-informed prioritization decisions",
+      "skill_type": "capability",
+      "domain": "analytical_thinking",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_bidirectional",
+      "raw_text_from_jd": "Excellent communication in both directions: crisp updates for senior leadership, clear direction for researchers",
+      "skill_type": "capability",
+      "domain": "stakeholder_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "pragmatic_orientation",
+      "raw_text_from_jd": "A pragmatic, roll-up-your-sleeves orientation: we need you to be equally effective at the strategic level and in the details",
+      "skill_type": "cultural_fit",
+      "domain": "work_style",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_first_mindset",
+      "raw_text_from_jd": "Every team member who works at Deepgram is expected to actively use and experiment with advanced AI tools, and even build your own into your everyday work.",
+      "skill_type": "cultural_fit",
+      "domain": "ai_adoption",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI tools"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "speech_audio_experience",
+      "raw_text_from_jd": "Bonus points for experience with speech or audio projects — audio data collection and labeling, audio model evaluation (including human eval), or shipping products where audio quality is the core user experience",
+      "skill_type": "domain_knowledge",
+      "domain": "speech_audio",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "audio model evaluation",
+        "human eval"
+      ],
+      "industries_named": [
+        "voice AI",
+        "speech technology"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "aiml_research_org_embedding",
+      "raw_text_from_jd": "ideally with meaningful time spent supporting or embedded in an AI/ML Research organization",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_ml_research_organizations",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "AI/ML"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Research organization — STT and TTS model development, data pipelines, evaluation infrastructure",
+    "business_model": "B2B/B2D API platform (cloud APIs and self-hosted/on-premises)",
+    "primary_metrics_inferred": [
+      "On-time delivery of model versions and features",
+      "Cross-functional milestone completion",
+      "Program health and risk visibility to leadership"
+    ],
+    "cross_functional_partners": [
+      "Research",
+      "Product",
+      "DataOps",
+      "Engineering"
+    ],
+    "core_responsibilities": [
+      "Own end-to-end delivery of new model versions and features for flagship STT and TTS offerings",
+      "Define and champion lightweight but effective processes for researchers' daily workflows",
+      "Map dependencies and risks across all active cross-functional projects",
+      "Run cross-functional programs end-to-end: scope definition, timeline management, stakeholder communication, risk mitigation, and launch readiness",
+      "Troubleshoot cross-team blockers quickly and build reliable partnerships across the technical organization",
+      "Own proactive communication across all levels of the organization",
+      "Respond quickly to shifting priorities, translating decisions into clear implications for timelines, team capacity, and dependencies"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Technical Program Manager",
+    "Research",
+    "STT",
+    "TTS",
+    "Voice AI",
+    "ML systems",
+    "data pipelines",
+    "cross-functional",
+    "Latent Space Models",
+    "audio",
+    "speech-to-text",
+    "text-to-speech",
+    "model evaluation",
+    "dependency management",
+    "AI-first"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear 90-day success criteria described in JD — unusual transparency for expectations",
+    "JD is transparent about how it was written (collaborative AI + human process)",
+    "Well-defined scope: embedded in Research org with explicit cross-functional partners named",
+    "Company has disclosed funding ($215M+, Series C) and notable customer logos",
+    "Flexible schedule, unlimited PTO, and generous stipends mentioned",
+    "Role appears to have real ownership and impact on flagship products (not support-only)"
+  ],
+  "red_flags": [
+    "No compensation range stated anywhere in the JD",
+    "Location/remote policy not specified — candidates cannot assess eligibility",
+    "Visa sponsorship and work authorization not addressed",
+    "JD explicitly says 'this may not be the right role if you're not excited to experiment, adapt... or if you're seeking something highly prescriptive with a traditional 9-to-5' — signals potentially high ambiguity and pace",
+    "Benefits for non-US employees explicitly noted as variable and potentially lesser, introducing uncertainty for international candidates"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 5+ years requirement and scope of ownership)",
+      "scope.business_model (inferred from company description)",
+      "scope.primary_metrics_inferred (not stated; inferred from responsibilities)",
+      "location.type (not stated in JD; left as 'unclear')",
+      "compensation.equity_mentioned (no equity discussed; defaulted to false)"
+    ],
+    "ambiguities": [
+      "The 'ideally with meaningful time spent supporting or embedded in an AI/ML Research organization' qualifier on the 5+ years requirement is attached to the hard requirement sentence but uses 'ideally', making it semi-soft. Extracted as a separate nice-to-have item to reflect both readings.",
+      "Location/remote policy is entirely absent from the JD; location.type set to 'unclear'.",
+      "Visa sponsorship and work authorization are not addressed anywhere in the JD."
+    ]
+  }
+}

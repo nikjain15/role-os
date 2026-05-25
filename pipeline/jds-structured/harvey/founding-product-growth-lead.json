@@ -1,0 +1,318 @@
+{
+  "company": "Harvey",
+  "role_title": "Founding Product Growth Lead",
+  "url": "https://jobs.ashbyhq.com/harvey/9ce0c68b-80f2-4467-88d0-02473f98e2d4",
+  "ats_provider": "ashby",
+  "ats_job_id": "9ce0c68b-80f2-4467-88d0-02473f98e2d4",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Growth PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Technical PM",
+  "seniority": {
+    "level": "Senior IC / Staff PM",
+    "years_required_min": 8,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "8+ years of product management experience",
+      "At least 3 years focused on growth/PLG",
+      "Foundational / first dedicated growth product hire",
+      "Comp range $236,500–$320,500 consistent with Senior/Staff IC"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_total",
+      "raw_text_from_jd": "8+ years of product management experience, with at least 3 years focused on growth, product-led growth (PLG), or growth engineering at a high-growth B2B SaaS company.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 8,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "B2B SaaS"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "high-growth B2B SaaS company"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "years_growth_pm",
+      "raw_text_from_jd": "at least 3 years focused on growth, product-led growth (PLG), or growth engineering at a high-growth B2B SaaS company.",
+      "skill_type": "years_of_experience",
+      "domain": "growth_product_management",
+      "minimum_value": 3,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "B2B SaaS"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "high-growth B2B SaaS company"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "measurable_growth_outcomes",
+      "raw_text_from_jd": "Proven track record of driving measurable growth outcomes — you have shipped experiments and features that moved key business metrics (activation, retention, expansion, revenue).",
+      "skill_type": "outcome",
+      "domain": "growth_product_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "growth_analytics_fluency",
+      "raw_text_from_jd": "Deep fluency in growth analytics: you are comfortable with SQL, product analytics tools (Amplitude, Mixpanel, or similar), and building data narratives that drive decisions.",
+      "skill_type": "tool_proficiency",
+      "domain": "growth_analytics",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Amplitude",
+        "Mixpanel"
+      ],
+      "technologies_named": [
+        "SQL"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strong_product_sense",
+      "raw_text_from_jd": "Strong product sense — you can identify high-leverage opportunities, scope MVPs, and ship quickly without sacrificing quality.",
+      "skill_type": "capability",
+      "domain": "product_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_collaboration",
+      "raw_text_from_jd": "Excellent cross-functional collaboration skills, with experience partnering across Engineering, Design, Marketing, Sales, and Customer Success.",
+      "skill_type": "capability",
+      "domain": "cross_functional_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "startup_high_growth_experience",
+      "raw_text_from_jd": "Startup or high-growth experience — you thrive in ambiguity, move fast, and are comfortable building from zero.",
+      "skill_type": "cultural_fit",
+      "domain": "startup_environment",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_passion",
+      "raw_text_from_jd": "Passion for AI and its potential to transform professional services.",
+      "skill_type": "cultural_fit",
+      "domain": "artificial_intelligence",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI"
+      ],
+      "industries_named": [
+        "professional services"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "enterprise_plg_experience",
+      "raw_text_from_jd": "Experience with enterprise or sales-assisted PLG motions (not purely self-serve consumer growth).",
+      "skill_type": "domain_knowledge",
+      "domain": "enterprise_PLG",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "legal_tech_familiarity",
+      "raw_text_from_jd": "Familiarity with legal technology, professional services, or vertical SaaS.",
+      "skill_type": "domain_knowledge",
+      "domain": "legal_technology",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "legal technology",
+        "professional services",
+        "vertical SaaS"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "self_serve_onboarding",
+      "raw_text_from_jd": "Experience building self-serve onboarding or trial experiences in B2B.",
+      "skill_type": "capability",
+      "domain": "self_serve_onboarding",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "B2B"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Product-led growth strategy for Harvey's AI platform across acquisition, activation, engagement, retention, and expansion",
+    "business_model": "Enterprise B2B SaaS / AI platform targeting law firms, in-house legal teams, and professional services organizations",
+    "primary_metrics_inferred": [
+      "Activation rate",
+      "Time-to-value",
+      "Feature adoption",
+      "Expansion revenue",
+      "Retention"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Marketing",
+      "Sales",
+      "Customer Success",
+      "GTM leadership"
+    ],
+    "core_responsibilities": [
+      "Define and own Harvey's product-led growth strategy, identifying the highest-impact opportunities across the user lifecycle — from acquisition and activation to engagement, retention, and expansion.",
+      "Build and run a rigorous experimentation program: develop hypotheses, design A/B tests, and iterate quickly based on data to optimize key growth metrics (e.g., activation rate, time-to-value, feature adoption, expansion revenue).",
+      "Partner closely with Engineering and Design to ship growth-oriented product features — including onboarding flows, in-product nudges, self-serve capabilities, and viral loops — at the pace Harvey operates.",
+      "Collaborate with Marketing (Demand Gen, Lifecycle, Performance Marketing) to connect top-of-funnel acquisition efforts to in-product activation and conversion.",
+      "Work with Sales and Customer Success to understand enterprise adoption patterns, identify product-driven expansion opportunities, and reduce friction in the customer journey.",
+      "Define, instrument, and monitor growth KPIs; build dashboards and reporting to give the business clear visibility into growth performance.",
+      "Inform pricing, packaging, and self-serve strategy in partnership with GTM leadership.",
+      "Champion a culture of experimentation and data-informed decision-making across teams."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      236500,
+      320500
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "product-led growth",
+    "PLG",
+    "growth strategy",
+    "B2B SaaS",
+    "experimentation",
+    "A/B testing",
+    "activation",
+    "expansion revenue",
+    "SQL",
+    "Amplitude",
+    "Mixpanel",
+    "self-serve",
+    "onboarding",
+    "legal AI",
+    "enterprise growth"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed and competitive ($236,500–$320,500 base)",
+    "Foundational / first-of-kind role with clear ownership — 'first dedicated growth product hire at Harvey'",
+    "Reporting directly to VP of Product — strong organizational visibility",
+    "Clear articulation of growth metrics and responsibilities",
+    "Company has demonstrated product-market fit: 1000+ customers in 60+ countries"
+  ],
+  "red_flags": [
+    "Location and remote/hybrid policy not stated anywhere in the JD — unclear where the role is based",
+    "Visa sponsorship and work authorization not mentioned",
+    "Equity not mentioned despite being a founding/senior role at a high-growth AI startup",
+    "Location pay differential implied ('Depending on your location') but no further detail"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range + 8+ years requirement + founding role framing)",
+      "scope.business_model (inferred from product description and customer list)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not listed as a single KPI block)",
+      "location.type (not stated; set to unclear)",
+      "compensation.location_pay_differential (inferred from 'Depending on your location' language before privacy notice)"
+    ],
+    "ambiguities": [
+      "Location type is not stated in the JD body — could be remote, hybrid, or onsite. Left as 'unclear'.",
+      "Visa sponsorship and work authorization are not addressed anywhere in the JD.",
+      "Equity is not mentioned; unusual for a founding-level hire at a well-funded AI startup — may be intentionally omitted or part of total comp not disclosed."
+    ]
+  }
+}

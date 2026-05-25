@@ -1,0 +1,316 @@
+{
+  "company": "Instacart",
+  "role_title": "Senior Strategic Financial Analyst – Growth",
+  "url": "https://instacart.careers/job/?gh_jid=7896278",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7896278",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "remote-global",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "FP&A / Strategic Finance",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 3,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "3+ years of experience in strategic finance/FP&A, investment banking, or management consulting",
+      "Senior in title",
+      "Regularly develop materials for and engage with senior leadership",
+      "Own topline forecasting independently"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_strategic_finance_banking_consulting",
+      "raw_text_from_jd": "3+ years of experience in strategic finance/FP&A, investment banking, or management consulting.",
+      "skill_type": "years_of_experience",
+      "domain": "strategic_finance_or_investment_banking_or_consulting",
+      "minimum_value": 3,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "bachelors_quantitative",
+      "raw_text_from_jd": "Bachelor's degree in Finance, Economics, Business, Engineering, Mathematics, or a related quantitative field.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree"
+      ]
+    },
+    {
+      "id": "advanced_excel_google_sheets",
+      "raw_text_from_jd": "Advanced proficiency in Excel or Google Sheets, including building driver-based financial models, revenue forecasts, and scenario/sensitivity analyses.",
+      "skill_type": "tool_proficiency",
+      "domain": "financial_modeling",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Excel",
+        "Google Sheets"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "executive_materials_presentation",
+      "raw_text_from_jd": "Experience preparing and presenting executive-ready materials to VP/C-suite stakeholders, with the ability to distill complex data into clear business narratives.",
+      "skill_type": "capability",
+      "domain": "executive_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "end_to_end_forecasting_ownership",
+      "raw_text_from_jd": "Track record of owning end-to-end forecasting and performance reporting for a product line, business segment, or revenue stream.",
+      "skill_type": "outcome",
+      "domain": "forecasting_and_performance_reporting",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "two_sided_marketplace_experience",
+      "raw_text_from_jd": "Experience in a two-sided marketplace or consumer internet business (e.g., on-demand, e-commerce, advertising, or subscription models).",
+      "skill_type": "domain_knowledge",
+      "domain": "marketplace_or_consumer_internet",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "on-demand",
+        "e-commerce",
+        "advertising",
+        "subscription models"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sql_proficiency",
+      "raw_text_from_jd": "Proficiency with SQL for self-serve analysis; familiarity with BI tools such as Looker or Tableau.",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analysis",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Looker",
+        "Tableau"
+      ],
+      "technologies_named": [
+        "SQL"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_metrics_partnership",
+      "raw_text_from_jd": "Experience partnering cross-functionally to define metrics, align on assumptions, evaluate experiments, and operationalize insights.",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "board_ir_materials",
+      "raw_text_from_jd": "Background creating materials for Board meetings, investor relations, and quarterly/monthly business reviews in a high-growth environment.",
+      "skill_type": "capability",
+      "domain": "investor_relations_and_board_reporting",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "advanced_credential_mba_cfa",
+      "raw_text_from_jd": "MBA, CFA, or other relevant advanced credential.",
+      "skill_type": "credential",
+      "domain": "education",
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "MBA",
+        "CFA"
+      ]
+    },
+    {
+      "id": "west_coast_hours_alignment",
+      "raw_text_from_jd": "Ability to collaborate effectively across time zones; availability to align to West Coast hours when needed is a plus.",
+      "skill_type": "cultural_fit",
+      "domain": "remote_work_flexibility",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [
+        "West Coast"
+      ],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "Small team within a 25-person Strategic Finance org",
+    "surface": "Topline forecasting for Instacart's Core grocery business; revenue and unit economics; growth initiatives reporting",
+    "business_model": "two-sided grocery marketplace (B2C and B2B)",
+    "primary_metrics_inferred": [
+      "LTV",
+      "CAC",
+      "Conversion",
+      "AOV (Average Order Value)",
+      "Contribution margin",
+      "Forecast accuracy",
+      "Incremental impact of marketing, product, and enterprise programs"
+    ],
+    "cross_functional_partners": [
+      "Product",
+      "Marketing",
+      "Business Development",
+      "Data Science",
+      "Investor Relations",
+      "Board"
+    ],
+    "core_responsibilities": [
+      "Own topline forecasting for Instacart's Core grocery business, building and maintaining driver-based models that clearly tie to business performance and operational levers.",
+      "Lead proactive deep dives on revenue and unit economics (e.g., LTV, CAC, conversion, AOV, contribution margin) to identify growth opportunities, surface risks, and recommend experiments that improve forecast accuracy and business outcomes.",
+      "Partner cross-functionally with Product, Marketing, Business Development, and Data Science to align assumptions, improve data quality, instrument new metrics, and operationalize insights into roadmaps.",
+      "Develop executive-ready materials for leadership, including narrative memos, dashboards, and scenario/sensitivity analyses that inform strategic priorities, resource allocation, and trade-off decisions.",
+      "Own initiative reporting across marketing, product, and enterprise programs; standardize measurement, track incremental impact, and ensure clear readouts for weekly growth reviews, monthly business reviews, and ad hoc deep dives.",
+      "Collaborate with other Strategic Finance teams to assess the impact of retailer, supply, and marketing initiatives on Core business performance; support investor relations, Board materials, and company-wide Planning.",
+      "Continuously refine and automate models and reporting to improve speed, accuracy, and decision-making, balancing near-term deliverables with long-term scalability."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "new hire equity grant as well as annual refresh grants",
+    "location_pay_differential": true,
+    "source": "stated",
+    "notes": "CAD range stated: $126,000–$133,000 CAD. No USD range stated. Role open to US and Canada; USD base range not disclosed."
+  },
+  "top_keywords": [
+    "strategic finance",
+    "FP&A",
+    "topline forecasting",
+    "driver-based models",
+    "unit economics",
+    "LTV",
+    "CAC",
+    "AOV",
+    "contribution margin",
+    "growth",
+    "executive materials",
+    "SQL",
+    "Looker",
+    "Tableau",
+    "grocery",
+    "marketplace",
+    "investor relations"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed (CAD) with equity mentioned",
+    "Remote-first (Flex First) policy clearly stated; open to US and Canada",
+    "Small, high-impact team with direct senior leadership exposure",
+    "Clear scope of ownership (topline forecasting for Core grocery)",
+    "West Coast timezone only a preference, not a requirement"
+  ],
+  "red_flags": [
+    "USD compensation range not stated — only CAD range provided, making comparison difficult for US-based candidates",
+    "Canadian hiring limited to Ontario, Alberta, British Columbia, and Nova Scotia — other Canadian provinces excluded",
+    "Visa sponsorship status not mentioned",
+    "Role is not purely a PM role — archetype is closer to Strategic Finance/FP&A than a traditional PM; may attract or repel depending on background"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level inferred from title ('Senior'), years required, and scope of responsibilities",
+      "scope.business_model inferred from product description (two-sided grocery marketplace)",
+      "scope.primary_metrics_inferred inferred from responsibilities text, not a direct list in JD",
+      "compensation.base_range_usd is null — only CAD range was stated; no USD equivalent provided",
+      "location.remote_us_eligible inferred from 'This is a remote role open to candidates across the U.S. and Canada'",
+      "location.visa_sponsorship marked unclear as not mentioned in JD"
+    ],
+    "ambiguities": [
+      "JD states the role is open to both U.S. and Canada, but the only compensation range given is in CAD ($126,000–$133,000 CAD); no USD range is disclosed, creating ambiguity about US compensation.",
+      "Canadian hiring is restricted to four provinces (Ontario, Alberta, British Columbia, Nova Scotia) — unclear if US candidates face similar state restrictions.",
+      "West Coast timezone described both as a preference ('helpful but not required') in the overview and as 'a plus' in preferred qualifications — consistent but duplicated; treated as soft/nice-to-have."
+    ]
+  }
+}

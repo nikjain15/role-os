@@ -1,0 +1,435 @@
+{
+  "company": "Lyft",
+  "role_title": "Business Operations Manager",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8535144002?gh_jid=8535144002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8535144002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "Nashville, TN"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "3 days per week (Mondays, Wednesdays, and Thursdays) once a Lyft Flexdrive hub or office is established in Nashville",
+    "work_auth": "no-sponsorship",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Financial Planning & Analysis",
+  "seniority": {
+    "level": "Mid-Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of experience in business operations, financial planning & analysis, or a related analytical role",
+      "Base pay range $88,560 - $110,700 consistent with mid-senior IC",
+      "Owns financial modeling, process design, and cross-functional partnerships independently"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "Bachelor's degree in Finance, Business, Economics, Accounting, or a related field",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree in Finance",
+        "Bachelor's degree in Business",
+        "Bachelor's degree in Economics",
+        "Bachelor's degree in Accounting"
+      ]
+    },
+    {
+      "id": "years_biz_ops_fpa",
+      "raw_text_from_jd": "5+ years of experience in business operations, financial planning & analysis, or a related analytical role—ideally in the automotive industry with exposure to autonomous vehicles",
+      "skill_type": "years_of_experience",
+      "domain": "business_operations_or_fpa",
+      "minimum_value": 5,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "automotive",
+        "autonomous vehicles"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "advanced_excel_gsheets",
+      "raw_text_from_jd": "Advanced proficiency in Excel/Google Sheets including complex financial modeling, scenario analysis, and data manipulation",
+      "skill_type": "tool_proficiency",
+      "domain": "financial_modeling",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Excel",
+        "Google Sheets"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "accounting_principles",
+      "raw_text_from_jd": "Strong foundation in accounting principles, financial reporting, and variance analysis",
+      "skill_type": "domain_knowledge",
+      "domain": "accounting_and_financial_reporting",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "month_end_close",
+      "raw_text_from_jd": "Experience with month-end close processes, accruals, and reconciliation workflows",
+      "skill_type": "capability",
+      "domain": "financial_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "financial_model_building",
+      "raw_text_from_jd": "Demonstrated ability to build and maintain financial models from scratch in a fast-paced, evolving environment",
+      "skill_type": "capability",
+      "domain": "financial_modeling",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "executive_communication",
+      "raw_text_from_jd": "Excellent communication skills with the ability to present complex analyses to senior leadership",
+      "skill_type": "capability",
+      "domain": "executive_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_tolerance",
+      "raw_text_from_jd": "Comfort operating in ambiguity and building processes where none exist",
+      "skill_type": "cultural_fit",
+      "domain": "operational_agility",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "written_verbal_communication",
+      "raw_text_from_jd": "Excellent written and verbal communication skills, with the ability to distill complex analyses into clear, executive-ready insights",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "attention_to_detail",
+      "raw_text_from_jd": "Exceptional attention to detail and a track record of producing accurate, reliable analytical work",
+      "skill_type": "cultural_fit",
+      "domain": "analytical_rigor",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "multi_priority_management",
+      "raw_text_from_jd": "Ability to manage multiple high priority demands simultaneously; ability to achieve success in situations with high degrees of variation and complexity",
+      "skill_type": "capability",
+      "domain": "prioritization",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "fleet_rideshare_av_experience",
+      "raw_text_from_jd": "Experience in fleet management, rideshare, rental, or autonomous vehicles",
+      "skill_type": "domain_knowledge",
+      "domain": "fleet_management_or_mobility",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "fleet management",
+        "rideshare",
+        "rental",
+        "autonomous vehicles"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "remarketing_wholesale",
+      "raw_text_from_jd": "Familiarity with vehicle remarketing, wholesale markets, or fleet lifecycle economics",
+      "skill_type": "domain_knowledge",
+      "domain": "vehicle_remarketing",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "automotive"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "bi_tools_sql",
+      "raw_text_from_jd": "Experience with BI tools (Tableau, Looker, Mode) or SQL for ad-hoc data analysis",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analysis",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Tableau",
+        "Looker",
+        "Mode"
+      ],
+      "technologies_named": [
+        "SQL"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "salesforce_reporting",
+      "raw_text_from_jd": "Proficient in Salesforce generating and customizing reports and dashboards",
+      "skill_type": "tool_proficiency",
+      "domain": "crm_reporting",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Salesforce"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "high_growth_startup",
+      "raw_text_from_jd": "Background working in a high-growth or startup environment where you built systems from zero",
+      "skill_type": "cultural_fit",
+      "domain": "startup_environment",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "high-growth or startup environment"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_initiatives",
+      "raw_text_from_jd": "Background working on cross-functional initiatives that required aligning operational, financial, and strategic objectives",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "mba_or_cpa",
+      "raw_text_from_jd": "MBA or CPA",
+      "skill_type": "credential",
+      "domain": "advanced_education_or_certification",
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "n/a",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "MBA",
+        "CPA"
+      ]
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Flexdrive fleet management operations (rental, vehicle remarketing, AV fleet buildout) across US and Europe; ~15,000 vehicles under management",
+    "business_model": "B2B fleet management and rental operations, subsidiary of Lyft, expanding into AV fleet management",
+    "primary_metrics_inferred": [
+      "Forecast accuracy vs. actual spend",
+      "Cost-per-mile for AV operations",
+      "P&L impact of fleet management decisions",
+      "Margin improvement and cost reduction"
+    ],
+    "cross_functional_partners": [
+      "FP&A",
+      "Treasury",
+      "Accounting",
+      "Strategy",
+      "Infrastructure",
+      "Fleet Ops",
+      "external partners / vendors"
+    ],
+    "core_responsibilities": [
+      "Build and maintain complex financial models that forecast P&L impacts with accuracy",
+      "Analyze performance trends across business lines for cost optimization and revenue enhancement",
+      "Monitor industry conditions and market dynamics to surface risks and opportunities",
+      "Own and optimize core business processes across fleet operations, vendor management, and financial operations",
+      "Review actual spend against forecast and drive root-cause analysis",
+      "Identify anomalies in complex invoice workflows and resolve discrepancies cross-functionally",
+      "Build and maintain dashboards, reports, and tracking mechanisms",
+      "Support month-end close deliverables including fleet/operational reporting, accruals, reconciliations, and variance analysis",
+      "Develop cost-per-mile models, depot cost analyses, and unit economics frameworks for AV operations",
+      "Serve as connective tissue between Business Operations, Finance, Fleet Operations, and external partners"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      88560,
+      110700
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "potential equity offering mentioned but not detailed",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "fleet management",
+    "financial modeling",
+    "business operations",
+    "FP&A",
+    "autonomous vehicles",
+    "variance analysis",
+    "month-end close",
+    "cost optimization",
+    "invoice workflows",
+    "unit economics",
+    "Flexdrive",
+    "P&L",
+    "SQL",
+    "Tableau",
+    "cost-per-mile"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range explicitly stated ($88,560 - $110,700 base)",
+    "Clear scope of ownership across financial modeling, fleet operations, and AV buildout",
+    "Explicit hybrid schedule with defined office days (Mon/Wed/Thu) — not vague",
+    "Growing AV fleet management vertical provides career exposure to emerging technology",
+    "Lyft/Flexdrive family of companies offers larger organizational resources",
+    "Generous parental leave (18 weeks) and comprehensive benefits listed"
+  ],
+  "red_flags": [
+    "Hybrid role requires in-office 3 days/week in Nashville — only viable for Nashville-area residents or those willing to relocate",
+    "Note that the Nashville office/hub has not yet been established — hybrid schedule timing is contingent on that establishment",
+    "Candidates must reside in states registered for Flexdrive Services LLC — adds geographic constraint beyond just Nashville",
+    "Role spans a very broad scope (financial modeling, BizOps, accounting close, AV fleet) which may indicate resource constraints or under-staffing",
+    "Visa sponsorship status not explicitly stated"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years required and compensation range)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly listed in JD)",
+      "scope.business_model (inferred from JD description of Flexdrive)",
+      "location.work_auth set to no-sponsorship inferred from 'candidates must reside in states registered for Flexdrive Services LLC' and no mention of sponsorship",
+      "location.visa_sponsorship set to unclear — no explicit statement found"
+    ],
+    "ambiguities": [
+      "The hybrid schedule is contingent on 'establishment of a Lyft Flexdrive hub or office in Nashville' — unclear timeline for when in-office requirement activates",
+      "Work authorization: JD states candidates must reside in states registered for Flexdrive Services LLC, which implies geographic restriction but does not explicitly address visa sponsorship or work authorization requirements",
+      "The role is posted under Lyft's ATS but is legally a Flexdrive Services LLC position — compensation and benefits may differ from standard Lyft roles",
+      "JD says 'ideally in the automotive industry with exposure to autonomous vehicles' as part of a must-have experience bullet — treated as a qualifier/preference within a hard requirement rather than a standalone nice-to-have"
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "company": "Lyft",
+  "role_title": "Group Product Manager II, Pricing",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8490440002?gh_jid=8490440002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8490440002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "3 days per week on Mondays, Wednesdays, and Thursdays",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Technical PM (marketplace/algorithmic pricing, people manager GPM)",
+  "seniority": {
+    "level": "Staff / Principal IC or Senior Manager (GPM II, managing a team of PMs)",
+    "years_required_min": 8,
+    "years_required_max": null,
+    "manages_people": true,
+    "level_signals": [
+      "8+ years of product management or relevant experience",
+      "2+ years of experience managing product managers",
+      "Manages a team of PMs across four sub-teams",
+      "Comp range $208K-$260K base consistent with senior people manager PM at Lyft",
+      "Interfaces directly with Lyft executive team"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "8+ years of product management or relevant experience, with significant time spent on algorithmic, data-driven, or marketplace products",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 8,
+      "unit": "years",
+      "qualifier": "with significant time on algorithmic, data-driven, or marketplace products",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "years_managing_pms",
+      "raw_text_from_jd": "2+ years of experience managing product managers",
+      "skill_type": "years_of_experience",
+      "domain": "people_management",
+      "minimum_value": 2,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_microeconomics",
+      "raw_text_from_jd": "A deep technical understanding of microeconomics, and ideally a background in Operations Research, Machine Learning, or algorithmic systems",
+      "skill_type": "domain_knowledge",
+      "domain": "microeconomics_and_algorithmic_systems",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "Operations Research",
+        "Machine Learning",
+        "algorithmic systems"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "growing_high_performing_pm_team",
+      "raw_text_from_jd": "Demonstrated experience managing and growing a high performing team of product managers while providing development, mentorship, and excitement to exceed team and department goals",
+      "skill_type": "capability",
+      "domain": "team_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "deep_product_domain_data_experimentation",
+      "raw_text_from_jd": "Experience working in deep product domains — using data and experimentation to guide a large cross-functional team towards a long-term vision",
+      "skill_type": "capability",
+      "domain": "data_driven_product_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "stakeholder_communication",
+      "raw_text_from_jd": "Strong communication, presentation, and stakeholder management skills across a diverse group of stakeholders, from partner teams to executive levels",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_abstraction",
+      "raw_text_from_jd": "Ability to dive deep into complex technical concepts, but also abstract them to executives, stakeholders, operations, and legal",
+      "skill_type": "capability",
+      "domain": "technical_communication",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_pov_amid_stakeholders",
+      "raw_text_from_jd": "Maintain a strong POV on what to build for users, amidst many different stakeholders with different goals and world-class scientists + engineers on the team with their own opinions",
+      "skill_type": "capability",
+      "domain": "product_leadership",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ab_testing_statistical_techniques",
+      "raw_text_from_jd": "Experience running A/B tests and using common statistical techniques to evaluate results, including developing post-launch testing strategies",
+      "skill_type": "capability",
+      "domain": "experimentation_and_statistics",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "A/B testing"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "passion_lyft_transportation",
+      "raw_text_from_jd": "Passion for Lyft and what we are trying to achieve in sustainable urban transportation",
+      "skill_type": "cultural_fit",
+      "domain": "mission_alignment",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "rideshare",
+        "urban transportation"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "background_operations_research_ml",
+      "raw_text_from_jd": "ideally a background in Operations Research, Machine Learning, or algorithmic systems",
+      "skill_type": "domain_knowledge",
+      "domain": "operations_research_machine_learning",
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "Operations Research",
+        "Machine Learning",
+        "algorithmic systems"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "team of PMs across four sub-teams (Planned Pricing, Dynamic Pricing & Offer Selection, Rider Engagement, Price Orchestration)",
+    "surface": "End-to-end pricing lifecycle: base fare strategy, real-time dynamic pricing, rider engagement/incentives, and pricing platform infrastructure",
+    "business_model": "marketplace / two-sided platform (rider demand, driver supply), B2C rideshare",
+    "primary_metrics_inferred": [
+      "Gross Bookings",
+      "Active Riders",
+      "Adjusted EBITDA Margin",
+      "Rider affordability",
+      "Driver earnings",
+      "ROI of rider incentive spend"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Data Science",
+      "Analytics",
+      "Design",
+      "Finance",
+      "Marketing",
+      "Legal",
+      "Policy",
+      "Senior Leadership / Executives"
+    ],
+    "core_responsibilities": [
+      "Manage and grow a team of product managers, providing development, mentorship, and coaching",
+      "Drive strategic product and technology vision for Pricing, owning the system that directly impacts Gross Bookings, Active Riders, and Adjusted EBITDA Margin",
+      "Set and align on business goals for pricing optimization with executives and business teams",
+      "Incorporate end-to-end impact of pricing decisions on riders, drivers, and network growth",
+      "Define short-term and long-term strategy, set team success metrics and roadmap",
+      "Develop and execute product roadmap via collaboration with senior leadership and cross-functional partners",
+      "Review how PMs translate customer needs into functional and technical requirements",
+      "Guide data science, analysts, and engineers to refine scope, prioritize projects, and define opportunities",
+      "Serve as an inspiring communicator in team all-hands and executive reviews"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      208000,
+      260000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "potential equity offering mentioned (not quantified)",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "pricing",
+    "marketplace",
+    "dynamic pricing",
+    "algorithmic systems",
+    "Group Product Manager",
+    "people management",
+    "microeconomics",
+    "machine learning",
+    "A/B testing",
+    "Prime Time",
+    "portfolio optimization",
+    "autonomous vehicles",
+    "personalized offers",
+    "Gross Bookings",
+    "EBITDA"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed and competitive ($208K-$260K base, SF area)",
+    "Clear team structure with four named sub-teams and ownership areas",
+    "Explicit metrics ownership (Gross Bookings, Active Riders, Adjusted EBITDA Margin)",
+    "High strategic visibility — direct interaction with Lyft's executive team",
+    "Detailed responsibilities that signal a well-scoped role, not exploratory headcount",
+    "Hybrid flexibility with up to 4 weeks work-from-anywhere per year"
+  ],
+  "red_flags": [
+    "No visa sponsorship information stated — unclear for international candidates",
+    "Requires in-office 3 days/week (Mon/Wed/Thu) in San Francisco — limited flexibility for non-Bay Area candidates",
+    "The 'ideally' qualifier on Operations Research/ML background is noted as a nice-to-have but is listed within the required Experience section — could be treated as harder than soft by some hiring managers",
+    "No explicit mention of compensation for locations outside San Francisco despite hybrid/flexible framing"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range, 8+ years requirement, and GPM II title with multi-team people management scope)",
+      "scope.primary_metrics_inferred (inferred from JD body; Gross Bookings, Active Riders, Adjusted EBITDA Margin are stated but 'primary_metrics_inferred' field label applies)",
+      "scope.business_model (inferred from product description)",
+      "location.work_auth (open — inferred; not explicitly stated)",
+      "location.visa_sponsorship (unclear — not mentioned in JD)",
+      "compensation.location_pay_differential (inferred from 'Salary ranges are dependent on... geographic location' language)"
+    ],
+    "ambiguities": [
+      "The 'ideally a background in Operations Research, Machine Learning, or algorithmic systems' clause appears within the required Experience section bullet alongside 'deep technical understanding of microeconomics' (which is stated unconditionally). The 'ideally' qualifier suggests it is a nice-to-have, but its placement within a must-have bullet creates ambiguity. It has been split: the microeconomics understanding is treated as hard, and the OR/ML/algorithmic background is extracted separately as soft.",
+      "Visa sponsorship is not mentioned anywhere in the JD; classified as 'unclear'."
+    ]
+  }
+}

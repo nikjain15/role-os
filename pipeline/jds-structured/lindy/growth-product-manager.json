@@ -1,0 +1,300 @@
+{
+  "company": "Lindy",
+  "role_title": "Growth Product Manager",
+  "url": "https://jobs.ashbyhq.com/lindy/ff98a7a7-26e8-48dc-8ecd-c9a69c1f390a",
+  "ats_provider": "ashby",
+  "ats_job_id": "ff98a7a7-26e8-48dc-8ecd-c9a69c1f390a",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "4+ days a week",
+    "work_auth": "open",
+    "visa_sponsorship": "yes"
+  },
+  "archetype": "Growth PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Generalist PM",
+  "seniority": {
+    "level": "Mid to Senior IC",
+    "years_required_min": null,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "Base salary range $200K-$260K signals senior-level IC",
+      "Owns entire product-led growth funnel independently",
+      "'High autonomy and direct collaboration with leadership' implies senior contributor",
+      "No explicit years of experience stated"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "growth_experience",
+      "raw_text_from_jd": "Experience in growth, product management, product marketing, or analytics.",
+      "skill_type": "years_of_experience",
+      "domain": "growth_product_management",
+      "minimum_value": null,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_skills_sql_tools",
+      "raw_text_from_jd": "Strong analytical skills with experience using SQL, analytics tools (Amplitude, Mixpanel, etc.), and running rigorous experiments. You should be part data analyst, part marketer, and part PM",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analytics",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Amplitude",
+        "Mixpanel"
+      ],
+      "technologies_named": [
+        "SQL"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "experimentation_ab_testing",
+      "raw_text_from_jd": "Design, prioritize, and execute A/B tests and growth experiments. Analyze results to extract insights and scale winning initiatives.",
+      "skill_type": "capability",
+      "domain": "growth_experimentation",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "funnel_ownership",
+      "raw_text_from_jd": "Identify opportunities to drive growth across acquisition, onboarding, activation, retention, monetization, and referrals.",
+      "skill_type": "outcome",
+      "domain": "product_led_growth",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_dashboards",
+      "raw_text_from_jd": "Dive deep into analytics to understand user behavior, segment audiences, and uncover growth levers. Build dashboards and frameworks to track performance and guide decision-making.",
+      "skill_type": "capability",
+      "domain": "analytics_and_reporting",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_and_speed",
+      "raw_text_from_jd": "Comfortable with ambiguity and moving fast. You find creative solutions with limited resources and aren't afraid to get your hands dirty.",
+      "skill_type": "cultural_fit",
+      "domain": "startup_environment",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "organization_and_prioritization",
+      "raw_text_from_jd": "Highly organized and methodical. You effectively maintain and prioritize experiment backlogs and tracking systems that keep fast-moving initiatives on schedule while ensuring transparency with dependent stakeholders.",
+      "skill_type": "capability",
+      "domain": "project_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "stakeholder_communication",
+      "raw_text_from_jd": "Strong communication and stakeholder management skills",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "high_growth_startup",
+      "raw_text_from_jd": "Proven track record in high-growth startup environments",
+      "skill_type": "domain_knowledge",
+      "domain": "startup_growth",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "high-growth startup"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_ml_or_usage_based_pricing",
+      "raw_text_from_jd": "Experience at AI/ML companies or with usage-based pricing models",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_ml_products",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "AI/ML"
+      ],
+      "industries_named": [
+        "AI",
+        "ML"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "AI/ML companies"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "no_code_workflow_automation",
+      "raw_text_from_jd": "Experience with no-code or workflow automation tools (Zapier, Make.com, etc)",
+      "skill_type": "tool_proficiency",
+      "domain": "workflow_automation",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Zapier",
+        "Make.com"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Product-led growth funnel: acquisition, onboarding, activation, retention, monetization, referrals for Lindy AI assistant",
+    "business_model": "B2C AI assistant product, likely freemium or usage-based pricing",
+    "primary_metrics_inferred": [
+      "User acquisition rate",
+      "Activation rate",
+      "Retention / churn",
+      "Monetization / revenue",
+      "Referral / viral loop metrics"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "GTM"
+    ],
+    "core_responsibilities": [
+      "Own and optimize product-led growth funnel from acquisition through activation and retention",
+      "Identify opportunities across acquisition, onboarding, activation, retention, monetization, and referrals",
+      "Build dashboards and frameworks to track performance and guide decision-making",
+      "Design, prioritize, and execute A/B tests and growth experiments",
+      "Partner with Engineering, Design, and GTM to build and launch growth features"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      200000,
+      260000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity (form not specified)",
+    "location_pay_differential": false,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "growth PM",
+    "product-led growth",
+    "A/B testing",
+    "activation",
+    "retention",
+    "SQL",
+    "Amplitude",
+    "Mixpanel",
+    "experimentation",
+    "AI assistant",
+    "funnel optimization",
+    "onboarding"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range explicitly disclosed and highly competitive ($200K-$260K base + equity)",
+    "Visa sponsorship and up to $20K relocation assistance offered",
+    "High autonomy and direct collaboration with leadership explicitly called out",
+    "Clear ownership of full growth funnel — not a vague remit",
+    "Small, fast-moving team signals real impact and scope"
+  ],
+  "red_flags": [
+    "4+ days/week in-office in San Francisco required — eliminates remote and hybrid candidates",
+    "No minimum years of experience stated, making seniority expectations ambiguous",
+    "Very broad 'Experience in growth, product management, product marketing, or analytics' requirement could mean the bar is unclear at screening"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range $200K-$260K and full funnel ownership scope)",
+      "scope.business_model (inferred from product description and mention of usage-based pricing in nice-to-haves)",
+      "scope.primary_metrics_inferred (not explicitly stated; inferred from responsibilities)",
+      "scope.team_size_estimate (not stated)"
+    ],
+    "ambiguities": [
+      "No minimum years of experience stated anywhere in the JD; seniority is inferred entirely from compensation and responsibilities.",
+      "'Experience in growth, product management, product marketing, or analytics' is listed under 'Who You Are' without a 'Required' label — treated as hard given the unconditional phrasing in context.",
+      "Equity form not specified (options, RSUs, etc.)."
+    ]
+  }
+}

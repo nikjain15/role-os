@@ -1,0 +1,253 @@
+{
+  "company": "Instacart",
+  "role_title": "Senior Product Manager, Enterprise Picking & Tools",
+  "url": "https://instacart.careers/job/?gh_jid=7744298",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7744298",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "remote-global",
+    "cities_listed": [],
+    "remote_us_eligible": false,
+    "office_time_required": "Flex First — no fixed office requirement; regular in-person events",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Generalist PM with enterprise/B2B operations flavor",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 4,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "4+ years of product management experience",
+      "Senior Product Manager title",
+      "Owns vision, strategy, and execution for an enterprise product area",
+      "Expected to align senior stakeholders and represent roadmap externally with retail partners"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "You have 4+ years of product management experience, ideally within enterprise B2B or operationally complex environments",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 4,
+      "unit": "years",
+      "qualifier": "ideally within enterprise B2B or operationally complex environments",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "enterprise B2B"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "end_to_end_product_building",
+      "raw_text_from_jd": "You've built products end-to-end and know how to drive initiatives from early concept through scaled delivery.",
+      "skill_type": "outcome",
+      "domain": "product_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_literacy_analytical_rigor",
+      "raw_text_from_jd": "You're highly data-literate and comfortable navigating ambiguity with analytical rigor, using data to prioritize ruthlessly and make sound tradeoffs.",
+      "skill_type": "capability",
+      "domain": "data_analysis",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_communication",
+      "raw_text_from_jd": "You communicate complex ideas with clarity and influence — aligning cross-functional teams and senior stakeholders around shared goals without direct authority.",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_commercial_accountability",
+      "raw_text_from_jd": "You understand the shopper and retailer experience deeply, and you hold yourself accountable to meaningful customer and commercial outcomes.",
+      "skill_type": "domain_knowledge",
+      "domain": "retail_operations",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "retail"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "entrepreneurial_mindset",
+      "raw_text_from_jd": "You operate with an entrepreneurial mindset, comfortable moving fast in evolving environments while maintaining high standards.",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "b2b_enterprise_experience",
+      "raw_text_from_jd": "Experience in B2B product management, enterprise software, client services, or partner success teams",
+      "skill_type": "domain_knowledge",
+      "domain": "enterprise_software",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "enterprise B2B"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "frontline_operational_products",
+      "raw_text_from_jd": "Experience building products for frontline or operational users (e.g., retail associates, delivery workers, warehouse staff)",
+      "skill_type": "domain_knowledge",
+      "domain": "frontline_worker_tools",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "retail",
+        "logistics"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [
+    "Only hiring in Ontario, Alberta, British Columbia, and Nova Scotia (Canada); US candidates not mentioned as eligible"
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Enterprise Picking & Tools — in-store picking workflows, shopper-facing order management tools, and retailer configuration/monitoring tooling across pick & deliver, pickup, and delivery-only fulfillment models",
+    "business_model": "B2B enterprise SaaS / marketplace platform; retail partner enablement",
+    "primary_metrics_inferred": [
+      "Picking accuracy",
+      "Fulfillment speed",
+      "Shopper satisfaction",
+      "Retailer NPS and retention",
+      "Feature adoption by retail partners"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Data Science",
+      "Enterprise Sales",
+      "Retailer Success",
+      "Operations"
+    ],
+    "core_responsibilities": [
+      "Own enterprise picking experiences — from how shoppers receive and action orders in-store, to the tools retailers use to configure, monitor, and optimize their fulfillment operations",
+      "Build deep understanding of shopper workflows and retailer operational pain points to design tools that improve picking accuracy, speed, and shopper satisfaction",
+      "Work closely with retail partners to ensure our tooling integrates naturally into their in-store environments",
+      "Partner with enterprise sales and retailer success teams to support partner onboarding, drive adoption of new features, and contribute to retailer NPS and retention",
+      "Define platform solutions that scale across retailer sizes, store formats, and fulfillment models — including pick & deliver, pickup, and delivery-only",
+      "Represent the picking and tools roadmap with internal stakeholders and, where relevant, with external retail partners"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "base_range_cad": [
+      165000,
+      174000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "new hire equity grant and annual refresh grants",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "enterprise picking",
+    "in-store fulfillment",
+    "B2B product management",
+    "shopper experience",
+    "retailer enablement",
+    "fulfillment operations",
+    "operational tooling",
+    "pick & deliver",
+    "retailer NPS",
+    "Flex First"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($165K–$174K CAD)",
+    "Equity mentioned (new hire + annual refresh grants)",
+    "Clear product ownership scope — enterprise picking and retailer tools",
+    "Flex First remote policy with no mandatory office percentage",
+    "Cross-functional team (engineers, designers, data scientists) dedicated to this PM"
+  ],
+  "red_flags": [
+    "Canada-only hiring (Ontario, Alberta, British Columbia, Nova Scotia) — eliminates US and international candidates",
+    "Compensation stated in CAD only — no USD equivalent provided",
+    "Visa sponsorship and work authorization not addressed in JD",
+    "4+ years minimum is relatively low for a 'Senior' title, suggesting possible title inflation or broad candidate targeting"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Senior PM' and scope of ownership)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly stated)",
+      "scope.business_model (inferred from product description and retailer partner context)",
+      "scope.team_size_estimate (not stated; left as 'unclear')",
+      "location.remote_us_eligible (inferred as false from explicit Canada-only hiring statement)",
+      "compensation.base_range_cad (custom field — schema base_range_usd not applicable; CAD range stated)"
+    ],
+    "ambiguities": [
+      "Role described as 'remote' under Flex First policy but restricted to specific Canadian provinces — not truly globally remote; treated as remote-global with geographic restriction",
+      "Work authorization and visa sponsorship are not addressed anywhere in the JD",
+      "The 'ideally within enterprise B2B' qualifier on the 4+ years requirement is ambiguous — treated as hard on years, with B2B context as a qualifier rather than a separate soft requirement"
+    ]
+  }
+}

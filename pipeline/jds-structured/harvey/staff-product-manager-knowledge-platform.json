@@ -1,0 +1,313 @@
+{
+  "company": "Harvey",
+  "role_title": "Staff Product Manager, Knowledge Platform",
+  "url": "https://jobs.ashbyhq.com/harvey/7b468987-7236-4239-9e56-6eb7f92b4531",
+  "ats_provider": "ashby",
+  "ats_job_id": "7b468987-7236-4239-9e56-6eb7f92b4531",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [
+      "Bengaluru"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": null,
+    "work_auth": "no-sponsorship",
+    "visa_sponsorship": "no"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Generalist PM",
+  "seniority": {
+    "level": "Staff PM",
+    "years_required_min": 8,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "8+ years of product management experience",
+      "at least 2 years at a Staff or Senior PM level",
+      "role title explicitly 'Staff Product Manager'",
+      "foundational/culture-shaping scope for India region"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "8+ years of product management experience, with at least 2 years at a Staff or Senior PM level at a high-growth technology company.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 8,
+      "unit": "years",
+      "qualifier": "including 2+ years at Staff or Senior PM level at a high-growth technology company",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "high-growth technology company"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "end_to_end_product_ownership",
+      "raw_text_from_jd": "Demonstrated ability to own and drive a product area end-to-end, from strategy through execution and iteration.",
+      "skill_type": "capability",
+      "domain": "product_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_fluency",
+      "raw_text_from_jd": "Strong technical fluency — you can have deep, substantive conversations with engineers about system design, data pipelines, API architecture, and infrastructure trade-offs, including topics like vector search, orchestration systems, and sync reliability.",
+      "skill_type": "capability",
+      "domain": "technical_product_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "vector search",
+        "orchestration systems",
+        "data pipelines",
+        "API architecture"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "enterprise_saas_familiarity",
+      "raw_text_from_jd": "Familiarity with enterprise SaaS go-to-market dynamics: customer commitments, partner integrations, access control and governance requirements, and the operational complexity of shipping to large law firms or regulated industries.",
+      "skill_type": "domain_knowledge",
+      "domain": "enterprise_saas",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "legal",
+        "regulated industries"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_collaboration",
+      "raw_text_from_jd": "Track record of effective cross-functional collaboration across Engineering, Design, GTM, and Customer Success — including navigating dependency-heavy roadmaps and partner relationships.",
+      "skill_type": "capability",
+      "domain": "cross_functional_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "executive_communication",
+      "raw_text_from_jd": "Strong written and verbal communication skills with the ability to present to executives and external stakeholders with clarity and confidence.",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "distributed_team_experience",
+      "raw_text_from_jd": "Experience working in distributed or multi-site teams, with comfort operating across time zones.",
+      "skill_type": "capability",
+      "domain": "distributed_team_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "bengaluru_work_eligibility",
+      "raw_text_from_jd": "Based in Bengaluru and eligible to work in India. Harvey does not currently offer visa sponsorship for this role.",
+      "skill_type": "credential",
+      "domain": "work_authorization",
+      "minimum_value": null,
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [
+        "Bengaluru",
+        "India"
+      ],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "legal_tech_experience",
+      "raw_text_from_jd": "Experience in legal tech, professional services technology, or regulated industries.",
+      "skill_type": "domain_knowledge",
+      "domain": "legal_tech",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "legal tech",
+        "professional services technology",
+        "regulated industries"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "founding_pm_experience",
+      "raw_text_from_jd": "Experience as a founding or early PM in a new-market or new-office setting.",
+      "skill_type": "domain_knowledge",
+      "domain": "startup_product_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "llm_rag_familiarity",
+      "raw_text_from_jd": "Familiarity with LLMs, RAG architectures, or AI-native product design, and an intuition for how data quality and pipeline design affect AI output.",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_ml_product_design",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "LLMs",
+        "RAG architectures"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [
+    "Visa sponsorship is not available for this role"
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Harvey's Knowledge Platform — third-party connectors, data partner integrations, document management systems, legal tech connector ecosystem, private legal data pipelines",
+    "business_model": "enterprise B2B SaaS, AI-native platform for legal and professional services",
+    "primary_metrics_inferred": [
+      "Breadth and depth of connector/integration ecosystem",
+      "Enterprise customer engagement with knowledge platform features",
+      "Partner integration adoption and self-serve pathway usage",
+      "Data pipeline reliability and sync performance"
+    ],
+    "cross_functional_partners": [
+      "Engineering (India)",
+      "Design",
+      "Business Development",
+      "Legal Engineering",
+      "GTM",
+      "Customer Success",
+      "HQ (San Francisco / New York)"
+    ],
+    "core_responsibilities": [
+      "Develop the product roadmap for Harvey's integrations and Knowledge Platform, defining vision, strategy, and priorities across document management systems, the legal tech connector ecosystem, and private legal data.",
+      "Partner closely with Harvey's India Engineering team to scope, design, and ship high-quality integrations and platform experiences at a rapid pace",
+      "Drive the strategy for expanding Harvey's connector ecosystem: integration aggregators and self-serve pathways that allow customers and partners to connect their own tools to Harvey at scale.",
+      "Work closely with business development to engage with partners and manage complex joint developments",
+      "Deeply understand the workflows of lawyers at leading law firms and in-house legal teams, translating that understanding into product decisions, especially around how enterprise knowledge (DMS files, matter data, firm content) flows into and shapes AI-powered workflows.",
+      "Act as a bridge between India and HQ (San Francisco / New York), ensuring tight communication loops and strategic alignment across sites.",
+      "Contribute to shaping Harvey's India product culture — setting the bar for how PMs operate in the region."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Knowledge Platform",
+    "integrations",
+    "connector ecosystem",
+    "legal tech",
+    "enterprise SaaS",
+    "API architecture",
+    "data pipelines",
+    "vector search",
+    "RAG",
+    "LLMs",
+    "Staff PM",
+    "Bengaluru",
+    "distributed team",
+    "agentic AI",
+    "document management systems"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear product surface and ownership area (Knowledge Platform / integrations ecosystem)",
+    "First PM hire in India — foundational and high-visibility role with direct culture-shaping mandate",
+    "Specific technical depth requirements signal a team that values substantive PM-engineer collaboration",
+    "1000+ customers in 60+ countries signals strong product-market fit",
+    "Explicit cross-functional partner list gives clear picture of collaboration scope"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "No visa sponsorship available — hard constraint for candidates needing sponsorship in India",
+    "Role is Bengaluru-only onsite; no remote or hybrid policy stated, which may limit candidate pool",
+    "Cross-timezone dependencies with HQ (SF/NY) likely require early morning or late evening availability"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "scope.business_model (inferred from product description and customer profile)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "seniority.level (inferred from role title and years requirement)",
+      "location.type set to 'onsite' — JD specifies 'Based in Bengaluru' with no hybrid/remote language",
+      "compensation.equity_mentioned set to false — equity not mentioned in JD"
+    ],
+    "ambiguities": [
+      "Office time requirement not explicitly stated; 'Based in Bengaluru' implies onsite but no explicit hybrid/remote policy is given — treated as onsite.",
+      "JD says 'at least 2 years at a Staff or Senior PM level' — 'Senior PM' could be interpreted as a lower bar than Staff; classified as hard per the unconditional requirement bullet."
+    ]
+  }
+}

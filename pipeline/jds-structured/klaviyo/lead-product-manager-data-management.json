@@ -1,0 +1,255 @@
+{
+  "company": "Klaviyo",
+  "role_title": "Lead Product Manager, Data Management",
+  "url": "https://www.klaviyo.com/careers/jobs?gh_jid=7680736003",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7680736003",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": "up to 10% travel for onboarding, team meetings, and industry events",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Platform / Infrastructure PM",
+  "seniority": {
+    "level": "Staff / Principal IC (Lead PM)",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7–10+ years of product management experience",
+      "Lead Product Manager title",
+      "Comp range $168K–$252K base",
+      "Owns vision and roadmap independently; drives cross-functional initiatives"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "7–10+ years of product management experience, with meaningful experience building data platforms, infrastructure products, or data tooling.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 7,
+      "unit": "years",
+      "qualifier": "with meaningful experience building data platforms, infrastructure products, or data tooling",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "data platforms",
+        "infrastructure products",
+        "data tooling"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_depth_system_design",
+      "raw_text_from_jd": "Strong technical depth with the ability to work closely with engineers on system design and architecture decisions.",
+      "skill_type": "capability",
+      "domain": "technical_product_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_governance_frameworks",
+      "raw_text_from_jd": "Experience working with data governance frameworks, metadata systems, semantic layers, or analytics infrastructure.",
+      "skill_type": "domain_knowledge",
+      "domain": "data_governance",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "data governance frameworks",
+        "metadata systems",
+        "semantic layers",
+        "analytics infrastructure"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "large_scale_data_ai_ml",
+      "raw_text_from_jd": "Comfortable operating in highly technical environments involving large-scale data systems or AI/ML platforms.",
+      "skill_type": "domain_knowledge",
+      "domain": "large_scale_data_and_ai_ml",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "large-scale data systems",
+        "AI/ML platforms"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_metrics_kpis",
+      "raw_text_from_jd": "Strong analytical and problem-solving skills with the ability to define clear metrics, KPIs, and system performance indicators.",
+      "skill_type": "capability",
+      "domain": "analytics_and_metrics",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "build_vs_buy_decisions",
+      "raw_text_from_jd": "Experience evaluating build vs. buy decisions for complex infrastructure products.",
+      "skill_type": "capability",
+      "domain": "infrastructure_product_strategy",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_communication",
+      "raw_text_from_jd": "Excellent cross-functional communicator who can align engineering, data, and product stakeholders around a shared strategy.",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "engineering_technical_background",
+      "raw_text_from_jd": "An engineering or technical background is highly valued but not required.",
+      "skill_type": "credential",
+      "domain": "engineering_background",
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Data Management and Governance capabilities across Klaviyo's data platform",
+    "business_model": "B2B SaaS / marketing automation platform (ecommerce focus)",
+    "primary_metrics_inferred": [
+      "Data quality scores",
+      "Governance adoption rates",
+      "Data discoverability metrics",
+      "Platform reliability indicators"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Data Platform teams",
+      "AI/ML teams",
+      "Analytics",
+      "Product leadership"
+    ],
+    "core_responsibilities": [
+      "Define and own the product vision and roadmap for Klaviyo's data management and governance capabilities.",
+      "Partner closely with engineering and data platform teams to design scalable systems for data governance, metadata management, lineage, and data quality.",
+      "Drive the development of semantic data layers and modeling frameworks that simplify how teams interact with complex data systems.",
+      "Evaluate and lead build vs. buy decisions for components of the data management stack.",
+      "Collaborate with AI/ML teams to ensure data systems support emerging AI-powered and agent-based capabilities.",
+      "Define and track success metrics around data quality, governance adoption, discoverability, and platform reliability.",
+      "Lead cross-functional initiatives that improve how data is structured, documented, and accessed across the organization.",
+      "Communicate product strategy, tradeoffs, and technical decisions clearly across engineering, leadership, and cross-functional partners."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      168000,
+      252000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity mentioned as part of total compensation package alongside annual cash bonus and sign-on payments",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "data management",
+    "data governance",
+    "metadata management",
+    "semantic layers",
+    "data platform",
+    "AI/ML",
+    "infrastructure products",
+    "build vs. buy",
+    "data discoverability",
+    "data quality",
+    "platform reliability",
+    "systems thinking"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($168K–$252K base) with equity and bonus mentioned",
+    "Clear product surface and ownership area (Data Management and Governance)",
+    "Encourages close-but-not-exact-match candidates to apply",
+    "Engineering background 'highly valued but not required' — reduces gatekeeping",
+    "Role sits at strategic intersection of data platform, analytics, and AI"
+  ],
+  "red_flags": [
+    "7–10+ years minimum is a high bar; combined with Lead title, narrows the pool significantly",
+    "No city listed — location type and remote eligibility are partially ambiguous; only US geographic pay range is referenced",
+    "Use of Covey AEDT tool for hiring screening (noted specifically for NYC candidates) may introduce bias concerns",
+    "Travel requirement mentioned but framed loosely as 'up to 10%'"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range, title, and years requirement)",
+      "scope.team_size_estimate (not stated; left as 'unclear')",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly stated in JD)",
+      "scope.business_model (inferred from company description)",
+      "location.type (JD body does not explicitly state hybrid; inferred from travel requirement language and US-wide pay range suggesting distributed/remote-eligible workforce)",
+      "location.remote_us_eligible (inferred from US-wide salary range and no specific office city listed)"
+    ],
+    "ambiguities": [
+      "Location type not explicitly stated in JD body. The pay range covers 'various U.S. geographic markets' and no specific city is required, suggesting remote-US eligible, but the term 'hybrid' or 'remote' is never used directly.",
+      "Work authorization and visa sponsorship are not addressed anywhere in this JD.",
+      "Title in URL/metadata is 'Lead Product Manager, Data Management' but JD body header says 'Lead Product Manager, Data Management/Governance' — treated as the same role."
+    ]
+  }
+}

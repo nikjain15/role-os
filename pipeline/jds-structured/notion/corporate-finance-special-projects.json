@@ -1,0 +1,276 @@
+{
+  "company": "Notion",
+  "role_title": "Corporate Finance, Special Projects",
+  "url": "https://jobs.ashbyhq.com/Notion/c8c98065-c5af-4d37-9e8e-a8c23957e7f0",
+  "ats_provider": "ashby",
+  "ats_job_id": "c8c98065-c5af-4d37-9e8e-a8c23957e7f0",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "Mondays, Tuesdays, and Thursdays (Anchor Days); certain positions may require additional in-office workdays",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Corporate Finance / FP&A Special Projects",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 6,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "6+ years experience in investment banking, private equity, and/or corporate finance",
+      "Compensation range $190,000 - $220,000 base in San Francisco, consistent with Senior IC",
+      "Partners directly with CFO and C-level decision-makers on high-profile strategic projects"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_finance_experience",
+      "raw_text_from_jd": "6+ years experience in investment banking, private equity, and/or corporate finance",
+      "skill_type": "years_of_experience",
+      "domain": "corporate_finance",
+      "minimum_value": 6,
+      "unit": "years",
+      "qualifier": "investment banking, private equity, and/or corporate finance",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "investment banking",
+        "private equity",
+        "corporate finance"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "investment banking",
+        "private equity"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "three_statement_model",
+      "raw_text_from_jd": "Experience building 3-statement operating model",
+      "skill_type": "capability",
+      "domain": "financial_modeling",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "financial_modeling_analytical",
+      "raw_text_from_jd": "Excellent financial modeler with analytical mindset",
+      "skill_type": "capability",
+      "domain": "financial_modeling",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "positive_attitude_learner",
+      "raw_text_from_jd": "Positive attitude with high aptitude to learn new things quickly. Team player eager to further develop and grow with us",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "intellectual_curiosity_problem_solving",
+      "raw_text_from_jd": "Demonstrate intellectual curiosity, problem-solving skills, and hunger to continually up-level current approaches and processes",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "work_ethic_reliability",
+      "raw_text_from_jd": "Strong work ethic, reliability, and attention to detail - \"get it done\" attitude",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "free_cash_flow_experience",
+      "raw_text_from_jd": "Prior experience managing Free Cash Flow (both direct and indirect method) a plus",
+      "skill_type": "domain_knowledge",
+      "domain": "cash_flow_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "high_growth_saas_experience",
+      "raw_text_from_jd": "Experience with a high-growth SaaS company",
+      "skill_type": "domain_knowledge",
+      "domain": "saas_finance",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "SaaS"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "high-growth SaaS company"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "finance_tools_experience",
+      "raw_text_from_jd": "Experience with Netsuite, Workday, Zip, and planning tools",
+      "skill_type": "tool_proficiency",
+      "domain": "finance_systems",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Netsuite",
+        "Workday",
+        "Zip"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "lean team (exact size not stated)",
+    "surface": "Corporate Finance — 3-statement forecasting, management reporting, board materials, equity tracking, long-range planning, AI-augmented financial modeling",
+    "business_model": "B2B/B2C SaaS productivity software",
+    "primary_metrics_inferred": [
+      "Forecast accuracy",
+      "Budget vs Actuals variance",
+      "Equity burn rate and shareholder pool",
+      "Free Cash Flow",
+      "Long-range plan fidelity"
+    ],
+    "cross_functional_partners": [
+      "Finance",
+      "Accounting",
+      "Consolidations",
+      "Business teams",
+      "CFO",
+      "C-level decision-makers"
+    ],
+    "core_responsibilities": [
+      "Partner with Finance, Accounting, and cross-functional partners to mint and report 3-statement forecasts",
+      "Drive critical monthly & quarterly management reporting including Budget vs Actuals analyses, dashboards, and Board materials",
+      "Pioneer AI-augmented financial modeling for Corporate Finance",
+      "Develop recurring process to collect capital expenditures, tax, and other key inputs from the team",
+      "Oversee equity burn rate and shareholder pool tracking",
+      "Partner with Consolidations and Business teams to develop long range plan and evolve forecasting process",
+      "Tackle new & evolving priorities for the team, including ad hoc analyses"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      190000,
+      220000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity mentioned alongside cash compensation and benefits; form not specified",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "3-statement model",
+    "corporate finance",
+    "FP&A",
+    "Board materials",
+    "Budget vs Actuals",
+    "AI-augmented financial modeling",
+    "equity burn rate",
+    "long range plan",
+    "forecast accuracy",
+    "SaaS",
+    "CFO",
+    "investment banking",
+    "private equity"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range explicitly disclosed ($190K-$220K base in San Francisco)",
+    "Equity and benefits mentioned alongside base salary",
+    "Direct exposure to CFO and C-level leadership",
+    "Lean team signals high individual impact",
+    "Encourages applications from candidates who don't perfectly match every bullet point",
+    "AI-augmented work scope signals forward-looking team culture"
+  ],
+  "red_flags": [
+    "Hybrid requirement is 3 days per week in-office (Mon/Tue/Thu) with possible additional days — not flexible remote",
+    "San Francisco only; no remote or other office options mentioned for this role",
+    "Visa sponsorship status not stated",
+    "Posting first seen date not available; freshness unclear"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 6+ years requirement and comp range)",
+      "scope.team_size_estimate (described only as 'lean team'; exact count not stated)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly listed in JD)",
+      "scope.business_model (inferred from company description)",
+      "location.visa_sponsorship (not mentioned in JD; marked unclear)",
+      "compensation.equity_form (equity mentioned but form not specified)"
+    ],
+    "ambiguities": [
+      "JD hashtag is #LI-Onsite but body describes a hybrid model (Mon/Tue/Thu in-office Anchor Days). Treated as hybrid here.",
+      "Compensation note says range is 'For roles based in San Francisco' implying possible location differential, but no other city ranges are given — unclear if other locations are eligible."
+    ]
+  }
+}

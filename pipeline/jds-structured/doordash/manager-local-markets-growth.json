@@ -1,0 +1,300 @@
+{
+  "company": "DoorDash",
+  "role_title": "Manager, Local Markets Growth",
+  "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7762905",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7762905",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "Atlanta, GA",
+      "Charlotte, NC",
+      "Nashville, TN",
+      "Austin, TX",
+      "Houston, TX"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "some time in-office and some time remote",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "General Manager / Regional Growth Lead",
+  "seniority": {
+    "level": "Manager / Senior Manager",
+    "years_required_min": 6,
+    "years_required_max": null,
+    "manages_people": true,
+    "level_signals": [
+      "6+ years of experience required",
+      "Must have led and motivated a team before",
+      "Reports to General Manager and manages a Strategy + Operations team"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_experience",
+      "raw_text_from_jd": "You have 6+ years of experience. You've succeeded in high-performance cultures (whether in tech, operations, strategy, consulting, banking, or a related experience).",
+      "skill_type": "years_of_experience",
+      "domain": "strategy_operations_or_related",
+      "minimum_value": 6,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "tech",
+        "operations",
+        "strategy",
+        "consulting",
+        "banking"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "team_leadership",
+      "raw_text_from_jd": "You have led and motivated a team before",
+      "skill_type": "capability",
+      "domain": "people_management",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "complex_problem_synthesis",
+      "raw_text_from_jd": "You have a talent for summarizing complex problems, can translate high-level goals into relevant plans",
+      "skill_type": "capability",
+      "domain": "strategic_planning",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "bias_towards_action",
+      "raw_text_from_jd": "You have a bias towards action and can thrive in a fast-paced, ambiguous environment",
+      "skill_type": "cultural_fit",
+      "domain": "operating_style",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "openness_to_feedback",
+      "raw_text_from_jd": "You're willing to get your hands dirty and you're open to feedback",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ownership_mindset",
+      "raw_text_from_jd": "You crave responsibility and want to shape the direction of the market",
+      "skill_type": "cultural_fit",
+      "domain": "ownership_mindset",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "high_growth_environment",
+      "raw_text_from_jd": "You have experience in a complex or high-growth environment",
+      "skill_type": "domain_knowledge",
+      "domain": "high_growth_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "bachelors_degree",
+      "raw_text_from_jd": "Bachelor's degree required, MBA or Masters Degree a plus",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree"
+      ]
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "early_stage_startup_experience",
+      "raw_text_from_jd": "Early stage startup experience a plus",
+      "skill_type": "domain_knowledge",
+      "domain": "startup_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "early stage startup"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "advanced_degree",
+      "raw_text_from_jd": "Bachelor's degree required, MBA or Masters Degree a plus",
+      "skill_type": "credential",
+      "domain": "education",
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "MBA",
+        "Masters Degree"
+      ]
+    },
+    {
+      "id": "logistics_product_biz_ops_partnerships",
+      "raw_text_from_jd": "Logistics, Product Management, Business Operations and/or Partnerships experience a plus",
+      "skill_type": "domain_knowledge",
+      "domain": "logistics_product_bizops_partnerships",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "logistics"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Southeast & Texas regional growth (Atlanta, Charlotte, Nashville, Austin, Houston) — all three sides of the Marketplace (customer, merchant, Dasher)",
+    "business_model": "marketplace / on-demand delivery platform (B2C + B2B)",
+    "primary_metrics_inferred": [
+      "Regional growth targets",
+      "Regional profitability",
+      "Marketplace health across customer, merchant, and Dasher sides"
+    ],
+    "cross_functional_partners": [
+      "Ops",
+      "Product",
+      "Finance",
+      "Analytics",
+      "Sales",
+      "Marketing",
+      "Dasher & Logistics partners"
+    ],
+    "core_responsibilities": [
+      "Set and drive towards regional targets for growth and profitability",
+      "Recruit, lead, and develop high-performing candidates on the US Local Markets team",
+      "Work cross-functionally with Ops, Product, Finance, Analytics, Sales, Marketing, & Dasher & Logistics partners to support strategic projects and unlock opportunities to grow region",
+      "Figure out how to get from A to B–then actually make it happen",
+      "Run tests and scale insights"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "local markets",
+    "strategy and operations",
+    "regional growth",
+    "marketplace",
+    "Southeast",
+    "Texas",
+    "people management",
+    "high-growth environment",
+    "cross-functional",
+    "experimentation"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear geographic scope with specific cities named for the role",
+    "Reports to General Manager — high visibility role",
+    "Explicitly manages a team — clear people leadership scope",
+    "Broad cross-functional exposure (Ops, Product, Finance, Analytics, Sales, Marketing, Logistics)",
+    "Encourages diverse backgrounds (tech, operations, consulting, banking all acceptable)"
+  ],
+  "red_flags": [
+    "Compensation not disclosed",
+    "Visa sponsorship status not mentioned",
+    "Hybrid policy vaguely described as 'some time in-office and some time remote' — no specific percentage",
+    "Role spans two distinct regions (Southeast and Texas) without clarity on whether candidates apply to one or both"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years required, team management, and reporting structure)",
+      "scope.business_model (inferred from company description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not directly stated)",
+      "location.visa_sponsorship (not mentioned in JD; marked unclear)",
+      "compensation.equity_mentioned (no mention of equity in JD)"
+    ],
+    "ambiguities": [
+      "The JD lists two regions (Southeast: Atlanta/Charlotte/Nashville and Texas: Austin/Houston) under one role posting — unclear if a single hire covers both regions or if these are parallel openings",
+      "Bachelor's degree is listed as 'required' in the same bullet as 'MBA or Masters Degree a plus' — treated as hard requirement for bachelor's and soft for advanced degree"
+    ]
+  }
+}

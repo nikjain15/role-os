@@ -1,0 +1,353 @@
+{
+  "company": "Pylon",
+  "role_title": "Senior Product Manager",
+  "url": "https://jobs.ashbyhq.com/pylon/03572ab3-63c0-4979-b099-044e01ff292a",
+  "ats_provider": "ashby",
+  "ats_job_id": "03572ab3-63c0-4979-b099-044e01ff292a",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [
+      "Palo Alto, CA",
+      "New York City, NY"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "full-time onsite (relocation required)",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Generalist PM with fintech/infrastructure focus",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 4,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "4+ years of experience in the software industry",
+      "'Senior Product Manager' title",
+      "Expected to own full end-to-end product experience across multiple core product areas",
+      "Expected to become one of the most credible subject matter experts on the team"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_software_industry",
+      "raw_text_from_jd": "4+ years of experience in the software industry (ideally as a product manager or engineer)",
+      "skill_type": "years_of_experience",
+      "domain": "software_industry",
+      "minimum_value": 4,
+      "unit": "years",
+      "qualifier": "ideally as a product manager or engineer",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "software"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "zero_to_one_enterprise_regulated",
+      "raw_text_from_jd": "Significant experience building 0-1 enterprise software in regulated industries",
+      "skill_type": "outcome",
+      "domain": "enterprise_software_product_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "mortgage_value_chain_interest",
+      "raw_text_from_jd": "Ability and interest to dig into mortgage and build a deep understanding of the full value chain",
+      "skill_type": "domain_knowledge",
+      "domain": "mortgage_origination",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "mortgage"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "user_research",
+      "raw_text_from_jd": "Experience conducting user research using a variety of methods",
+      "skill_type": "capability",
+      "domain": "user_research",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sql_analysis",
+      "raw_text_from_jd": "Ability to run SQL queries to analyze user data and identify trends and insights",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analysis",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "SQL"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "wireframing_figma",
+      "raw_text_from_jd": "Experience creating wireframes and workflow diagrams using Figma or similar tools",
+      "skill_type": "tool_proficiency",
+      "domain": "product_design",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "Figma"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "design_sense",
+      "raw_text_from_jd": "Strong design sense and ability to work closely with designers to build high-quality products",
+      "skill_type": "capability",
+      "domain": "product_design",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "partner_management",
+      "raw_text_from_jd": "Ability to effectively manage strategic partners",
+      "skill_type": "capability",
+      "domain": "partner_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "relocation_palo_alto_nyc",
+      "raw_text_from_jd": "Must live in or be willing to relocate to Palo Alto (CA) or New York City.",
+      "skill_type": "cultural_fit",
+      "domain": "location",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [
+        "Palo Alto, CA",
+        "New York City, NY"
+      ],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_llm_product_leverage",
+      "raw_text_from_jd": "Leverage AI and LLMs in both your daily workflow (specs, designs, etc.), but also as a meaningful part of your solution space to solve problems",
+      "skill_type": "capability",
+      "domain": "ai_product_development",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI",
+        "LLMs"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "principled_opinions_debate",
+      "raw_text_from_jd": "Have strong, principled opinions that you're willing to defend. We have a culture of vigorous discussion and debate on decisions.",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ruthless_prioritization",
+      "raw_text_from_jd": "Are known to ruthlessly prioritize and maintain organizational focus.",
+      "skill_type": "cultural_fit",
+      "domain": "product_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "regulated_markets_compliance",
+      "raw_text_from_jd": "Comfortable operating in highly regulated markets whilst optimizing for performance.",
+      "skill_type": "domain_knowledge",
+      "domain": "regulatory_compliance",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "mortgage_fintech_experience",
+      "raw_text_from_jd": "Experience working on mortgage products and/or fintech infrastructure strongly preferred",
+      "skill_type": "domain_knowledge",
+      "domain": "mortgage_and_fintech",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "mortgage",
+        "fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Full end-to-end mortgage origination lifecycle platform — APIs, Decisioning, Capital, Compliance, Command Center (dashboard), Elements (UI building blocks for borrower-facing experiences)",
+    "business_model": "B2B API/infrastructure platform for mortgage originators",
+    "primary_metrics_inferred": [
+      "Speed and scale of mortgage originations on the platform",
+      "Customer success / retention",
+      "Revenue growth (compounding monthly)",
+      "Automation of manual backend mortgage processes"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "GTM",
+      "Account Management",
+      "3rd party integration partners",
+      "Regulators"
+    ],
+    "core_responsibilities": [
+      "Own the full end-to-end experience throughout the mortgage origination lifecycle",
+      "Leverage applied AI (document extraction, optimizers, MCP servers) in core product experiences",
+      "Help onboard and manage 3rd party integrations",
+      "Be a thought partner and build a strong feedback loop with engineering",
+      "Spec, build, and launch support for new loan products",
+      "Support GTM and Account Management teams in the deal process and customer success",
+      "Surface backend process issues, lead long-term solution discussions, and manage temporary manual workarounds"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "mortgage origination",
+    "API platform",
+    "LLMs",
+    "applied AI",
+    "fintech infrastructure",
+    "regulated markets",
+    "0-1 product",
+    "enterprise software",
+    "compliance",
+    "capital markets",
+    "SQL",
+    "Figma",
+    "partner management",
+    "vertically integrated platform"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear product surface with named areas (APIs, Decisioning, Capital, Compliance, Command Center, Elements)",
+    "Well-known investor backing (Peter Thiel, QED, Citi, Fifth Wall, founders of Ramp, Blend, Mercury)",
+    "Revenue described as compounding monthly — signals product-market traction",
+    "Explicitly states 'we don't expect you to be an expert in mortgage on day 1' — acknowledges learning curve",
+    "Strong AI-native product mandate (LLMs, MCP servers, document extraction) — forward-looking scope"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "Relocation required to Palo Alto or NYC — hard constraint that eliminates remote candidates entirely",
+    "Extremely high bar: expected to 'become one of the most credible and reliable subject matter experts' in mortgage",
+    "Startup intensity signals ('not for those seeking comfort', 'former founders', 'move quickly') may indicate unsustainable pace",
+    "No mention of visa sponsorship or work authorization — unclear for international candidates",
+    "Equity and total comp entirely absent from JD"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Senior' and scope of responsibilities)",
+      "scope.business_model (inferred from product description as B2B API platform)",
+      "scope.primary_metrics_inferred (inferred from responsibilities and company mission; not stated in JD)",
+      "location.type (inferred as onsite from relocation requirement; not explicitly labeled)",
+      "compensation.equity_mentioned (inferred as false; equity not mentioned anywhere in JD)"
+    ],
+    "ambiguities": [
+      "JD says '4+ years of experience in the software industry (ideally as a product manager or engineer)' — the parenthetical 'ideally' softens the PM/engineer framing, but the 4+ year floor is stated as a hard requirement under 'Requirements'. Treated as hard.",
+      "The phrase 'strongly preferred' for mortgage/fintech experience creates ambiguity — it is stronger than 'nice to have' but falls short of a hard requirement. Classified as nice_to_have with soft severity.",
+      "Work authorization and visa sponsorship are not mentioned anywhere in the JD. Marked as 'unclear'."
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "company": "Lyft",
+  "role_title": "Senior Product Manager - Autonomous Vehicles (AV)",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8514397002?gh_jid=8514397002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8514397002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "3 days per week on Mondays, Wednesdays, and Thursdays",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Generalist PM",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of product management experience",
+      "Title is explicitly 'Senior Product Manager'",
+      "Base pay range $148,000-$185,000 in San Francisco, consistent with Senior IC"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "5+ years of product management experience, with significant time spent on consumer-facing or platform products",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "qualifier": "consumer-facing or platform products",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "zero_to_one_track_record",
+      "raw_text_from_jd": "Track record of building and shipping 0-to-1 products with measurable user and business impact in ambiguous, fast-moving environments",
+      "skill_type": "outcome",
+      "domain": "product_launches",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_influence",
+      "raw_text_from_jd": "Experience navigating complex cross-functional environments where you influence without direct authority",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "business_judgment",
+      "raw_text_from_jd": "Strong business judgment, with the ability to balance end-consumer and partner needs",
+      "skill_type": "capability",
+      "domain": "business_strategy",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_fluency",
+      "raw_text_from_jd": "Data fluency - you define and analyze metrics that inform the success of your products, and you're comfortable running and interpreting quantitative analysis and experiments",
+      "skill_type": "capability",
+      "domain": "data_analysis",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_skills",
+      "raw_text_from_jd": "Strong communication skills across audiences and levels, and experience working with external technical partners and senior leadership",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_obsession",
+      "raw_text_from_jd": "Customer obsessed - strong user empathy and experience in the customer discovery and product development process",
+      "skill_type": "capability",
+      "domain": "user_research",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "physical_world_services_familiarity",
+      "raw_text_from_jd": "Familiarity with the operational complexity of physical-world services — where software launches intersect with on-the-ground readiness",
+      "skill_type": "domain_knowledge",
+      "domain": "physical_world_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "platform_technical_integration_experience",
+      "raw_text_from_jd": "Ideally have experience with platform products, technical integrations, or partnership-heavy environments",
+      "skill_type": "domain_knowledge",
+      "domain": "platform_products_and_integrations",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "av_mobility_marketplace_familiarity",
+      "raw_text_from_jd": "Bonus: familiarity with autonomous vehicles, developer platforms, mobility, or marketplace dynamics",
+      "skill_type": "domain_knowledge",
+      "domain": "autonomous_vehicles_mobility_marketplace",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "autonomous vehicles",
+        "mobility",
+        "marketplace"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Lyft AV Platform — integrating and scaling AV technology partner rides on Lyft's network across cities",
+    "business_model": "B2C rideshare platform with B2B AV technology partnership layer",
+    "primary_metrics_inferred": [
+      "AV ride quality and rider satisfaction",
+      "AV partnership scale (cities, rides, fleet size)",
+      "Platform integration health and uptime",
+      "User and business impact of launched features"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Data Science",
+      "Legal",
+      "Policy",
+      "Business Development",
+      "Executive Leadership",
+      "External AV Technology Partners"
+    ],
+    "core_responsibilities": [
+      "Own the product strategy to launch, scale, and deepen select AV partnerships in new cities, aligning your team's goals, success metrics, and roadmap to align with Lyft's mission and autonomous vehicle strategy",
+      "Serve as the primary product counterpart for AV technology partners, deeply understanding their capabilities and finding solutions that balance the needs of riders, partners, and Lyft",
+      "Drive a customer obsessed and learning culture by continuously shipping and iterating on products via user research, market research, data analysis, & experimentation",
+      "Be a valued collaborator for business development, strategic and other product partners - finding common ground that meets the needs of all parties",
+      "Lead a cross-functional pod of engineers, designers, data scientists, legal, policy, and business stakeholders - setting context, maintaining momentum, and building tools and processes to keep the team aligned",
+      "Collaborate across the company and communicate roadmaps, priorities, and decisions clearly to audiences ranging from partner teams to executive levels",
+      "Leverage AI tools and emerging technology to accelerate your team's workflows and enhance the products you build"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      148000,
+      185000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "potential equity offering mentioned but not detailed",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "autonomous vehicles",
+    "AV platform",
+    "product strategy",
+    "partnerships",
+    "platform products",
+    "technical integrations",
+    "0-to-1",
+    "rideshare",
+    "mobility",
+    "cross-functional",
+    "data fluency",
+    "user research",
+    "experimentation"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($148,000-$185,000 base in SF)",
+    "Equity mentioned as part of total package",
+    "Clearly defined product surface (AV Platform) with strategic importance called out",
+    "Hybrid schedule is specific (Mon/Wed/Thu), reducing ambiguity",
+    "Generous parental leave (18 weeks) and benefits package detailed",
+    "Flexibility to work from anywhere up to 4 weeks per year"
+  ],
+  "red_flags": [
+    "Visa sponsorship status not mentioned — unclear for international candidates",
+    "Hybrid requires 3 days/week in San Francisco office — limits non-SF candidates",
+    "AV domain is fast-changing with partnership complexity; role scope may shift significantly with partner landscape"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Senior' and comp range)",
+      "scope.team_size_estimate (not stated; left as 'unclear')",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not in JD)",
+      "scope.business_model (inferred from product description)",
+      "location.visa_sponsorship (not stated; marked unclear)",
+      "compensation.location_pay_differential (inferred from JD statement 'Salary ranges are dependent on... geographic location')"
+    ],
+    "ambiguities": [
+      "'Familiarity with the operational complexity of physical-world services' appears in the Experience section without a 'preferred' or 'required' qualifier — classified as hard given placement in the main experience list, but could be soft.",
+      "The JD does not specify whether equity is in the form of RSUs or options."
+    ]
+  }
+}

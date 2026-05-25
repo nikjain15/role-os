@@ -1,0 +1,237 @@
+{
+  "company": "Lemonade",
+  "role_title": "Senior Growth Product Manager",
+  "url": "https://jobs.ashbyhq.com/lemonade/281cd6fa-b2c5-4579-946d-6ef20755d438",
+  "ats_provider": "ashby",
+  "ats_job_id": "281cd6fa-b2c5-4579-946d-6ef20755d438",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [],
+    "remote_us_eligible": false,
+    "office_time_required": "most days of the week",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Growth PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": null,
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 6,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "6+ years of experience as a product manager",
+      "Role titled 'Senior Growth Product Manager'",
+      "Expected to set vision and craft roadmap as a 'strategic leader'"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "6+ years of experience as a product manager in a fast-paced, growth-focused environment",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 6,
+      "unit": "years",
+      "qualifier": "growth-focused environment",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "growth_methodology_expertise",
+      "raw_text_from_jd": "Deep expertise in growth methodologies, including A/B testing, conversion optimization, and engagement strategies",
+      "skill_type": "domain_knowledge",
+      "domain": "growth_product_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "A/B testing",
+        "conversion optimization"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_first_mindset",
+      "raw_text_from_jd": "A data-first mindset, with strong analytical skills and experience leveraging insights to inform decisions",
+      "skill_type": "capability",
+      "domain": "data_analytics",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "end_to_end_execution",
+      "raw_text_from_jd": "End-to-end product execution skills, from strategy and ideation to implementation and optimization",
+      "skill_type": "capability",
+      "domain": "product_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_storytelling",
+      "raw_text_from_jd": "Exceptional communication and storytelling skills, with the ability to influence stakeholders at all levels",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "hands_on_proactive_mindset",
+      "raw_text_from_jd": "A hands-on, proactive mindset - you're not afraid to dive in and make things happen",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "office_presence",
+      "raw_text_from_jd": "Ready to work in an office environment most days of the week",
+      "skill_type": "cultural_fit",
+      "domain": "work_location",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_curiosity",
+      "raw_text_from_jd": "A strong curiosity about AI and a commitment to learning and adapting in this evolving space.",
+      "skill_type": "cultural_fit",
+      "domain": "artificial_intelligence",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Growth product — user acquisition, engagement, retention, and cross-sell",
+    "business_model": "B2C insurance, AI-first",
+    "primary_metrics_inferred": [
+      "User acquisition",
+      "Retention rate",
+      "Conversion rate",
+      "Cross-sell revenue",
+      "Engagement KPIs"
+    ],
+    "cross_functional_partners": [
+      "Design",
+      "Engineering",
+      "Data Science",
+      "Marketing"
+    ],
+    "core_responsibilities": [
+      "Own and execute key parts of growth strategy, from research to launch, focusing on user acquisition, retention, and monetization",
+      "Understand customer behavior and pain points, leveraging data, user research, and experimentation to uncover opportunities",
+      "Define and track key performance indicators (KPIs) to measure success and continuously optimize for impact",
+      "Lead continuous A/B testing and experimentation, using insights to drive iterative improvements",
+      "Work cross-functionally with Design, Engineering, Data Science, and Marketing to bring growth ideas to life",
+      "Challenge assumptions and rethink the status quo, pushing for bold, innovative approaches to growth"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "growth product management",
+    "A/B testing",
+    "experimentation",
+    "user acquisition",
+    "retention",
+    "conversion optimization",
+    "data-driven",
+    "AI-first",
+    "insurance",
+    "cross-sell",
+    "KPIs",
+    "monetization"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Role explicitly scoped to a high-impact growth team with clear ownership over acquisition, retention, and monetization",
+    "Framing of 'scaling from millions to billions' signals meaningful business impact potential",
+    "AI-first company culture with genuine integration of AI into workflows"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "Office location not specified — candidates cannot determine city/market without further research",
+    "In-office most days required but no cities listed, making it difficult to assess relocation burden",
+    "Visa sponsorship and work authorization left entirely unclear"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Senior' and 6+ years requirement)",
+      "seniority.manages_people (not stated; inferred false from IC-level language)",
+      "scope.business_model (inferred from Lemonade's known insurance product and JD references to 'future of insurance')",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly listed in JD)",
+      "location.type (inferred as onsite from 'work in an office environment most days of the week')"
+    ],
+    "ambiguities": [
+      "No office city or country is mentioned anywhere in the JD body; cities_listed is empty but the role is clearly in-person",
+      "All requirements are listed under 'What You'll Need' with no explicit 'preferred' or 'nice to have' section — all items treated as hard requirements"
+    ]
+  }
+}

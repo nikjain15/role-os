@@ -1,0 +1,271 @@
+{
+  "company": "Cohere",
+  "role_title": "Product Manager,  Native Experience & Growth",
+  "url": "https://jobs.ashbyhq.com/cohere/d9d2740b-8869-462d-85df-21c1941bc13d",
+  "ats_provider": "ashby",
+  "ats_job_id": "d9d2740b-8869-462d-85df-21c1941bc13d",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "San Francisco, CA",
+      "New York, NY",
+      "Toronto, ON"
+    ],
+    "remote_us_eligible": true,
+    "office_time_required": "unclear",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Growth PM",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Technical PM (mobile/native platform)",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of product management experience",
+      "Owns multiple high-leverage product areas across mobile, platform, and growth",
+      "Expected to engage directly with enterprise customers and drive roadmap independently"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "5+ years of product management experience, with meaningful time in at least one of: mobile/native applications, front-end platform, or growth and lifecycle PM.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "mobile_platform_shipping_track_record",
+      "raw_text_from_jd": "Track record of shipping mobile or platform-layer products with real impact on adoption, retention, or engagement.",
+      "skill_type": "outcome",
+      "domain": "mobile_product_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "mobile_ui_ux_knowledge",
+      "raw_text_from_jd": "Strong working knowledge of mobile UI/UX principles, such as iOS HIG and Material Design, and comfort making tradeoffs between native and cross-platform approaches.",
+      "skill_type": "domain_knowledge",
+      "domain": "mobile_ui_ux",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "iOS HIG",
+        "Material Design"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_metrics_ab_testing",
+      "raw_text_from_jd": "Analytical by default: you define metrics before you build, know how to instrument a product, and can run and interpret A/B tests.",
+      "skill_type": "capability",
+      "domain": "product_analytics",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_collaboration",
+      "raw_text_from_jd": "Strong cross-functional collaborator who works well with distributed engineering and design teams and can translate technical tradeoffs for non-technical stakeholders.",
+      "skill_type": "capability",
+      "domain": "cross_functional_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "execution_orientation",
+      "raw_text_from_jd": "Highly execution-oriented with a bias for getting things shipped and iterating from there.",
+      "skill_type": "cultural_fit",
+      "domain": "execution",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "frontend_platform_experience",
+      "raw_text_from_jd": "Experience owning front-end platform work: design systems, white-labeling, shared component libraries, or configuration infrastructure for enterprise SaaS.",
+      "skill_type": "domain_knowledge",
+      "domain": "frontend_platform_engineering",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "enterprise SaaS"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "enterprise_mobile_compliance",
+      "raw_text_from_jd": "Experience with enterprise mobile compliance requirements: MDM/MAM, enterprise app distribution, data encryption at rest and in transit.",
+      "skill_type": "domain_knowledge",
+      "domain": "enterprise_mobile_compliance",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "MDM/MAM",
+        "data encryption at rest and in transit"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "agentic_ai_llm_exposure",
+      "raw_text_from_jd": "Exposure to agentic AI systems, LLMs, or conversational interfaces, ideally in a mobile or desktop context.",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_ml_systems",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "agentic AI systems",
+        "LLMs",
+        "conversational interfaces"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "North platform — iOS, Android, macOS apps, front-end shared component layer, and user onboarding/retention/growth lifecycle",
+    "business_model": "enterprise B2B SaaS (agentic AI platform)",
+    "primary_metrics_inferred": [
+      "Mobile app adoption and engagement",
+      "Activation rate across new enterprise deployments",
+      "Retention and re-engagement rates",
+      "Funnel conversion metrics",
+      "Feature adoption rates"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Enterprise Customers"
+    ],
+    "core_responsibilities": [
+      "Define and execute the roadmap for North's iOS, Android, and macOS apps, balancing platform-native capabilities with cross-platform consistency.",
+      "Own the shared component and configuration layer that enables enterprise customization",
+      "Design and iterate on FTUX and onboarding flows that minimize time-to-value and drive activation across new enterprise deployments.",
+      "Own analytics instrumentation to track funnel performance, feature adoption, and re-engagement; run structured experiments to improve key metrics.",
+      "Engage directly with enterprise customers to surface use cases across surfaces and validate product decisions with qualitative and quantitative evidence.",
+      "Collaborate with design and engineering to maintain a coherent, accessible component system and ensure pixel-perfect experiences that scale across customer deployments."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity options",
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "native applications",
+    "iOS",
+    "Android",
+    "macOS",
+    "mobile product management",
+    "growth PM",
+    "onboarding",
+    "FTUX",
+    "retention",
+    "enterprise SaaS",
+    "North",
+    "agentic AI",
+    "shared component layer",
+    "white-labeling",
+    "A/B testing"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear product ownership across three distinct but related domains (native apps, platform, growth)",
+    "Remote-eligible with hybrid options in multiple major cities (SF, NYC, Toronto)",
+    "Generous benefits: 6 weeks vacation, 100% parental leave top-up, full health and dental",
+    "Explicit encouragement to apply even if not every qualification is met",
+    "Equity options mentioned as part of compensation",
+    "Clear and specific responsibilities with measurable outcomes implied"
+  ],
+  "red_flags": [
+    "Compensation range not disclosed",
+    "Visa sponsorship status not stated",
+    "Role spans three distinct product domains (mobile, platform, growth) which may indicate an under-resourced PM function or unclear ownership boundaries",
+    "Preference for EST working hours noted but not clearly required — ambiguous expectation for candidates in other time zones",
+    "Office time expectations are vague: 'hybrid' mentioned but no specific in-office frequency stated"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 5+ years requirement and scope of ownership)",
+      "scope.business_model (inferred from product description of North as enterprise agentic AI platform)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly stated in JD)",
+      "compensation.equity_form (inferred from 'equity options' mentioned under Why Join section)",
+      "location.remote_us_eligible (inferred from 'Remote or hybrid' language in location section)"
+    ],
+    "ambiguities": [
+      "Location says 'Remote or hybrid (San Francisco, New York, Toronto)' and separately mentions preference for EST hours — unclear whether remote means fully remote globally or US/Canada remote only",
+      "The perks section mentions offices in Toronto, New York, San Francisco, London, and Paris — but the role location only lists SF, NY, Toronto; London and Paris not listed as role-eligible locations",
+      "The role blends Growth PM and Technical PM responsibilities across three domains; archetype is set to Growth PM but Technical PM is a strong secondary fit"
+    ]
+  }
+}

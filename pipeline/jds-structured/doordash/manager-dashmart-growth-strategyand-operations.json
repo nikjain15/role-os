@@ -1,0 +1,274 @@
+{
+  "company": "DoorDash",
+  "role_title": "Manager, DashMart - Growth Strategy& Operations",
+  "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7624611",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7624611",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": "blend of in-office and remote work (specifics not stated)",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Growth PM",
+  "seniority": {
+    "level": "Manager / Senior IC (people manager)",
+    "years_required_min": 6,
+    "years_required_max": null,
+    "manages_people": true,
+    "level_signals": [
+      "6-8+ years of experience in high-performance cultures",
+      "1+ years of experience managing high-performing teams",
+      "Lead a team of 2 associates",
+      "Comp range $136K-$200K base, consistent with a manager-level role at DoorDash"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_experience_total",
+      "raw_text_from_jd": "You have 6-8+ years of experience. You've succeeded in high-performance cultures (whether in tech, operations, strategy, consulting, banking, or a related experience).",
+      "skill_type": "years_of_experience",
+      "domain": "strategy_operations_or_related",
+      "minimum_value": 6,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "tech",
+        "operations",
+        "strategy",
+        "consulting",
+        "banking"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "people_management",
+      "raw_text_from_jd": "You are a leader. You have 1+ years of experience managing high-performing teams.",
+      "skill_type": "years_of_experience",
+      "domain": "people_management",
+      "minimum_value": 1,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_sql_excel",
+      "raw_text_from_jd": "You're analytical. You let data win arguments, and you're comfortable pulling your own data in SQL or modeling in Excel.",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analysis",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "SQL",
+        "Excel"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "first_principles_problem_solving",
+      "raw_text_from_jd": "You solve problems from first principles. You're excited to solve problems in innovative ways, and you resist \"this is how it's always been done\" thinking.",
+      "skill_type": "capability",
+      "domain": "strategic_thinking",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_tolerance",
+      "raw_text_from_jd": "You're unafraid of ambiguity. Rapid change and learning is exciting to you, and you thrive in ambiguous, startup environments",
+      "skill_type": "cultural_fit",
+      "domain": "startup_environment",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "You have completed your BS/BA Degree.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "BS/BA Degree"
+      ]
+    },
+    {
+      "id": "end_to_end_initiative_ownership",
+      "raw_text_from_jd": "you will lead a team of 2 associates and own high-impact initiatives from end to end—including developing the initial strategy, executing with precision, and analyzing results to inform future decisions.",
+      "skill_type": "outcome",
+      "domain": "strategy_and_operations",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "forecasting_and_performance_reporting",
+      "raw_text_from_jd": "You will own annual volume planning and forecasting processes, and deliver weekly performance reporting with clear insights and actionable recommendations.",
+      "skill_type": "capability",
+      "domain": "planning_and_forecasting",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_collaboration",
+      "raw_text_from_jd": "You'll collaborate closely with cross-functional partners in product, category management, and finance to identify and scale growth levers.",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "2 direct reports (associates)",
+    "surface": "DashMart — convenience store / quick-commerce business; growth strategy, customer conversion, personalized shopper experiences, in-app merchandising, occasions strategies",
+    "business_model": "B2C quick-commerce / convenience delivery",
+    "primary_metrics_inferred": [
+      "Customer conversion rate",
+      "Order volume / GMV",
+      "Annual volume plan attainment",
+      "Weekly performance vs. targets"
+    ],
+    "cross_functional_partners": [
+      "Product",
+      "Category Management",
+      "Finance",
+      "Marketing",
+      "Design",
+      "Operations"
+    ],
+    "core_responsibilities": [
+      "Lead a team of 2 associates and own high-impact initiatives end to end",
+      "Develop initial strategy, execute with precision, and analyze results",
+      "Own annual volume planning and forecasting processes",
+      "Deliver weekly performance reporting with clear insights and actionable recommendations",
+      "Collaborate with product, category management, and finance to identify and scale growth levers",
+      "Drive customer conversion through personalized shopper experiences, in-app merchandising, and occasions strategies",
+      "Transform strategies into operational experiments with measurable outcomes"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      136000,
+      200000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity grants",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "DashMart",
+    "Growth Strategy",
+    "Strategy & Operations",
+    "quick-commerce",
+    "convenience store",
+    "SQL",
+    "Excel",
+    "forecasting",
+    "volume planning",
+    "customer conversion",
+    "in-app merchandising",
+    "personalized shopper experiences",
+    "cross-functional",
+    "people management",
+    "first principles"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($136K-$200K base) at the national level",
+    "Equity grants mentioned as part of compensation",
+    "Clear team size (2 direct reports) and reporting structure (Director of DashMart Growth Strategy & Operations)",
+    "Specific and tangible ownership areas (annual volume planning, weekly reporting, conversion initiatives)",
+    "Strong mission signal — building DoorDash's 'next billion dollar business'",
+    "Comprehensive benefits package including 401(k) with employer match, 16 weeks parental leave, wellness benefits"
+  ],
+  "red_flags": [
+    "Compensation range is very wide ($136K-$200K, a $64K spread), making it difficult to gauge target pay without further recruiter clarification",
+    "No specific cities listed for hybrid requirement; unclear which offices are applicable",
+    "Visa sponsorship not addressed in the JD",
+    "8+ years upper bound on experience range is ambiguous — could exclude candidates with 9-10+ years if role is scoped lower"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range, years requirement, and direct report count)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly listed in JD)",
+      "scope.business_model (inferred from DashMart product description)",
+      "location.cities_listed (not specified for this role; left empty)",
+      "location.remote_us_eligible (inferred from 'hybrid' description and 'remote jobs associated with office in NYC' notice)"
+    ],
+    "ambiguities": [
+      "JD says 'hybrid role, with a blend of in-office and remote work' but does not specify which city/office or minimum in-office frequency",
+      "Years of experience stated as '6-8+ years' — the '+' after 8 suggests open-ended, but the framing could also be read as targeting a specific range; treated as minimum of 6 here",
+      "Visa sponsorship is not mentioned anywhere in the JD; left as 'unclear'"
+    ]
+  }
+}

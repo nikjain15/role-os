@@ -1,0 +1,255 @@
+{
+  "company": "Klaviyo",
+  "role_title": "Lead Product Manager, Groups Platform",
+  "url": "https://www.klaviyo.com/careers/jobs?gh_jid=7682351003",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7682351003",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": "up to 10% travel for onboarding, team meetings, and industry events",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Platform / Infrastructure PM",
+  "seniority": {
+    "level": "Staff / Principal PM (Lead IC)",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7–10+ years of product management experience",
+      "Titled 'Lead Product Manager'",
+      "Base pay range $168K–$252K USD",
+      "Owns full platform vision and roadmap for segmentation"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "7–10+ years of product management experience, with meaningful experience building data platforms, infrastructure products, or technically complex systems.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 7,
+      "unit": "years",
+      "qualifier": "with meaningful experience building data platforms, infrastructure products, or technically complex systems",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_depth_systems",
+      "raw_text_from_jd": "Strong technical depth with the ability to work closely with engineers on system design, performance, and scalability.",
+      "skill_type": "capability",
+      "domain": "technical_product_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "large_scale_data_systems",
+      "raw_text_from_jd": "Experience working with large-scale data systems, query systems, or real-time/near-real-time evaluation systems.",
+      "skill_type": "domain_knowledge",
+      "domain": "data_infrastructure",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "large-scale data systems",
+        "query systems",
+        "real-time evaluation systems",
+        "near-real-time evaluation systems"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_facing_on_backend",
+      "raw_text_from_jd": "Track record of building customer-facing products on top of complex backend systems.",
+      "skill_type": "outcome",
+      "domain": "product_delivery",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "system_level_metrics_slas",
+      "raw_text_from_jd": "Strong analytical skills with experience defining and managing system-level metrics and SLAs.",
+      "skill_type": "capability",
+      "domain": "data_analytics_and_metrics",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "infra_vs_ux_balance",
+      "raw_text_from_jd": "Ability to balance infrastructure investments with user-facing product improvements.",
+      "skill_type": "capability",
+      "domain": "product_strategy",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_communication",
+      "raw_text_from_jd": "Excellent cross-functional communicator who can align engineering, product, and business stakeholders.",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "martech_personalization_audience",
+      "raw_text_from_jd": "Experience in marketing technology, personalization systems, or audience platforms is a strong plus.",
+      "skill_type": "domain_knowledge",
+      "domain": "marketing_technology",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "marketing technology",
+        "personalization",
+        "audience platforms"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Klaviyo segmentation platform — lists, segments, audience definition, evaluation, and insights systems",
+    "business_model": "B2B SaaS, marketing automation / CDP for ecommerce",
+    "primary_metrics_inferred": [
+      "Segmentation latency (P95)",
+      "Segment evaluation success rate",
+      "Freshness and correctness SLAs",
+      "System reliability",
+      "Customer ROI / retention improvements driven by segmentation"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Data",
+      "Go-to-market"
+    ],
+    "core_responsibilities": [
+      "Define and own the product vision and roadmap for Klaviyo's segmentation platform.",
+      "Build and operate segmentation as a first-class data product, optimized for correctness, performance, and scale.",
+      "Partner with engineering to improve system performance, including segmentation latency, reliability, and SLA adherence.",
+      "Evolve the expressiveness of segmentation (e.g., nested logic, advanced conditions) to meet the needs of mid-market and enterprise customers.",
+      "Ensure segment definitions are consistent, explainable, and resilient as data complexity grows.",
+      "Develop capabilities that help customers analyze, iterate on, and optimize high-value audiences.",
+      "Introduce recommendations and insights to guide customers toward effective segmentation strategies based on best practices and their own data.",
+      "Define and track key metrics, including latency (P95), success rate, freshness and correctness SLAs, and system reliability.",
+      "Lead cross-functional initiatives across product, engineering, data, and go-to-market teams to improve how audiences are defined and activated.",
+      "Communicate product strategy, tradeoffs, and technical decisions clearly across stakeholders."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      168000,
+      252000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity mentioned as part of total compensation package",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "segmentation platform",
+    "data platform",
+    "infrastructure",
+    "audience systems",
+    "lists and segments",
+    "system performance",
+    "SLA",
+    "latency",
+    "real-time evaluation",
+    "marketing technology",
+    "technical PM",
+    "scalability",
+    "expressiveness",
+    "personalization",
+    "roadmap"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range clearly disclosed ($168K–$252K base)",
+    "Clear product surface and ownership (segmentation platform with specific metric types named)",
+    "Explicit encouragement for close-but-not-exact-match candidates to apply",
+    "Role described as strategically critical to Klaviyo's core value proposition",
+    "Specific technical depth expected (P95 latency, SLA adherence) signals mature engineering culture"
+  ],
+  "red_flags": [
+    "No specific cities listed — location type and remote eligibility not fully explicit in JD body; inferred as hybrid/remote-US from travel language",
+    "Visa sponsorship not addressed",
+    "Very broad comp range ($168K–$252K, 50% spread) makes it hard to assess level fit from comp alone",
+    "7–10+ years minimum is a hard floor that eliminates most mid-level PMs"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "location.type (inferred as hybrid from '10% travel' language; no explicit remote/hybrid/onsite statement in JD body)",
+      "location.remote_us_eligible (inferred from 'cost of labor across various U.S. geographic markets' and no city requirement stated)",
+      "seniority.level (inferred from title 'Lead PM', years range 7-10+, and comp range)",
+      "scope.business_model (inferred from product description and company description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities section, not stated as goals)",
+      "compensation.location_pay_differential (inferred from 'cost of labor across various U.S. geographic markets' language)"
+    ],
+    "ambiguities": [
+      "JD does not specify remote vs. onsite vs. hybrid explicitly; the only location signal is '10% travel' requirement and mention of geographic pay variation across US locations. Treated as hybrid/remote-US eligible.",
+      "Visa sponsorship and work authorization are not mentioned anywhere in the JD."
+    ]
+  }
+}

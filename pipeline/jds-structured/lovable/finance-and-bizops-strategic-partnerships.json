@@ -1,0 +1,270 @@
+{
+  "company": "Lovable",
+  "role_title": "Finance & BizOps, Strategic Partnerships",
+  "url": "https://jobs.ashbyhq.com/lovable/30887380-e180-4e2d-a239-00995ca84fcf",
+  "ats_provider": "ashby",
+  "ats_job_id": "30887380-e180-4e2d-a239-00995ca84fcf",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Strategic Finance / Partnerships Operator",
+  "seniority": {
+    "level": "Senior IC / Lead",
+    "years_required_min": 8,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "8+ years of relevant experience",
+      "4+ years in strategic finance or BizOps",
+      "0→1 and 1→10 scope signals a senior or lead-level individual contributor"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_relevant_experience",
+      "raw_text_from_jd": "8+ years of relevant experience, including 4+ years in strategic finance or BizOps.",
+      "skill_type": "years_of_experience",
+      "domain": "strategic_finance_bizops",
+      "minimum_value": 8,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "years_strategic_finance_bizops",
+      "raw_text_from_jd": "including 4+ years in strategic finance or BizOps",
+      "skill_type": "years_of_experience",
+      "domain": "strategic_finance_or_bizops",
+      "minimum_value": 4,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "investment banking",
+        "venture capital",
+        "consulting"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "deal_economics_modeling",
+      "raw_text_from_jd": "You can model complex structures such as usage-based pricing, commit deals, revenue shares, referral / reseller programs, and co-sell motions. You communicate tradeoffs clearly and help partners negotiate with confidence.",
+      "skill_type": "capability",
+      "domain": "financial_modeling_partnerships",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "partnership_operations",
+      "raw_text_from_jd": "You can stand up the \"boring but critical\" plumbing that makes partnerships work at scale: contract-to-cash workflows, invoicing and partner payments, tracking, attribution, and post-deal governance.",
+      "skill_type": "capability",
+      "domain": "partnership_operations",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_data_skills",
+      "raw_text_from_jd": "You have strong spreadsheet skills and are comfortable with data (SQL, BI tools, or equivalent).",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analytics",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "SQL",
+        "BI tools"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_tools_automation",
+      "raw_text_from_jd": "You can use AI tools and agents to automate analysis and reduce manual work.",
+      "skill_type": "tool_proficiency",
+      "domain": "ai_automation",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI tools",
+        "AI agents"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "partnership_business_cases",
+      "raw_text_from_jd": "You are excited by partnership-led growth and can translate ambiguous partner opportunities into concrete business cases, decision memos, and operating plans.",
+      "skill_type": "capability",
+      "domain": "strategic_partnerships",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "bachelors_degree",
+      "raw_text_from_jd": "Bachelors degree required.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelors degree"
+      ]
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "ib_vc_consulting_background",
+      "raw_text_from_jd": "We are also open to investment banking / venture capital and consulting backgrounds with analytical skill sets.",
+      "skill_type": "domain_knowledge",
+      "domain": "investment_banking_vc_consulting",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "investment banking",
+        "venture capital",
+        "consulting"
+      ],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Strategic Partnerships organization — hyperscalers, LLM providers, and broader technology ecosystem",
+    "business_model": "B2B2C / platform with hyperscaler and LLM provider partnerships",
+    "primary_metrics_inferred": [
+      "Partner-driven revenue and unit economics",
+      "Revenue share accuracy and billing flows",
+      "Partnership performance dashboards and QBR outcomes",
+      "Contract-to-cash cycle efficiency"
+    ],
+    "cross_functional_partners": [
+      "Partnerships organization",
+      "Finance",
+      "Legal (contract/governance implied)",
+      "Engineering (automation implied)"
+    ],
+    "core_responsibilities": [
+      "Own partnership economics: Build models and business cases for strategic partnerships (hyperscalers, LLM providers, platforms), including pricing, unit economics, and scenario analyses.",
+      "Operationalize partnerships end-to-end: Design and run the processes that turn signed deals into shipped value: partner onboarding, billing flows, revenue share calculations, internal enablement, and ongoing reporting.",
+      "Create clear measurement: Define what \"success\" means per partner (financial and product outcomes) and build lightweight dashboards and operating cadence to track it.",
+      "Support negotiation and governance: Prepare negotiation support (term comparisons, guardrails, redlines) and set up post-sign governance (QBRs, escalations, renewal readiness).",
+      "Build an AI-native function: Use AI agents and automation to accelerate partner analysis, contract summarization, and reporting—prioritizing speed and correctness over manual workflows."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "strategic partnerships",
+    "BizOps",
+    "strategic finance",
+    "deal economics",
+    "hyperscalers",
+    "LLM providers",
+    "usage-based pricing",
+    "revenue share",
+    "contract-to-cash",
+    "AI agents",
+    "SQL",
+    "partnership operations",
+    "financial modeling"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear scope and ownership: sole owner of partnership finance and ops function",
+    "Explicit experience range (8+ years / 4+ years) reduces ambiguity",
+    "Open to IB/VC/consulting backgrounds — broadens candidate pool",
+    "AI-native function signals modern tooling expectations",
+    "0→1 and 1→10 framing indicates meaningful greenfield scope"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "No location or remote/hybrid policy stated — fully unclear",
+    "No visa sponsorship information provided",
+    "No posting date available — unclear how fresh the role is"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 8+ years requirement and 0→1/1→10 language)",
+      "scope.business_model (inferred from mention of hyperscalers, LLM providers, platform partnerships)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly stated in JD)",
+      "location.type (not stated in JD; marked unclear)",
+      "compensation (not stated; marked unknown)"
+    ],
+    "ambiguities": [
+      "The requirement '8+ years of relevant experience, including 4+ years in strategic finance or BizOps' includes a parenthetical openness to IB/VC/consulting backgrounds — it is unclear whether those backgrounds satisfy the 4+ years finance/BizOps sub-requirement or are treated as an alternative pathway; treated as nice-to-have alternative background here.",
+      "No location information is provided in the JD — unclear if role is remote, hybrid, or onsite, and in which country."
+    ]
+  }
+}

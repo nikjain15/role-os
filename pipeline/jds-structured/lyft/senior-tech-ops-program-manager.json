@@ -1,0 +1,352 @@
+{
+  "company": "Lyft",
+  "role_title": "Senior Tech Ops Program Manager",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8508202002?gh_jid=8508202002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8508202002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "Toronto"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "at least 3 days per week, including Mondays, Wednesdays, and Thursdays",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "BizOps / Strategy & Ops",
+  "seniority": {
+    "level": "Senior IC / Staff TPM",
+    "years_required_min": 8,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "8+ years executing complex transformation programs",
+      "6+ years leading enterprise technology program delivery",
+      "Manages C-level stakeholder communications",
+      "Technology budgets exceeding $1M annually",
+      "Base pay range CAD $122,000–$152,500"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_complex_transformation",
+      "raw_text_from_jd": "8+ years executing complex transformation programs in operations, consulting, strategy, or enterprise technology",
+      "skill_type": "years_of_experience",
+      "domain": "program_management_transformation",
+      "minimum_value": 8,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "operations",
+        "consulting",
+        "strategy",
+        "enterprise technology"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "years_enterprise_tech_program_delivery",
+      "raw_text_from_jd": "6+ years leading enterprise technology program delivery, with demonstrated experience in ERP implementations (Oracle Financials) and post acquisition (M&A) technology integrations",
+      "skill_type": "years_of_experience",
+      "domain": "enterprise_technology_program_delivery",
+      "minimum_value": 6,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [
+        "Oracle Financials"
+      ],
+      "technologies_named": [
+        "ERP implementations",
+        "M&A technology integrations"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "full_cycle_transformation_track_record",
+      "raw_text_from_jd": "Proven track record executing full-cycle transformations from business case development through implementation, change management, and operational handoff",
+      "skill_type": "outcome",
+      "domain": "transformation_program_delivery",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "privacy_security_programs",
+      "raw_text_from_jd": "Experience leading privacy and security programs such as GDPR/CCPA compliance, security framework implementations, identity management systems, or data governance initiatives",
+      "skill_type": "domain_knowledge",
+      "domain": "privacy_and_security_programs",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "GDPR",
+        "CCPA",
+        "identity management systems",
+        "data governance"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_automation_initiatives",
+      "raw_text_from_jd": "Experience leading enterprise-wide AI and automation initiatives by identifying high-impact generative AI opportunities to optimize processes and drive a culture of continuous operational excellence",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_and_automation",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "generative AI",
+        "automation"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "executive_communication",
+      "raw_text_from_jd": "Strong executive communication skills with ability to manage up to C-level stakeholders and translate complex technical and regulatory requirements into business impact",
+      "skill_type": "capability",
+      "domain": "executive_stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "vendor_and_budget_management",
+      "raw_text_from_jd": "Demonstrated experience managing technology vendors, complex procurement processes, and success managing technology budgets exceeding $1M annually",
+      "skill_type": "capability",
+      "domain": "vendor_and_budget_management",
+      "minimum_value": 1000000,
+      "unit": "usd_annual_budget",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_coordination",
+      "raw_text_from_jd": "Track record coordinating cross-functional teams across IT, Engineering, Security, Privacy, Compliance, Finance, HR, and business operations",
+      "skill_type": "outcome",
+      "domain": "cross_functional_program_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "business_acumen_strategic_planning",
+      "raw_text_from_jd": "Strong business acumen with the ability to identify strategic needs, lead all aspects of planning, and generate alignment with key business partners",
+      "skill_type": "capability",
+      "domain": "strategic_planning",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strategy_to_execution",
+      "raw_text_from_jd": "Forward-thinking strategist with proven success in translating strategy to tactical plans with high-quality execution and delivery.",
+      "skill_type": "outcome",
+      "domain": "strategy_execution",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "empathetic_leader",
+      "raw_text_from_jd": "An empathetic leader style and a strong sense of self-awareness",
+      "skill_type": "cultural_fit",
+      "domain": "leadership_style",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "hcm_crm_it_infra_experience",
+      "raw_text_from_jd": "Ideal candidate also has experience supporting one of the following: HCM platforms (Workday, Greenhouse),  CRM rollouts (Salesforce), IT infrastructure and operations (network engineering, systems engineering, identity management, endpoint/MDM management, SaaS and collaboration platform migrations, and/or IT service management), security tool deployments, or privacy compliance initiatives",
+      "skill_type": "domain_knowledge",
+      "domain": "enterprise_platform_delivery",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Workday",
+        "Greenhouse",
+        "Salesforce"
+      ],
+      "technologies_named": [
+        "HCM platforms",
+        "CRM rollouts",
+        "network engineering",
+        "systems engineering",
+        "identity management",
+        "endpoint/MDM management",
+        "SaaS and collaboration platform migrations",
+        "IT service management",
+        "security tool deployments",
+        "privacy compliance initiatives"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Corporate Engineering, IT, Privacy and Security — complex multi-year enterprise technology transformation programs",
+    "business_model": "internal corporate/enterprise IT function at a ride-sharing company",
+    "primary_metrics_inferred": [
+      "Program delivery on-time and on-budget",
+      "ROI tracking across technology portfolio",
+      "Executive stakeholder satisfaction and accountability",
+      "Risk reduction across compliance and security programs"
+    ],
+    "cross_functional_partners": [
+      "Corporate Engineering",
+      "IT",
+      "Privacy",
+      "Security",
+      "Finance",
+      "HR",
+      "Compliance",
+      "Business Operations"
+    ],
+    "core_responsibilities": [
+      "Lead end-to-end program delivery for complex, multi-year initiatives such as financial technology transformations (Oracle, Anaplan), people technology transformations (Workday, Greenhouse), sales technology rollouts (Salesforce), IT infrastructure transformations, privacy compliance programs (GDPR, CCPA), and security implementations",
+      "Execute strategic planning sessions and cross-functional prioritization with Corporate Engineering, IT, Privacy and Security leadership teams to align program roadmaps with business objectives",
+      "Manage program governance through biweekly and monthly strategic initiative reviews, risk assessments, and executive reporting that drives accountability and informed decision-making",
+      "Orchestrate cross-functional program teams spanning engineering, IT operations, security, privacy, compliance, and business stakeholders to ensure seamless program delivery",
+      "Drive enterprise technology lifecycle management including vendor selection, contract negotiations, system integrations, and sunset/migration planning",
+      "Proactively manage program risks and dependencies, implementing course corrections and executive stakeholder communications to keep initiatives on track",
+      "Partner with finance and strategy teams to manage program budgets, track ROI, and optimize resource allocation across the technology portfolio"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "base_range_local": [
+      "CAD 122000",
+      "CAD 152500"
+    ],
+    "base_range_currency": "CAD",
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "potential equity offering mentioned but not detailed",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "TechOps Program Manager",
+    "enterprise technology transformation",
+    "Oracle Financials",
+    "ERP implementation",
+    "M&A integration",
+    "Workday",
+    "Salesforce",
+    "GDPR",
+    "CCPA",
+    "cross-functional program delivery",
+    "executive stakeholder management",
+    "generative AI",
+    "IT infrastructure",
+    "vendor management",
+    "budget management"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed (CAD $122,000–$152,500 base)",
+    "Hybrid schedule with specific days named — clear expectations",
+    "Scope of role is clearly defined with concrete technology programs named",
+    "Lyft commits to inclusive hiring and accommodation for persons with disabilities",
+    "18 weeks paid parental leave for biological, adoptive, and foster parents",
+    "Flexibility to work from anywhere up to 4 weeks per year",
+    "Existing vacancy — not a new headcount request"
+  ],
+  "red_flags": [
+    "Role is Toronto-based only with 3-day in-office requirement — limits remote candidates",
+    "Very broad scope spanning ERP, HCM, CRM, security, privacy, IT infra — may indicate under-resourcing or diffuse ownership",
+    "Visa sponsorship and work authorization not mentioned anywhere in the JD",
+    "Compensation stated in CAD only; no USD equivalent provided",
+    "AI screening disclosed ('Lyft may use artificial intelligence to screen applicants')"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years required and comp range)",
+      "scope.business_model (inferred from company description)",
+      "scope.primary_metrics_inferred (not stated directly in JD)",
+      "compensation.base_range_usd (not stated; JD provides CAD figures only)",
+      "location.work_auth (not mentioned in JD)",
+      "location.visa_sponsorship (not mentioned in JD)"
+    ],
+    "ambiguities": [
+      "The 'empathetic leader style and strong sense of self-awareness' bullet appears in the Experience section without explicit 'required' or 'preferred' language — treated as hard given its placement alongside other unconditional requirements.",
+      "The AI/automation experience bullet is listed in the Experience section without 'preferred' qualifier — treated as hard but could be argued as soft given the broader list context.",
+      "Work authorization and visa sponsorship are entirely absent from the JD — classified as 'unclear' for both fields."
+    ]
+  }
+}

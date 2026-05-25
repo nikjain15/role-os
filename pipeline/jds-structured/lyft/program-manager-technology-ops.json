@@ -1,0 +1,287 @@
+{
+  "company": "Lyft",
+  "role_title": "Program Manager, Technology Ops",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8505117002?gh_jid=8505117002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8505117002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "Toronto"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "at least 3 days per week, including Mondays, Wednesdays, and Thursdays",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Program Manager (IT/Corporate Engineering)",
+  "seniority": {
+    "level": "Mid-Senior IC",
+    "years_required_min": 4,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "4+ years leading enterprise technology program delivery",
+      "Expected base pay CAD $96,000 - CAD $120,000",
+      "Executive communication and reporting responsibilities",
+      "End-to-end program ownership across corporate engineering, IT, privacy, security"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_enterprise_tech_pm",
+      "raw_text_from_jd": "4+ years leading enterprise technology program delivery, with demonstrated experience in IT infrastructure and operations (network engineering, systems engineering, identity management, endpoint/MDM management, SaaS and collaboration platform migrations, and/or IT service management)",
+      "skill_type": "years_of_experience",
+      "domain": "enterprise_technology_program_management",
+      "minimum_value": 4,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "network engineering",
+        "systems engineering",
+        "identity management",
+        "endpoint/MDM management",
+        "SaaS",
+        "IT service management"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "full_cycle_tech_transformation",
+      "raw_text_from_jd": "Experience executing full-cycle technology transformations from design through implementation, change management, and operational handoff",
+      "skill_type": "capability",
+      "domain": "technology_transformation",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "executive_communication",
+      "raw_text_from_jd": "Strong executive communication skills with ability to support executive level communications and translate complex technical and regulatory requirements into business context",
+      "skill_type": "capability",
+      "domain": "executive_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "vendor_and_budget_management",
+      "raw_text_from_jd": "Demonstrated experience managing technology vendors, and experience tracking and reporting on program budgets in partnership with finance stakeholders",
+      "skill_type": "capability",
+      "domain": "vendor_and_budget_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_coordination",
+      "raw_text_from_jd": "Track record coordinating cross-functional teams across IT, Engineering, Security, Privacy, Finance, People, and data operations",
+      "skill_type": "outcome",
+      "domain": "cross_functional_program_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "business_acumen_and_strategic_translation",
+      "raw_text_from_jd": "Ability to understand strategic goals and translate them into tactical execution plans",
+      "skill_type": "capability",
+      "domain": "strategic_planning",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "ma_hcm_erp_crm_security_privacy",
+      "raw_text_from_jd": "Ideal candidate also has experience supporting one of the following: M&A technology integrations, HCM platforms (Workday, Greenhouse), ERP implementations (Oracle Financials, Anaplan), CRM rollouts (Salesforce), security tool deployments, or privacy compliance initiatives",
+      "skill_type": "domain_knowledge",
+      "domain": "enterprise_platform_implementations",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Workday",
+        "Greenhouse",
+        "Oracle Financials",
+        "Anaplan",
+        "Salesforce"
+      ],
+      "technologies_named": [
+        "M&A technology integrations",
+        "HCM platforms",
+        "ERP",
+        "CRM"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_automation_initiatives",
+      "raw_text_from_jd": "Support AI and automation initiatives by identifying opportunities to leverage AI for process optimization and continuous improvement",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_and_automation",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "AI",
+        "automation"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "business_acumen_planning",
+      "raw_text_from_jd": "Business acumen with the ability to support planning discussions and contribute recommendations that align with key business partner needs",
+      "skill_type": "cultural_fit",
+      "domain": "business_partnering",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Corporate Engineering, IT, Privacy and Security technology initiatives",
+    "business_model": "internal corporate / enterprise technology operations",
+    "primary_metrics_inferred": [
+      "Program delivery on time and on budget",
+      "ROI tracking of technology initiatives",
+      "Executive-level accountability and reporting cadence"
+    ],
+    "cross_functional_partners": [
+      "Corporate Engineering",
+      "IT",
+      "Privacy",
+      "Security",
+      "Finance",
+      "People",
+      "Data Operations",
+      "Business Stakeholders",
+      "Vendors"
+    ],
+    "core_responsibilities": [
+      "Execute end-to-end program delivery for technology initiatives such as IT infrastructure transformations, financial technology transformations, people technology transformations, sales technology rollouts, privacy compliance programs, and security implementations",
+      "Support and contribute to strategic planning sessions and cross-functional prioritization with Corporate Engineering, IT, Privacy and Security leadership teams",
+      "Manage program governance through biweekly and monthly strategic initiative reviews, risk assessments, and executive reporting",
+      "Coordinate cross-functional program teams spanning engineering, IT operations, security, privacy, compliance, and business stakeholders",
+      "Support enterprise technology lifecycle management including vendor selection, contract negotiations, system integrations, and sunset/migration planning",
+      "Partner with finance and strategy teams to manage program budgets and track ROI"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "base_range_local": [
+      96000,
+      120000
+    ],
+    "base_range_currency": "CAD",
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "potential equity offering mentioned but not detailed",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "program management",
+    "IT infrastructure",
+    "corporate engineering",
+    "enterprise technology",
+    "cross-functional",
+    "executive reporting",
+    "vendor management",
+    "privacy compliance",
+    "GDPR",
+    "CCPA",
+    "Workday",
+    "Salesforce",
+    "Oracle",
+    "Anaplan",
+    "change management"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed (CAD $96,000 - $120,000)",
+    "Hybrid schedule clearly defined (3 days/week: Monday, Wednesday, Thursday)",
+    "Broad and well-defined program scope across Corporate Engineering, IT, Privacy, and Security",
+    "Explicit mention that Lyft employees make ultimate hiring decisions despite AI screening use",
+    "Fills an existing vacancy — active headcount",
+    "Strong benefits package including parental leave, RRSP match, flexible PTO"
+  ],
+  "red_flags": [
+    "Compensation stated in CAD only — role is Toronto-based, limiting applicant pool to Canada",
+    "Visa sponsorship status not mentioned at all",
+    "Broad scope across IT infrastructure, ERP, HCM, CRM, privacy, and security may indicate under-resourced program function",
+    "Mandatory in-office days (Mon/Wed/Thu) reduces flexibility for hybrid candidates"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years required and compensation range)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "scope.business_model (inferred from internal corporate engineering context)",
+      "location.work_auth (inferred as open; not explicitly stated)",
+      "location.visa_sponsorship (not stated; marked unclear)"
+    ],
+    "ambiguities": [
+      "base_range_local is in CAD; no USD equivalent provided. base_range_usd left null.",
+      "business_acumen bullet appears in both 'Experience' section (unconditional) and reads somewhat like a soft skill — classified as nice_to_have due to softer phrasing ('ability to support'), but could reasonably be hard.",
+      "AI/automation support item appears as an unconditional bullet under 'Experience' but reads as a forward-looking expectation rather than a demonstrated requirement — classified as nice_to_have; flagged here as ambiguous."
+    ]
+  }
+}

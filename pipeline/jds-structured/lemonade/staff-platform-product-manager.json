@@ -1,0 +1,221 @@
+{
+  "company": "Lemonade",
+  "role_title": "Staff Platform Product Manager",
+  "url": "https://jobs.ashbyhq.com/lemonade/fcd117f2-55d7-459a-a441-0cc6e8ec114e",
+  "ats_provider": "ashby",
+  "ats_job_id": "fcd117f2-55d7-459a-a441-0cc6e8ec114e",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [],
+    "remote_us_eligible": false,
+    "office_time_required": "most days of the week",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Platform PM",
+  "seniority": {
+    "level": "Staff IC",
+    "years_required_min": 8,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "8+ years of product management experience",
+      "'Staff' title in role name",
+      "Defines long-term vision and architecture for a next-generation platform",
+      "Owns products from 0 to 1 and scales to a billion"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_platform",
+      "raw_text_from_jd": "8+ years of product management experience building platform products at scale, with a track record of thinking architecturally and owning products from 0 to 1",
+      "skill_type": "years_of_experience",
+      "domain": "platform_product_management",
+      "minimum_value": 8,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_vision_roadmap",
+      "raw_text_from_jd": "Proven ability to define product vision, build roadmaps from scratch, and make the hard calls on what to build and why",
+      "skill_type": "capability",
+      "domain": "product_strategy",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_tools_hands_on",
+      "raw_text_from_jd": "Hands-on with AI tools - you don't just follow trends, you actively use AI to move faster and make better product decisions",
+      "skill_type": "tool_proficiency",
+      "domain": "ai_tools",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI tools"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "scale_and_adoption",
+      "raw_text_from_jd": "Experience taking products from 1 to a billion, with a track record of overseeing complex adoption and integration efforts",
+      "skill_type": "outcome",
+      "domain": "platform_adoption_and_scaling",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_team_leadership",
+      "raw_text_from_jd": "Cross-team leadership experience with a history of aligning stakeholders and driving complex, multi-team initiatives forward",
+      "skill_type": "capability",
+      "domain": "stakeholder_alignment",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cs_degree_or_dev_experience",
+      "raw_text_from_jd": "A computer science degree or substantial hands-on development experience",
+      "skill_type": "credential",
+      "domain": "computer_science_or_software_engineering",
+      "accepts_equivalent_experience": true,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "computer science degree"
+      ]
+    },
+    {
+      "id": "office_presence",
+      "raw_text_from_jd": "Ready to work in an office environment most days of the week",
+      "skill_type": "cultural_fit",
+      "domain": "work_location",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "LoCo - Lemonade's next-generation, AI-powered platform for building and launching insurance products",
+    "business_model": "B2B-internal developer platform embedded in an insurance company",
+    "primary_metrics_inferred": [
+      "Platform adoption across product lines",
+      "Speed of insurance product build and launch",
+      "Developer experience quality / onboarding efficiency",
+      "API unification and scale"
+    ],
+    "cross_functional_partners": [
+      "Platform engineers",
+      "Channel teams",
+      "Leadership / executives",
+      "Multi-team stakeholders"
+    ],
+    "core_responsibilities": [
+      "Define the architecture that determines how Lemonade builds, ships, and scales - for years to come",
+      "Drive cross-team alignment on complex technical decisions, turning competing priorities into a clear, executable roadmap",
+      "Own the long-term API strategy across multiple domains, creating a unified layer that simplifies onboarding for channel teams and scales with the business",
+      "Act as the translation layer between platform engineers and leadership, communicating technical complexity in business terms",
+      "Leverage AI to identify patterns, pressure-test architectural decisions, and unlock faster paths to solving platform-scale problems",
+      "Own the adoption strategy across product lines, delivering a developer experience that makes our platform the obvious choice"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "platform product management",
+    "LoCo",
+    "AI-powered platform",
+    "API strategy",
+    "insurance platform",
+    "0 to 1",
+    "developer experience",
+    "architectural thinking",
+    "cross-team alignment",
+    "Staff PM"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear product surface with a named internal platform (LoCo)",
+    "Staff-level title signals real seniority and ownership",
+    "AI-first culture described with tangible examples, not just buzzwords",
+    "0-to-1 and 1-to-scale ownership suggests high autonomy and impact"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "No specific city listed despite requiring in-office most days — location unclear for candidates",
+    "No mention of visa sponsorship",
+    "Insurance domain experience not explicitly required but platform is insurance-specific, which may be an unstated expectation"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 'Staff' title + 8+ years requirement)",
+      "scope.business_model (inferred from product description and company context)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "location.cities_listed (no specific city named in JD for this role)",
+      "location.remote_us_eligible (inferred as false from 'office environment most days of the week')"
+    ],
+    "ambiguities": [
+      "No office location city is named in the JD; 'office environment most days of the week' implies onsite but geography is unknown — candidates cannot confirm without reaching out to recruiter",
+      "Insurance domain experience is not listed as a requirement but the entire platform is insurance-specific; could be an unstated expectation"
+    ]
+  }
+}

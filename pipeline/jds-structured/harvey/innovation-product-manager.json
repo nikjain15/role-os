@@ -1,0 +1,253 @@
+{
+  "company": "Harvey",
+  "role_title": "Innovation Product Manager",
+  "url": "https://jobs.ashbyhq.com/harvey/e5272fbe-4431-4841-bf00-b9f59812b82a",
+  "ats_provider": "ashby",
+  "ats_job_id": "e5272fbe-4431-4841-bf00-b9f59812b82a",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Forward-deployed / Solutions PM with legal domain focus",
+  "seniority": {
+    "level": "Mid to Senior IC",
+    "years_required_min": null,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "Comp range $178,500–$241,500 base suggests mid-to-senior IC",
+      "Role requires independently running multiple client engagements in parallel",
+      "Blend of product management, innovation strategy, and forward-deployed partnership implies seniority"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "legal_background",
+      "raw_text_from_jd": "Have experience at a top law firm or in-house legal team",
+      "skill_type": "domain_knowledge",
+      "domain": "legal",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "legal"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "top law firm",
+        "in-house legal team"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "product_savvy_tech_curious",
+      "raw_text_from_jd": "Are product-savvy and tech-curious. You're not expected to code, but you can navigate conversations about generative AI, workflow design, privacy, governance, and enterprise rollout.",
+      "skill_type": "capability",
+      "domain": "product_management+ai_technology",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "generative AI"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_communication",
+      "raw_text_from_jd": "Communicate with clarity and confidence across roles — partners, associates, engineers, PMs, CIOs, and legal ops.",
+      "skill_type": "capability",
+      "domain": "stakeholder_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "parallel_client_engagements",
+      "raw_text_from_jd": "Can independently run multiple client engagements in parallel.",
+      "skill_type": "capability",
+      "domain": "client_engagement_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "quality_and_bias_for_action",
+      "raw_text_from_jd": "Care deeply about quality and user outcomes while keeping a strong bias for action.",
+      "skill_type": "cultural_fit",
+      "domain": "execution_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_tolerance_and_builder_mindset",
+      "raw_text_from_jd": "Are energized by building something new in a domain going through its biggest shift in decades.",
+      "skill_type": "cultural_fit",
+      "domain": "startup_mindset",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "innovation_legal_ops_consulting",
+      "raw_text_from_jd": "innovation, legal ops, or consulting experience is a plus.",
+      "skill_type": "domain_knowledge",
+      "domain": "legal_innovation_or_legal_ops_or_consulting",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "legal"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "legal_tech_ecosystem_familiarity",
+      "raw_text_from_jd": "Familiarity with the legal tech ecosystem as an employee, founder, or advisor to legal tech startups",
+      "skill_type": "domain_knowledge",
+      "domain": "legal_technology",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "legal tech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "legal tech startups"
+      ],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "AI-powered legal workflows for top global law firms and corporate legal teams",
+    "business_model": "enterprise B2B SaaS for legal and professional services",
+    "primary_metrics_inferred": [
+      "Successful pilot-to-firm-wide rollout conversion",
+      "Platform embeddedness in day-to-day legal work",
+      "Business impact of AI (associate leverage, workflow transformation)"
+    ],
+    "cross_functional_partners": [
+      "Go-to-market team",
+      "Customer Success",
+      "Engineering",
+      "PMs",
+      "Innovation leaders",
+      "Legal operations",
+      "Practice groups"
+    ],
+    "core_responsibilities": [
+      "Serve as a thought partner to top global law firms and enterprises — diagnosing pain points, mapping high-value opportunities, and guiding how Harvey integrates into their practice.",
+      "Work with the go-to-market team to shape pilots and deployments end-to-end: discovery, workflow design, testing, onboarding, iteration, and firm-wide rollout.",
+      "Work with innovation leaders, legal operations, and practice groups alongside Customer Success — ensuring the platform becomes embedded in day-to-day legal work",
+      "Translate user insights into product direction to influence roadmap",
+      "Help clients evaluate the business impact of AI — from improving associate leverage to transforming workflows across practices like M&A, litigation, regulatory, and transactions.",
+      "Shape how the legal industry adapts to AI."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      178500,
+      241500
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "legal AI",
+    "law firm",
+    "innovation",
+    "legal ops",
+    "workflow design",
+    "generative AI",
+    "forward-deployed",
+    "enterprise rollout",
+    "agentic AI",
+    "legal tech",
+    "M&A",
+    "litigation",
+    "product management"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range explicitly stated ($178,500–$241,500)",
+    "Clear product surface and customer segments described (top global law firms and corporate legal teams)",
+    "Strong product-market fit signals: 1000+ customers in 60+ countries",
+    "Well-funded, high-growth company at early stage with world-class investor support",
+    "Role blends unique mix of domain depth and product innovation — differentiated mandate"
+  ],
+  "red_flags": [
+    "No location or remote/hybrid policy stated — work arrangement entirely unclear",
+    "Visa sponsorship and work authorization not mentioned",
+    "No years of experience explicitly stated — seniority expectations must be inferred from comp and responsibilities",
+    "The 'Familiarity with the legal tech ecosystem' requirement is listed as a standalone bullet without explicit 'plus' language, making severity ambiguous — treated as nice-to-have based on context",
+    "Role title says 'Product Manager' but responsibilities skew heavily toward forward-deployed client solutions / customer success, which may not appeal to pure product managers"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range and responsibility scope; not stated)",
+      "seniority.years_required_min (not stated)",
+      "scope.business_model (inferred from product description and customer references)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not in JD)",
+      "location.type (not stated; marked 'unclear')",
+      "compensation.location_pay_differential (inferred from phrase 'Depending on your location' in privacy notice footer)"
+    ],
+    "ambiguities": [
+      "The bullet 'Familiarity with the legal tech ecosystem as an employee, founder, or advisor to legal tech startups' lacks explicit qualifier ('plus', 'preferred', 'bonus') but appears alongside an explicit 'is a plus' bullet, making its severity ambiguous. Treated as nice-to-have (soft) based on proximity and structure.",
+      "Role title is 'Innovation Product Manager' but the responsibilities blend PM, forward-deployed solutions, and customer success work — the archetype is ambiguous between Generalist PM and a solutions/field PM role.",
+      "No location, city, or remote policy is mentioned anywhere in the JD body or metadata. Work arrangement is completely unclear."
+    ]
+  }
+}

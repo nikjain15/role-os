@@ -1,0 +1,321 @@
+{
+  "company": "Instacart",
+  "role_title": "Senior Product Manager, Shopping Experience",
+  "url": "https://instacart.careers/job/?gh_jid=7904851",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7904851",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "remote-us",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": "no mandatory office time; Flex First policy with optional in-person events",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Growth PM (consumer shopping/health product, zero-to-one focus)",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 6,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "6+ years of product management experience",
+      "Base pay range $184K–$233K depending on state, consistent with Senior PM at a large consumer tech company",
+      "Zero-to-one ownership, cross-functional leadership, executive alignment signals senior IC scope"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "6+ years of product management experience building consumer products, including ownership of end-to-end user experiences from discovery through launch and iteration.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management_consumer",
+      "minimum_value": 6,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "consumer products"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "zero_to_one_track_record",
+      "raw_text_from_jd": "Proven track record shipping zero-to-one products with measurable impact (for example: improved conversion, retention, or engagement) and scaling them to broad adoption.",
+      "skill_type": "outcome",
+      "domain": "product_launches",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "design_research_collaboration",
+      "raw_text_from_jd": "Hands-on experience collaborating with product design and user research to convert insights into clear PRDs, prototypes, and shipped features.",
+      "skill_type": "capability",
+      "domain": "product_design_research_collaboration",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_fluency_experimentation",
+      "raw_text_from_jd": "Data fluency with experimentation and analytics (for example: defining success metrics, partnering on A/B tests, interpreting results; SQL proficiency or equivalent analytics tooling experience).",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analytics_experimentation",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "SQL"
+      ],
+      "technologies_named": [
+        "A/B tests",
+        "multivariate tests"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_influence",
+      "raw_text_from_jd": "Experience operating in highly cross-functional environments, influencing without authority, and aligning multiple stakeholder groups to a clear roadmap.",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "Bachelor's degree in a relevant field (such as Computer Science, Engineering, Design, Business, or a related discipline) or equivalent practical experience.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": true,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree",
+        "Computer Science",
+        "Engineering",
+        "Design",
+        "Business"
+      ]
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "health_wellness_domain",
+      "raw_text_from_jd": "Experience in health, nutrition, wellness, or other regulated consumer product spaces.",
+      "skill_type": "domain_knowledge",
+      "domain": "health_nutrition_wellness",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "health",
+        "nutrition",
+        "wellness"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ecommerce_marketplace_personalization",
+      "raw_text_from_jd": "Background in e-commerce, marketplaces, personalization/recommendation systems, search, or content experiences.",
+      "skill_type": "domain_knowledge",
+      "domain": "ecommerce_personalization_search",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "personalization/recommendation systems",
+        "search"
+      ],
+      "industries_named": [
+        "e-commerce",
+        "marketplaces"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "startup_experience",
+      "raw_text_from_jd": "Startup or \"startup within a startup\" experience leading products from zero-to-one in high-ambiguity, fast-moving environments.",
+      "skill_type": "cultural_fit",
+      "domain": "startup_environment",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "startup"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "health_third_party_integrations",
+      "raw_text_from_jd": "Familiarity with third-party integrations relevant to health (for example: recipes, nutrition data, or health data platforms).",
+      "skill_type": "domain_knowledge",
+      "domain": "health_data_integrations",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "recipes",
+        "nutrition data",
+        "health data platforms"
+      ],
+      "industries_named": [
+        "health"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "executive_storytelling",
+      "raw_text_from_jd": "Exceptional storytelling and communication skills, including the ability to drive alignment across executive and cross-functional audiences.",
+      "skill_type": "capability",
+      "domain": "executive_communication",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "6 engineers, 1 data scientist, 1 designer, 1 user researcher (pod); broader group of PMs in Shopping Experience org",
+    "surface": "Health product area within Shopping Experience — dietary discovery, health-forward shopping, inspiration, and goal-oriented food experiences for consumers",
+    "business_model": "B2C consumer marketplace (grocery delivery)",
+    "primary_metrics_inferred": [
+      "Engagement with health/dietary features",
+      "Conversion from discovery to checkout",
+      "Retention of health-focused customers",
+      "Adoption of zero-to-one health features at scale"
+    ],
+    "cross_functional_partners": [
+      "Design",
+      "Research",
+      "Engineering",
+      "Data Science",
+      "Operations",
+      "Partnerships",
+      "Legal",
+      "Privacy",
+      "Go-to-market"
+    ],
+    "core_responsibilities": [
+      "Own the end-to-end product strategy and roadmap for Health within Shopping Experience, driving zero-to-one bets from discovery through scaled launch and iteration.",
+      "Partner with design and research to deeply understand customer needs across inspiration, dietary filters, and health-forward discovery; translate insights into simple, elegant product experiences.",
+      "Define success metrics and run a rigorous experimentation program (A/B tests, multivariate tests) to improve core outcomes such as engagement, conversion, and retention.",
+      "Work cross-functionally with engineering, data science, operations, partnerships, legal, and privacy to deliver responsibly built features at scale, balancing speed with quality and compliance considerations.",
+      "Build alignment across diverse stakeholders, communicate tradeoffs and decisions with clarity, and ruthlessly prioritize to maximize customer and business impact in a fast-paced environment."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      184000,
+      233000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "new hire equity grant and annual refresh grants (form not specified, likely RSUs)",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "zero-to-one",
+    "health",
+    "shopping experience",
+    "consumer products",
+    "dietary discovery",
+    "personalization",
+    "experimentation",
+    "A/B testing",
+    "SQL",
+    "cross-functional",
+    "roadmap",
+    "Flex First",
+    "remote"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range fully disclosed across all US states ($184K–$233K base)",
+    "Equity (new hire + annual refresh) explicitly mentioned",
+    "Pod composition stated clearly (6 eng, 1 DS, 1 designer, 1 researcher) — good signal of investment in the area",
+    "Explicitly remote-first (Flex First policy, #LI-Remote tagged)",
+    "High-visibility, zero-to-one opportunity with millions of weekly users — large scope and impact potential",
+    "JD acknowledges ambiguity and startup-style environment — honest about role expectations"
+  ],
+  "red_flags": [
+    "No mention of visa sponsorship or work authorization requirements — unclear for non-US citizens",
+    "Health/regulated consumer space is listed only as a 'preferred' qualification but the role is explicitly the 'Health product area' — may be more critical than soft implies",
+    "Pay band varies significantly by state ($184K–$233K); candidates in lower-band states may find it less competitive"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years requirement + comp range)",
+      "scope.business_model (inferred from Instacart's known product)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not directly stated as KPIs)",
+      "compensation.equity_form (form not specified; RSUs inferred from typical large consumer tech practice)",
+      "location.work_auth (not stated in JD)",
+      "location.visa_sponsorship (not stated in JD)"
+    ],
+    "ambiguities": [
+      "The role is tagged #LI-Remote and described as 'remote-friendly' with Flex First policy, but the company also holds regular in-person events; treated as remote-us rather than hybrid given no mandatory office percentage is stated.",
+      "Health domain experience is listed under Preferred Qualifications, yet the entire role is leading the 'Health product area' — this may be harder in practice than its 'soft' classification suggests."
+    ]
+  }
+}

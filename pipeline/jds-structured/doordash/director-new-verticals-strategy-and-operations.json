@@ -1,0 +1,275 @@
+{
+  "company": "DoorDash",
+  "role_title": "Director, New Verticals Strategy & Operations",
+  "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7868866",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7868866",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [],
+    "remote_us_eligible": false,
+    "office_time_required": "blend of in-office and remote work including travel cross-country 3-4 times per quarter on average",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "General Manager / P&L Owner",
+  "seniority": {
+    "level": "Director (senior people-manager IC/manager hybrid)",
+    "years_required_min": 10,
+    "years_required_max": null,
+    "manages_people": true,
+    "level_signals": [
+      "5+ years of experience managing high-performing teams",
+      "10+ years of experience in high-performance cultures",
+      "Reports into GM of Retail; co-manages P&L with GM",
+      "Manages a team of direct & indirect reports",
+      "Comp range $197,200–$290,000 base consistent with Director-level at DoorDash"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_experience_total",
+      "raw_text_from_jd": "You have 10+ years of experience. You've succeeded in high-performance cultures (whether in tech, operations, strategy, consulting, banking, or a related experience).",
+      "skill_type": "years_of_experience",
+      "domain": "strategy_operations_or_related",
+      "minimum_value": 10,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "tech",
+        "operations",
+        "consulting",
+        "banking"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "high-performance cultures"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "years_people_management",
+      "raw_text_from_jd": "You are a leader. You have 5+ years of experience managing high-performing teams.",
+      "skill_type": "years_of_experience",
+      "domain": "people_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "You have completed your BS/BA Degree.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "BS/BA Degree"
+      ]
+    },
+    {
+      "id": "pnl_ownership",
+      "raw_text_from_jd": "co-manage the P&L with our GM of Retail",
+      "skill_type": "capability",
+      "domain": "p_and_l_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "retail"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "consumer_growth_strategy",
+      "raw_text_from_jd": "You will work on initiatives that drive customer conversion, generate cross-category adoption, net-new off-app growth strategies, affordability paradigms tailored for a best-in-class retail experience.",
+      "skill_type": "capability",
+      "domain": "consumer_growth_strategy",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "retail"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_leadership",
+      "raw_text_from_jd": "You'll work with a cross-functional team, including engineering, marketing, design, product, and more, as well as lead and develop your own pod to build.",
+      "skill_type": "capability",
+      "domain": "cross_functional_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "first_principles_problem_solving",
+      "raw_text_from_jd": "You solve problems from first principles. You're excited to solve problems in innovative ways, and you resist \"this is how it's always been done\" thinking.",
+      "skill_type": "cultural_fit",
+      "domain": "strategic_thinking",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_tolerance",
+      "raw_text_from_jd": "You're unafraid of ambiguity. Rapid change and learning is exciting to you, and you thrive in ambiguous, startup environments",
+      "skill_type": "cultural_fit",
+      "domain": "adaptability",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_financial_judgment",
+      "raw_text_from_jd": "You'll assess the operational and financial impacts of your decisions, and use your judgement to balance the short and long term trade offs.",
+      "skill_type": "capability",
+      "domain": "financial_and_operational_analysis",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear (manages direct & indirect reports)",
+    "surface": "DoorDash Retail consumer initiatives — growth, shopping experience, P&L; New Verticals including Grocery, Convenience, Alcohol, Retail, Pets, Flowers, Home Improvement",
+    "business_model": "marketplace / local commerce platform, B2C",
+    "primary_metrics_inferred": [
+      "Retail top-line revenue",
+      "Customer conversion rate",
+      "Cross-category adoption",
+      "Off-app growth",
+      "P&L performance vs plan"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Product",
+      "Design",
+      "Marketing",
+      "Finance",
+      "GM of Retail"
+    ],
+    "core_responsibilities": [
+      "Single threaded owner for all consumer initiatives including growth and shopping experience",
+      "Co-manage the P&L with GM of Retail",
+      "Partner with product, engineering, and design to develop vision for local retail",
+      "Drive customer conversion, cross-category adoption, off-app growth, and affordability strategies",
+      "Be accountable for the top line number for retail",
+      "Lead and develop a pod of direct and indirect reports",
+      "Transform strategies into operational experiments with measurable outcomes"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      197200,
+      290000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity grants",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "New Verticals",
+    "Retail Strategy & Operations",
+    "P&L ownership",
+    "consumer growth",
+    "marketplace",
+    "local commerce",
+    "cross-category adoption",
+    "off-app growth",
+    "Director",
+    "DoorDash Retail",
+    "first principles",
+    "cross-functional leadership"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed and broad ($197,200–$290,000 base)",
+    "Equity grants mentioned in addition to base",
+    "Clear P&L ownership and defined product surface (Retail within New Verticals)",
+    "Reports directly to GM of Retail — senior visibility",
+    "Comprehensive benefits package described in detail",
+    "Explicit DE&I commitments and fair chance hiring policy"
+  ],
+  "red_flags": [
+    "No specific cities listed for hybrid requirement — candidates cannot assess commute burden without contacting recruiter",
+    "Travel required cross-country 3–4 times per quarter — significant travel commitment not fully highlighted in requirements section",
+    "Visa sponsorship status not addressed in JD",
+    "Broad comp range ($92,800 spread) may indicate significant variance by location or leveling"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range, years requirements, and reporting structure)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly listed as metrics in JD)",
+      "scope.business_model (inferred from product description)",
+      "location.cities_listed (no specific cities named for this role in the JD body)",
+      "location.remote_us_eligible (inferred as false from hybrid language requiring in-office blend)"
+    ],
+    "ambiguities": [
+      "No cities are named for the hybrid requirement; unclear which office(s) candidates must commute to — could be SF, NYC, or other DoorDash offices",
+      "Visa sponsorship is not mentioned anywhere in the JD; marked as 'unclear'",
+      "All 'We're excited about you because' bullets appear unconditional in language; treated as hard must-haves despite some being cultural-fit items"
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "company": "Faire",
+  "role_title": "Staff Product Manager, Brand",
+  "url": "https://boards.greenhouse.io/faire/jobs/8425967002?gh_jid=8425967002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8425967002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "3 days per week (Tuesdays, Thursdays, and one flex day); up to 4 weeks remote per year",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Marketplace PM (Brand-side)",
+  "seniority": {
+    "level": "Staff PM (IC6 equivalent)",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7+ years of experience in product at a high-growth tech startup or as a startup founder",
+      "Title is 'Staff Product Manager'",
+      "Comp range $220K-$302.5K base, consistent with Staff IC level",
+      "Make decisions alongside company founders and the CEO"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "Bachelor's degree or equivalent experience.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": true,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree"
+      ]
+    },
+    {
+      "id": "years_product_experience",
+      "raw_text_from_jd": "You have 7+ years of experience in product at a high-growth tech startup or as a startup founder.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 7,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "high-growth tech startup"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "inspiring_leadership",
+      "raw_text_from_jd": "You're an inspiring leader who is excited about the day-to-day of understanding our customers and working with a strong team to build improvements for them.",
+      "skill_type": "capability",
+      "domain": "leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "fast_learner",
+      "raw_text_from_jd": "You're an extraordinarily fast learner. You have the natural curiosity and intellectual horsepower to deeply understand new topics and pick up new skills in a very short time.",
+      "skill_type": "cultural_fit",
+      "domain": "learning_agility",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "relentlessly_resourceful",
+      "raw_text_from_jd": "You are relentlessly resourceful. When something needs to get done, you always find a way to make it happen. Even when the work is hard, you power through it and execute with limited information and ambiguity.",
+      "skill_type": "cultural_fit",
+      "domain": "execution_under_ambiguity",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "creative_problem_solver",
+      "raw_text_from_jd": "You are a creative problem-solver. You excel at identifying unintuitive solutions to tough problems.",
+      "skill_type": "capability",
+      "domain": "problem_solving",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_centric_passion",
+      "raw_text_from_jd": "You care deeply about developing products and solutions that will create the best experience for our customers.",
+      "skill_type": "cultural_fit",
+      "domain": "customer_focus",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "process_optimization_passion",
+      "raw_text_from_jd": "You have a passion for optimizing processes. You get satisfaction from seeing how something is being done and finding ways to make the process faster, easier, and more efficient.",
+      "skill_type": "cultural_fit",
+      "domain": "process_improvement",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Brand-side of the Faire wholesale marketplace — workflows, programs, and products helping brands succeed on Faire",
+    "business_model": "B2B marketplace (wholesale platform connecting independent retailers and brands)",
+    "primary_metrics_inferred": [
+      "Brand success/conversion metrics on marketplace",
+      "Brand retention and GMV",
+      "Workflow efficiency for brand customers",
+      "Marketplace flywheel acceleration"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Data Science",
+      "Operations",
+      "Go-to-Market",
+      "Finance"
+    ],
+    "core_responsibilities": [
+      "Deeply understand our customers, build strategies that anticipate and support their needs, and execute rapidly and with an eye to metrics impact to improve their experience",
+      "Build programs to support customers alongside shipping great technology products",
+      "Understand the business equation and flywheel that make our marketplace work – and accelerate it",
+      "Work with and learn from a broad range of world-class leaders across go-to-market, ops, and finance, as well as engineering, design, and data science",
+      "Make decisions alongside company founders and the CEO",
+      "Empower small businesses around the world to chase their dreams and invest in their local communities"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      220000,
+      302500
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity (form not specified)",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Staff Product Manager",
+    "Brand",
+    "marketplace",
+    "wholesale",
+    "high-growth tech startup",
+    "go-to-market",
+    "data science",
+    "flywheel",
+    "small business",
+    "independent retailers",
+    "machine learning",
+    "metrics impact"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range explicitly stated and competitive ($220K-$302.5K base)",
+    "Equity and benefits mentioned",
+    "Direct collaboration with CEO and company founders signals high-impact role",
+    "Clear product surface (Brand-side of marketplace) with well-defined cross-functional partners",
+    "Well-known VC-backed company (Y Combinator, Sequoia, Lightspeed, etc.) with established product culture",
+    "Hybrid model with explicit in-office schedule and up to 4 weeks remote flexibility"
+  ],
+  "red_flags": [
+    "No mention of visa sponsorship — unclear for international candidates",
+    "Broad and somewhat generic qualifications language (relentlessly resourceful, creative problem-solver) makes differentiation criteria ambiguous",
+    "No specific domain experience (wholesale, retail, marketplace) listed as a requirement, but the role is highly marketplace-specific — implied depth may be expected",
+    "Pay range is very wide ($82.5K spread), making it difficult to assess likely offer level",
+    "Nice-to-haves section is entirely absent from JD — signals either high bar or underspecified role"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Staff PM', comp range, and years requirement)",
+      "scope.business_model (inferred from product description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "location.work_auth (not stated in JD)",
+      "location.visa_sponsorship (not stated in JD)",
+      "posting_first_seen (not available)",
+      "posting_last_updated (not available)"
+    ],
+    "ambiguities": [
+      "No explicit nice-to-haves section in JD; all qualifications are written as unconditional bullets under 'Qualifications', so all are treated as hard must-haves.",
+      "The founder/startup experience qualifier ('or as a startup founder') in the years requirement is unusual — it is unclear whether founding experience fully substitutes for product management experience or is additive.",
+      "Location context: SF pay range given explicitly, but the JD mentions offices in Toronto, London, New York, and Kitchener-Waterloo; it is unclear if this role is SF-only or could be based elsewhere — treated as SF primary given the pay range disclosure."
+    ]
+  }
+}

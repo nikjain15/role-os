@@ -1,0 +1,303 @@
+{
+  "company": "Lyft",
+  "role_title": "Staff Technical Program Manager, Mergers & Acquisition",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8508873002?gh_jid=8508873002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8508873002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "3 days per week on Mondays, Wednesdays, and Thursdays",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "M&A Integration / Enterprise Systems TPM",
+  "seniority": {
+    "level": "Staff IC (Senior / Staff TPM)",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5-10+ years in project/program management specifically in M&A integration",
+      "Comp range $176K-$220K base in SF, consistent with Staff-level IC at Lyft",
+      "Reports to Head of Central TPM",
+      "Role title includes 'Staff'"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_ma_integration",
+      "raw_text_from_jd": "5-10+ years in project/program management, specifically in M&A integration, corporate development, or transformation roles.",
+      "skill_type": "years_of_experience",
+      "domain": "program_management+M&A_integration",
+      "minimum_value": 5,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "back_office_operations_expertise",
+      "raw_text_from_jd": "Deep understanding of back-office operations (Systems/Finance/HR) and M&A life cycle.",
+      "skill_type": "domain_knowledge",
+      "domain": "back_office_operations+M&A",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_leadership",
+      "raw_text_from_jd": "Strong leadership, cross-functional influencing skills, and the ability to work in high-stakes, fast-paced environments.",
+      "skill_type": "capability",
+      "domain": "cross_functional_leadership",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "it_systems_integration_knowledge",
+      "raw_text_from_jd": "Familiarity with IT systems integration, marketplace infrastructure and associated financial data pipelines.",
+      "skill_type": "domain_knowledge",
+      "domain": "IT_systems_integration",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "IT systems integration",
+        "financial data pipelines",
+        "marketplace infrastructure"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "due_diligence_leadership",
+      "raw_text_from_jd": "Lead the back office due diligence assessment for future acquisitions.",
+      "skill_type": "capability",
+      "domain": "M&A_due_diligence",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "integration_planning",
+      "raw_text_from_jd": "Develop and execute comprehensive integration roadmaps, strategies, and playbooks for business functions.",
+      "skill_type": "capability",
+      "domain": "integration_planning",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "enterprise_systems_stack",
+      "raw_text_from_jd": "operating across a modern enterprise stack including Workday, Okta, Google Workspace, Oracle Fusion, and Salesforce and knowing how to bring an acquired company into that environment with speed and precision.",
+      "skill_type": "tool_proficiency",
+      "domain": "enterprise_systems",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Workday",
+        "Okta",
+        "Google Workspace",
+        "Oracle Fusion",
+        "Salesforce"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sox_compliance_security",
+      "raw_text_from_jd": "Ensure compliance with corporate standards, including SOX controls, identity access management, and security protocols.",
+      "skill_type": "domain_knowledge",
+      "domain": "compliance+security",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "SOX controls",
+        "identity access management"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "Bachelor's degree in Business, Finance, or related field; MBA is often preferred.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree"
+      ]
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "mba_preferred",
+      "raw_text_from_jd": "MBA is often preferred.",
+      "skill_type": "credential",
+      "domain": "education",
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "MBA"
+      ]
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Enterprise Systems M&A integration — back-office (Finance, HR, IT, Legal, Marketing, Sales, Operations) across acquisition lifecycles",
+    "business_model": "B2C / B2B rideshare and mobility platform",
+    "primary_metrics_inferred": [
+      "Day 1 and Day 100 integration milestones achieved",
+      "Synergy realization / financial and operational ROI vs. targets",
+      "Employee experience continuity during transitions",
+      "Timeline and risk management across integration workstreams"
+    ],
+    "cross_functional_partners": [
+      "Finance",
+      "People/HR",
+      "IT",
+      "Legal",
+      "Marketing",
+      "Sales",
+      "Operations",
+      "Executive Leadership"
+    ],
+    "core_responsibilities": [
+      "Lead back office due diligence assessment for future acquisitions",
+      "Develop and execute comprehensive integration roadmaps, strategies, and playbooks for business functions",
+      "Coordinate HR, Finance, IT, Legal, Marketing, Sales and Operations teams for timely transition and milestone execution",
+      "Identify dependencies, mitigate risks, and resolve issues related to system, process, or team integration",
+      "Track financial and operational metrics against targets to ensure value capture and measure ROI",
+      "Facilitate governance meetings and provide regular updates to executive leadership",
+      "Oversee migration of data, legal entities, and operational processes (payroll, IT infrastructure)",
+      "Ensure compliance with SOX controls, identity access management, and security protocols",
+      "Lead Day 1 and Day 100 planning for minimal employee impact and business continuity"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      176000,
+      220000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "potential equity offering mentioned but not detailed",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "M&A integration",
+    "Technical Program Manager",
+    "due diligence",
+    "Workday",
+    "Oracle Fusion",
+    "Salesforce",
+    "Okta",
+    "SOX controls",
+    "back-office operations",
+    "integration playbook",
+    "cross-functional leadership",
+    "enterprise systems",
+    "identity access management",
+    "Day 1 planning"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($176K-$220K base in SF area)",
+    "Clear and specific role scope — M&A integration with defined systems stack",
+    "Named enterprise tools (Workday, Okta, Oracle Fusion, Salesforce, Google Workspace) give concrete technical expectations",
+    "Hybrid policy clearly stated (3 days/week Mon, Wed, Thu)",
+    "Equity and bonus mentioned in addition to base",
+    "Reports to Head of Central TPM — clear reporting line",
+    "Role narrative is compelling and articulates real employee impact"
+  ],
+  "red_flags": [
+    "MBA listed as 'often preferred' in the experience section — ambiguous whether it is truly soft or carries hidden weight in evaluation",
+    "Hybrid requires in-office 3 days/week in San Francisco — limits candidates outside the Bay Area",
+    "Visa sponsorship not addressed — unclear for international candidates",
+    "Years range '5-10+' is unusually broad and may indicate uncertainty about level calibration"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range, role title 'Staff', and years range)",
+      "scope.business_model (inferred from Lyft's known business)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicit in JD)",
+      "location.visa_sponsorship (not mentioned in JD; marked unclear)",
+      "posting_first_seen (not available)",
+      "posting_last_updated (not available)"
+    ],
+    "ambiguities": [
+      "The years range '5-10+' is unusually wide; it is unclear whether this is a Staff-level role expecting 10+ years or a Senior role expecting 5+. Treated as Staff based on title and comp.",
+      "MBA is described as 'often preferred' — this phrasing is non-standard and could be interpreted as stronger than a typical nice-to-have. Classified as soft/nice-to-have here.",
+      "Bachelor's degree is listed in the Experience section with no 'required' qualifier, but it reads as a baseline expectation alongside the preferred MBA; classified as hard accordingly.",
+      "Compensation note says 'not inclusive of potential equity offering, bonus or benefits' — equity and bonus are mentioned but not quantified."
+    ]
+  }
+}

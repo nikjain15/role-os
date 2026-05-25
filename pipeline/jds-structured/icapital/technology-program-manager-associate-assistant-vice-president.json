@@ -1,0 +1,350 @@
+{
+  "company": "iCapital",
+  "role_title": "Technology Program Manager - Associate / Assistant Vice President",
+  "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8457294002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8457294002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [],
+    "remote_us_eligible": false,
+    "office_time_required": "Monday-Thursday in office, Friday remote",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "BizOps / Strategy & Ops",
+  "seniority": {
+    "level": "Mid-Senior IC (Associate / AVP)",
+    "years_required_min": 5,
+    "years_required_max": 10,
+    "manages_people": false,
+    "level_signals": [
+      "5-10 years of relevant experience",
+      "Title spans Associate to Assistant Vice President",
+      "Base salary range $100,000 to $120,000"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_relevant_experience",
+      "raw_text_from_jd": "5-10 years of relevant experience",
+      "skill_type": "years_of_experience",
+      "domain": "technology_program_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "two_domain_experience",
+      "raw_text_from_jd": "Experience in at least two of the following: technical program management, financial services industry, or technology or financial services consulting",
+      "skill_type": "domain_knowledge",
+      "domain": "technical_program_management_or_financial_services",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "financial services"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "top-tier consulting firm"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "sdlc_knowledge",
+      "raw_text_from_jd": "Strong understanding of software development lifecycle (SDLC) methodologies",
+      "skill_type": "domain_knowledge",
+      "domain": "software_development_lifecycle",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "SDLC"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "relational_database_familiarity",
+      "raw_text_from_jd": "Familiar with relational database concepts and data modeling",
+      "skill_type": "domain_knowledge",
+      "domain": "data_modeling",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "relational database"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cloud_exposure",
+      "raw_text_from_jd": "Exposure to cloud technologies (i.e. AWS)",
+      "skill_type": "domain_knowledge",
+      "domain": "cloud_infrastructure",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AWS"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "project_management_tools",
+      "raw_text_from_jd": "Experience with project management tools such as JIRA, Monday.com, or similar platforms",
+      "skill_type": "tool_proficiency",
+      "domain": "project_management",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "JIRA",
+        "Monday.com"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "stakeholder_influence",
+      "raw_text_from_jd": "Able to influence stakeholders and build consensus across diverse viewpoints",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strategic_thinking",
+      "raw_text_from_jd": "Strategic thinker who can connect big-picture objectives to detailed execution plans",
+      "skill_type": "capability",
+      "domain": "strategy_and_execution",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_navigation",
+      "raw_text_from_jd": "Comfortable navigating complexity and ambiguity",
+      "skill_type": "cultural_fit",
+      "domain": "adaptability",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_skills",
+      "raw_text_from_jd": "Exceptional verbal and written communication skills and organizational skills with attention to detail",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "collaborative_mindset",
+      "raw_text_from_jd": "Strong interpersonal skills with a collaborative, team-oriented mindset",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "independent_and_cross_functional",
+      "raw_text_from_jd": "Able to operate effectively both independently and within cross-functional teams",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "bachelor_degree",
+      "raw_text_from_jd": "Bachelor's degree in engineering, computer science, business administration, or related field preferred",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": true,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree"
+      ]
+    },
+    {
+      "id": "pmp_certification",
+      "raw_text_from_jd": "PMP certification is a plus",
+      "skill_type": "credential",
+      "domain": "project_management_certification",
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "PMP"
+      ]
+    }
+  ],
+  "explicitly_excluded": [
+    "hands-on coding or testing"
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Cross-functional technology programs spanning engineering, cloud/infrastructure, data/analytics, ML, and enterprise vendor implementations",
+    "business_model": "B2B fintech / alternative investments platform",
+    "primary_metrics_inferred": [
+      "On-time delivery of complex cross-functional programs",
+      "Program transparency and stakeholder alignment",
+      "Engineering productivity and delivery effectiveness"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Technology leadership",
+      "Senior stakeholders"
+    ],
+    "core_responsibilities": [
+      "Lead end-to-end delivery of complex, cross-functional technology programs spanning multiple engineering teams",
+      "Partner with the Engineering teams to define scope, roadmap, milestones, and measurable outcomes",
+      "Establish clear governance, reporting, and risk management practices to ensure transparency and accountability",
+      "Communicate program status, risks, dependencies, and mitigation strategies to senior stakeholders",
+      "Collaborate with Technology leadership to shape forward-looking strategy and execution frameworks",
+      "Drive continuous improvement initiatives to enhance delivery effectiveness across the broader Technology teams",
+      "Bring structure and clarity to ambiguous or evolving initiatives"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      100000,
+      120000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity for all full-time employees",
+    "location_pay_differential": false,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "technology program management",
+    "cross-functional",
+    "SDLC",
+    "engineering delivery",
+    "governance",
+    "risk management",
+    "AI-augmented",
+    "cloud",
+    "AWS",
+    "JIRA",
+    "Monday.com",
+    "financial services",
+    "stakeholder management",
+    "roadmap"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range explicitly disclosed ($100K-$120K base)",
+    "Equity included for all full-time employees",
+    "Comprehensive benefits including 100% employer-paid dental, vision, telemedicine",
+    "Unlimited PTO mentioned",
+    "Clear scope: not a coding/testing role — orchestration and delivery focus stated explicitly",
+    "Hybrid schedule defined precisely (Mon-Thu in office, Fri remote)"
+  ],
+  "red_flags": [
+    "No cities explicitly listed for the role — office location is unclear from the JD body",
+    "No mention of visa sponsorship",
+    "Title range (Associate to AVP) is broad and may indicate pay/level flexibility depending on candidate, with limited clarity on actual seniority expectations",
+    "Requirement of experience in 'at least two of' three domains is somewhat ambiguous in how it will be evaluated"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "scope.business_model (inferred from iCapital's publicly known position as a fintech/alternative investments platform)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "seniority.level (inferred from title range, comp, and years of experience)",
+      "location.cities_listed (not named in JD body; left empty)"
+    ],
+    "ambiguities": [
+      "The JD does not explicitly name the office city/location, making it unclear where the hybrid schedule applies.",
+      "Title spans 'Associate' to 'Assistant Vice President' — seniority and compensation may be calibrated at hiring based on candidate experience; the $100K-$120K range may map to the lower end of the title range.",
+      "The bachelor's degree is listed under 'Qualifications' as 'preferred', placing it in nice_to_haves despite its position in the same list as other hard requirements."
+    ]
+  }
+}

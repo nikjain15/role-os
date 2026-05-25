@@ -1,0 +1,369 @@
+{
+  "company": "Lyft",
+  "role_title": "Manager, AV Strategy & Business Operations",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8538810002?gh_jid=8538810002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8538810002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "New York City, NY"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "3 days per week on Mondays, Wednesdays, and Thursdays",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Chief of Staff",
+  "seniority": {
+    "level": "Manager / Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of experience in business operations, strategy, finance, or a similar analytical role",
+      "Reports to Director of AV Strategy",
+      "Base pay range $132,000–$165,000 in NYC area",
+      "Prepares board-level materials and works with senior leaders"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "Bachelor's degree in Finance, Business, Economics, or related field; MBA or relevant advanced degree is a plus.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree",
+        "Finance",
+        "Business",
+        "Economics"
+      ]
+    },
+    {
+      "id": "years_biz_ops_strategy_finance",
+      "raw_text_from_jd": "5+ years of experience in business operations, strategy, finance, or a similar analytical role, ideally within a high-growth tech environment or management consulting.",
+      "skill_type": "years_of_experience",
+      "domain": "business_operations_strategy_finance",
+      "minimum_value": 5,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "high-growth tech environment",
+        "management consulting"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "financial_modeling_proficiency",
+      "raw_text_from_jd": "Proficiency in financial modeling, forecasting, and data analysis with strong command of Excel, SQL, and data visualization tools.",
+      "skill_type": "tool_proficiency",
+      "domain": "financial_modeling_and_data_analysis",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Excel",
+        "SQL"
+      ],
+      "technologies_named": [
+        "data visualization"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_skills",
+      "raw_text_from_jd": "Excellent communication skills with proven ability to translate complex financial and strategic concepts for both technical and non-technical audiences.",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "senior_stakeholder_experience",
+      "raw_text_from_jd": "Demonstrated experience working with senior leaders and external partners to drive business outcomes.",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_mindset",
+      "raw_text_from_jd": "Strong analytical mindset with focus on detail, accuracy, and strategic thinking.",
+      "skill_type": "capability",
+      "domain": "analytical_thinking",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "mba_advanced_degree",
+      "raw_text_from_jd": "MBA or relevant advanced degree is a plus.",
+      "skill_type": "credential",
+      "domain": "education",
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "MBA"
+      ]
+    },
+    {
+      "id": "av_mobility_experience",
+      "raw_text_from_jd": "3+ years prior experience with Autonomous Vehicles or adjacent mobility sectors.",
+      "skill_type": "years_of_experience",
+      "domain": "autonomous_vehicles_mobility",
+      "minimum_value": 3,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "Autonomous Vehicles"
+      ],
+      "industries_named": [
+        "mobility"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "corp_dev_ma_investment",
+      "raw_text_from_jd": "Experience with corporate development, M&A, or investment analysis.",
+      "skill_type": "domain_knowledge",
+      "domain": "corporate_development_ma",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "competitive_analysis",
+      "raw_text_from_jd": "Experience conducting competitive landscape analysis and capability benchmarking.",
+      "skill_type": "capability",
+      "domain": "competitive_intelligence",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "fleet_management_familiarity",
+      "raw_text_from_jd": "Familiarity with fleet management, asset utilization models, or mobility operations.",
+      "skill_type": "domain_knowledge",
+      "domain": "fleet_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "mobility"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "european_mobility_knowledge",
+      "raw_text_from_jd": "Knowledge of European mobility markets and regulatory environments.",
+      "skill_type": "domain_knowledge",
+      "domain": "regulatory_and_market_knowledge",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "mobility"
+      ],
+      "geographies_named": [
+        "Europe"
+      ],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "matrixed_org_experience",
+      "raw_text_from_jd": "Experience operating in matrixed or multi-entity organizational structures, particularly across US and international teams.",
+      "skill_type": "capability",
+      "domain": "organizational_effectiveness",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [
+        "US"
+      ],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "board_level_materials",
+      "raw_text_from_jd": "Experience preparing board-level materials and executive communications.",
+      "skill_type": "capability",
+      "domain": "executive_communications",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Lyft Autonomous — AV partnerships, fleet deployment, and go-to-market planning across US and Europe",
+    "business_model": "B2B2C — autonomous vehicle partnerships on the Lyft rideshare platform",
+    "primary_metrics_inferred": [
+      "AV fleet deployment and utilization",
+      "Partnership economics and P&L performance",
+      "Market launch readiness and milestone tracking",
+      "Investment and financial model accuracy"
+    ],
+    "cross_functional_partners": [
+      "FP&A",
+      "Fleet Operations",
+      "Legal",
+      "Marketplace",
+      "Product",
+      "Strategy",
+      "European teams"
+    ],
+    "core_responsibilities": [
+      "Support ongoing strategic planning and go-to-market efforts across US and global markets",
+      "Monitor industry trends, competitive dynamics, and partnership developments to inform Lyft strategic positioning",
+      "Synthesize regulatory and political developments to assess impacts to launch plans",
+      "Design and build complex financial models to evaluate AV partnership economics, fleet deployment scenarios, and investment opportunities",
+      "Build and maintain commercial P&Ls for individual partnerships and markets",
+      "Prepare deal overviews, investment memos, and board-level reviews for potential AV partnerships and strategic investments",
+      "Collaborate with European teams and US operations to coordinate launch planning across multiple concurrent markets and AV partners",
+      "Develop blueprints for AV deployments, including regulatory engagement, fleet logistics, real estate and infrastructure, and operational readiness",
+      "Support partner management by tracking milestones, identifying blockers, and ensuring alignment between commercial agreements and operational execution"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      132000,
+      165000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "potential equity offering mentioned (not quantified)",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "autonomous vehicles",
+    "AV partnerships",
+    "financial modeling",
+    "business operations",
+    "strategic planning",
+    "go-to-market",
+    "fleet deployment",
+    "P&L",
+    "investment analysis",
+    "European markets",
+    "board-level materials",
+    "SQL",
+    "Excel"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($132K–$165K base in NYC)",
+    "Clear reporting structure (reports to Director of AV Strategy)",
+    "Well-defined scope: autonomous vehicle partnerships across US and Europe",
+    "Hybrid schedule clearly described (3 days/week: Mon, Wed, Thu)",
+    "Flexibility to work from anywhere up to 4 weeks per year",
+    "Strong benefit package including 18 weeks paid parental leave and 401(k) match"
+  ],
+  "red_flags": [
+    "Visa sponsorship status not mentioned — unclear for international candidates",
+    "Role spans very broad functional areas (strategy, finance, ops, GTM, partner management) which may indicate under-resourcing",
+    "NYC location only disclosed for comp range — actual office location not confirmed in body",
+    "No information on team size or direct reports"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range, years required, and reporting line)",
+      "scope.business_model (inferred from product description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "location.cities_listed (inferred from comp range section referencing NYC; primary office not explicitly named in role header)",
+      "manages_people (not stated; inferred as false from IC-level responsibilities)"
+    ],
+    "ambiguities": [
+      "The JD states 'US and Europe' scope but the compensation range references only the New York City area — actual office location for the role is not confirmed beyond the comp disclosure.",
+      "The education requirement lists Bachelor's as 'Required' and MBA as 'a plus' in the same sentence — treated Bachelor's as hard and MBA as soft accordingly.",
+      "Visa sponsorship is not addressed anywhere in the JD; work_auth set to 'open' and visa_sponsorship set to 'unclear'."
+    ]
+  }
+}

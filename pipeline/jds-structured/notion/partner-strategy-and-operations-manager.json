@@ -1,0 +1,343 @@
+{
+  "company": "Notion",
+  "role_title": "Partner Strategy & Operations Manager",
+  "url": "https://jobs.ashbyhq.com/Notion/5dc7695e-139e-4679-a213-a733ee1d62d5",
+  "ats_provider": "ashby",
+  "ats_job_id": "5dc7695e-139e-4679-a213-a733ee1d62d5",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "San Francisco",
+      "New York City"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "Mondays, Tuesdays, and Thursdays (Anchor Days); certain teams may require additional in-office days",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Partner Operations / GTM Ops",
+  "seniority": {
+    "level": "Senior IC / Manager",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7+ years in Strategy & Operations, Business Operations, Analytics, or Consulting",
+      "Expected to lead annual/semi-annual planning for the Partner org",
+      "Base salary range $185,000–$220,000 for SF/NYC, consistent with senior IC or senior manager level"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_strategy_ops",
+      "raw_text_from_jd": "7+ years in Strategy & Operations, Business Operations, Analytics, or Consulting, with applied experience in tech/SaaS",
+      "skill_type": "years_of_experience",
+      "domain": "strategy_and_operations",
+      "minimum_value": 7,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "tech",
+        "SaaS"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytics_modeling",
+      "raw_text_from_jd": "Strong analytics and modeling capabilities: You structure ambiguous problems through data and distill insights into clear recommendations",
+      "skill_type": "capability",
+      "domain": "data_analytics_and_modeling",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "process_oriented_mindset",
+      "raw_text_from_jd": "Process-oriented mindset: You understand existing workflows and build processes and automation that create efficiency and accelerate business results",
+      "skill_type": "capability",
+      "domain": "process_design_and_automation",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "impact_roi_orientation",
+      "raw_text_from_jd": "Impact orientation and ROI: You craft narratives that weigh benefits and tradeoffs, guiding leaders to the right decisions that will help them achieve their goals",
+      "skill_type": "capability",
+      "domain": "business_case_and_decision_making",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strong_communication",
+      "raw_text_from_jd": "Strong communication: You communicate effectively across audiences, functions and levels, including executive leadership",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_influence",
+      "raw_text_from_jd": "Cross-functional influence: You collaborate across teams, leveraging diverse expertise to drive results. You're not afraid to zoom in and out, and roll up your sleeves to get things done",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "project_management",
+      "raw_text_from_jd": "Project management: You translate strategies into clear milestones, goals, and dependencies while keeping stakeholders informed",
+      "skill_type": "capability",
+      "domain": "project_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "velocity_mindset",
+      "raw_text_from_jd": "Velocity mindset: You design pilots and experiments, success measures, and scale wins quickly",
+      "skill_type": "cultural_fit",
+      "domain": "execution_speed_and_experimentation",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "partner_expertise",
+      "raw_text_from_jd": "Partner expertise: You understand Partner and Consultant models, Go to Market functions, and what great operations looks like",
+      "skill_type": "domain_knowledge",
+      "domain": "partner_and_gtm_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_tools_curiosity",
+      "raw_text_from_jd": "You don't need to be an AI expert, but you're curious and willing to adopt AI tools to work smarter and deliver better results.",
+      "skill_type": "cultural_fit",
+      "domain": "ai_tool_adoption",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "partner_systems_experience",
+      "raw_text_from_jd": "Hands-on experience with Partner systems",
+      "skill_type": "tool_proficiency",
+      "domain": "partner_systems",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "advanced_analytics_sql",
+      "raw_text_from_jd": "Advanced analytics, statistics background and/or SQL skills",
+      "skill_type": "tool_proficiency",
+      "domain": "advanced_analytics_and_sql",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "SQL"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "exec_support_experience",
+      "raw_text_from_jd": "Hands-on experience directly supporting executive leadership",
+      "skill_type": "capability",
+      "domain": "executive_support",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "broader_gtm_ops",
+      "raw_text_from_jd": "Broader GTM operations experience (e.g. Sales, CS, CX, Marketing Ops)",
+      "skill_type": "domain_knowledge",
+      "domain": "gtm_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Partner & Consultant program strategy and operations (self-service and sales-assisted motions)",
+    "business_model": "B2B and B2C SaaS; partner/consultant-assisted growth channel",
+    "primary_metrics_inferred": [
+      "ARR growth via partner channel",
+      "Partner program KPIs and OKRs",
+      "Partner org headcount and opex efficiency",
+      "Revenue and capacity model accuracy"
+    ],
+    "cross_functional_partners": [
+      "RevOps",
+      "Business Technology",
+      "Data",
+      "Finance",
+      "Product",
+      "Go to Market / GTM"
+    ],
+    "core_responsibilities": [
+      "Lead annual and semi-annual planning for the Partner org, including invest/divest recommendations, headcount and opex, OKRs, KPIs and incentives models",
+      "Build and own revenue and capacity models to inform investment decisions; Structure ambiguous problems through data, translating insights into clear recommendations",
+      "Design and run 'rhythm of the business' operating cadences e.g. KPI and OKR reviews to drive the right decisions at the right time",
+      "Partner with BizTech and Data to define requirements, prioritize work, and deliver the systems, reporting and analytics capabilities needed to run the Partner business",
+      "Improve Partner process, working closely with Business Technology and Partner teams to improve end to end experience across Partner onboarding, lead gen, etc.",
+      "Evolve Partner operating processes and experiences; Identify bottlenecks and guide process optimization and automation",
+      "Guide and design data-backed strategies such as tiering, incentives, referral models and more"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      185000,
+      220000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity mentioned as part of compensation package (form not specified)",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Partner Strategy",
+    "Partner Operations",
+    "GTM operations",
+    "revenue and capacity models",
+    "KPIs and OKRs",
+    "annual planning",
+    "process optimization",
+    "cross-functional",
+    "SaaS",
+    "ARR growth",
+    "tiering",
+    "incentive models",
+    "BizOps"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed and competitive ($185K–$220K base for SF/NYC)",
+    "Equity explicitly mentioned as part of compensation",
+    "Clear scope and ownership over Partner org strategy and operations",
+    "Encourages applications from candidates whose past experience doesn't align perfectly with every bullet",
+    "Explicitly states commitment to diversity and equal opportunity",
+    "Clear Anchor Day hybrid policy (Mon/Tue/Thu) — predictable in-office expectations"
+  ],
+  "red_flags": [
+    "Hybrid policy requires in-office presence three days per week (Mon, Tue, Thu); fully remote candidates not eligible",
+    "Visa sponsorship status not explicitly stated — unclear",
+    "Compensation range only confirmed for SF and NYC; other locations not clarified",
+    "#LI-Onsite tag in metadata may conflict with the described hybrid arrangement — possible metadata/body inconsistency"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years requirement + comp range)",
+      "seniority.manages_people (not explicitly stated; inferred as false — role leads programs, not headcount)",
+      "scope.team_size_estimate (not stated; left as 'unclear')",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not directly listed in JD)",
+      "scope.business_model (inferred from product description and partner motion context)",
+      "compensation.equity_form (equity mentioned but form/vehicle not specified)",
+      "location.visa_sponsorship (not stated; marked unclear)"
+    ],
+    "ambiguities": [
+      "JD footer tag is '#LI-Onsite' but the body describes a hybrid model with three designated Anchor Days (Mon/Tue/Thu). Treated as hybrid here.",
+      "Compensation range is explicitly provided only for San Francisco and New York City roles; ranges for other locations are unspecified.",
+      "Role title says 'Manager' but no direct people management responsibilities are described; may be an IC-level strategy/ops manager role."
+    ]
+  }
+}

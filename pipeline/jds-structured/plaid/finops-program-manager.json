@@ -1,0 +1,407 @@
+{
+  "company": "Plaid",
+  "role_title": "FinOps Program Manager",
+  "url": "https://jobs.ashbyhq.com/plaid/5159cfbb-a402-4ad3-8762-07cd81a5c3c2",
+  "ats_provider": "ashby",
+  "ats_job_id": "5159cfbb-a402-4ad3-8762-07cd81a5c3c2",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [
+      "San Francisco"
+    ],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "BizOps / Strategy & Ops",
+  "seniority": {
+    "level": "Senior IC / Staff-level Program Manager",
+    "years_required_min": 6,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "6–10+ years of relevant experience",
+      "Experience owning and delivering cross-functional programs end-to-end, often without direct authority or a dedicated team",
+      "Drives alignment and behavior change across engineering, product, and finance"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_relevant_experience",
+      "raw_text_from_jd": "6–10+ years of relevant experience working at the intersection of engineering, infrastructure, data, or finance in a cloud-native or SaaS environment.",
+      "skill_type": "years_of_experience",
+      "domain": "engineering_finance_intersection",
+      "minimum_value": 6,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "SaaS"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "engineering_partnership",
+      "raw_text_from_jd": "Proven experience partnering closely with engineering teams to influence decisions involving cloud infrastructure, data platforms, AI/ML workloads, or SaaS spend.",
+      "skill_type": "capability",
+      "domain": "engineering_partnership",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "cloud infrastructure",
+        "data platforms",
+        "AI/ML workloads"
+      ],
+      "industries_named": [
+        "SaaS"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cloud_native_architecture_understanding",
+      "raw_text_from_jd": "Working understanding of modern cloud-native architectures, including core components such as compute, storage, networking, data pipelines, and managed services—enough to engage credibly with engineers on design, tradeoffs, and cost drivers.",
+      "skill_type": "domain_knowledge",
+      "domain": "cloud_architecture",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "compute",
+        "storage",
+        "networking",
+        "data pipelines",
+        "managed services"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cost_analysis_forecasting",
+      "raw_text_from_jd": "Strong foundation in cost analysis, forecasting, budgeting, and variance management, with the ability to translate data into clear, actionable insights.",
+      "skill_type": "capability",
+      "domain": "financial_analysis",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sql_data_comfort",
+      "raw_text_from_jd": "Comfort working directly with data, including writing SQL (or effectively using AI-assisted tools to do so) to explore datasets, validate assumptions, and answer ad hoc questions.",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analysis",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "SQL"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "dashboard_bi_building",
+      "raw_text_from_jd": "Experience building clear, high-quality dashboards and BI artifacts that are not only accurate, but intuitive and delightful for engineers and leaders to use.",
+      "skill_type": "capability",
+      "domain": "business_intelligence",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "behavior_change_adoption",
+      "raw_text_from_jd": "Demonstrated success driving adoption and behavior change—embedding cost awareness into day-to-day engineering workflows, not just producing reports.",
+      "skill_type": "outcome",
+      "domain": "change_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_program_ownership",
+      "raw_text_from_jd": "Experience owning and delivering cross-functional programs end-to-end, often without direct authority or a dedicated team.",
+      "skill_type": "capability",
+      "domain": "program_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "finops_principles",
+      "raw_text_from_jd": "Familiarity with FinOps principles and practices (e.g., shared ownership, showback/chargeback, unit economics, optimization strategies).",
+      "skill_type": "domain_knowledge",
+      "domain": "finops",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strong_communication",
+      "raw_text_from_jd": "Strong communication skills, with the ability to tailor complex technical and financial concepts for engineering, finance, and executive audiences.",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "cloud_cost_tools",
+      "raw_text_from_jd": "Hands-on familiarity with cloud cost management tools (e.g., AWS Cost Explorer, GCP Billing, Azure Cost Management, CloudHealth, Cloudability, or similar).",
+      "skill_type": "tool_proficiency",
+      "domain": "cloud_cost_management",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "AWS Cost Explorer",
+        "GCP Billing",
+        "Azure Cost Management",
+        "CloudHealth",
+        "Cloudability"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_ai_ml_workloads",
+      "raw_text_from_jd": "Experience working with or supporting data platforms and AI/ML workloads, including understanding cost drivers for batch processing, streaming, storage, and model training/inference.",
+      "skill_type": "domain_knowledge",
+      "domain": "data_and_ml_platforms",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "batch processing",
+        "streaming",
+        "storage",
+        "model training/inference"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "showback_chargeback_exposure",
+      "raw_text_from_jd": "Exposure to showback/chargeback models, cost allocation strategies, or product-level unit economics.",
+      "skill_type": "domain_knowledge",
+      "domain": "finops_cost_allocation",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_models_pipelines",
+      "raw_text_from_jd": "Experience improving data models or pipelines that support analytics, reporting, or financial attribution.",
+      "skill_type": "capability",
+      "domain": "data_engineering",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "data pipelines"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "bi_tools_familiarity",
+      "raw_text_from_jd": "Familiarity with BI tools such as Mode, Tableau, Looker, or similar—and a strong eye for dashboard usability and design.",
+      "skill_type": "tool_proficiency",
+      "domain": "business_intelligence",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Mode",
+        "Tableau",
+        "Looker"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_role_background",
+      "raw_text_from_jd": "Background in a technical role (e.g., engineering, TPM, infra, data, or engineering operations) before moving into a more cross-functional or business-oriented position.",
+      "skill_type": "domain_knowledge",
+      "domain": "technical_background",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "high_growth_environment",
+      "raw_text_from_jd": "Experience operating in a high-growth or rapidly scaling environment, where cost structures and investment priorities are evolving quickly.",
+      "skill_type": "domain_knowledge",
+      "domain": "high_growth_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "FinOps function covering cloud infrastructure, AI/ML and data workloads, third-party SaaS tools, and other technical investments",
+    "business_model": "B2B financial data infrastructure / API platform",
+    "primary_metrics_inferred": [
+      "Engineering spend accuracy and forecast variance",
+      "Cloud and SaaS cost optimization savings",
+      "Unit economics per product/workload",
+      "Adoption of cost ownership frameworks by engineering teams"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Product",
+      "Finance",
+      "TPMs",
+      "Data teams"
+    ],
+    "core_responsibilities": [
+      "Monitors and analyzes engineering spend across cloud, AI/ML, data platforms, and SaaS, identifying trends, anomalies, and optimization opportunities.",
+      "Builds and maintains forecasts for engineering spend, partnering with Finance and engineering leaders to understand drivers, assumptions, and risks.",
+      "Partners with engineering, product, and TPMs to incorporate cost considerations into roadmaps, architectural decisions, and execution plans.",
+      "Leads cost optimization initiatives, such as rightsizing, commitment strategies, and workload efficiency improvements, in collaboration with engineering owners.",
+      "Creates and maintains dashboards and reporting that make spend understandable and actionable for both engineers and executives.",
+      "Implements FinOps practices and processes, including showback/chargeback models, unit economics, and cost ownership frameworks.",
+      "Partners on tooling and automation, working with data and engineering teams to improve cost visibility, forecasting accuracy, and operational efficiency.",
+      "Drives alignment and behavior change, helping teams balance cost, performance, reliability, and velocity through data-driven decision making."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "FinOps",
+    "cloud cost management",
+    "engineering spend",
+    "forecasting",
+    "AI/ML workloads",
+    "showback/chargeback",
+    "unit economics",
+    "SQL",
+    "dashboards",
+    "cost optimization",
+    "cross-functional programs",
+    "SaaS",
+    "data platforms"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear scope of ownership: FinOps function with explicit domains (cloud, AI/ML, SaaS, data)",
+    "Role positioned as enabler of engineering velocity, not a cost-control gatekeeping function",
+    "Explicit encouragement to apply even if experience doesn't fully match the JD",
+    "Plaid is a well-known, established fintech with clear product context (12,000 financial institutions, major partners)"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "Location and remote eligibility not stated in JD body — office expectations unclear",
+    "Visa sponsorship not mentioned",
+    "6–10+ years requirement with open-ended upper bound may signal a wide or uncertain level target"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years range and scope of responsibilities)",
+      "scope.business_model (inferred from company description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not directly stated)",
+      "location.cities_listed (San Francisco inferred from HQ mention; role-specific location not stated)",
+      "location.type (not stated in JD; marked unclear)"
+    ],
+    "ambiguities": [
+      "Location/remote policy not stated in the JD body. Plaid HQ is San Francisco but no explicit hybrid/remote/onsite designation is given for this role.",
+      "Visa sponsorship not mentioned at all in the JD.",
+      "'Familiarity with FinOps principles' appears in the Requirements section but uses the word 'Familiarity' which could imply soft — treated as hard given placement in Requirements block."
+    ]
+  }
+}

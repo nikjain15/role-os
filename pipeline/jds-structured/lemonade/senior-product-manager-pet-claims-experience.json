@@ -1,0 +1,269 @@
+{
+  "company": "Lemonade",
+  "role_title": "Senior Product Manager, Pet Claims Experience",
+  "url": "https://jobs.ashbyhq.com/lemonade/48624439-f146-49dc-bb57-05b7d7731c03",
+  "ats_provider": "ashby",
+  "ats_job_id": "48624439-f146-49dc-bb57-05b7d7731c03",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [],
+    "remote_us_eligible": false,
+    "office_time_required": "most days of the week",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "AI Product Manager",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Generalist PM (claims/ops focus)",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of product management experience required",
+      "Title is explicitly 'Senior Product Manager'",
+      "Experience leading small, agile teams"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "At least 5 years of product management experience at a startup or fast-growing company - a must",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "qualifier": "at a startup or fast-growing company",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "startup",
+        "fast-growing company"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "complex_process_untangling",
+      "raw_text_from_jd": "A track record of untangling complex processes and finding the clearest path through them",
+      "skill_type": "outcome",
+      "domain": "process_improvement",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ux_instincts",
+      "raw_text_from_jd": "Strong UX instincts with an eye for detail and an ability to hold the big picture at the same time",
+      "skill_type": "capability",
+      "domain": "user_experience",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_driven_approach",
+      "raw_text_from_jd": "A data-driven, analytical approach to decisions and prioritization",
+      "skill_type": "capability",
+      "domain": "data_analysis",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_skills",
+      "raw_text_from_jd": "Top-notch written and verbal communication skills in English",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "leading_agile_teams",
+      "raw_text_from_jd": "Experience leading small, agile teams",
+      "skill_type": "capability",
+      "domain": "team_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "continuous_learning_drive",
+      "raw_text_from_jd": "A genuine drive to keep learning - you read constantly and love sharing what you find",
+      "skill_type": "cultural_fit",
+      "domain": "growth_mindset",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_enthusiasm",
+      "raw_text_from_jd": "Enthusiasm for AI and a real commitment to growing alongside these tools as they evolve",
+      "skill_type": "cultural_fit",
+      "domain": "artificial_intelligence",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "office_presence",
+      "raw_text_from_jd": "Ready to work in an office environment most days of the week",
+      "skill_type": "cultural_fit",
+      "domain": "work_style",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "automation_experience",
+      "raw_text_from_jd": "Experience automating manual processes - a big plus",
+      "skill_type": "capability",
+      "domain": "process_automation",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "small agile teams",
+    "surface": "End-to-end pet insurance claims journey, from first notice of loss to resolution",
+    "business_model": "B2C insurance (pet insurance)",
+    "primary_metrics_inferred": [
+      "Claims automation rate",
+      "Customer Ops efficiency / manual work reduction",
+      "Claims resolution speed",
+      "Customer satisfaction / experience quality"
+    ],
+    "cross_functional_partners": [
+      "Designers",
+      "Engineers",
+      "Data Analysts",
+      "Customer Ops"
+    ],
+    "core_responsibilities": [
+      "Own the full pet claims journey, from first notice of loss to resolution, and raise the bar on what that experience can be",
+      "Design and ship automation solutions that reduce manual work, scale Customer Ops, and move the efficiency needle in a meaningful way",
+      "Put GenAI and LLMs to work using Lemonade's internal AI tooling to rethink what's possible in claims handling",
+      "Translate product strategy into sharp requirements and prototypes that reflect Lemonade's brand, mission, and customer needs",
+      "Partner with designers, engineers, data analysts, and Customer Ops stakeholders to ship end-to-end product improvements",
+      "Identify gaps, prioritize ruthlessly, and bring creative solutions that expand what our product can do"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "pet insurance",
+    "claims experience",
+    "automation",
+    "GenAI",
+    "LLMs",
+    "AI-first",
+    "claims handling",
+    "Customer Ops",
+    "process automation",
+    "senior product manager"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear product ownership scope (end-to-end pet claims journey)",
+    "AI-first culture with concrete tooling (internal AI tooling, GenAI, LLMs) — not just aspirational",
+    "Explicitly names cross-functional partners, giving clarity on collaboration model",
+    "Company is a known insurtech brand with established product culture"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "No city specified for the onsite role — candidates cannot determine which office location applies",
+    "Visa sponsorship and work authorization not mentioned",
+    "No mention of equity or benefits",
+    "'Experience leading small, agile teams' is in the required section but reads more like a nice-to-have — severity classification is ambiguous"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Senior Product Manager' and 5+ years requirement)",
+      "seniority.manages_people (inferred as false; 'leading teams' is cross-functional, not people management)",
+      "scope.business_model (inferred from 'pet insurance' product context)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "location.type (inferred as onsite from 'work in an office environment most days of the week')",
+      "location.remote_us_eligible (inferred false from onsite signal)"
+    ],
+    "ambiguities": [
+      "'Experience leading small, agile teams' appears in the 'What you'll need' section alongside hard requirements, but does not carry a 'must' qualifier. Classified as hard given its placement, but could be a soft requirement.",
+      "No specific city or country is mentioned for the office location, making it unclear where this role is based.",
+      "'Experience automating manual processes - a big plus' uses 'big plus' language suggesting it is a nice-to-have, but also could be interpreted as a strong preference given automation is central to the role's responsibilities."
+    ]
+  }
+}

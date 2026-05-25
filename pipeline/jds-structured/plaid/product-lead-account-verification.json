@@ -1,0 +1,277 @@
+{
+  "company": "Plaid",
+  "role_title": "Product Lead - Account Verification",
+  "url": "https://jobs.ashbyhq.com/plaid/0fa4649a-dae2-4c13-ae70-8e93ce221152",
+  "ats_provider": "ashby",
+  "ats_job_id": "0fa4649a-dae2-4c13-ae70-8e93ce221152",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [
+      "San Francisco, CA",
+      "New York, NY",
+      "Washington D.C.",
+      "London",
+      "Amsterdam"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Generalist PM with infrastructure/fintech focus",
+  "seniority": {
+    "level": "Staff / Principal PM (Senior Leadership IC)",
+    "years_required_min": 10,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "10+ years of experience, including 5+ in product management",
+      "Owns one of Plaid's most critical product areas",
+      "Sets vision and strategy, represents Plaid externally as thought leader",
+      "Described as 'Product Lead' suggesting senior IC or lead-level ownership"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_total_experience",
+      "raw_text_from_jd": "10+ years of experience, including 5+ in product management or equivalent founder/operator roles.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 10,
+      "unit": "years",
+      "is_combined": true,
+      "qualifier": "including 5+ years in product management or equivalent founder/operator roles",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "10+ years of experience, including 5+ in product management or equivalent founder/operator roles.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "qualifier": "or equivalent founder/operator roles",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "b2b_infra_product_scaling",
+      "raw_text_from_jd": "Proven success building and scaling B2B or infrastructure products, ideally in fintech or payments.",
+      "skill_type": "outcome",
+      "domain": "B2B_infrastructure_products",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "fintech",
+        "payments"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strategic_and_executional_drive",
+      "raw_text_from_jd": "Strong mix of strategic vision and executional drive; able to see the big picture while sweating the details.",
+      "skill_type": "capability",
+      "domain": "product_strategy_and_execution",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_stakeholder_management",
+      "raw_text_from_jd": "Exceptional communication and stakeholder management skills across technical and business audiences.",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_high_growth_leadership",
+      "raw_text_from_jd": "Demonstrated ability to thrive in ambiguous, high-growth environments and lead with conviction.",
+      "skill_type": "cultural_fit",
+      "domain": "leadership_in_ambiguity",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_impact",
+      "raw_text_from_jd": "Track record of cross-functional impact, influencing design, engineering, and GTM teams to deliver results.",
+      "skill_type": "outcome",
+      "domain": "cross_functional_leadership",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_and_ai_tools_comfort",
+      "raw_text_from_jd": "Hands-on comfort with data and AI tools for writing, analysis, prototyping, and experimentation.",
+      "skill_type": "tool_proficiency",
+      "domain": "data_and_ai_tools",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI tools",
+        "data analysis",
+        "prototyping"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "fintech_payments_domain",
+      "raw_text_from_jd": "Proven success building and scaling B2B or infrastructure products, ideally in fintech or payments.",
+      "skill_type": "domain_knowledge",
+      "domain": "fintech_payments",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "fintech",
+        "payments"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Account Verification platform — Auth, Balance, Identity Match; open banking, ML, and traditional verification methods",
+    "business_model": "B2B infrastructure / API platform",
+    "primary_metrics_inferred": [
+      "Account verification conversion and completion rates",
+      "Verification method coverage and reliability",
+      "Developer/operator adoption of self-serve and orchestration tools",
+      "Revenue contribution from Auth and payment-related products"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Go-to-market (GTM)",
+      "Risk management"
+    ],
+    "core_responsibilities": [
+      "Own the Account Verification strategy and roadmap, from long-term vision to near-term priorities, grounded in customer and business outcomes.",
+      "Reimagine the Auth experience to unlock new use cases (recurring payments, e-commerce, account funding) through modern, flexible verification flows.",
+      "Expand verification capabilities across a growing set of methodologies: open banking, database auth, microdeposits, and beyond.",
+      "Drive self-serve, experimentation, and orchestration tools that empower developers and operators to configure and optimize verification paths without code.",
+      "Partner across Plaid to create cohesive experiences across account setup, risk management, and money movement.",
+      "Represent Plaid internally and externally as a product thought leader, shaping how customers, partners, and the industry view account verification.",
+      "Operate like an owner. Move quickly, make bold decisions, and bring creative energy to scaling one of Plaid's most essential products."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Account Verification",
+    "Auth",
+    "Balance",
+    "Identity Match",
+    "open banking",
+    "fintech",
+    "payments",
+    "B2B infrastructure",
+    "verification platform",
+    "self-serve",
+    "orchestration",
+    "microdeposits",
+    "ML",
+    "product strategy",
+    "roadmap"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear product ownership scope (Auth, Balance, Identity Match) — not vague",
+    "High-impact, revenue-critical product area at a well-known fintech company",
+    "JD encourages applications even when experience doesn't fully match",
+    "Explicitly values diverse backgrounds including lived experiences",
+    "Disability accommodations contact provided"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "Location type not explicitly stated in the JD body — cities listed are all company offices, not role-specific; remote eligibility unclear",
+    "Visa sponsorship and work authorization requirements not addressed",
+    "10+ years total / 5+ years PM is a hard bar that leaves little room for ambiguity",
+    "Role title is 'Product Lead' but it is unclear whether this involves people management or is a senior IC role"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 10+ years experience, ownership scope, and thought leadership signals; no explicit level stated)",
+      "location.type (inferred as onsite based on offices listed; JD does not explicitly state remote, hybrid, or onsite for this role)",
+      "scope.business_model (inferred from product description as B2B infrastructure/API platform)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "compensation.equity_mentioned (no mention of equity in JD)",
+      "seniority.manages_people (not stated; inferred as false from 'Product Lead' IC framing, but ambiguous)"
+    ],
+    "ambiguities": [
+      "Location: The JD lists multiple Plaid offices (SF, NY, DC, London, Amsterdam) but does not specify which office(s) this role is tied to, nor whether remote work is permitted. Treated as onsite with all listed cities included, but actual role location is unclear.",
+      "'Proven success building and scaling B2B or infrastructure products, ideally in fintech or payments' — the 'ideally' qualifier makes fintech/payments soft, but the B2B/infrastructure requirement reads as hard. Extracted as a must-have for B2B/infrastructure and a nice-to-have for fintech/payments specifically.",
+      "Whether 'Product Lead' implies people management is not stated. Treated as senior IC (manages_people: false) but could involve team leadership."
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "company": "Klaviyo",
+  "role_title": "Product Manager, Customer Hub",
+  "url": "https://www.klaviyo.com/careers/jobs?gh_jid=7689425003",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7689425003",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": "up to 10% travel",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Customer Experience / Support Platform PM",
+  "seniority": {
+    "level": "Mid to Senior IC",
+    "years_required_min": 4,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "4–8+ years of product management experience",
+      "Base pay range $104,000–$156,000 USD, consistent with mid-to-senior IC"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "4–8+ years of product management experience building customer-facing or platform products.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 4,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "stakeholder_alignment",
+      "raw_text_from_jd": "Comfortable navigating complex tradeoffs and aligning stakeholders across engineering, design, support, and go-to-market teams.",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_communication",
+      "raw_text_from_jd": "Strong cross-functional communicator who can translate customer problems into clear product requirements and decisions.",
+      "skill_type": "capability",
+      "domain": "product_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_driven_decisions",
+      "raw_text_from_jd": "Data-driven and comfortable using metrics and experimentation to inform product decisions.",
+      "skill_type": "capability",
+      "domain": "data_analysis_and_experimentation",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_experience_focus",
+      "raw_text_from_jd": "Passionate about building intuitive, high-quality customer experiences that scale.",
+      "skill_type": "cultural_fit",
+      "domain": "customer_experience",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "support_selfservice_experience",
+      "raw_text_from_jd": "Experience building or improving customer support, self-service, or portal-style products is highly desirable.",
+      "skill_type": "domain_knowledge",
+      "domain": "customer_support_and_self_service",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Customer Hub — shopper-facing self-service portal for post-purchase experiences (order tracking, account management, loyalty benefits, support handoff to agent workflows)",
+    "business_model": "B2B SaaS enabling B2C brands (ecommerce)",
+    "primary_metrics_inferred": [
+      "Self-serve adoption rate",
+      "Resolution rates",
+      "Customer satisfaction (CSAT)",
+      "Support operational efficiency"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Data",
+      "Customer Experience",
+      "Support",
+      "Go-to-market"
+    ],
+    "core_responsibilities": [
+      "Contribute to the product vision and roadmap for the Customer Hub, a self-serve portal where shoppers interact with brands.",
+      "Design and improve self-service experiences that allow shoppers to manage common needs such as order tracking, account management, loyalty benefits, and support inquiries.",
+      "Define the handoff from self-serve experiences to agent workflows, ensuring smooth transitions when shoppers require human support.",
+      "Partner closely with engineering, design, data, and customer experience teams to deliver scalable and reliable solutions.",
+      "Balance the needs of shopper-facing UX, brand operators, and internal support agents to create cohesive end-to-end experiences.",
+      "Drive product discovery through customer research, data analysis, and experimentation to identify opportunities to improve resolution rates and customer satisfaction.",
+      "Define and monitor success metrics across self-serve adoption, resolution rates, customer satisfaction, and support efficiency.",
+      "Communicate priorities, tradeoffs, and product strategy clearly across cross-functional stakeholders."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      104000,
+      156000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity mentioned as part of total compensation package",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Customer Hub",
+    "self-service",
+    "post-purchase",
+    "customer support",
+    "portal",
+    "resolution rates",
+    "agent workflows",
+    "ecommerce",
+    "order tracking",
+    "loyalty benefits",
+    "customer satisfaction",
+    "cross-functional"
+  ],
+  "buzzword_density": "low",
+  "green_flags": [
+    "Compensation range disclosed ($104K–$156K base)",
+    "Equity and bonus explicitly mentioned as part of total comp",
+    "Clear product surface and ownership area (Customer Hub, post-purchase self-service)",
+    "Explicitly encourages close-but-not-exact matches to apply",
+    "Only up to 10% travel required — largely flexible location"
+  ],
+  "red_flags": [
+    "Location type is ambiguous — JD references US geographic markets and salary differentials by location but does not specify whether the role is remote, hybrid, or onsite",
+    "Visa sponsorship status not addressed anywhere in the JD",
+    "4–8+ year range is unusually wide and may indicate uncertainty about level"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range and years range)",
+      "scope.business_model (inferred from product description and company context)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly listed)",
+      "location.type (inferred as hybrid based on travel mention and multi-market salary language; not explicitly stated)",
+      "location.remote_us_eligible (inferred from 'cost of labor across various U.S. geographic markets' language)"
+    ],
+    "ambiguities": [
+      "Location type is not explicitly stated as remote, hybrid, or onsite. The JD references US geographic salary markets and up to 10% travel, suggesting a distributed/remote-eligible role, but no definitive statement is made. Treated as hybrid here.",
+      "Visa sponsorship is not mentioned anywhere in the JD; left as 'unclear'.",
+      "The '4–8+' year range is unusual — both 4 and 8+ are listed together, making seniority level ambiguous. Could indicate openness to mid-level through senior candidates."
+    ]
+  }
+}

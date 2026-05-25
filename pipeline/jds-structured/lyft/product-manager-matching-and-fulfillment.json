@@ -1,0 +1,338 @@
+{
+  "company": "Lyft",
+  "role_title": "Product Manager, Matching & Fulfillment",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8430532002?gh_jid=8430532002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8430532002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "Seattle, WA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "3 days per week on Mondays, Wednesdays, and Thursdays",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Marketplace / Optimization PM",
+  "seniority": {
+    "level": "Mid-Senior IC",
+    "years_required_min": 4,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "Minimum of 4 years of product management experience",
+      "Expected base pay range $136,160 - $170,200 in Seattle area",
+      "Owns roadmap, leads cross-functional teams, aligns with executives"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "Minimum of 4 years of product management experience",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 4,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "or_ml_algorithmic_background",
+      "raw_text_from_jd": "Have an Operations Research/ML/algorithmic background",
+      "skill_type": "domain_knowledge",
+      "domain": "operations_research_ml_algorithms",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "Operations Research",
+        "ML",
+        "algorithmic optimization"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "shipped_technical_analytical_products",
+      "raw_text_from_jd": "Have shipped products in deeply technical and analytical domains - able to use data and experimentation to guide a team towards successful execution",
+      "skill_type": "outcome",
+      "domain": "technical_product_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "or_ml_algorithmic_product_experience",
+      "raw_text_from_jd": "Experience managing Operations Research/ML/algorithmic products across any domain",
+      "skill_type": "domain_knowledge",
+      "domain": "operations_research_ml_algorithmic_products",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "Operations Research",
+        "ML",
+        "algorithmic optimization"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "metrics_definition_and_analysis",
+      "raw_text_from_jd": "Ability to define and analyze metrics that inform the success of products",
+      "skill_type": "capability",
+      "domain": "product_analytics",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ab_testing_statistical_techniques",
+      "raw_text_from_jd": "Experience running A/B tests and using common statistical techniques to evaluate results. Experience leading post-launch optimizations including developing testing strategies",
+      "skill_type": "capability",
+      "domain": "experimentation_and_statistics",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "A/B testing",
+        "statistical techniques"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_querying_analysis",
+      "raw_text_from_jd": "Experience with data, including querying, aggregation, analysis, and visualization",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analysis",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "data querying",
+        "data aggregation",
+        "data visualization"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "detail_oriented_technical_depth",
+      "raw_text_from_jd": "Be detail-oriented and able to dive deep into complex technical concepts, but also abstract them to cross-functional stakeholders and leaders",
+      "skill_type": "capability",
+      "domain": "technical_communication",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strong_communication_skills",
+      "raw_text_from_jd": "Strong communication skills and intuition for communication strategy at every level -- within teams, within the company, to users",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "project_ambiguity_complexity_management",
+      "raw_text_from_jd": "Natural ability to make things happen around you. You manage project ambiguity, complexity and interdependencies in an organized and structured way.",
+      "skill_type": "capability",
+      "domain": "project_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "roadmap_ownership",
+      "raw_text_from_jd": "Develop and own quarterly and yearly roadmaps and financial impact for your team",
+      "skill_type": "capability",
+      "domain": "product_roadmapping",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_leadership",
+      "raw_text_from_jd": "Lead and align cross-functional partners and team: engineers, scientists, analysts, business partners, operations to drive a shared vision",
+      "skill_type": "capability",
+      "domain": "cross_functional_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "strong_pov_amidst_stakeholders",
+      "raw_text_from_jd": "Maintain an objective, strong POV on what to build for our users, amidst many different stakeholders, world-class scientists, and experienced engineers with varied goals",
+      "skill_type": "cultural_fit",
+      "domain": "stakeholder_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Matching & Fulfillment — ETA estimation, cost of fulfillment, driver-rider matching, on-time promise, pre-request match generation, post-request fulfillment, matching core services",
+    "business_model": "marketplace / ride-sharing platform (B2C)",
+    "primary_metrics_inferred": [
+      "Driver-rider match quality",
+      "ETA accuracy",
+      "Fulfillment cost optimization",
+      "Driver hours and driver pay",
+      "Rider retention",
+      "Growth and profit trade-off metrics"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Data Science",
+      "Design",
+      "Business teams",
+      "Operations",
+      "Analysts",
+      "Business partners"
+    ],
+    "core_responsibilities": [
+      "Own team's products from ideation through development to launch, growth and maintenance",
+      "Represent the customer's point of view and champion a customer-first approach to product development",
+      "Align on business goals for optimization with executives and business teams",
+      "Define short-term and long-term strategy to achieve those goals",
+      "Develop and own quarterly and yearly roadmaps and financial impact for your team",
+      "Write product requirements documents and review experiment design docs and technical specifications",
+      "Ideate impactful projects, break them into MVP and milestones, test and develop hypotheses through fast experimentation",
+      "Work closely with partner teams to represent your team's perspective on new initiatives",
+      "Lead and align cross-functional partners and team to drive a shared vision"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      136160,
+      170200
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "potential equity offering mentioned (not detailed)",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "matching and fulfillment",
+    "Operations Research",
+    "ML",
+    "algorithmic products",
+    "marketplace",
+    "ETA estimation",
+    "driver-rider matching",
+    "A/B testing",
+    "experimentation",
+    "roadmap",
+    "cross-functional",
+    "data analysis",
+    "optimization"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($136,160 - $170,200 base in Seattle area)",
+    "Clear product surface and ownership area (Matching & Fulfillment group)",
+    "Specific hybrid schedule stated (Mon/Wed/Thu) — no ambiguity",
+    "Equity and bonus mentioned in addition to base",
+    "Comprehensive benefits package described in detail",
+    "4 weeks/year remote flexibility on top of hybrid schedule"
+  ],
+  "red_flags": [
+    "Hard OR/ML/algorithmic background requirement is specific and may be difficult to mitigate without that technical domain",
+    "Visa sponsorship status not mentioned — unclear for international candidates",
+    "Location appears to be Seattle only — no SF or NYC option stated",
+    "Salary range is Seattle-area specific; other locations may differ but no other cities listed for this role"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range + years + responsibilities)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly listed in JD)",
+      "scope.business_model (inferred from company/product description)",
+      "location.remote_us_eligible (inferred from hybrid-only language; not explicitly stated as ineligible)",
+      "location.visa_sponsorship (not mentioned in JD; marked unclear)"
+    ],
+    "ambiguities": [
+      "'Maintain an objective, strong POV on what to build for our users' is listed under 'This individual should:' section (same as hard requirements) but reads more as a cultural/soft trait — classified as nice_to_have given its subjective nature rather than a measurable requirement.",
+      "The JD lists only Seattle area comp range but does not explicitly state this role is Seattle-only; other Lyft offices are not mentioned for this role."
+    ]
+  }
+}

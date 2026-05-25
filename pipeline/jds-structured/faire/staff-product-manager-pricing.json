@@ -1,0 +1,275 @@
+{
+  "company": "Faire",
+  "role_title": "Staff Product Manager, Pricing",
+  "url": "https://boards.greenhouse.io/faire/jobs/8462945002?gh_jid=8462945002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8462945002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "3 days per week on Tuesdays, Thursdays, and a third flex day; up to 4 weeks remote per year",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Technical PM (marketplace pricing, data infrastructure)",
+  "seniority": {
+    "level": "Staff PM (IC6 equivalent)",
+    "years_required_min": 8,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "8+ years of experience in product",
+      "Staff PM title",
+      "Comp range $220K-$302.5K base, consistent with Staff IC level",
+      "Expected to define strategy and present to senior leadership"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "You have 8+ years of experience in product at a high-growth tech startup or as a startup founder.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 8,
+      "unit": "years",
+      "qualifier": "at a high-growth tech startup or as a startup founder",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "high-growth tech startup"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_needs_understanding",
+      "raw_text_from_jd": "You are good at deeply understanding customer needs and underlying motivations, especially in spaces where customers aren't great at predicting how changes will impact their behavior",
+      "skill_type": "capability",
+      "domain": "customer_research",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "leadership_and_inspiration",
+      "raw_text_from_jd": "You're an inspiring leader who is excited about the day-to-day of understanding our customers and working with a strong team to build improvements for them.",
+      "skill_type": "cultural_fit",
+      "domain": "team_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "fast_learner",
+      "raw_text_from_jd": "You're an extraordinarily fast learner. You have the natural curiosity and intellectual horsepower to deeply understand new topics and pick up new skills in a very short time.",
+      "skill_type": "cultural_fit",
+      "domain": "learning_agility",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "resourcefulness",
+      "raw_text_from_jd": "You are relentlessly resourceful. When something needs to get done, you always find a way to make it happen. Even when the work is hard, you power through it and execute with limited information and ambiguity.",
+      "skill_type": "cultural_fit",
+      "domain": "execution",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "creative_problem_solving",
+      "raw_text_from_jd": "You are a creative problem-solver. You excel at identifying unintuitive solutions to tough problems.",
+      "skill_type": "capability",
+      "domain": "problem_solving",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_focus",
+      "raw_text_from_jd": "You care deeply about developing products and solutions that will create the best experience for our customers.",
+      "skill_type": "cultural_fit",
+      "domain": "customer_centricity",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "Bachelor's degree or equivalent experience.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": true,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree"
+      ]
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "marketplace_dynamics_passion",
+      "raw_text_from_jd": "If you love complex marketplace dynamics, have strong intuitions about how pricing affects buyer behavior, and get excited about building products that create real, measurable value for small business owners — this is the role for you.",
+      "skill_type": "domain_knowledge",
+      "domain": "marketplace_pricing",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_infrastructure_partnership",
+      "raw_text_from_jd": "Partner with engineering and data science to build the data infrastructure that powers pricing insights and recommendations at scale.",
+      "skill_type": "capability",
+      "domain": "data_infrastructure",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Brand Pricing — pricing tools, insights, and recommendations for brands on the Faire wholesale marketplace",
+    "business_model": "B2B marketplace (wholesale platform connecting independent retailers and brands)",
+    "primary_metrics_inferred": [
+      "Brand sales growth on Faire",
+      "Pricing competitiveness and conversion rates",
+      "Adoption of pricing tools by brands",
+      "Marketplace GMV impact"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Data Science",
+      "Operations",
+      "Go-to-market"
+    ],
+    "core_responsibilities": [
+      "Define how Faire thinks about pricing across the marketplace — balancing brand economics, retailer trust, and long-term marketplace growth",
+      "Own the pricing roadmap end-to-end across insights, tools, and data",
+      "Build brand-facing products including price management interfaces and intelligent recommendations",
+      "Partner with engineering and data science to build data infrastructure for pricing insights and recommendations at scale",
+      "Use analytics and frameworks to guide build vs. buy decisions and present recommendations to senior leadership"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      220000,
+      302500
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity (form not specified)",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "pricing",
+    "marketplace dynamics",
+    "brand economics",
+    "retailer behavior",
+    "pricing recommendations",
+    "data infrastructure",
+    "wholesale marketplace",
+    "product roadmap",
+    "staff PM",
+    "high-growth startup"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed and wide ($220K-$302.5K base)",
+    "Equity explicitly mentioned",
+    "Clear product surface and ownership area (pricing for brands on Faire)",
+    "Well-defined cross-functional partners named",
+    "Responsibilities are concrete and outcome-oriented",
+    "Hybrid with 4 weeks of remote flexibility annually"
+  ],
+  "red_flags": [
+    "Hybrid requires 3 days/week in San Francisco office — fully remote candidates ineligible",
+    "No explicit mention of visa sponsorship or work authorization",
+    "8+ years requirement with Staff title is a high bar; career switchers unlikely to qualify",
+    "Domain (marketplace pricing for SMB wholesale) is niche — may require significant ramp time"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Staff PM', comp range, and years required)",
+      "scope.business_model (inferred from company description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "location.work_auth (not stated; marked unclear)",
+      "location.visa_sponsorship (not stated; marked unclear)",
+      "nice_to_haves: marketplace_dynamics_passion and data_infrastructure_partnership inferred from responsibilities section, not a formal 'preferred' list"
+    ],
+    "ambiguities": [
+      "The JD does not have a separate 'Preferred' or 'Nice to have' section; nice-to-haves were inferred from aspirational framing ('If you love...') and responsibilities language, which may actually be implicit must-haves depending on hiring bar.",
+      "Compensation listed only for San Francisco, CA; JD does not clarify whether remote US candidates (outside SF) are eligible or what pay they would receive."
+    ]
+  }
+}

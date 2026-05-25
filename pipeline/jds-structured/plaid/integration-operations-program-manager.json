@@ -1,0 +1,263 @@
+{
+  "company": "Plaid",
+  "role_title": "Integration Operations Program Manager",
+  "url": "https://jobs.ashbyhq.com/plaid/15f90e4b-7653-46d5-9479-d23ac4047e71",
+  "ats_provider": "ashby",
+  "ats_job_id": "15f90e4b-7653-46d5-9479-d23ac4047e71",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "BizOps / Strategy & Ops",
+  "seniority": {
+    "level": "Mid-Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of experience in program management, technical operations, or a similar cross-functional operations role",
+      "Proven track record running complex, multi-stakeholder programs with tight timelines",
+      "Owns end-to-end operational governance for ~10–20 active programs"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_program_management_ops",
+      "raw_text_from_jd": "5+ years of experience in program management, technical operations, or a similar cross-functional operations role.",
+      "skill_type": "years_of_experience",
+      "domain": "program_management_or_technical_operations",
+      "minimum_value": 5,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "multi_stakeholder_programs",
+      "raw_text_from_jd": "Proven track record running complex, multi-stakeholder programs with tight timelines.",
+      "skill_type": "outcome",
+      "domain": "program_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "program_artifacts",
+      "raw_text_from_jd": "Strong organizational skills and experience building program artifacts (timelines, trackers, risk logs).",
+      "skill_type": "capability",
+      "domain": "program_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "written_verbal_communication",
+      "raw_text_from_jd": "Excellent written and verbal communication; ability to translate technical details into clear narratives for different audiences.",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_high_pressure",
+      "raw_text_from_jd": "Comfort with ambiguity and high-pressure environments.",
+      "skill_type": "cultural_fit",
+      "domain": "work_environment",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "engineering_teams_collaboration",
+      "raw_text_from_jd": "Experience working closely with engineering teams.",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "technical_background_bank_integrations",
+      "raw_text_from_jd": "Nice to have: technical background or experience with bank integrations, APIs, or financial infrastructure; experience with migration programs; familiarity with support operations partnerships.",
+      "skill_type": "domain_knowledge",
+      "domain": "bank_integrations_apis_financial_infrastructure",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "APIs"
+      ],
+      "industries_named": [
+        "fintech",
+        "financial infrastructure"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "migration_programs_experience",
+      "raw_text_from_jd": "Nice to have: technical background or experience with bank integrations, APIs, or financial infrastructure; experience with migration programs; familiarity with support operations partnerships.",
+      "skill_type": "domain_knowledge",
+      "domain": "migration_programs",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "support_operations_partnerships",
+      "raw_text_from_jd": "Nice to have: technical background or experience with bank integrations, APIs, or financial infrastructure; experience with migration programs; familiarity with support operations partnerships.",
+      "skill_type": "domain_knowledge",
+      "domain": "support_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Engineering Operations — integrations, migrations, Charged Access, NEA–Support relationship",
+    "business_model": "B2B / B2D developer platform, financial data connectivity",
+    "primary_metrics_inferred": [
+      "On-time delivery of bank integrations and migrations (~10–20 active)",
+      "Risk/issue resolution rate across programs",
+      "Stakeholder satisfaction / status reporting quality",
+      "Charged Access program scale and operational health"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Product",
+      "Partner teams",
+      "Access",
+      "PD3/ProFound",
+      "DPR",
+      "Data Access",
+      "Support",
+      "NEA team"
+    ],
+    "core_responsibilities": [
+      "Own end-to-end operational governance for new bank integrations, integration upgrades, and PD3 migrations (~10–20 active at any time).",
+      "Build and maintain master timelines, institution status trackers, risk/decision logs, and launch readiness checklists.",
+      "Drive structured risk, issue, and escalation management across integrations and migrations.",
+      "Provide regular, high-signal status updates to leadership.",
+      "Coordinate milestones, dependencies, and handoffs across Access, PD3/ProFound, DPR, and Data Access.",
+      "Help lead Charged Access operational coordination including project tracking, risk logs, stakeholder follow-ups as the program scales.",
+      "Own the NEA–Support operational relationship: priority alignment, joint initiative tracking, and communication cadence.",
+      "Run retros after complex launches and fold learnings back into processes.",
+      "Design and govern repeatable processes for how integrations and migrations are scoped, planned, executed, and launched."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "program management",
+    "bank integrations",
+    "migrations",
+    "operational governance",
+    "risk management",
+    "stakeholder communication",
+    "Charged Access",
+    "NEA",
+    "financial infrastructure",
+    "cross-functional operations",
+    "launch readiness",
+    "engineering operations"
+  ],
+  "buzzword_density": "low",
+  "green_flags": [
+    "Clear ownership scope with concrete program scale (~10–20 active integrations/migrations at any time)",
+    "Encourages applications even if experience doesn't fully match the job description",
+    "Role is connective tissue across multiple teams — high-visibility position",
+    "Well-established company (founded 2013, top-tier fintech) with defined team structure"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "Location type is not specified in the JD body — cities listed are company offices but no explicit work arrangement (remote/hybrid/onsite) stated for this role",
+    "Visa sponsorship not mentioned"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 5+ years requirement and scope of ownership)",
+      "location.cities_listed (inferred from company HQ; role-specific location not stated)",
+      "location.type (not stated; marked unclear)",
+      "scope.business_model (inferred from company description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "compensation.equity_mentioned (no mention in JD)"
+    ],
+    "ambiguities": [
+      "Location/work arrangement not explicitly stated for this role. Company HQ is San Francisco but JD does not specify remote, hybrid, or onsite for this position.",
+      "The three nice-to-have items are bundled in a single sentence; extracted as three separate items for queryability but all share the same raw_text_from_jd."
+    ]
+  }
+}

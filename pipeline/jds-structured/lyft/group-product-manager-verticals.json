@@ -1,0 +1,324 @@
+{
+  "company": "Lyft",
+  "role_title": "Group Product Manager, Verticals",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8513755002?gh_jid=8513755002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8513755002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "3 days per week on Mondays, Wednesdays, and Thursdays",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Technical PM (marketplace / logistics focus)",
+  "seniority": {
+    "level": "Group PM / Director-level IC or people manager",
+    "years_required_min": 6,
+    "years_required_max": null,
+    "manages_people": true,
+    "level_signals": [
+      "6+ years of experience in product management",
+      "2+ years of experience managing product managers",
+      "Leads a team of PMs across three verticals",
+      "Comp range $176K-$220K base consistent with GPM/Director level at Lyft"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "6+ years of experience in product management, product design, or equivalent consulting experience with significant time spent leading consumer mobile apps or marketplace products",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 6,
+      "unit": "years",
+      "is_combined": false,
+      "qualifier": "consumer mobile apps or marketplace products",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "consumer mobile",
+        "marketplace"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "years_managing_pms",
+      "raw_text_from_jd": "2+ years of experience managing product managers",
+      "skill_type": "years_of_experience",
+      "domain": "people_management",
+      "minimum_value": 2,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "pm_team_leadership",
+      "raw_text_from_jd": "Manage and grow a team of product managers, providing development, mentorship, and coaching to help them achieve their goals and Lyft's goals",
+      "skill_type": "capability",
+      "domain": "people_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_vision_setting",
+      "raw_text_from_jd": "Set an ambitious vision for the Verticals team that motivates your team, peers, and leadership — and that accounts for the distinct dynamics of airports, scheduled rides, and events",
+      "skill_type": "capability",
+      "domain": "product_strategy",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "rideshare",
+        "transportation"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "metrics_definition_and_analysis",
+      "raw_text_from_jd": "Strong ability to define and analyze metrics that inform the success of products and the health of the business",
+      "skill_type": "capability",
+      "domain": "product_analytics",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_leadership",
+      "raw_text_from_jd": "Lead and align cross-functional partners including engineers, designers, data scientists, analysts, marketers, business partners, and operations to drive a shared vision",
+      "skill_type": "capability",
+      "domain": "cross_functional_leadership",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_skills",
+      "raw_text_from_jd": "Strong communication skills and intuition for communication strategy at every level — within teams, with partner teams, and to executive leadership",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "end_to_end_product_ownership",
+      "raw_text_from_jd": "Completely own your team's products — existing and new — from ideation through development, experimentation, launch, growth, and maintenance, caring deeply about both rider and driver experiences",
+      "skill_type": "outcome",
+      "domain": "product_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "managing_ambiguity_complexity",
+      "raw_text_from_jd": "Natural ability to make things happen around you — you manage project ambiguity, complexity, and interdependencies in an organized and structured way",
+      "skill_type": "capability",
+      "domain": "project_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "organizational_skills",
+      "raw_text_from_jd": "Detail oriented with superior organizational skills — balancing multiple projects, deadlines, and requests should be second nature to you",
+      "skill_type": "capability",
+      "domain": "organization",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "lyft_mission_passion",
+      "raw_text_from_jd": "Passion for Lyft and what we are trying to achieve in sustainable urban transportation",
+      "skill_type": "cultural_fit",
+      "domain": "company_mission_alignment",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "transportation",
+        "rideshare"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "data_science_ops_collaboration",
+      "raw_text_from_jd": "Experience working with or alongside data science and operations teams on complex, products; familiarity with experimentation, marketplace dynamics, or logistics is a plus",
+      "skill_type": "domain_knowledge",
+      "domain": "data_science_and_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "marketplace",
+        "logistics"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "multiple PMs (team of PMs across three verticals)",
+    "surface": "Airports, scheduled rides, and events verticals on the Lyft platform",
+    "business_model": "marketplace / rideshare platform (B2C, two-sided rider-driver marketplace)",
+    "primary_metrics_inferred": [
+      "Rider booking conversion and satisfaction across verticals",
+      "Driver earnings and predictability",
+      "Demand forecasting accuracy",
+      "Growth within airport, scheduled rides, and events verticals",
+      "Rider-driver matching efficiency in high-variability environments"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Product Design",
+      "Data Science",
+      "Analysts",
+      "Marketing",
+      "Business teams",
+      "Operations"
+    ],
+    "core_responsibilities": [
+      "Manage and grow a team of product managers, providing development, mentorship, and coaching",
+      "Set an ambitious vision for the Verticals team covering airports, scheduled rides, and events",
+      "Understand Lyft's strategic and competitive position; set team goals and success metrics",
+      "Own team products end-to-end from ideation through launch, growth, and maintenance",
+      "Lead and align cross-functional partners to drive a shared vision",
+      "Communicate roadmaps, priorities, experiments, and decisions to partner teams and executive leadership",
+      "Optimize rider-driver matching, demand forecasting, real-time driver guidance, and targeted incentives"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      176000,
+      220000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "potential equity offering mentioned (not detailed)",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Group Product Manager",
+    "verticals",
+    "airports",
+    "scheduled rides",
+    "events",
+    "marketplace",
+    "rideshare",
+    "rider-driver matching",
+    "demand forecasting",
+    "logistics",
+    "consumer mobile",
+    "experimentation",
+    "cross-functional leadership",
+    "people management",
+    "transportation"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($176K-$220K base) plus equity and bonus",
+    "Clear product surface with three well-defined verticals",
+    "High visibility role with explicit executive exposure",
+    "Hybrid with flexibility to work remotely up to 4 weeks per year",
+    "Comprehensive benefits package including 18 weeks paid parental leave",
+    "Encourages broad backgrounds (PM, product design, or consulting)"
+  ],
+  "red_flags": [
+    "Strictly San Francisco-based with 3 required in-office days per week (Mon/Wed/Thu) — not suitable for remote candidates",
+    "Visa sponsorship status not mentioned",
+    "Posting first seen / last updated dates not available — unclear how long role has been open"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years required, people management scope, and comp range)",
+      "scope.team_size_estimate (inferred from 'team of product managers' phrasing; exact count not stated)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly stated in JD)",
+      "scope.business_model (inferred from product and company description)",
+      "location.visa_sponsorship (not mentioned; marked unclear)"
+    ],
+    "ambiguities": [
+      "The JD states '6+ years of experience in product management, product design, or equivalent consulting experience' — it is unclear whether consulting experience fully substitutes for product management or is intended as partial equivalency. Treated as hard requirement with consulting as an acknowledged alternative path.",
+      "The 'data science and operations' nice-to-have bullet contains a grammatical artifact ('complex, products') suggesting possible editing artifact; interpreted as 'complex products'."
+    ]
+  }
+}

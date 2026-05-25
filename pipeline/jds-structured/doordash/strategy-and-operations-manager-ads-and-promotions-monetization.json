@@ -1,0 +1,227 @@
+{
+  "company": "DoorDash",
+  "role_title": "Strategy & Operations Manager-Ads & Promotions Monetization",
+  "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7819302",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7819302",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Growth PM (ads monetization focus)",
+  "seniority": {
+    "level": "Senior IC / Manager",
+    "years_required_min": 6,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "6+ years of experience in strategy, operations, monetization, or ads",
+      "Single-threaded owner for critical monetization problems",
+      "Base salary range $136K–$200K nationally",
+      "End-to-end ownership of ambiguous, high-impact problems"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_strategy_ops_monetization",
+      "raw_text_from_jd": "6+ years of experience in strategy, operations, monetization, or ads (e.g., marketplace, pricing, growth, or ad tech)",
+      "skill_type": "years_of_experience",
+      "domain": "strategy_operations_monetization_ads",
+      "minimum_value": 6,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "marketplace",
+        "ad tech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "xfn_collaboration",
+      "raw_text_from_jd": "Experience working cross-functionally with Product, Engineering, and Data Science teams",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "end_to_end_ownership",
+      "raw_text_from_jd": "A proven track record of owning ambiguous, high-impact problems end-to-end",
+      "skill_type": "outcome",
+      "domain": "problem_ownership",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_problem_solving_sql",
+      "raw_text_from_jd": "Strong analytical and structured problem-solving skills (SQL preferred)",
+      "skill_type": "capability",
+      "domain": "analytics_problem_solving",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "SQL"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strategic_and_execution_versatility",
+      "raw_text_from_jd": "Ability to operate at both a strategic level and dive deep into data and execution",
+      "skill_type": "capability",
+      "domain": "strategy_and_execution",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "pricing_monetization_marketplace",
+      "raw_text_from_jd": "Experience with pricing, monetization systems, or marketplace dynamics (preferred)",
+      "skill_type": "domain_knowledge",
+      "domain": "pricing_monetization_marketplace",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "marketplace"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Ads & Promotions Monetization platform — pricing/bidding systems, global ads platform scaling",
+    "business_model": "B2B advertising (advertisers reaching DoorDash consumers); e-commerce and ad tech intersection",
+    "primary_metrics_inferred": [
+      "Revenue from ads and promotions",
+      "Advertiser outcomes and performance",
+      "Monetization efficiency",
+      "Consumer experience quality",
+      "Global platform consistency"
+    ],
+    "cross_functional_partners": [
+      "Product",
+      "Engineering",
+      "Data Science",
+      "Sales"
+    ],
+    "core_responsibilities": [
+      "Design and evolve pricing and bidding mechanisms",
+      "Build frameworks that unify ads and promotions into a cohesive ecosystem",
+      "Develop scalable pricing systems (e.g., dynamic pricing, reserve pricing, experimentation frameworks)",
+      "Partner with Product and Data Science to define models, inputs, and success metrics",
+      "Drive adoption and performance of monetization features across advertisers",
+      "Define how our ads platform scales across global markets",
+      "Establish standardized frameworks across pricing, formats, inventory, and user experience",
+      "Build systems that balance global consistency with local flexibility",
+      "Partner with Product and Engineering to scale solutions across regions",
+      "Develop playbooks to support international expansion and long-term platform growth",
+      "Own key business metrics and deliver against revenue, efficiency, and experience goals",
+      "Drive initiatives end-to-end from problem definition through launch and iteration",
+      "Develop data-driven insights and business cases to inform product strategy and prioritization"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      136000,
+      200000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity grants",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "ads monetization",
+    "pricing systems",
+    "bidding mechanisms",
+    "marketplace dynamics",
+    "global platform scaling",
+    "strategy and operations",
+    "ad tech",
+    "dynamic pricing",
+    "cross-functional",
+    "SQL",
+    "revenue",
+    "single-threaded owner",
+    "experimentation frameworks"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($136K–$200K national base) with equity mentioned",
+    "Clear product surface with two well-defined focus areas (pricing/monetization and global platform scaling)",
+    "High-visibility role with direct revenue impact",
+    "DoorDash is a large, scaled platform with meaningful ads business growth trajectory",
+    "Comprehensive benefits package explicitly described"
+  ],
+  "red_flags": [
+    "Work location and remote/hybrid policy not stated anywhere in the JD — unclear where this role is based",
+    "Visa sponsorship not mentioned",
+    "SQL listed as 'preferred' but included in a hard-requirement bullet — classification is ambiguous",
+    "Role scope described as potentially covering one or both focus areas, leaving actual day-to-day ambiguous until hire",
+    "No mention of team size or reporting structure"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years + comp + ownership language)",
+      "seniority.manages_people (inferred as false; no people management mentioned)",
+      "scope.business_model (inferred from product description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not directly stated)",
+      "location.type (marked unclear; no office/remote policy stated in JD body)",
+      "compensation.location_pay_differential (inferred from 'Base salary is localized according to an employee's work location')"
+    ],
+    "ambiguities": [
+      "SQL is listed parenthetically as 'preferred' within a bullet that otherwise reads as a hard requirement ('Strong analytical and structured problem-solving skills'). Treated as hard for the parent capability, with SQL as the named technology.",
+      "Work location is entirely absent from the JD body. Location type set to 'unclear'. Cities listed as empty.",
+      "Role may focus on one or both of two distinct areas (Ads Pricing & Monetization Systems vs. Global Ads Systems & Platform Scaling), making actual scope somewhat ambiguous."
+    ]
+  }
+}

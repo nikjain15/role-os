@@ -1,0 +1,211 @@
+{
+  "company": "Linear",
+  "role_title": "Manager, Growth Sales",
+  "url": "https://jobs.ashbyhq.com/linear/5e5f6557-7ac6-4b9f-bdb0-89354e77c644",
+  "ats_provider": "ashby",
+  "ats_job_id": "5e5f6557-7ac6-4b9f-bdb0-89354e77c644",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "remote-us",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": "no required commute; occasional travel for team off-sites",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Other",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Sales Manager / Growth Sales Leader",
+  "seniority": {
+    "level": "Manager / Team Lead",
+    "years_required_min": 3,
+    "years_required_max": null,
+    "manages_people": true,
+    "level_signals": [
+      "3–5+ years of sales leadership experience",
+      "Lead and coach a team of Growth AEs",
+      "Managing mid-market or growth segments"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "sales_leadership_experience",
+      "raw_text_from_jd": "3–5+ years of sales leadership experience at a high-growth SaaS company, ideally managing mid-market or growth segments.",
+      "skill_type": "years_of_experience",
+      "domain": "sales_leadership",
+      "minimum_value": 3,
+      "unit": "years",
+      "qualifier": "high-growth SaaS company",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "SaaS"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "high-growth SaaS company"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "ae_coaching_track_record",
+      "raw_text_from_jd": "A strong track record of coaching AEs to consistently hit and exceed quota in a high-velocity sales environment.",
+      "skill_type": "outcome",
+      "domain": "sales_coaching",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "operational_rigor",
+      "raw_text_from_jd": "Deep operational rigor, with experience managing pipeline health, forecasting, and rep productivity.",
+      "skill_type": "capability",
+      "domain": "sales_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_coaching_skills",
+      "raw_text_from_jd": "Excellent communication and coaching skills, with the ability to develop early-career and mid-career AEs.",
+      "skill_type": "capability",
+      "domain": "people_development",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_collaboration",
+      "raw_text_from_jd": "A collaborative mindset and ability to work closely with Marketing, RevOps, and Customer Success to scale a repeatable growth motion.",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "mid_market_or_growth_segment_experience",
+      "raw_text_from_jd": "3–5+ years of sales leadership experience at a high-growth SaaS company, ideally managing mid-market or growth segments.",
+      "skill_type": "domain_knowledge",
+      "domain": "mid_market_or_growth_segment_sales",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "SaaS"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Growth segment sales — helping rapidly growing companies adopt Linear across product and engineering organizations",
+    "business_model": "B2B SaaS, product-led growth with sales-assisted expansion",
+    "primary_metrics_inferred": [
+      "Team quota attainment",
+      "Pipeline coverage and health",
+      "Forecasting accuracy",
+      "Revenue from expansion opportunities"
+    ],
+    "cross_functional_partners": [
+      "Marketing",
+      "Growth",
+      "Customer Success",
+      "RevOps"
+    ],
+    "core_responsibilities": [
+      "Lead and coach a team of Growth AEs, helping them run disciplined discovery, manage active pipelines, and close expansion opportunities with fast-growing companies.",
+      "Establish strong operating rigor around pipeline management, forecasting accuracy, and opportunity qualification to drive consistent revenue performance.",
+      "Work closely with Marketing and Growth teams to convert inbound demand into qualified opportunities and ensure strong pipeline coverage.",
+      "Identify patterns across customer conversations and funnel data to continuously refine messaging, segmentation, and sales playbooks.",
+      "Partner with Customer Success to ensure smooth onboarding and identify expansion opportunities as customers grow their teams."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "Competitive salary and equity; employee-friendly equity terms including early exercise in the US and extended exercise windows",
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "Growth Sales",
+    "Sales Manager",
+    "AE coaching",
+    "pipeline management",
+    "forecasting",
+    "high-velocity sales",
+    "SaaS",
+    "mid-market",
+    "expansion",
+    "RevOps",
+    "Customer Success",
+    "remote-first"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Remote-first with no required commute; open to all of North America",
+    "Competitive equity terms including early exercise and extended windows — unusually candidate-friendly",
+    "5 weeks paid vacation plus local statutory holidays",
+    "4-month paid parental leave",
+    "Paid sabbatical after 4 years",
+    "Company has strong traction: 25,000+ customers including OpenAI, Coinbase, Ramp",
+    "Series C funded; recent liquidity event for team"
+  ],
+  "red_flags": [
+    "Compensation range not disclosed",
+    "Visa sponsorship and work authorization not addressed",
+    "Team size for the Growth AE team not specified",
+    "Role is 'Manager, Growth Sales' — not a pure PM role; archetype is 'Other', may not match PM-focused job seekers"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 3–5+ years leadership and people management scope)",
+      "scope.business_model (inferred from product description and customer profile)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated explicitly in JD)",
+      "compensation.location_pay_differential (inferred as false; no mention of geo-based pay differentiation)",
+      "location.work_auth and location.visa_sponsorship (not addressed in JD)"
+    ],
+    "ambiguities": [
+      "'3–5+ years' minimum is ambiguous — treated as 3 years minimum (years_required_min: 3) with the '+' indicating 5+ is preferred; mid-market/growth segment experience flagged as nice-to-have due to 'ideally' qualifier",
+      "The role is located in 'North America' broadly; no specific cities named. Classified as remote-us but Canada may also be included — JD says 'North America' not 'US only'."
+    ]
+  }
+}

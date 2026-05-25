@@ -1,0 +1,266 @@
+{
+  "company": "Lyft",
+  "role_title": "Senior Design Program Manager, Design Foundations & AI Transformation",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8504066002?gh_jid=8504066002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8504066002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "New York City, NY"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "3 days per week on Mondays, Wednesdays, and Thursdays",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Design Program Manager — Design Systems & AI Transformation",
+  "seniority": {
+    "level": "Senior IC / Staff-equivalent",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years in design program management or relevant role",
+      "JD body calls role 'Staff Design Program Manager' while title says 'Senior Design Program Manager'",
+      "Comp range $118K–$147.5K base in NYC, consistent with senior/staff IC",
+      "Leads cross-functional AI Taskforce and owns roadmap end-to-end"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_design_pm",
+      "raw_text_from_jd": "5+ years in design program management, product design, or a relevant design industry role",
+      "skill_type": "years_of_experience",
+      "domain": "design_program_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "years_design_systems",
+      "raw_text_from_jd": "1+ years working with Design Systems",
+      "skill_type": "years_of_experience",
+      "domain": "design_systems",
+      "minimum_value": 1,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "complex_xfn_programs",
+      "raw_text_from_jd": "Demonstrated ability to drive complex, cross-functional programs with multiple stakeholders and workstreams",
+      "skill_type": "capability",
+      "domain": "program_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "comfort_with_ambiguity",
+      "raw_text_from_jd": "Comfort with ambiguity — you can take a loosely defined problem, build a plan, and move without heavy oversight",
+      "skill_type": "cultural_fit",
+      "domain": "autonomous_execution",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strong_communication",
+      "raw_text_from_jd": "Strong written and verbal communication; you know how to give direction clearly and tailor it to the audience",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_tools_familiarity",
+      "raw_text_from_jd": "Hands-on familiarity with AI tools and a genuine interest in how they change the way design teams work",
+      "skill_type": "tool_proficiency",
+      "domain": "ai_tooling",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "attention_to_detail_rigor",
+      "raw_text_from_jd": "Attention to detail and organizational rigor; you don't let things fall through the cracks",
+      "skill_type": "cultural_fit",
+      "domain": "operational_rigor",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "resilience",
+      "raw_text_from_jd": "Resilience — design orgs are dynamic, priorities shift, and this role requires someone who stays grounded",
+      "skill_type": "cultural_fit",
+      "domain": "adaptability",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "figma_jira_github",
+      "raw_text_from_jd": "Experience with Figma, Jira, and GitHub a plus",
+      "skill_type": "tool_proficiency",
+      "domain": "design_and_project_tooling",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Figma",
+        "Jira",
+        "GitHub"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Design Foundations & AI Transformation — Design Systems, Content Design, illustration, iconography, AI tooling, AI Taskforce, AI Education workstreams",
+    "business_model": "B2C / B2B ride-sharing platform",
+    "primary_metrics_inferred": [
+      "Roadmap delivery and on-time execution for Design Systems and AI projects",
+      "Team utilization and project health visibility",
+      "AI tool adoption across Design+ practitioners"
+    ],
+    "cross_functional_partners": [
+      "Designers",
+      "Engineers",
+      "Illustrators",
+      "Product Managers",
+      "Design Leadership",
+      "Content Design",
+      "Infrastructure Partnership"
+    ],
+    "core_responsibilities": [
+      "Own roadmap and execution for Design Systems, illustration, iconography, and AI projects end-to-end",
+      "Drive program management for the AI Taskforce — coordinating across Education, Content Design, and Infrastructure Partnership tracks",
+      "Shape and document workflows and processes that make the team faster and more effective",
+      "Partner with designers, engineers, illustrators, and PMs to scope work, set timelines, and manage delivery",
+      "Build and maintain visibility into project health, team utilization, and priorities for design leadership",
+      "Lead planning and prioritization across cross-functional teams — balancing competing inputs without losing sight of the goal",
+      "Facilitate design reviews, retros, and planning sessions",
+      "Bring AI fluency to program management work — use tools like Figma, Jira, and AI assistants to accelerate your own workflow, and help the team adopt new tools effectively"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      118000,
+      147500
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "potential equity offering mentioned but not detailed",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Design Program Manager",
+    "Design Systems",
+    "AI Transformation",
+    "AI Taskforce",
+    "AI tooling",
+    "Content Design",
+    "cross-functional programs",
+    "Figma",
+    "Jira",
+    "roadmap",
+    "Design Foundations",
+    "illustration",
+    "iconography"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($118K–$147.5K base in NYC)",
+    "Clear product surface and ownership area (Design Foundations + AI Taskforce)",
+    "Specific days named for hybrid schedule (Mon/Wed/Thu), reducing ambiguity",
+    "Equity and bonus mentioned in addition to base",
+    "Generous parental leave (18 weeks) and strong benefits package"
+  ],
+  "red_flags": [
+    "JD body refers to role as 'Staff Design Program Manager' while the role title says 'Senior Design Program Manager' — potential level inconsistency worth clarifying with recruiter",
+    "Hybrid requires 3 days/week in-office (NYC) — no remote option",
+    "Visa sponsorship not addressed in the JD"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range, JD body 'Staff' label, and scope of ownership)",
+      "scope.business_model (inferred from Lyft's known product)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly stated)",
+      "location.visa_sponsorship (not mentioned; marked unclear)",
+      "compensation.equity_form (mentioned as 'potential equity offering' but form not specified)"
+    ],
+    "ambiguities": [
+      "Role title in posting says 'Senior Design Program Manager' but the JD body opening paragraph says 'Lyft is seeking a Staff Design Program Manager' — the seniority level is inconsistent and should be confirmed with the recruiter.",
+      "Figma and Jira appear both in the core responsibilities section (implied required) and explicitly called out as 'a plus' in the Experience section — treated as nice-to-have per the JD's explicit 'a plus' language, but they are also referenced in responsibilities."
+    ]
+  }
+}

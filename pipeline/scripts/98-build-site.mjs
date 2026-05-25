@@ -83,13 +83,14 @@ const totalCompanies = Object.keys(rawByCo).length;
 const data = {
   generatedAt: new Date().toISOString(),
   funnel: [
-    { stage: 'Companies scoped', count: totalCompanies },
-    { stage: 'JDs fetched (raw)', count: rawFiles.length },
-    { stage: 'JDs structured (LLM-extracted)', count: structuredFiles.length },
-    { stage: 'Candidate-facing views rendered', count: viewFiles.length },
-    { stage: 'Company enrichment (next)', count: 0 },
-    { stage: 'Fit-scored & shortlisted (next)', count: 0 },
-    { stage: 'Applications submitted (next)', count: 0 },
+    { stage: 'Companies scoped', count: totalCompanies, status: 'done' },
+    { stage: 'JDs fetched', count: rawFiles.length, status: 'done' },
+    { stage: 'JDs structured (LLM-extracted)', count: structuredFiles.length, status: 'in-progress' },
+    { stage: 'Roles shortlisted (fit-scored)', count: 0, status: 'next' },
+    { stage: 'Applications submitted', count: 0, status: 'next' },
+    { stage: 'First-round interviews', count: 0, status: 'next' },
+    { stage: 'Final rounds', count: 0, status: 'next' },
+    { stage: 'Offers', count: 0, status: 'next' },
   ],
   headline: {
     rawJDs: rawFiles.length,

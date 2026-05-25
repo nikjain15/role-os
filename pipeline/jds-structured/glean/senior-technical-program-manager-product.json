@@ -1,0 +1,265 @@
+{
+  "company": "Glean",
+  "role_title": "Senior Technical Program Manager, Product",
+  "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4628879005",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "4628879005",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "SF Bay Area, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "4 days a week in one of our SF Bay Area offices",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Product-focused TPM",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 8,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "8-10+ years of experience in technical program management",
+      "Base salary range $198,000 - $235,500 consistent with Senior IC at a late-stage startup",
+      "Leads complex, cross-functional initiatives spanning multi-quarter programs"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "education_bs_ms",
+      "raw_text_from_jd": "BS/MS in Computer Science, Engineering, or a related technical field.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "BS",
+        "MS",
+        "Computer Science",
+        "Engineering"
+      ]
+    },
+    {
+      "id": "years_tpm_experience",
+      "raw_text_from_jd": "8-10+ years of experience in technical program management with a proven track record of driving complex product programs from concept to launch in fast-paced SaaS environments.",
+      "skill_type": "years_of_experience",
+      "domain": "technical_program_management",
+      "minimum_value": 8,
+      "unit": "years",
+      "qualifier": "in fast-paced SaaS environments",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "SaaS"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_ml_technical_depth",
+      "raw_text_from_jd": "Deep technical background in AI/ML systems, LLMs, and agents, with an ability to translate complex capabilities into practical product impact.",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_ml_systems",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI/ML systems",
+        "LLMs",
+        "agents"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "software_product_development_knowledge",
+      "raw_text_from_jd": "Strong understanding of software product development, including API design, data systems, and product integration patterns.",
+      "skill_type": "domain_knowledge",
+      "domain": "software_product_development",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "API design",
+        "data systems",
+        "product integration patterns"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "multi_quarter_program_structuring",
+      "raw_text_from_jd": "Ability to structure multi-quarter product programs with measurable outcomes.",
+      "skill_type": "capability",
+      "domain": "program_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_skills",
+      "raw_text_from_jd": "Excellent written and verbal communication skills; able to translate between technical and business contexts.",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_and_risk_management",
+      "raw_text_from_jd": "Demonstrated ability to manage through ambiguity, anticipate risks, and build alignment across diverse teams.",
+      "skill_type": "capability",
+      "domain": "risk_management_and_alignment",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "builder_mindset",
+      "raw_text_from_jd": "A builder mindset; proactive, collaborative, and focused on enabling teams to deliver their best work.",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Enterprise AI product roadmap execution — search, AI assistant, and agentic capabilities on Glean's Work AI platform",
+    "business_model": "enterprise SaaS, B2B",
+    "primary_metrics_inferred": [
+      "Program velocity and delivery predictability",
+      "Product launch quality and adoption impact",
+      "Cross-functional alignment and dependency resolution",
+      "Customer adoption of new product capabilities"
+    ],
+    "cross_functional_partners": [
+      "Product Managers",
+      "Engineering Leads",
+      "Design",
+      "Customer Success",
+      "Go-To-Market"
+    ],
+    "core_responsibilities": [
+      "Lead end-to-end product development programs, spanning ideation, design, engineering, and launch.",
+      "Build and maintain program plans that drive clarity across teams ensuring transparency in scope, timelines, and ownership.",
+      "Drive execution excellence for cross-functional initiatives, balancing speed with quality.",
+      "Partner with Go-To-Market and Customer Success teams to ensure readiness for product rollouts and customer adoption.",
+      "Facilitate communication across Product, Design, and Engineering to align priorities and unblock delivery.",
+      "Proactively identify and mitigate delivery risks, tradeoffs, and cross-team dependencies.",
+      "Establish clear visibility into execution health using metrics such as velocity, quality, and adoption impact.",
+      "Continuously evolve how Glean plans, tracks, and delivers cross-functional programs thereby improving predictability and accountability.",
+      "Driving the company's Product roadmap execution, ensuring alignment between product vision, engineering delivery, and customer outcomes.",
+      "Structuring and managing programs for major product launches, platform enhancements, and customer-facing capabilities.",
+      "Partnering with PMs and Eng to define clear requirements, success metrics, and launch criteria.",
+      "Anticipating risks, resolving dependencies, and ensuring smooth execution across engineering and GTM teams.",
+      "Improving execution rigor, building visibility into progress, blockers, and outcomes across multiple teams.",
+      "Driving operational excellence through consistent program cadences, postmortems, and lessons learned."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      198000,
+      235500
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "Certain roles may be eligible for variable compensation, equity, and benefits",
+    "location_pay_differential": false,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Technical Program Manager",
+    "enterprise AI",
+    "LLMs",
+    "AI agents",
+    "cross-functional",
+    "product roadmap execution",
+    "SaaS",
+    "program management",
+    "AI/ML systems",
+    "product launches",
+    "execution excellence",
+    "Work AI"
+  ],
+  "buzzword_density": "high",
+  "green_flags": [
+    "Compensation range disclosed and competitive ($198K-$235.5K base)",
+    "Clear product surface and ownership area (enterprise AI platform, roadmap execution)",
+    "Fast-growing company with strong market recognition (Fast Company Top 10, Forbes AI 50, etc.)",
+    "Role sits at high-visibility intersection of product, engineering, design, and GTM",
+    "Comprehensive benefits package including home office stipend, education and wellness stipends, 401k"
+  ],
+  "red_flags": [
+    "Hybrid requirement of 4 days/week in SF Bay Area office is very high and eliminates most non-local candidates",
+    "No mention of visa sponsorship — unclear for international candidates",
+    "Buzzword-heavy JD with limited specificity on team structure or direct reporting line",
+    "BS/MS in CS/Engineering listed as hard requirement with no mention of equivalent experience accepted"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range and years of experience)",
+      "scope.business_model (inferred from product description and customer base)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly stated)",
+      "scope.team_size_estimate (not stated; left as 'unclear')",
+      "location.work_auth (not stated; left as 'unclear')",
+      "location.visa_sponsorship (not stated; left as 'unclear')"
+    ],
+    "ambiguities": [
+      "The JD states 'Certain roles may be eligible for variable compensation, equity' — it is unclear whether this TPM role specifically includes equity or variable comp.",
+      "Education requirement lists BS/MS but does not explicitly state whether equivalent experience is accepted; treated as hard with no equivalent experience accepted given the unconditional phrasing."
+    ]
+  }
+}

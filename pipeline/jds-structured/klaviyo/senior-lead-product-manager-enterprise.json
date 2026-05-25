@@ -1,0 +1,316 @@
+{
+  "company": "Klaviyo",
+  "role_title": "Senior Lead Product Manager, Enterprise",
+  "url": "https://www.klaviyo.com/careers/jobs?gh_jid=7702118003",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7702118003",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": "up to 10% travel for onboarding, team meetings, and industry events",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Generalist PM with Enterprise Platform focus",
+  "seniority": {
+    "level": "Staff / Principal PM (Senior Lead)",
+    "years_required_min": 10,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "10+ years of experience in Product Management",
+      "Leads multiple product areas and sets 2–3 year platform vision",
+      "Comp range $196K–$294K base, consistent with Staff/Principal IC at a mid-to-large SaaS company",
+      "Title is 'Senior Lead' which sits above Senior PM"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_enterprise_saas",
+      "raw_text_from_jd": "10+ years of experience in Product Management with significant exposure to Enterprise SaaS products.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management_enterprise_saas",
+      "minimum_value": 10,
+      "unit": "years",
+      "qualifier": "significant exposure to Enterprise SaaS",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "SaaS"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "enterprise_platform_product_success",
+      "raw_text_from_jd": "Proven success leading enterprise-grade or platform products such as CRM, marketing automation, customer data platforms, analytics, data infrastructure, or AI-driven systems.",
+      "skill_type": "outcome",
+      "domain": "enterprise_platform_products",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "CRM",
+        "marketing automation",
+        "customer data platforms",
+        "analytics",
+        "data infrastructure",
+        "AI-driven systems"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "large_enterprise_customer_experience",
+      "raw_text_from_jd": "Direct experience supporting large enterprise customers (e.g., Fortune 1000), not just SMB or self-serve products.",
+      "skill_type": "domain_knowledge",
+      "domain": "enterprise_customer_success",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "Fortune 1000"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "enterprise_purchasing_intuition",
+      "raw_text_from_jd": "Strong intuition for what drives enterprise purchasing decisions: trust, compliance, scalability, configurability, integrations, and roadmap credibility.",
+      "skill_type": "domain_knowledge",
+      "domain": "enterprise_sales_and_buying",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sales_solutions_cs_partnership",
+      "raw_text_from_jd": "Hands-on experience partnering with Sales, Solutions Engineering, and Customer Success on enterprise deals.",
+      "skill_type": "capability",
+      "domain": "cross_functional_enterprise_deals",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_depth_architecture",
+      "raw_text_from_jd": "Comfortable discussing system architecture, data models, APIs, integrations, data flows, and security standards with engineering teams.",
+      "skill_type": "capability",
+      "domain": "technical_product_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "system architecture",
+        "data models",
+        "APIs",
+        "integrations",
+        "data flows",
+        "security standards"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "complex_data_infrastructure_experience",
+      "raw_text_from_jd": "Experience working on products with complex data infrastructure, distributed systems, or significant integration dependencies.",
+      "skill_type": "domain_knowledge",
+      "domain": "data_infrastructure_distributed_systems",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "distributed systems",
+        "data infrastructure"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "influence_without_authority",
+      "raw_text_from_jd": "Proven ability to influence and lead across Product, Engineering, GTM, Security, and Legal without direct authority.",
+      "skill_type": "capability",
+      "domain": "cross_functional_leadership",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "enterprise_needs_to_product_requirements",
+      "raw_text_from_jd": "Track record of translating enterprise customer needs into clear product requirements, thoughtful tradeoffs, and scalable platform solutions.",
+      "skill_type": "outcome",
+      "domain": "product_requirements_and_tradeoffs",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_and_storytelling",
+      "raw_text_from_jd": "Strong communication and storytelling skills, with the ability to align diverse teams around shared priorities.",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_fluency_and_experimentation",
+      "raw_text_from_jd": "You've already experimented with AI in work or personal projects, and you're excited to dive in and learn fast. You're hungry to responsibly explore new AI tools and workflows, finding ways to make your work smarter and more efficient.",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_tools_and_workflows",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Enterprise platform — unifying customer data, AI-driven automation, ecosystem integrations; B2C CRM for Enterprise customers",
+    "business_model": "B2B SaaS, enterprise-focused, marketing automation and customer data platform",
+    "primary_metrics_inferred": [
+      "Enterprise ARR growth",
+      "Enterprise customer adoption and retention",
+      "OKRs tied to enterprise platform scalability and feature delivery"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Sales",
+      "Solutions Engineering",
+      "Customer Success",
+      "Security",
+      "Legal",
+      "Go-to-Market",
+      "Partner teams"
+    ],
+    "core_responsibilities": [
+      "Set and evangelize a 2–3 year vision for Klaviyo's Enterprise platform",
+      "Translate company goals into clear OKRs and roadmaps that accelerate Enterprise adoption, retention, and ARR growth",
+      "Represent the voice of large, global customers in strategic product discussions",
+      "Deliver capabilities that unify customer data across channels, enable real-time personalization, and support global data governance and compliance",
+      "Lead roadmap reviews, facilitate strategic tradeoffs, and ensure alignment across teams",
+      "Act as a central point of coordination for enterprise commitments from RFP support and security reviews through onboarding and long-term success",
+      "Transform workflows by putting AI at the center, building smarter systems and ways of working from the ground up"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      196000,
+      294000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity mentioned as part of total compensation package alongside annual cash bonus plan",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Enterprise SaaS",
+    "B2C CRM",
+    "customer data platform",
+    "marketing automation",
+    "AI-driven automation",
+    "data governance",
+    "platform strategy",
+    "enterprise roadmap",
+    "ARR growth",
+    "OKRs",
+    "scalability",
+    "compliance",
+    "ecosystem integrations",
+    "Fortune 1000"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed and wide ($196K–$294K base), suggesting flexibility for top candidates",
+    "Role is described as highly visible and strategically central to Klaviyo's Enterprise growth",
+    "Explicitly encourages close-but-not-exact-match candidates to apply",
+    "Equity and bonus plan included in total compensation",
+    "Clear product surface and ownership scope defined in JD",
+    "Klaviyo is a scaled company with 183,000+ brand customers, providing real enterprise PM exposure"
+  ],
+  "red_flags": [
+    "No specific cities listed but pay differential by geography is indicated — final comp may vary significantly by location",
+    "Wide comp range ($196K–$294K) could indicate significant variation by level or location, creating uncertainty",
+    "No visa sponsorship information provided — unclear for non-US candidates",
+    "10+ years hard requirement with Fortune 1000-scale customer experience is a high bar that narrows the pool significantly",
+    "Use of AI screening tool (Covey) noted, with AEDT implications for NYC candidates"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Senior Lead', comp range, and scope of responsibilities)",
+      "scope.team_size_estimate (not stated; left as 'unclear')",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly in JD)",
+      "scope.business_model (inferred from product description and customer base)",
+      "location.remote_us_eligible (inferred from 'various U.S. geographic markets' salary statement and no office attendance requirement beyond travel)",
+      "location.type set to hybrid (inferred from travel requirement language; no explicit office policy stated)"
+    ],
+    "ambiguities": [
+      "Location type is unclear: no explicit office attendance requirement is stated beyond '10% travel,' but the JD does not say 'remote.' Treated as hybrid given travel language and US geography pay differential.",
+      "Visa sponsorship is not mentioned anywhere in the JD — left as 'unclear'.",
+      "The JD lists no nice-to-haves or preferred qualifications section — all requirements in 'What You Bring' were treated as hard must-haves given unconditional bullet framing."
+    ]
+  }
+}

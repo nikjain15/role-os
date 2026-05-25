@@ -1,0 +1,350 @@
+{
+  "company": "Lyft",
+  "role_title": "Senior Program Manager, Autonomous Vehicles",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8515875002?gh_jid=8515875002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8515875002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "3 days per week on Mondays, Wednesdays, and Thursdays",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "BizOps / Strategy & Ops",
+  "seniority": {
+    "level": "Senior IC / Staff TPM",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7+ years of experience in program management, business operations, or a similar cross-functional leadership role",
+      "Experience working directly with C-level executives and cross-functional leadership teams",
+      "Works directly with Flexdrive CEO and Lyft AV leadership",
+      "Base pay range $132,000–$165,000 in San Francisco area"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "Bachelor's degree in Business, Operations, Engineering, or related field; MBA or relevant advanced degree is a plus",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree",
+        "MBA"
+      ]
+    },
+    {
+      "id": "years_program_management",
+      "raw_text_from_jd": "7+ years of experience in program management, business operations, or a similar cross-functional leadership role, ideally within high-growth tech, fleet management, logistics, or infrastructure-heavy environments",
+      "skill_type": "years_of_experience",
+      "domain": "program_management",
+      "minimum_value": 7,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "high-growth tech",
+        "fleet management",
+        "logistics"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "complex_multiworkstream_programs",
+      "raw_text_from_jd": "Demonstrated experience managing complex, multi-workstream programs with 12–24 month timelines and significant pre-revenue or pre-launch investment requirements",
+      "skill_type": "capability",
+      "domain": "program_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "pm_tools_methodologies",
+      "raw_text_from_jd": "Strong command of program management tools and methodologies (Gantt charts, RAID logs, dependency mapping, critical path analysis)",
+      "skill_type": "tool_proficiency",
+      "domain": "program_management",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "Gantt charts",
+        "RAID logs"
+      ],
+      "technologies_named": [
+        "dependency mapping",
+        "critical path analysis"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "executive_communication",
+      "raw_text_from_jd": "Excellent communication skills with proven ability to translate operational complexity into clear executive-level narratives for both internal leadership and board audiences",
+      "skill_type": "capability",
+      "domain": "stakeholder_communication",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "c_level_collaboration",
+      "raw_text_from_jd": "Experience working directly with C-level executives and cross-functional leadership teams to drive decisions and accountability",
+      "skill_type": "capability",
+      "domain": "executive_stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_risk_mindset",
+      "raw_text_from_jd": "Strong analytical mindset with ability to identify risks, quantify trade-offs, and recommend courses of action with imperfect information",
+      "skill_type": "capability",
+      "domain": "risk_analysis",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "mba_advanced_degree",
+      "raw_text_from_jd": "MBA or relevant advanced degree is a plus",
+      "skill_type": "credential",
+      "domain": "education",
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "MBA"
+      ]
+    },
+    {
+      "id": "infrastructure_buildout",
+      "raw_text_from_jd": "Experience with infrastructure buildout programs (depot construction, facility standup, real estate development)",
+      "skill_type": "domain_knowledge",
+      "domain": "infrastructure_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "capital_intensive_fleet_av",
+      "raw_text_from_jd": "Background in capital intensive projects, fleet management, automotive, mobility, or autonomous vehicle operations",
+      "skill_type": "domain_knowledge",
+      "domain": "fleet_management_autonomous_vehicles",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "fleet management",
+        "automotive",
+        "mobility"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "international_programs",
+      "raw_text_from_jd": "Experience managing programs that span domestic and international markets, particularly European market entry",
+      "skill_type": "domain_knowledge",
+      "domain": "international_program_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [
+        "Europe"
+      ],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "corporate_finance_familiarity",
+      "raw_text_from_jd": "Familiarity with corporate entity formation, capital structure, or financial planning processes",
+      "skill_type": "domain_knowledge",
+      "domain": "corporate_finance",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "subsidiary_experience",
+      "raw_text_from_jd": "Experience in a subsidiary or business unit operating within a larger corporate parent",
+      "skill_type": "domain_knowledge",
+      "domain": "corporate_structure",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Flexdrive AV Operating Readiness program — fleet infrastructure, hiring, capital deployment, and market readiness for autonomous vehicle fleet ownership and operations",
+    "business_model": "B2B / fleet operations; Flexdrive is Lyft's wholly-owned fleet management subsidiary transitioning to AV fleet ownership",
+    "primary_metrics_inferred": [
+      "Deployment milestone achievement",
+      "Market readiness scorecard progress",
+      "Investment spend vs. capital deployment schedule",
+      "Cross-functional dependency resolution rate"
+    ],
+    "cross_functional_partners": [
+      "Operations",
+      "Fleet",
+      "Strategy",
+      "Infrastructure",
+      "FP&A",
+      "Treasury",
+      "Legal",
+      "People",
+      "Flexdrive CEO",
+      "Lyft AV leadership",
+      "Flexdrive board"
+    ],
+    "core_responsibilities": [
+      "Own and maintain the master program timeline for the Flexdrive AV Operating Readiness",
+      "Develop and manage the program's RAID log (Risks, Assumptions, Issues, Dependencies)",
+      "Drive weekly leadership syncs, monthly deep-dive reviews, and quarterly board updates",
+      "Translate upstream decisions into operational requirements and update the readiness roadmap in real time",
+      "Serve as the connective tissue between workstream leads",
+      "Build and deliver clear, concise status reporting to the Flexdrive CEO, Lyft AV leadership, and the Flexdrive board",
+      "Develop market readiness scorecards",
+      "Design and implement the program management operating model for AV readiness",
+      "Build repeatable playbooks for market readiness that scale"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      132000,
+      165000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "potential equity offering mentioned but not detailed",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "program management",
+    "autonomous vehicles",
+    "AV fleet",
+    "Flexdrive",
+    "RAID log",
+    "cross-functional",
+    "infrastructure",
+    "fleet management",
+    "operational readiness",
+    "board reporting",
+    "greenfield",
+    "market readiness"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($132,000–$165,000 base in SF area)",
+    "High-visibility role with direct access to Flexdrive CEO and Lyft AV leadership",
+    "Greenfield program — opportunity to design the playbook from scratch",
+    "Clear articulation of responsibilities and stakeholder landscape",
+    "Hybrid schedule explicitly defined (Mon/Wed/Thu in office)",
+    "Generous benefits package including 18 weeks paid parental leave"
+  ],
+  "red_flags": [
+    "Hybrid requires in-office 3 days per week (Mon/Wed/Thu) in San Francisco — eliminates fully-remote candidates",
+    "Visa sponsorship status not mentioned anywhere in the JD — unclear for non-US work auth candidates",
+    "High ambiguity environment ('If you thrive in ambiguity') may not suit candidates seeking structured programs",
+    "Role spans North America and Europe but location is SF-only — potential travel or timezone burden not disclosed"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range + 7+ years requirement + C-level exposure)",
+      "scope.business_model (inferred from product/subsidiary description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated explicitly in JD)",
+      "location.visa_sponsorship (not mentioned; marked unclear)",
+      "posting_first_seen (not available)",
+      "posting_last_updated (not available)"
+    ],
+    "ambiguities": [
+      "The JD mentions deployment in 'North America and Europe' as scope of work, but the listed location and comp range is San Francisco only — it is unclear whether the role requires travel to Europe or if the European scope is handled remotely.",
+      "Equity is mentioned as 'potential equity offering' but no form (RSU, options) or range is specified.",
+      "The bachelor's degree requirement lists 'MBA or relevant advanced degree is a plus' as part of the same sentence — the MBA portion is treated as a nice-to-have while the bachelor's is a must-have; however the JD does not explicitly label the bachelor's as required vs. preferred, only the MBA as 'a plus'. Treated bachelor's as hard given typical convention."
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "company": "Lyft",
+  "role_title": "Product Manager, Driver Experience",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8525086002?gh_jid=8525086002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8525086002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "New York City, NY",
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "3 days per week on Mondays, Wednesdays, and Thursdays",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Consumer PM (two-sided marketplace)",
+  "seniority": {
+    "level": "Mid-level IC (PM II / Senior PM)",
+    "years_required_min": 3,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "3+ years in product management or equivalent",
+      "Base pay range $128,000–$160,000 in NYC or SF, consistent with mid-to-senior IC",
+      "Expected to own products end-to-end and communicate with executive levels"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "3+ years in product management, product design or equivalent consultant experience with significant time spent leading consumer facing products",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 3,
+      "unit": "years",
+      "qualifier": "consumer facing products",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "project_ambiguity_management",
+      "raw_text_from_jd": "You manage project ambiguity, complexity, and interdependencies in an organized and structured way, and you are able to define and analyze metrics that inform the success of your products",
+      "skill_type": "capability",
+      "domain": "project_management_and_analytics",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_obsession",
+      "raw_text_from_jd": "Strong user empathy and experience in the customer discovery and product development process",
+      "skill_type": "capability",
+      "domain": "user_research_and_discovery",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_org_alignment",
+      "raw_text_from_jd": "Experience building alignment and influencing decision making across org lines and with senior leadership; specifically showcasing strong judgment when balancing a flawless user experience and the needs of a two sided marketplace",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_skills",
+      "raw_text_from_jd": "Skills and intuition for communication strategy at every level -- within teams, within the company, to users, and other audiences",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "detail_orientation",
+      "raw_text_from_jd": "Balancing multiple projects, deadlines, and requests should be second nature to you",
+      "skill_type": "capability",
+      "domain": "execution_and_prioritization",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Driver Experience platform — reducing friction, streamlining key interactions, and building intuitive/fair systems for drivers",
+    "business_model": "two-sided marketplace (rideshare), B2C",
+    "primary_metrics_inferred": [
+      "Driver satisfaction and engagement",
+      "Friction reduction in driver interactions",
+      "Platform quality and service reliability"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Data Science",
+      "Design",
+      "Marketing",
+      "Partner teams",
+      "Executive leadership"
+    ],
+    "core_responsibilities": [
+      "Deeply understand driver and business needs to set an ambitious product vision that motivates and inspires your team, peers and leadership",
+      "Set your team's goals and success metrics that align with Lyft's mission and drive maximum impact based on data analysis, market research and user research",
+      "Build a product roadmap to achieve your goals and lead a core team of engineers, designers, data scientists, and marketers to execute on it.",
+      "Build alignment and collaborate with partner teams on shared goals and initiatives",
+      "Communicate roadmaps, priorities, experiments and decisions across a broad set of audiences from partner teams to executive levels",
+      "Completely own your team's products, existing or new, from ideation, through development, to launch, growth and maintenance"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      128000,
+      160000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "potential equity offering mentioned but not detailed",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "driver experience",
+    "two-sided marketplace",
+    "consumer facing products",
+    "product roadmap",
+    "user empathy",
+    "data analysis",
+    "friction reduction",
+    "cross-functional",
+    "rideshare",
+    "product vision"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($128K–$160K base in NYC/SF)",
+    "Clear product surface and ownership (Driver Experience)",
+    "Equity and bonus upside mentioned in addition to base",
+    "Generous benefits package including 18 weeks parental leave and mental health benefits",
+    "Hybrid flexibility including up to 4 weeks per year work-from-anywhere"
+  ],
+  "red_flags": [
+    "Hybrid role requires 3 specific days in office (Mon, Wed, Thu) — limited schedule flexibility",
+    "Salary range applies to NYC or SF only; other location pay not disclosed",
+    "Visa sponsorship status not mentioned at all",
+    "No mention of leveling (PM I, PM II, Senior PM) making it harder to gauge career stage fit"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years requirement and comp range)",
+      "scope.business_model (inferred from Lyft's rideshare product and 'two sided marketplace' mention)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated explicitly)",
+      "location.visa_sponsorship (not mentioned; marked unclear)"
+    ],
+    "ambiguities": [
+      "The JD mentions '3+ years in product management, product design or equivalent consultant experience' — product design and consulting are listed as equivalent paths, which broadens the candidate pool beyond pure PM backgrounds. Treated as a single hard requirement.",
+      "Compensation range is stated only for NYC and SF; roles in other locations may have different ranges per the JD, but no other ranges are given."
+    ]
+  }
+}

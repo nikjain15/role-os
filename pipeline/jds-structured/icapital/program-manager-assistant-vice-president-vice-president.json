@@ -1,0 +1,363 @@
+{
+  "company": "iCapital",
+  "role_title": "Program Manager - Assistant Vice President / Vice President",
+  "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8534660002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8534660002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [],
+    "remote_us_eligible": false,
+    "office_time_required": "Monday-Thursday in office, Friday remote",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Program Manager with Product Operations focus",
+  "seniority": {
+    "level": "AVP / VP (Senior IC, likely equivalent to Senior or Staff PM)",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7-10+ years of relevant experience",
+      "AVP or VP title",
+      "Base salary range $120,000 to $150,000",
+      "Expected to partner directly with product and engineering leadership",
+      "Operates with minimal direction and independently owns problems"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_program_management",
+      "raw_text_from_jd": "7-10+ years of relevant experience within program management, project management, or business analysis roles",
+      "skill_type": "years_of_experience",
+      "domain": "program_management",
+      "minimum_value": 7,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "complex_software_delivery_finserv",
+      "raw_text_from_jd": "Proven experience delivering multiple complex, technically deep software projects simultaneously in financial services or fintech environments",
+      "skill_type": "outcome",
+      "domain": "software_program_delivery",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "financial services",
+        "fintech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_engineering_partnership",
+      "raw_text_from_jd": "Demonstrated ability to partner directly with product and engineering leadership, understanding product strategy, technical architecture, sprint mechanics, and delivery tradeoffs well enough to co-own outcomes, not just track them",
+      "skill_type": "capability",
+      "domain": "cross_functional_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "globally_distributed_teams",
+      "raw_text_from_jd": "Experience working effectively with globally distributed teams",
+      "skill_type": "capability",
+      "domain": "distributed_team_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "stakeholder_communication",
+      "raw_text_from_jd": "Strong interpersonal and communication skills, with the ability to influence and align diverse stakeholders",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "independent_ownership",
+      "raw_text_from_jd": "Able to operate independently with minimal direction and take direct ownership of problems from identification through resolution",
+      "skill_type": "cultural_fit",
+      "domain": "ownership_and_autonomy",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_and_risk_management",
+      "raw_text_from_jd": "Demonstrated ability to manage ambiguity, prioritize competing demands, and operate with a risk management mindset",
+      "skill_type": "capability",
+      "domain": "risk_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "agile_and_toolset_proficiency",
+      "raw_text_from_jd": "Deep understanding of Agile methodologies and advanced proficiency across the full toolset (i.e. Monday.com, JIRA, and Confluence)",
+      "skill_type": "tool_proficiency",
+      "domain": "agile_program_management",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Monday.com",
+        "JIRA",
+        "Confluence"
+      ],
+      "technologies_named": [
+        "Agile"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "monday_com_power_user",
+      "raw_text_from_jd": "Serve as a power user and operational owner of Monday.com, designing and maintaining boards, dashboards, automations, and workflows that drive transparency, accountability, and timely delivery across teams.",
+      "skill_type": "tool_proficiency",
+      "domain": "project_tracking_tooling",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "Monday.com"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "jira_confluence_fluency",
+      "raw_text_from_jd": "Maintain deep operational fluency in JIRA and Confluence, actively using JIRA for sprint-level tracking, backlog management, and engineering alignment, and Confluence for documentation, decision logs, and durable program artifacts.",
+      "skill_type": "tool_proficiency",
+      "domain": "engineering_delivery_tooling",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "JIRA",
+        "Confluence"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "process_improvement_rigor",
+      "raw_text_from_jd": "Operational rigor with a focus on process improvement, workload distribution, and team enablement",
+      "skill_type": "capability",
+      "domain": "process_improvement",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_productivity_tools",
+      "raw_text_from_jd": "Hands-on experience with AI productivity tools, specifically Microsoft 365 Copilot (for email, Teams, document drafting, and meeting synthesis) and Anthropic Claude (for analysis, summarization, and operational content generation)",
+      "skill_type": "tool_proficiency",
+      "domain": "ai_assisted_workflows",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "Microsoft 365 Copilot",
+        "Anthropic Claude"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_workflow_experimentation",
+      "raw_text_from_jd": "Comfort experimenting with AI-assisted workflows to improve team velocity, reduce manual overhead, and enhance the quality of executive-facing deliverables",
+      "skill_type": "cultural_fit",
+      "domain": "ai_assisted_workflows",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "pm_certifications",
+      "raw_text_from_jd": "PMP, SAFe, CSM, or CSP certifications are a plus",
+      "skill_type": "credential",
+      "domain": "program_management_certifications",
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "PMP",
+        "SAFe",
+        "CSM",
+        "CSP"
+      ]
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Pre-Investment vertical within Product Operations; multiple concurrent complex software development initiatives",
+    "business_model": "B2B fintech platform (alternative investments infrastructure)",
+    "primary_metrics_inferred": [
+      "On-time delivery of strategic software initiatives",
+      "Cross-functional alignment and stakeholder satisfaction",
+      "Program efficiency and process improvement metrics",
+      "Roadmap tracking accuracy via Monday.com"
+    ],
+    "cross_functional_partners": [
+      "Product",
+      "Engineering",
+      "UX",
+      "Legal",
+      "Compliance",
+      "Sales"
+    ],
+    "core_responsibilities": [
+      "Own and drive end-to-end delivery of multiple concurrent strategic software initiatives across the Pre-Investment vertical",
+      "Build trusted relationships with product and engineering leads and co-own delivery outcomes",
+      "Lead cross-functional collaboration across distributed, multi-location teams",
+      "Develop and maintain detailed project plans, milestones, dependencies, and risk mitigation strategies",
+      "Diagnose root causes, drive resolution directly, and escalate when necessary",
+      "Serve as power user and operational owner of Monday.com",
+      "Maintain deep operational fluency in JIRA and Confluence",
+      "Prepare and present project status reports, dashboards, and performance metrics to leadership",
+      "Facilitate decision-making forums and working sessions",
+      "Leverage AI tools including Microsoft Copilot and Anthropic Claude to accelerate operational workflows"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      120000,
+      150000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity for all full-time employees (form not specified)",
+    "location_pay_differential": false,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "program management",
+    "Pre-Investment",
+    "Monday.com",
+    "JIRA",
+    "Confluence",
+    "Agile",
+    "financial services",
+    "fintech",
+    "AI productivity tools",
+    "Microsoft Copilot",
+    "Anthropic Claude",
+    "distributed teams",
+    "cross-functional",
+    "product operations",
+    "enterprise software delivery"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range explicitly disclosed ($120K-$150K base)",
+    "Equity offered to all full-time employees",
+    "Comprehensive benefits including 100% employer-paid dental, vision, telemedicine, and mental health",
+    "Unlimited PTO",
+    "Hybrid schedule clearly defined (Mon-Thu in office, Fri remote)",
+    "Role has clear ownership scope within a defined vertical (Pre-Investment)",
+    "Specific tooling expectations spelled out (Monday.com, JIRA, Confluence, Copilot, Claude)"
+  ],
+  "red_flags": [
+    "4 days/week in-office requirement (Mon-Thu) limits flexibility for fully remote candidates",
+    "No city listed in JD body — office location is not specified, creating ambiguity for candidates evaluating commute feasibility",
+    "7-10+ years range combined with AVP/VP title may indicate wide leveling uncertainty or budget constraints",
+    "Visa sponsorship not addressed in the JD"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title range, years, and comp)",
+      "scope.business_model (inferred from iCapital's known positioning as B2B alternative investment platform)",
+      "scope.primary_metrics_inferred (not stated; inferred from responsibilities)",
+      "location.cities_listed (no city named in JD body; left empty)",
+      "location.visa_sponsorship (not addressed; marked unclear)"
+    ],
+    "ambiguities": [
+      "Role title spans two levels (AVP and VP) without clear differentiation criteria for which level will be offered",
+      "No city or office location is mentioned in the JD body; the hybrid policy is described but the office location is unknown to the reader",
+      "Years range stated as '7-10+' — the '+' after 10 makes the upper bound open-ended; minimum set to 7"
+    ]
+  }
+}

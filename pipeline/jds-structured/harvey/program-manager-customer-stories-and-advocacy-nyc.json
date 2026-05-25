@@ -1,0 +1,216 @@
+{
+  "company": "Harvey",
+  "role_title": "Program Manager, Customer Stories & Advocacy, NYC",
+  "url": "https://jobs.ashbyhq.com/harvey/5b0d3e76-bdda-421f-83f3-8abd83fec62b",
+  "ats_provider": "ashby",
+  "ats_job_id": "5b0d3e76-bdda-421f-83f3-8abd83fec62b",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [
+      "New York, NY"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Customer Marketing / Advocacy",
+  "seniority": {
+    "level": "Mid-Senior IC",
+    "years_required_min": 5,
+    "years_required_max": 8,
+    "manages_people": false,
+    "level_signals": [
+      "5–8 years of experience in customer marketing, storytelling, advocacy, program management, or related roles",
+      "Compensation range $116,200–$174,200 consistent with mid-senior IC",
+      "Role owns strategy, roadmap, and execution of a cross-functional program"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_customer_marketing_advocacy",
+      "raw_text_from_jd": "5–8 years of experience in customer marketing, storytelling, advocacy, program management, or related roles at a high-growth SaaS or technology company",
+      "skill_type": "years_of_experience",
+      "domain": "customer_marketing_advocacy_program_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "is_combined": false,
+      "qualifier": "at a high-growth SaaS or technology company",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "SaaS",
+        "technology"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "high-growth SaaS or technology company"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "end_to_end_customer_stories_ownership",
+      "raw_text_from_jd": "Proven experience owning end-to-end customer stories or advocacy programs, from strategy and writing through execution",
+      "skill_type": "outcome",
+      "domain": "customer_storytelling_advocacy",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "writing_editing_storytelling",
+      "raw_text_from_jd": "Exceptional writing, editing, and storytelling skills, with a proven ability to independently produce polished, executive-ready customer stories and advocacy content",
+      "skill_type": "capability",
+      "domain": "content_writing_storytelling",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "video_production_experience",
+      "raw_text_from_jd": "Meaningful experience with video production—including planning shoots, working with production crews on site, managing post-production workflows, and delivering polished video content",
+      "skill_type": "capability",
+      "domain": "video_production",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "program_management_skills",
+      "raw_text_from_jd": "Strong program management skills with exceptional attention to detail and follow-through",
+      "skill_type": "capability",
+      "domain": "program_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "executive_communication",
+      "raw_text_from_jd": "Excellent written and verbal communication skills; comfortable engaging with senior executives and internal stakeholders",
+      "skill_type": "capability",
+      "domain": "executive_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Customer Stories & Advocacy program — written and video customer stories, Innovation Spotlight program, executive advocacy engine",
+    "business_model": "B2B enterprise SaaS — legal and professional services AI platform",
+    "primary_metrics_inferred": [
+      "Volume and quality of published customer stories",
+      "GTM and product launch enablement via customer content",
+      "Executive-level credibility and advocacy reach (Innovation Spotlight)",
+      "Operational efficiency of storytelling and advocacy workflows"
+    ],
+    "cross_functional_partners": [
+      "Product Marketing",
+      "Sales",
+      "Customer Success",
+      "Customer Engagement",
+      "internal creative teams",
+      "external production partners"
+    ],
+    "core_responsibilities": [
+      "Own the strategy, roadmap, and execution of Harvey's Customer Stories program",
+      "Collaborate with internal creative teams and external production partners to plan, produce, and deliver video customer stories",
+      "Scale and operationalize the Innovation Spotlight program spotlighting senior customer leaders",
+      "Build operational backbone for customer stories and advocacy programs including intake processes, editorial calendars, production workflows, approval processes, and localization frameworks",
+      "Partner cross-functionally with Product Marketing, Sales, and Customer Success to align stories with core narratives, use cases, and launches",
+      "Build trusted, long-term relationships with senior customer stakeholders"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      116200,
+      174200
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "customer stories",
+    "advocacy",
+    "program management",
+    "video production",
+    "Innovation Spotlight",
+    "GTM",
+    "executive storytelling",
+    "content production",
+    "SaaS",
+    "legal AI",
+    "cross-functional"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($116,200–$174,200)",
+    "Clear program ownership and scope — not a vague role",
+    "High-visibility cross-functional role with executive exposure",
+    "Company has strong product-market fit signal (1000+ customers in 60+ countries)",
+    "Defined output areas: written stories, video stories, Innovation Spotlight"
+  ],
+  "red_flags": [
+    "No mention of visa sponsorship or work authorization — unclear policy",
+    "No mention of equity despite being a high-growth startup — notable omission",
+    "Role requires NYC presence (title includes 'NYC') but JD body does not explicitly state hybrid vs. full on-site expectations",
+    "No nice-to-haves listed — JD is thin on differentiation between must-haves and preferences"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years required + comp range)",
+      "location.type set to 'onsite' inferred from 'NYC' in role title; JD body does not specify hybrid or remote policy",
+      "scope.business_model (inferred from company description)",
+      "scope.primary_metrics_inferred (not stated in JD; inferred from responsibilities)",
+      "equity_mentioned: false (not stated; notable omission for a startup)"
+    ],
+    "ambiguities": [
+      "Location type: 'NYC' in role title implies on-site but JD body never explicitly states remote/hybrid/on-site policy — treated as onsite here",
+      "Visa sponsorship and work authorization policy not mentioned anywhere in the JD — marked as 'unclear'",
+      "No nice-to-haves section present in JD; all listed qualifications treated as must-haves under 'What You Have'"
+    ]
+  }
+}

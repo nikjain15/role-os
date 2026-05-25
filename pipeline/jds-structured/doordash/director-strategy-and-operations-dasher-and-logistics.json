@@ -1,0 +1,211 @@
+{
+  "company": "DoorDash",
+  "role_title": "Director, Strategy & Operations - Dasher and Logistics",
+  "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7816268",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7816268",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [],
+    "remote_us_eligible": false,
+    "office_time_required": "some time in-office and some time remote",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Director-level S&O with P&L ownership",
+  "seniority": {
+    "level": "Director (people manager, manages senior managers/leaders)",
+    "years_required_min": 10,
+    "years_required_max": null,
+    "manages_people": true,
+    "level_signals": [
+      "10+ years of experience in strategy, operations, consulting, technology, finance, or a related field",
+      "Experience leading managers or senior leaders",
+      "Director title with a team of senior managers and operators",
+      "Comp range $197,200–$290,000 base, consistent with Director-level at DoorDash"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_experience_strategy_ops",
+      "raw_text_from_jd": "You have 10+ years of experience in strategy, operations, consulting, technology, finance, or a related field, and experience leading managers or senior leaders",
+      "skill_type": "years_of_experience",
+      "domain": "strategy_operations_consulting_technology_finance",
+      "minimum_value": 10,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "leading_managers_senior_leaders",
+      "raw_text_from_jd": "experience leading managers or senior leaders",
+      "skill_type": "capability",
+      "domain": "people_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "large_complex_business_ownership",
+      "raw_text_from_jd": "You have owned large, complex business areas with clear accountability for financial and operational results",
+      "skill_type": "outcome",
+      "domain": "business_ownership",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_driven_strategy",
+      "raw_text_from_jd": "You have experience building data-driven strategies and translating insights into measurable execution plans",
+      "skill_type": "capability",
+      "domain": "data_driven_strategy",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "executive_influence_xfn_alignment",
+      "raw_text_from_jd": "You are comfortable influencing senior executives and aligning cross-functional partners around shared goals",
+      "skill_type": "capability",
+      "domain": "executive_stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "building_high_performing_teams",
+      "raw_text_from_jd": "You have experience building and developing high-performing, inclusive teams",
+      "skill_type": "capability",
+      "domain": "team_building",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "team of senior managers and operators (exact headcount unclear)",
+    "surface": "Dasher & Logistics — cost management, incremental revenue, delivery quality, efficiency, and/or fulfillment capacity",
+    "business_model": "marketplace / logistics platform (delivery as a service, B2C and B2B)",
+    "primary_metrics_inferred": [
+      "Cost per order",
+      "Delivery quality",
+      "Efficiency",
+      "Fulfillment rate",
+      "Incremental revenue generation"
+    ],
+    "cross_functional_partners": [
+      "Product",
+      "Engineering",
+      "Finance",
+      "Operations"
+    ],
+    "core_responsibilities": [
+      "Own end-to-end business outcomes, including cost per order, delivery quality, efficiency, fulfillment rate, and/or incremental revenue generation",
+      "Define the strategy for your organization and translate it into clear goals, measurable milestones, and accountable owners",
+      "Partner cross-functionally with Product, Engineering, Finance, and Operations leaders to align on priorities and deliver shared outcomes",
+      "Serve as the escalation point for complex issues, proactively identify risks, and adjust plans to keep goals on track",
+      "Build and develop a team of leaders, creating clarity, accountability, and strong engagement across your organization"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      197200,
+      290000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity grants",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Strategy & Operations",
+    "Dasher",
+    "Logistics",
+    "cost per order",
+    "delivery quality",
+    "fulfillment",
+    "marketplace",
+    "data-driven",
+    "cross-functional",
+    "senior leaders",
+    "Director",
+    "incremental revenue",
+    "high-performing teams"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed and competitive ($197,200–$290,000 base)",
+    "Equity grants explicitly mentioned as part of compensation",
+    "Clear ownership area with specific metrics (cost per order, fulfillment rate, delivery quality)",
+    "Reports to Senior Director — clear reporting chain stated",
+    "Comprehensive benefits package described in detail",
+    "Diversity and inclusion commitment explicitly stated"
+  ],
+  "red_flags": [
+    "Hybrid policy is vague — 'some time in-office and some time remote' provides no specific percentage or frequency",
+    "No specific cities listed for this role despite hybrid designation, making commute expectations unclear",
+    "Visa sponsorship not mentioned — unclear for international candidates",
+    "Extremely wide salary band ($92,800 spread) may reflect significant location-based pay differentiation"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title, reports structure, comp range, and 10+ years requirement)",
+      "scope.team_size_estimate (inferred from 'team of senior managers and operators'; exact count not stated)",
+      "scope.business_model (inferred from company description and product context)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; listed verbatim but framed as metrics)",
+      "location.cities_listed (no role-specific cities named in JD body; SF and LA mentioned only in legal fair chance notice context)",
+      "compensation.location_pay_differential (inferred from 'Base salary is localized according to an employee's work location')"
+    ],
+    "ambiguities": [
+      "Hybrid policy is stated but with no quantified in-office requirement ('some time in-office and some time remote') — exact cadence is unclear",
+      "No cities explicitly tied to this role; San Francisco and Los Angeles appear only in the legal boilerplate, not as office locations for the role",
+      "Visa sponsorship status is not addressed anywhere in the JD"
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "company": "Klaviyo",
+  "role_title": "Senior Lead Program Manager, Technical Programs",
+  "url": "https://www.klaviyo.com/careers/jobs?gh_jid=7453469003",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7453469003",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": "up to 10% travel",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Program Manager",
+  "seniority": {
+    "level": "Staff / Principal TPM (Senior Lead IC)",
+    "years_required_min": 10,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "10+ years of experience in technical program management",
+      "Senior Lead title with multi-year strategy ownership",
+      "Comp range $172K-$258K base, consistent with senior IC at a late-stage SaaS company",
+      "Expected to define frameworks, drive executive communication, and own perpetual programs"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_tpm_experience",
+      "raw_text_from_jd": "10+ years of experience in technical program management within a fast-paced engineering environment (ideally SaaS or high-growth tech).",
+      "skill_type": "years_of_experience",
+      "domain": "technical_program_management",
+      "minimum_value": 10,
+      "unit": "years",
+      "qualifier": "fast-paced engineering environment",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "SaaS",
+        "high-growth tech"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "perpetual_program_management",
+      "raw_text_from_jd": "Proven ability to successfully manage a perpetual program with a rolling roadmap",
+      "skill_type": "capability",
+      "domain": "program_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_program_delivery",
+      "raw_text_from_jd": "Demonstrated ability to manage multiple priorities and deliver results across complex, cross-functional programs.",
+      "skill_type": "capability",
+      "domain": "cross_functional_program_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "project_management_tools",
+      "raw_text_from_jd": "Strong project management skills with fluency in tools such as Asana, Jira, Linear or Smartsheet.",
+      "skill_type": "tool_proficiency",
+      "domain": "project_management",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "Asana",
+        "Jira",
+        "Linear",
+        "Smartsheet"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Critical, core technology platform supporting a key customer vertical (enterprise-facing platform programs)",
+    "business_model": "B2B SaaS (ecommerce marketing automation platform)",
+    "primary_metrics_inferred": [
+      "Platform stability and uptime",
+      "Roadmap delivery predictability",
+      "Technical debt reduction",
+      "Architecture scalability milestones",
+      "Enterprise initiative completion"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Product",
+      "Business Leadership"
+    ],
+    "core_responsibilities": [
+      "Partner with Engineering and Product to define the multi-year technical strategy and roadmap",
+      "Prioritize and program manage strategic, non-functional programs (e.g., technical debt, capacity planning, architecture scaling) and specific enterprise initiatives",
+      "Oversee the full lifecycle of platform features, from technical design to implementation",
+      "Define clear ways of working, create frameworks for cross-team collaboration, establish content repositories",
+      "Serve as the primary communication leader, tailoring information to secure buy-in and consensus across engineering and business leadership",
+      "Drive a mindset of operational excellence, prioritizing automation over manual efforts"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      172000,
+      258000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity mentioned as part of total compensation package",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "technical program management",
+    "platform strategy",
+    "multi-year roadmap",
+    "technical debt",
+    "capacity planning",
+    "architecture scaling",
+    "enterprise initiatives",
+    "operational excellence",
+    "cross-functional",
+    "SaaS",
+    "non-functional programs",
+    "automation"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($172K-$258K base) and competitive for a senior IC TPM",
+    "Explicit encouragement to apply even if not an exact match",
+    "Clear ownership scope: long-term health and strategy of a core technology platform",
+    "Role has strategic gravitas: multi-year roadmap, executive communication, enterprise narrative",
+    "AI fluency and responsible AI use are explicitly valued and supported"
+  ],
+  "red_flags": [
+    "No visa sponsorship information stated — unclear for international applicants",
+    "Location type not explicitly stated in JD body; 'hybrid' inferred from 10% travel requirement and US-wide salary range",
+    "Nice-to-haves section is entirely absent — makes differentiation harder for candidates",
+    "10+ years hard floor is a significant bar; no equivalent experience path mentioned for this requirement"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Senior Lead', comp range, and 10+ years requirement)",
+      "location.type (inferred as hybrid/flexible from '10% travel' and US-wide salary range; not explicitly stated)",
+      "location.remote_us_eligible (inferred from 'cost of labor across various U.S. geographic markets' and no city listed)",
+      "scope.business_model (inferred from company description: B2B SaaS ecommerce marketing platform)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "compensation.location_pay_differential (inferred from 'cost of labor across various U.S. geographic markets')"
+    ],
+    "ambiguities": [
+      "Location type is not explicitly stated. The JD mentions up to 10% travel and a US-wide salary range suggesting flexible/remote-eligible, but no explicit remote/hybrid/onsite designation is given. Treated as hybrid here.",
+      "The '(ideally SaaS or high-growth tech)' qualifier on the 10+ years requirement is parenthetical — could be read as a strong preference (soft) or an implicit hard requirement. Treated as hard with a soft qualifier per JD language.",
+      "Visa sponsorship is not mentioned anywhere in the JD. Treated as unclear."
+    ]
+  }
+}

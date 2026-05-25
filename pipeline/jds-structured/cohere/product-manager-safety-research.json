@@ -1,0 +1,318 @@
+{
+  "company": "Cohere",
+  "role_title": "Product Manager, Safety Research",
+  "url": "https://jobs.ashbyhq.com/cohere/a8122632-cc3b-4a1a-bd78-4b4b9466cb38",
+  "ats_provider": "ashby",
+  "ats_job_id": "a8122632-cc3b-4a1a-bd78-4b4b9466cb38",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "New York",
+      "Toronto",
+      "London",
+      "Paris",
+      "Zurich"
+    ],
+    "remote_us_eligible": true,
+    "office_time_required": "unclear",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "AI Product Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Technical PM with safety/research focus",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of product management or research operations experience",
+      "Expected to own safety product roadmap independently",
+      "Requires credible engagement with safety researchers and technical depth"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_or_research_ops",
+      "raw_text_from_jd": "5+ years of product management or research operations experience, with meaningful time working alongside research or ML teams at a technology or AI company.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management_or_research_operations",
+      "minimum_value": 5,
+      "unit": "years",
+      "qualifier": "with meaningful time working alongside research or ML teams at a technology or AI company",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "technology",
+        "AI"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "technology company",
+        "AI company"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_depth_safety_research",
+      "raw_text_from_jd": "Technical depth sufficient to engage credibly with safety researchers: you don't need to run evals yourself, but you need to understand what they mean and ask the right questions.",
+      "skill_type": "capability",
+      "domain": "ai_safety_research_comprehension",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "genuine_interest_ai_safety",
+      "raw_text_from_jd": "Genuine interest in AI safety and model behavior, including the real-world implications of deploying LLMs in enterprise contexts.",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_safety_and_model_behavior",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "LLMs"
+      ],
+      "industries_named": [
+        "enterprise AI"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "comfort_with_ambiguity",
+      "raw_text_from_jd": "Comfortable operating in ambiguity — safety research surfaces unexpected findings, and this role requires good judgment about what to act on and how fast.",
+      "skill_type": "cultural_fit",
+      "domain": "operating_under_ambiguity",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_alignment",
+      "raw_text_from_jd": "Able to work across researchers, engineers, and product teams and keep everyone aligned without flattening the nuance of what the research is actually saying.",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "written_communication",
+      "raw_text_from_jd": "Strong written communicator who can translate complex model behavior findings for non-technical audiences and knows when something needs to be escalated urgently.",
+      "skill_type": "capability",
+      "domain": "written_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "llm_eval_red_teaming",
+      "raw_text_from_jd": "Hands-on experience with LLM evaluation, red-teaming, safety benchmarking, or behavioral research.",
+      "skill_type": "capability",
+      "domain": "llm_evaluation_and_red_teaming",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "LLM evaluation",
+        "red-teaming",
+        "safety benchmarking"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_threat_vectors",
+      "raw_text_from_jd": "Familiarity with AI-specific threat vectors: prompt injection, jailbreaks, RAG poisoning, or misuse patterns in agentic systems.",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_threat_vectors",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "prompt injection",
+        "jailbreaks",
+        "RAG poisoning",
+        "agentic systems"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "trust_safety_content_policy",
+      "raw_text_from_jd": "Background in trust and safety, content policy, or a research-adjacent operational role at a technology company.",
+      "skill_type": "domain_knowledge",
+      "domain": "trust_and_safety_or_content_policy",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "technology"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "technology company"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "zero_to_one_processes",
+      "raw_text_from_jd": "Experience building zero-to-one processes in research or safety contexts.",
+      "skill_type": "outcome",
+      "domain": "process_building",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "agentic_ai_safety",
+      "raw_text_from_jd": "Prior exposure to agentic AI systems and the unique safety challenges introduced by tool use, multi-step reasoning, and autonomous execution.",
+      "skill_type": "domain_knowledge",
+      "domain": "agentic_ai_safety",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "agentic AI systems",
+        "tool use",
+        "multi-step reasoning",
+        "autonomous execution"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Safety product layer for North (Cohere's agentic AI platform), bridging safety research and product delivery",
+    "business_model": "B2B enterprise AI platform",
+    "primary_metrics_inferred": [
+      "Safety regression rate before features reach customers",
+      "Coverage of safety guardrails across North product surface area",
+      "Speed and accuracy of translating research findings into product controls"
+    ],
+    "cross_functional_partners": [
+      "Safety research teams",
+      "Modeling teams",
+      "Engineering",
+      "Policy"
+    ],
+    "core_responsibilities": [
+      "Serve as the product bridge between Cohere's safety research teams and North",
+      "Own the safety product roadmap for Cohere and North",
+      "Partner with modeling teams to scope and interpret safety evaluations",
+      "Define and drive evaluation frameworks for assessing safety properties",
+      "Coordinate the development of guardrails and intervention mechanisms",
+      "Monitor the AI safety research landscape",
+      "Build processes for scaling safety review as North's surface area grows"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity options",
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "AI safety",
+    "safety research",
+    "model behavior",
+    "red-teaming",
+    "LLM evaluation",
+    "guardrails",
+    "North",
+    "agentic AI",
+    "prompt injection",
+    "enterprise AI",
+    "safety roadmap",
+    "RAG",
+    "behavioral research"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clearly defined and differentiated role — explicitly states 'This isn't a traditional PM role'",
+    "Direct engagement with frontier safety research and modeling teams",
+    "Encourages applications from candidates who don't perfectly match all requirements",
+    "Strong benefits package including 6 weeks vacation, full health and dental, parental leave top-up",
+    "Remote or hybrid flexibility with offices in multiple cities",
+    "Equity options mentioned as part of compensation"
+  ],
+  "red_flags": [
+    "Compensation range not disclosed",
+    "Visa sponsorship and work authorization not addressed",
+    "JD lists hybrid offices as 'San Francisco, New York, and Toronto' under Why Join but location section lists 'New York, Toronto, London, Paris, Zurich' — minor inconsistency in city list",
+    "Ambiguity around how much office time is expected for hybrid candidates",
+    "Role scope is broad and somewhat undefined, spanning research translation, roadmap ownership, and process-building simultaneously"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years requirement and scope of ownership)",
+      "seniority.manages_people (inferred as false; no mention of direct reports)",
+      "scope.business_model (inferred from product description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "compensation.location_pay_differential (inferred as false; not stated)",
+      "location.remote_us_eligible (inferred from 'Remote or hybrid' language in JD)"
+    ],
+    "ambiguities": [
+      "Location inconsistency: 'Why Join Cohere' section lists offices as San Francisco, New York, and Toronto; but the Location section states 'Remote or hybrid (New York, Toronto, London, Paris, Zurich)' — San Francisco and Paris appear in company office listings but the role-specific cities are treated as New York, Toronto, London, Paris, Zurich per the Location section.",
+      "Work authorization and visa sponsorship are not addressed anywhere in the JD.",
+      "Hybrid office time requirement is not specified — 'hybrid' is stated but no percentage or days-per-week is given."
+    ]
+  }
+}

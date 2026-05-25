@@ -3,8 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>RoleOS — Riddhi Jain</title>
-<meta name="description" content="RoleOS — an AI-native operating system I built to run my own job search. Scopes companies, extracts every JD into a strict schema, scores fit, and tracks progress live.">
+<meta name="robots" content="noindex,nofollow">
+<title>RoleOS — The operating system for your AI PM job search</title>
+<meta name="description" content="RoleOS is an AI-native operating system for senior PMs targeting AI-first companies. Built by an AI PM running his own search — live case study inside.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -20,54 +21,98 @@
     color: var(--ink);
     -webkit-font-smoothing: antialiased;
   }
+  a { color: var(--ink); text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+  a:hover { text-decoration-thickness: 2px; }
   .wrap {
     max-width: var(--page-max);
     margin: 0 auto;
-    padding: var(--section-y) var(--page-pad-x) calc(var(--section-y) + 24px);
+    padding: 0 var(--page-pad-x);
   }
-  header { margin-bottom: var(--section-y); }
-  h1 { margin: 14px 0 18px; }
-  h1 .accent { color: var(--ink); border-bottom: 4px solid var(--ink); padding-bottom: 2px; }
-  .lede { max-width: 720px; }
-  .lede strong { color: var(--ink); font-weight: var(--fw-semibold); }
+  section { padding: var(--section-y) 0; border-bottom: 1px solid var(--line); }
+  section:last-of-type { border-bottom: 0; }
+  h1 { margin: 14px 0 20px; }
+  h2.section-title { font-size: 13px; text-transform: uppercase; letter-spacing: .14em; color: var(--ink-3); margin: 0 0 24px; font-weight: var(--fw-semibold); }
+  h3 { margin: 0 0 10px; }
 
-  section { margin-top: var(--section-y); }
-  h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .12em; color: var(--ink-3); margin: 0 0 20px; font-weight: var(--fw-semibold); letter-spacing: .14em; }
-  h3 { margin: 0 0 6px; }
+  /* ===== HERO ===== */
+  .hero { padding-top: calc(var(--section-y) + 16px); }
+  .hero .badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 5px 12px;
+    background: var(--ink);
+    color: var(--white);
+    border-radius: var(--r-pill);
+    font-size: 11px;
+    font-weight: var(--fw-semibold);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+  .hero .badge .dot { width: 6px; height: 6px; border-radius: 50%; background: #10b981; animation: pulse 1.6s infinite; }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
+  .hero p.lede { max-width: 640px; font-size: clamp(17px, 1.8vw, 19px); color: var(--ink-2); }
+  .hero .ctas { display: flex; gap: 12px; margin-top: 28px; flex-wrap: wrap; }
 
-  .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; }
-  .stat {
+  /* ===== WAITLIST FORM ===== */
+  .waitlist {
+    display: flex;
+    gap: 8px;
+    max-width: 460px;
+    margin-top: 28px;
+  }
+  .waitlist input {
+    flex: 1;
+    padding: 12px 16px;
+    border: 1.5px solid var(--ink);
+    border-radius: var(--r-pill);
+    font-family: var(--sans);
+    font-size: 14px;
     background: var(--white);
-    border: 1px solid var(--line);
-    border-radius: var(--r-card);
-    padding: 22px;
-  }
-  .stat .num {
-    font-size: clamp(28px, 3.4vw, 38px);
-    font-weight: var(--fw-bold);
-    letter-spacing: -0.02em;
-    line-height: 1.05;
     color: var(--ink);
   }
-  .stat .lbl {
-    color: var(--ink-3);
-    font-size: 11px;
-    margin-top: 8px;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    font-weight: var(--fw-semibold);
-  }
+  .waitlist input:focus { outline: 2px solid var(--ink); outline-offset: 2px; }
+  .waitlist button { cursor: pointer; border: 1.5px solid var(--ink); }
+  .waitlist-msg { font-size: 13px; color: var(--ink-3); margin-top: 10px; min-height: 18px; }
+  .waitlist-msg.success { color: #10b981; font-weight: var(--fw-medium); }
+  .waitlist-msg.error { color: #d62828; }
 
-  .panel {
+  /* ===== WHY (problem) ===== */
+  .why p { max-width: 720px; font-size: clamp(16px, 1.8vw, 18px); color: var(--ink-2); }
+
+  /* ===== WHAT IT DOES (feature trio) ===== */
+  .features { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+  .feature {
     background: var(--white);
     border: 1px solid var(--line);
     border-radius: var(--r-card-emph);
     padding: 24px;
   }
+  .feature .num { font-size: 11px; color: var(--ink-3); font-weight: var(--fw-semibold); letter-spacing: 0.14em; }
+  .feature h3 { margin: 8px 0 8px; font-size: 17px; }
+  .feature p { font-size: 14px; color: var(--ink-3); line-height: 1.55; margin: 0; }
+
+  /* ===== CASE STUDY ===== */
+  .case-header { display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 20px; flex-wrap: wrap; gap: 8px; }
+  .case-header h2 { font-size: clamp(22px, 2.6vw, 28px); margin: 0; font-weight: var(--fw-bold); letter-spacing: -0.015em; }
+  .case-header .by { font-size: 13px; color: var(--ink-3); }
+  .case-header .by a { color: var(--ink); }
+
+  .case-stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin-bottom: 28px; }
+  .stat {
+    background: var(--white);
+    border: 1px solid var(--line);
+    border-radius: var(--r-card);
+    padding: 20px;
+  }
+  .stat .num { font-size: clamp(26px, 3.2vw, 34px); font-weight: var(--fw-bold); letter-spacing: -0.02em; line-height: 1.05; }
+  .stat .lbl { color: var(--ink-3); font-size: 11px; margin-top: 8px; text-transform: uppercase; letter-spacing: 0.1em; font-weight: var(--fw-semibold); }
+
+  .panel { background: var(--white); border: 1px solid var(--line); border-radius: var(--r-card-emph); padding: 24px; }
 
   .funnel .row {
     display: grid;
-    grid-template-columns: 240px 1fr 60px;
+    grid-template-columns: 260px 1fr 70px;
     align-items: center;
     gap: 16px;
     padding: 12px 0;
@@ -75,111 +120,59 @@
     font-size: 14px;
   }
   .funnel .row:last-child { border-bottom: 0; }
-  .funnel .bar {
-    height: 8px;
-    background: var(--line-2);
-    border-radius: var(--r-pill);
-    overflow: hidden;
-  }
-  .funnel .bar > div {
-    height: 100%;
-    background: var(--ink);
-    border-radius: var(--r-pill);
-    transition: width 0.6s ease;
-  }
-  .funnel .row.future { color: var(--ink-3); }
-  .funnel .row.future .bar > div {
-    background: repeating-linear-gradient(45deg, var(--ink-4), var(--ink-4) 6px, var(--line) 6px, var(--line) 12px);
-    opacity: 0.5;
-  }
+  .funnel .stage { display: flex; align-items: center; gap: 10px; }
+  .funnel .marker { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+  .funnel .row[data-status="done"] .marker { background: #10b981; }
+  .funnel .row[data-status="in-progress"] .marker { background: var(--ink); animation: pulse 1.6s infinite; }
+  .funnel .row[data-status="next"] .marker { background: transparent; border: 1.5px dashed var(--ink-4); }
+  .funnel .row[data-status="next"] { color: var(--ink-4); }
+  .funnel .bar { height: 8px; background: var(--line-2); border-radius: var(--r-pill); overflow: hidden; }
+  .funnel .bar > div { height: 100%; background: var(--ink); border-radius: var(--r-pill); transition: width 0.6s ease; }
+  .funnel .row[data-status="next"] .bar > div { background: var(--line); }
   .funnel .count { text-align: right; font-variant-numeric: tabular-nums; font-weight: var(--fw-semibold); }
 
-  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
-
-  .dist { display: flex; flex-direction: column; gap: 10px; margin-top: 14px; }
-  .dist .item {
-    display: grid;
-    grid-template-columns: 1fr 80px 40px;
-    align-items: center;
-    gap: 12px;
+  details.more { margin-top: 24px; }
+  details.more > summary {
+    cursor: pointer;
     font-size: 13px;
-  }
-  .dist .item .bar {
-    height: 6px;
-    background: var(--line-2);
-    border-radius: var(--r-pill);
-    overflow: hidden;
-  }
-  .dist .item .bar > div { height: 100%; background: var(--ink-2); border-radius: var(--r-pill); }
-  .dist .item .v { text-align: right; color: var(--ink-3); font-variant-numeric: tabular-nums; font-weight: var(--fw-medium); }
-  .dist .item .k { color: var(--ink); }
-
-  .arch { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
-  .arch .step {
-    background: var(--white);
-    border: 1px solid var(--line);
-    border-radius: var(--r-card);
-    padding: 18px;
-  }
-  .arch .step .n {
     color: var(--ink-3);
-    font-weight: var(--fw-semibold);
-    font-size: 11px;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-  }
-  .arch .step .t { font-weight: var(--fw-semibold); margin: 6px 0 4px; font-size: 15px; }
-  .arch .step .d { color: var(--ink-3); font-size: 13px; line-height: 1.5; }
-
-  .gap { display: flex; flex-direction: column; gap: 10px; }
-  .gap-item {
-    padding: 14px 16px;
-    background: var(--paper);
-    border: 1px solid var(--line);
-    border-left: 3px solid var(--ink);
-    border-radius: 8px;
-  }
-  .gap-item .name { font-weight: var(--fw-semibold); font-size: 14px; }
-  .gap-item .why { color: var(--ink-3); font-size: 13px; margin-top: 4px; }
-
-  .cost { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
-  .cost .big {
-    font-size: clamp(24px, 3vw, 32px);
-    font-weight: var(--fw-bold);
-    letter-spacing: -0.02em;
-    color: var(--ink);
-  }
-  .cost .lbl {
-    color: var(--ink-3);
-    font-size: 11px;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    margin-top: 6px;
-    font-weight: var(--fw-semibold);
-  }
-
-  footer {
-    margin-top: var(--section-y);
-    color: var(--ink-3);
-    font-size: 12px;
-    text-align: center;
-  }
-  footer a { color: var(--ink-3); }
-  .pill {
-    display: inline-block;
-    padding: 4px 12px;
-    background: var(--ink);
-    color: var(--white);
-    border-radius: var(--r-pill);
-    font-size: 11px;
     font-weight: var(--fw-semibold);
     letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 8px 0;
+    list-style: none;
   }
+  details.more > summary::after { content: " ↓"; }
+  details.more[open] > summary::after { content: " ↑"; }
+  details.more > div { margin-top: 18px; }
+
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  .dist { display: flex; flex-direction: column; gap: 10px; margin-top: 14px; }
+  .dist .item { display: grid; grid-template-columns: 1fr 80px 40px; align-items: center; gap: 12px; font-size: 13px; }
+  .dist .item .bar { height: 6px; background: var(--line-2); border-radius: var(--r-pill); overflow: hidden; }
+  .dist .item .bar > div { height: 100%; background: var(--ink-2); border-radius: var(--r-pill); }
+  .dist .item .v { text-align: right; color: var(--ink-3); font-variant-numeric: tabular-nums; font-weight: var(--fw-medium); }
+
+  /* ===== ROADMAP ===== */
+  .roadmap { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .roadmap .col { background: var(--white); border: 1px solid var(--line); border-radius: var(--r-card); padding: 22px; }
+  .roadmap .col h3 { font-size: 12px; color: var(--ink-3); text-transform: uppercase; letter-spacing: 0.12em; margin: 0 0 14px; font-weight: var(--fw-semibold); }
+  .roadmap ul { list-style: none; padding: 0; margin: 0; }
+  .roadmap li { padding: 8px 0; font-size: 14px; color: var(--ink-2); border-bottom: 1px solid var(--line-2); }
+  .roadmap li:last-child { border-bottom: 0; }
+  .roadmap li::before { content: "→ "; color: var(--ink-3); }
+
+  /* ===== ABOUT ===== */
+  .about { display: grid; grid-template-columns: 1fr 1fr; gap: 32px; align-items: start; }
+  .about p { color: var(--ink-2); }
+  .about .links { display: flex; flex-direction: column; gap: 10px; margin-top: 18px; }
+  .about .links a { font-size: 14px; }
+
+  footer { text-align: center; padding: 32px 0 48px; color: var(--ink-4); font-size: 12px; }
 
   @media (max-width: 720px) {
-    .stats, .arch { grid-template-columns: repeat(2, 1fr); }
-    .grid2, .cost { grid-template-columns: 1fr; }
-    .funnel .row { grid-template-columns: 1fr 50px; }
+    .features, .case-stats, .roadmap, .about, .grid2 { grid-template-columns: 1fr; }
+    .funnel .row { grid-template-columns: 1fr 60px; }
     .funnel .row .bar { grid-column: 1 / -1; }
   }
 </style>
@@ -187,57 +180,121 @@
 <body>
 <div class="wrap">
 
-<header>
-  <div class="eyebrow">RoleOS · Live</div>
-  <h1>I built <span class="accent">RoleOS</span> — an operating system to run my own job search.</h1>
-  <p class="lede">
-    Most candidates read JDs one at a time. I shipped a small system that scopes companies, fetches postings, and uses Claude to extract every requirement into a strict schema — so I can rank fit, spot gaps in my own profile, and prioritize where to apply. This page tracks it live, end-to-end. <strong>The point isn't the job search — it's how I leverage AI to compress weeks of manual work into hours.</strong>
-  </p>
-</header>
+<!-- 1. HERO -->
+<section class="hero">
+  <span class="badge"><span class="dot"></span>Live · Founding-user dogfood</span>
+  <h1>The operating system for your <br>AI PM job search.</h1>
+  <p class="lede">For senior PMs targeting AI-native companies. Stop juggling tabs, spreadsheets, and ChatGPT screenshots. RoleOS scopes the right roles, extracts every requirement into a strict schema, and tracks your funnel end-to-end.</p>
 
-<section>
-  <h2>Headline metrics</h2>
-  <div class="stats" id="stats">loading…</div>
+  <form class="waitlist" id="waitlist" novalidate>
+    <input type="email" name="email" placeholder="your@email.com" required autocomplete="email">
+    <button type="submit" class="btn">Join the waitlist</button>
+  </form>
+  <div class="waitlist-msg" id="waitlist-msg">Early access · we'll email when v1 opens</div>
 </section>
 
+<!-- 2. WHY -->
+<section class="why">
+  <h2 class="section-title">Why this exists</h2>
+  <p>Finding the right role is a <strong>research problem disguised as a sales problem.</strong> Every JD is a 1,200-word requirements doc. Every company is a strategy puzzle. AI PMs deserve tooling that matches the rigor of the work itself — not another spreadsheet.</p>
+</section>
+
+<!-- 3. WHAT ROLEOS DOES -->
 <section>
-  <h2>Pipeline — where I am in the journey</h2>
+  <h2 class="section-title">What RoleOS does</h2>
+  <div class="features">
+    <div class="feature">
+      <div class="num">01 · Scope</div>
+      <h3>Find every role that matters</h3>
+      <p>Crawls ATS portals (Greenhouse, Lever, Ashby) for your target companies. Filters to the roles you'd actually take.</p>
+    </div>
+    <div class="feature">
+      <div class="num">02 · Extract</div>
+      <h3>Read every JD like a PM</h3>
+      <p>Claude reads each posting and extracts archetype, seniority, must-haves with verbatim quotes, salary, location, visa — into a strict schema. Zero hallucination by contract.</p>
+    </div>
+    <div class="feature">
+      <div class="num">03 · Track</div>
+      <h3>Run the funnel, end-to-end</h3>
+      <p>From "scoped" to "offer." See where you stand, what's stalled, and where your time goes. The CRM your job search deserved.</p>
+    </div>
+  </div>
+</section>
+
+<!-- 4. LIVE CASE STUDY -->
+<section>
+  <div class="case-header">
+    <h2>Live case study — Nikhil's search</h2>
+    <span class="by">running on RoleOS · updated nightly</span>
+  </div>
+
+  <div class="case-stats" id="stats">loading…</div>
+
   <div class="panel funnel" id="funnel"></div>
+
+  <details class="more">
+    <summary>What the extraction sees (aggregate distributions)</summary>
+    <div>
+      <div class="grid2">
+        <div class="panel"><h3>Role archetypes</h3><div class="dist" id="dist-archetype"></div></div>
+        <div class="panel"><h3>Seniority distribution</h3><div class="dist" id="dist-seniority"></div></div>
+        <div class="panel"><h3>Years required</h3><div class="dist" id="dist-years"></div></div>
+        <div class="panel"><h3>Location & work model</h3><div class="dist" id="dist-location"></div></div>
+      </div>
+      <div style="margin-top: 20px; font-size: 13px; color: var(--ink-3);">
+        Cost so far: <span id="cost-line">—</span>
+      </div>
+    </div>
+  </details>
 </section>
 
+<!-- 5. ROADMAP -->
 <section>
-  <h2>What the extraction sees (aggregate)</h2>
-  <div class="grid2">
-    <div class="panel"><h3>Role archetypes</h3><div class="dist" id="dist-archetype"></div></div>
-    <div class="panel"><h3>Seniority distribution</h3><div class="dist" id="dist-seniority"></div></div>
-    <div class="panel"><h3>Years required</h3><div class="dist" id="dist-years"></div></div>
-    <div class="panel"><h3>Location & work model</h3><div class="dist" id="dist-location"></div></div>
+  <h2 class="section-title">Roadmap</h2>
+  <div class="roadmap">
+    <div class="col">
+      <h3>Shipping now</h3>
+      <ul>
+        <li>Role discovery across 100+ companies</li>
+        <li>LLM-powered JD extraction</li>
+        <li>Per-role candidate-facing digests</li>
+        <li>Live funnel tracking</li>
+      </ul>
+    </div>
+    <div class="col">
+      <h3>Coming next</h3>
+      <ul>
+        <li>Personal CV ingestion & fit scoring</li>
+        <li>Company enrichment (funding, headcount, news)</li>
+        <li>Outreach drafting (cover letters, hiring-manager notes)</li>
+        <li>Interview prep & offer comparator</li>
+      </ul>
+    </div>
   </div>
 </section>
 
+<!-- 6. ABOUT -->
 <section>
-  <h2>Architecture — four scripts, one schema</h2>
-  <div class="arch">
-    <div class="step"><div class="n">01 · Scan</div><div class="t">Discover roles</div><div class="d">Crawl ATS portals (Greenhouse, Lever, Ashby) for ~70 target companies. Filter to PM, AI, and growth roles.</div></div>
-    <div class="step"><div class="n">02 · Fetch</div><div class="t">Raw JD capture</div><div class="d">Pull each posting to markdown, snapshotted with URL, provider, and job ID for reproducibility.</div></div>
-    <div class="step"><div class="n">03 · Extract</div><div class="t">Claude → strict JSON</div><div class="d">Per-JD LLM call with a constrained schema: archetype, seniority, must-haves with verbatim quotes, salary, location, visa.</div></div>
-    <div class="step"><div class="n">04 · Render</div><div class="t">Candidate-facing view</div><div class="d">Compile structured JSONs into readable markdown digests for fast scanning and fit assessment.</div></div>
+  <h2 class="section-title">About the builder</h2>
+  <div class="about">
+    <div>
+      <h3 style="font-size: 22px; margin-bottom: 12px;">Nikhil Jain</h3>
+      <p>Senior AI PM building RoleOS while running his own job search as the founding user. The case study above is real — every number updates from the live pipeline running on his machine.</p>
+      <div class="links">
+        <a href="https://github.com/nikjain15/role-os">→ Source code</a>
+        <a href="#" id="resume-link">→ Resume</a>
+        <a href="#" id="linkedin-link">→ LinkedIn</a>
+      </div>
+    </div>
+    <div>
+      <h3 style="font-size: 14px; color: var(--ink-3); text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 12px;">Coming soon</h3>
+      <p style="font-size: 14px;">Two AI assistants: one that answers questions about the roles RoleOS has researched, and one that answers anything a recruiter wants to know about Nikhil. Both grounded in real data — no hallucination.</p>
+    </div>
   </div>
-</section>
-
-<section>
-  <h2>Honest gaps — what's next</h2>
-  <div class="panel"><div class="gap" id="gaps"></div></div>
-</section>
-
-<section>
-  <h2>Cost & efficiency</h2>
-  <div class="panel cost" id="cost"></div>
 </section>
 
 <footer>
-  <span class="pill">Live snapshot</span> &nbsp; Built with Node + Claude &nbsp; · &nbsp; Updated <span id="ts"></span> &nbsp; · &nbsp;
-  <a href="https://github.com/nikjain15/role-os">source</a>
+  RoleOS · Built with Node + Claude · Updated <span id="ts"></span>
 </footer>
 
 </div>
@@ -246,6 +303,7 @@
 async function load() {
   const d = await (await fetch('data.json?t=' + Date.now())).json();
   const h = d.headline;
+
   document.getElementById('stats').innerHTML = [
     ['Companies scoped', h.companies],
     ['JDs structured', h.structured + ' / ' + h.rawJDs],
@@ -255,10 +313,10 @@ async function load() {
 
   const maxF = Math.max(...d.funnel.map(s => s.count), 1);
   document.getElementById('funnel').innerHTML = d.funnel.map(s => {
-    const isFuture = /next/i.test(s.stage);
     const pct = (s.count / maxF) * 100;
-    return `<div class="row ${isFuture ? 'future' : ''}">
-      <div>${s.stage}</div>
+    const status = s.status || 'done';
+    return `<div class="row" data-status="${status}">
+      <div class="stage"><span class="marker"></span>${s.stage}</div>
       <div class="bar"><div style="width:${pct}%"></div></div>
       <div class="count">${s.count}</div>
     </div>`;
@@ -276,18 +334,58 @@ async function load() {
   renderDist('dist-years', d.distributions.yearsRequired);
   renderDist('dist-location', d.distributions.locationType);
 
-  document.getElementById('gaps').innerHTML = d.gaps.map(g =>
-    `<div class="gap-item"><div class="name">${g.name}</div><div class="why">${g.why}</div></div>`
-  ).join('');
-
   const perJD = d.cost.total && h.structured ? (d.cost.total / h.structured).toFixed(4) : '—';
-  document.getElementById('cost').innerHTML = `
-    <div><div class="big">$${d.cost.total.toFixed(2)}</div><div class="lbl">Total LLM spend</div></div>
-    <div><div class="big">$${perJD}</div><div class="lbl">Cost per JD extracted</div></div>
-    <div><div class="big">${d.cost.runs}</div><div class="lbl">Pipeline runs</div></div>`;
-
+  document.getElementById('cost-line').textContent = `$${d.cost.total.toFixed(2)} total · $${perJD} per JD · ${d.cost.runs} pipeline run(s)`;
   document.getElementById('ts').textContent = new Date(d.generatedAt).toLocaleString();
 }
+
+// Waitlist form — currently stubbed; will POST to Supabase once keys are wired
+const form = document.getElementById('waitlist');
+const msg = document.getElementById('waitlist-msg');
+form.addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const email = form.email.value.trim();
+  if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)) {
+    msg.textContent = 'Please enter a valid email.';
+    msg.className = 'waitlist-msg error';
+    return;
+  }
+  msg.textContent = 'Joining…';
+  msg.className = 'waitlist-msg';
+
+  // TODO: wire Supabase — when keys are provided, replace this stub with a real INSERT
+  if (window.SUPABASE_URL && window.SUPABASE_ANON_KEY) {
+    try {
+      const r = await fetch(`${window.SUPABASE_URL}/rest/v1/waitlist`, {
+        method: 'POST',
+        headers: {
+          'apikey': window.SUPABASE_ANON_KEY,
+          'Authorization': `Bearer ${window.SUPABASE_ANON_KEY}`,
+          'Content-Type': 'application/json',
+          'Prefer': 'return=minimal'
+        },
+        body: JSON.stringify({ email, source: 'roleos-landing' })
+      });
+      if (r.ok) {
+        msg.textContent = "You're on the list. We'll be in touch.";
+        msg.className = 'waitlist-msg success';
+        form.reset();
+      } else {
+        const err = await r.text();
+        msg.textContent = err.includes('duplicate') ? "You're already on the list." : 'Something went wrong — try again?';
+        msg.className = 'waitlist-msg error';
+      }
+    } catch (err) {
+      msg.textContent = 'Network error — try again?';
+      msg.className = 'waitlist-msg error';
+    }
+  } else {
+    msg.textContent = "Thanks! Waitlist backend wiring up — we'll save your spot when it's live.";
+    msg.className = 'waitlist-msg success';
+    form.reset();
+  }
+});
+
 load();
 </script>
 </body>

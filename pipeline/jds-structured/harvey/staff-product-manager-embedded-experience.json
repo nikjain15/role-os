@@ -1,0 +1,255 @@
+{
+  "company": "Harvey",
+  "role_title": "Staff Product Manager, Embedded Experience",
+  "url": "https://jobs.ashbyhq.com/harvey/288a7a0d-ed93-4574-a5c0-c6a37d692324",
+  "ats_provider": "ashby",
+  "ats_job_id": "288a7a0d-ed93-4574-a5c0-c6a37d692324",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Platform / Ecosystem PM",
+  "seniority": {
+    "level": "Staff PM",
+    "years_required_min": 8,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "8+ years of product management experience",
+      "at least 3 years at a Staff or Senior PM level",
+      "role title is Staff Product Manager"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_total",
+      "raw_text_from_jd": "8+ years of product management experience, with at least 3 years at a Staff or Senior PM level at a high-growth technology company.",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 8,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "high-growth technology company"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "years_staff_or_senior_pm",
+      "raw_text_from_jd": "at least 3 years at a Staff or Senior PM level at a high-growth technology company.",
+      "skill_type": "years_of_experience",
+      "domain": "senior_product_management",
+      "minimum_value": 3,
+      "unit": "years",
+      "qualifier": "Staff or Senior PM level",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "high-growth technology company"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "platform_infrastructure_track_record",
+      "raw_text_from_jd": "Proven track record of owning and scaling complex platform or infrastructure products, ideally in enterprise SaaS, document management, knowledge management, or data-intensive domains.",
+      "skill_type": "outcome",
+      "domain": "platform_infrastructure_products",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "enterprise SaaS",
+        "document management",
+        "knowledge management"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_acumen",
+      "raw_text_from_jd": "Strong technical acumen with the ability to engage deeply with engineering on system design, distributed systems, data pipelines, and retrieval architectures.",
+      "skill_type": "capability",
+      "domain": "technical_product_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "system design",
+        "distributed systems",
+        "data pipelines",
+        "retrieval architectures"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sensitive_data_security_compliance",
+      "raw_text_from_jd": "Experience building products that handle sensitive data with robust security, compliance, and access control requirements.",
+      "skill_type": "domain_knowledge",
+      "domain": "security_compliance",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "stakeholder_communication",
+      "raw_text_from_jd": "Excellent communication skills with the ability to influence stakeholders at various levels, from engineers to executives.",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_tolerance",
+      "raw_text_from_jd": "Demonstrated ability to thrive in ambiguous, fast-paced environments and drive clarity through complexity.",
+      "skill_type": "cultural_fit",
+      "domain": "operating_style",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_sense",
+      "raw_text_from_jd": "Strong product sense and attention to detail-ability to think through both high-level strategy and nitty-gritty implementation details.",
+      "skill_type": "capability",
+      "domain": "product_strategy",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Harvey's Embedded Experiences — Word Add-In, Outlook plugin, Microsoft copilot integrations, and third-party partner integrations (iManage, LexisNexis, SharePoint)",
+    "business_model": "enterprise B2B SaaS, legal and professional services AI platform",
+    "primary_metrics_inferred": [
+      "Integration adoption",
+      "API usage",
+      "Partner-driven revenue",
+      "Ecosystem health metrics",
+      "Deal velocity and retention from integrations"
+    ],
+    "cross_functional_partners": [
+      "Engineering (Integrations pod, Platform)",
+      "Partnerships",
+      "GTM",
+      "Customer Success",
+      "PMM",
+      "Design"
+    ],
+    "core_responsibilities": [
+      "Define and execute the product strategy for Harvey's embedded experiences, including the Word Add-In, Outlook plugin, and copilot integrations across the Microsoft ecosystem and beyond.",
+      "Work closely with the Integrations engineering pod and Partnerships team to prioritize, scope, and ship integrations that drive customer value and competitive differentiation.",
+      "Define Harvey's external API strategy and developer experience.",
+      "Serve as the primary product counterpart for strategic partners (e.g., iManage, LexisNexis, SharePoint).",
+      "Collaborate closely with Engineering, Partnerships, GTM, Customer Success, and PMM to ensure ecosystem investments are aligned with commercial strategy and customer needs.",
+      "Partner with GTM and Partnerships to translate ecosystem capabilities into sales enablement, positioning, and customer-facing narratives.",
+      "Define success metrics for ecosystem health (e.g., integration adoption, API usage, partner-driven revenue) and iterate based on data."
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "embedded experiences",
+    "Microsoft Word Add-In",
+    "Outlook plugin",
+    "copilot integrations",
+    "platform PM",
+    "API strategy",
+    "developer experience",
+    "enterprise SaaS",
+    "legal AI",
+    "iManage",
+    "LexisNexis",
+    "SharePoint",
+    "partner ecosystem",
+    "Staff PM",
+    "agentic AI"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear product surface and ownership area — specific integrations named (Word, Outlook, iManage, LexisNexis, SharePoint)",
+    "Strong product-market fit signals: 1000+ customers in 60+ countries noted",
+    "Defined cross-functional partners and named teams (e.g., Carl Fuda's Partnerships team)",
+    "Explicit success metrics described (integration adoption, API usage, partner-driven revenue)"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "No location or remote policy stated — unclear where candidates must be based",
+    "No visa sponsorship information provided",
+    "High seniority bar (8+ years PM, 3+ years Staff/Senior) may narrow candidate pool significantly"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.manages_people (inferred false — no direct reports mentioned)",
+      "scope.business_model (inferred from product description and customer base)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; partially stated in JD as examples)",
+      "location.type (not stated; marked unclear)",
+      "compensation.equity_mentioned (no mention found; marked false)"
+    ],
+    "ambiguities": [
+      "Location and remote eligibility are never specified in the JD body or metadata — marked as unclear.",
+      "The platform/infrastructure track record requirement says 'ideally in enterprise SaaS, document management, knowledge management, or data-intensive domains' — the word 'ideally' suggests preferred, but the surrounding sentence is phrased as a hard requirement. Treated as hard with the domain qualifier as soft context."
+    ]
+  }
+}

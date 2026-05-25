@@ -1,0 +1,251 @@
+{
+  "company": "Faire",
+  "role_title": "Program Manager, Marketplace Operations",
+  "url": "https://boards.greenhouse.io/faire/jobs/8520814002?gh_jid=8520814002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8520814002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "3 days per week (Tuesdays, Thursdays, and one flex day); up to 4 weeks remote per year",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "BizOps / Strategy & Ops",
+  "seniority": {
+    "level": "Mid-Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of experience in program management or related fields",
+      "Compensation range $130,500–$179,500 consistent with mid-senior IC",
+      "Expected to build and scale programs from the ground up, manage BPO/vendor partners"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_program_mgmt",
+      "raw_text_from_jd": "5+ years of experience in program management or related fields (e.g., consulting, operations, project management or product operations), ideally within a technology, marketplace, or platform business.",
+      "skill_type": "years_of_experience",
+      "domain": "program_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "qualifier": "ideally within a technology, marketplace, or platform business",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "technology",
+        "marketplace",
+        "platform"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_project_management",
+      "raw_text_from_jd": "Experience managing cross-functional projects with measurable impact, including planning, execution, and stakeholder coordination.",
+      "skill_type": "capability",
+      "domain": "cross_functional_program_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "workflow_automation_and_bpo",
+      "raw_text_from_jd": "Exposure to scaling operations through a combination of workflow automation and orchestration tooling (e.g., Zapier, Workato, Airflow, Google App Script, etc.), AI solutions, and effective use of BPO/vendor partnerships.",
+      "skill_type": "tool_proficiency",
+      "domain": "workflow_automation_and_operations_scaling",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Zapier",
+        "Workato",
+        "Airflow",
+        "Google App Script"
+      ],
+      "technologies_named": [
+        "workflow automation",
+        "AI solutions"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_and_stakeholder_management",
+      "raw_text_from_jd": "Excellent communication and stakeholder management skills; able to influence across technical and non-technical teams.",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_skills_data_tools",
+      "raw_text_from_jd": "Strong analytical skills, with comfort pulling, interpreting, and acting on large datasets using Excel/Google Sheets, and BI tools (Looker, Tableau, Mode; SQL familiarity is a plus).",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analysis",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Excel",
+        "Google Sheets",
+        "Looker",
+        "Tableau",
+        "Mode"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "structure_ambiguity_fast_paced",
+      "raw_text_from_jd": "Ability to bring structure to ambiguity, manage competing priorities, and operate in a fast-paced environment.",
+      "skill_type": "cultural_fit",
+      "domain": "operational_adaptability",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "sql_familiarity",
+      "raw_text_from_jd": "SQL familiarity is a plus",
+      "skill_type": "tool_proficiency",
+      "domain": "data_querying",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "SQL"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Marketplace Operations (MOps) — scalable operational processes supporting brands and retailers on the Faire platform",
+    "business_model": "B2B wholesale marketplace (technology platform connecting independent retailers and brands)",
+    "primary_metrics_inferred": [
+      "Program performance and accountability metrics",
+      "Operational efficiency and accuracy",
+      "Long-term marketplace growth",
+      "BPO/vendor partner delivery quality"
+    ],
+    "cross_functional_partners": [
+      "Strategy & Analytics",
+      "Strategy & Operations",
+      "Product",
+      "Engineering",
+      "Data Science",
+      "BPO/vendor partners"
+    ],
+    "core_responsibilities": [
+      "Build and scale new programs from the ground up while optimizing existing operational processes",
+      "Leverage AI and workflow automation solutions to drive efficiency, accuracy, and long-term scalability",
+      "Define success metrics and monitoring systems in partnership with Strategy & Analytics",
+      "Develop Standard Operating Procedures (SOPs), decision models, and escalation paths",
+      "Work with BPO and vendor partners to ensure high-quality delivery at scale",
+      "Partner cross-functionally with Strategy & Analytics, Strategy & Operations, Product, Engineering, and Data Science",
+      "Identify risks, surface insights, and drive day-to-day project coordination"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      130500,
+      179500
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity (form not specified)",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "program management",
+    "marketplace operations",
+    "workflow automation",
+    "BPO",
+    "cross-functional",
+    "stakeholder management",
+    "SOPs",
+    "AI solutions",
+    "Zapier",
+    "Airflow",
+    "Looker",
+    "SQL",
+    "scalable operations",
+    "wholesale marketplace"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($130,500–$179,500 base)",
+    "Equity and benefits mentioned",
+    "Clear team mandate and responsibilities described",
+    "Well-known, VC-backed company (Y Combinator, Sequoia, Founders Fund) with established marketplace product",
+    "Hybrid policy clearly defined (3 days/week in office with up to 4 weeks remote per year)",
+    "Explicit cross-functional partners named, reducing ambiguity about stakeholder landscape"
+  ],
+  "red_flags": [
+    "Role requires in-office presence 3 days/week in San Francisco; no indication of other city eligibility despite company having offices in Toronto, London, New York, and Kitchener-Waterloo",
+    "Visa sponsorship and work authorization requirements not stated — unclear for non-US candidates",
+    "SQL listed only as a 'plus' but strong analytical requirement suggests SQL will likely be needed in practice"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range and years of experience requirement)",
+      "scope.business_model (inferred from company description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly listed in JD)",
+      "location.work_auth (not stated in JD)",
+      "location.visa_sponsorship (not stated in JD)",
+      "compensation.location_pay_differential (inferred from SF-specific salary range label, suggesting other locations may differ)"
+    ],
+    "ambiguities": [
+      "The JD salary line is labeled 'San Francisco, CA' only, but Faire has offices in Toronto, London, New York, and Kitchener-Waterloo. It is unclear whether this role could be based at another office location or whether remote outside SF is possible.",
+      "SQL is listed as 'a plus' in a sentence otherwise describing strong analytical requirements (must-have framing). Treated as soft/nice-to-have per JD language, but likely more important in practice.",
+      "The qualifications list uses unconditional bullet language for the workflow automation/BPO requirement ('Exposure to...') which could be interpreted as less than strictly required; treated as hard given unconditional placement in required qualifications section."
+    ]
+  }
+}

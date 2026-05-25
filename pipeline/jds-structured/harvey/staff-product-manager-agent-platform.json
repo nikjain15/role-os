@@ -1,0 +1,228 @@
+{
+  "company": "Harvey",
+  "role_title": "Staff Product Manager, Agent Platform",
+  "url": "https://jobs.ashbyhq.com/harvey/39c40209-798d-47e9-a600-742c876c536b",
+  "ats_provider": "ashby",
+  "ats_job_id": "39c40209-798d-47e9-a600-742c876c536b",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "AI Product Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Technical PM",
+  "seniority": {
+    "level": "Staff PM (IC6 equivalent)",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7+ years of product management experience",
+      "Title: Staff Product Manager",
+      "Compensation range $215K-$300K base consistent with Staff-level IC",
+      "Expected to own full product surface end-to-end, not just features"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "7+ years of product management experience, with meaningful time owning a user-facing product end-to-end (not just features within someone else's product)",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 7,
+      "unit": "years",
+      "qualifier": "with meaningful time owning a user-facing product end-to-end",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "zero_to_one_product",
+      "raw_text_from_jd": "Experience building 0-to-1 products or leading major product pivots where the problem definition was as important as the solution",
+      "skill_type": "outcome",
+      "domain": "product_launches",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ux_product_instincts",
+      "raw_text_from_jd": "Strong product instincts for UX: you care about how things feel to users, not just whether they technically work",
+      "skill_type": "capability",
+      "domain": "ux_design_sensibility",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_depth",
+      "raw_text_from_jd": "Comfort with technical depth. You don't need to write code, but you should be able to engage with engineers on system design, architecture tradeoffs, and what's actually hard",
+      "skill_type": "capability",
+      "domain": "technical_product_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "system design",
+        "architecture tradeoffs"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "enterprise_governance_shipping",
+      "raw_text_from_jd": "Experience shipping to enterprise customers with real governance, compliance, or regulatory constraints",
+      "skill_type": "domain_knowledge",
+      "domain": "enterprise_software",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_and_opinion_forming",
+      "raw_text_from_jd": "Ability to operate in ambiguity, form strong opinions quickly, and update them when the evidence changes",
+      "skill_type": "cultural_fit",
+      "domain": "decision_making",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "ai_ml_legal_professional_services",
+      "raw_text_from_jd": "Bonus: experience with AI/ML products, legal technology, or professional services",
+      "skill_type": "domain_knowledge",
+      "domain": "ai_ml_products_or_legal_technology",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "AI/ML"
+      ],
+      "industries_named": [
+        "legal technology",
+        "professional services"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Core surface within Harvey's Agent platform — covering how lawyers interact with agents, how agents get created and discovered, or the underlying platform infrastructure",
+    "business_model": "B2B enterprise SaaS — AI agents for legal and professional services",
+    "primary_metrics_inferred": [
+      "Agent adoption by legal professionals",
+      "Product usage depth (substantive work completed via agents)",
+      "Enterprise customer deployment success (law firms and in-house legal teams)"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Applied Legal Research",
+      "GTM / Customer-facing teams"
+    ],
+    "core_responsibilities": [
+      "Own the end-to-end product lifecycle for a core surface within Harvey's Agent platform, from problem definition through launch and iteration",
+      "Define and drive the product vision for how lawyers interact with AI agents, grounded in real user workflows and firm-level deployment constraints",
+      "Work directly with engineering, design, and applied legal research to ship high-quality product on an aggressive timeline",
+      "Navigate enterprise complexity: ethical walls, audit trails, governance, multi-stakeholder approval flows",
+      "Partner with GTM to shape how the product gets positioned, demoed, and adopted by the world's largest law firms and in-house legal teams",
+      "Make hard prioritization calls with imperfect data in a fast-moving competitive landscape"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      215000,
+      300000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Agent platform",
+    "AI agents",
+    "legal technology",
+    "0-to-1 product",
+    "enterprise governance",
+    "ethical walls",
+    "audit trails",
+    "agentic AI",
+    "professional services",
+    "Staff PM"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed and highly competitive ($215K-$300K base)",
+    "Clear product surface articulated — not a vague 'AI platform' role",
+    "0-to-1 opportunity with real ownership at Staff level",
+    "Strong product-market fit signals: 1000+ customers in 60+ countries",
+    "Explicit acknowledgment that enterprise governance constraints are core product work, not afterthoughts"
+  ],
+  "red_flags": [
+    "No location or remote policy stated — candidates cannot determine work arrangement requirements",
+    "No visa sponsorship information provided",
+    "Very wide comp band ($215K-$300K) may indicate significant uncertainty in leveling or location-based adjustment",
+    "Exact scope of role ('exact scope will be shaped by your strengths') is intentionally vague — ownership could shift post-hire"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Staff', comp range, and years requirement)",
+      "scope.business_model (inferred from product description and customer mentions)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "compensation.location_pay_differential (inferred from 'Depending on your location' language in privacy notice section)"
+    ],
+    "ambiguities": [
+      "Location/work arrangement is entirely absent from the JD body — no city, remote policy, or hybrid language. Set to 'unclear'.",
+      "Visa sponsorship is not mentioned anywhere in the JD. Set to 'unclear'.",
+      "The compensation note 'Depending on your location' appears in a privacy notice context but may also signal location-based pay differentials."
+    ]
+  }
+}

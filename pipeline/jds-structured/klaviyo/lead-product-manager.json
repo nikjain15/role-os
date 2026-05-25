@@ -1,0 +1,281 @@
+{
+  "company": "Klaviyo",
+  "role_title": "Lead Product Manager",
+  "url": "https://www.klaviyo.com/careers/jobs?gh_jid=7532498003",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7532498003",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": "up to 10% travel for onboarding, team meetings, industry events",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Technical PM (workflow/automation platform focus)",
+  "seniority": {
+    "level": "Lead / Staff IC (L5/L6 equivalent)",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5-7+ years of product management experience",
+      "Title is 'Lead Product Manager' implying above Senior IC",
+      "Owns product strategy and roadmap for a major platform area",
+      "Comp range $168K-$252K base consistent with Lead/Staff PM level",
+      "Works with engineering team of 8-10 engineers"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "5-7+ years of product management experience, ideally working on complex SaaS or workflow-based products",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "qualifier": "ideally complex SaaS or workflow-based products",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "SaaS"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_facing_product_ux",
+      "raw_text_from_jd": "Experience building customer-facing product experiences with a strong UX focus",
+      "skill_type": "capability",
+      "domain": "ux_product_development",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "simplify_complex_systems",
+      "raw_text_from_jd": "Demonstrated ability to simplify complex systems or workflows into intuitive user experiences",
+      "skill_type": "capability",
+      "domain": "product_design_ux",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "design_partnership",
+      "raw_text_from_jd": "Strong product design instincts and experience partnering closely with design teams",
+      "skill_type": "capability",
+      "domain": "design_collaboration",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "engineering_collaboration",
+      "raw_text_from_jd": "Comfortable working closely with engineering on technically complex products",
+      "skill_type": "capability",
+      "domain": "technical_product_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "core_product_ownership",
+      "raw_text_from_jd": "Experience owning core product surfaces with high usage and business impact",
+      "skill_type": "outcome",
+      "domain": "product_ownership",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "customer_centricity",
+      "raw_text_from_jd": "Highly customer-centric, with experience speaking directly with customers to inform product decisions",
+      "skill_type": "capability",
+      "domain": "customer_research",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_communication",
+      "raw_text_from_jd": "Strong communicator who can align cross-functional teams around product strategy and execution",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "saas_or_workflow_products",
+      "raw_text_from_jd": "5-7+ years of product management experience, ideally working on complex SaaS or workflow-based products",
+      "skill_type": "domain_knowledge",
+      "domain": "saas_workflow_products",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "SaaS"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "marketer_empathy",
+      "raw_text_from_jd": "This is a highly customer-facing role where deep empathy for marketers and a strong design sensibility are essential.",
+      "skill_type": "domain_knowledge",
+      "domain": "marketing_automation",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "8–10 engineers plus 1 co-PM in broader core product area",
+    "surface": "Orchestration experience — Flows, campaign editor, and workflow builder surfaces on the Klaviyo platform",
+    "business_model": "B2B SaaS — ecommerce marketing automation platform",
+    "primary_metrics_inferred": [
+      "Adoption of Flows and orchestration features",
+      "Engagement with workflow/editor surfaces",
+      "Gross churn reduction",
+      "Retention and lifecycle marketing program effectiveness for customers"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Data",
+      "Go-to-market",
+      "Support",
+      "Sales",
+      "Marketing"
+    ],
+    "core_responsibilities": [
+      "Own product strategy and roadmap for key orchestration experiences across flows, campaigns, and the Klaviyo editor",
+      "Lead the evolution of Flows, one of Klaviyo's most widely used automation capabilities",
+      "Simplify complex marketing workflows into intuitive, scalable product experiences",
+      "Partner closely with design to deliver thoughtful, high-quality UX for core product surfaces",
+      "Work with engineering to build reliable, scalable systems that support sophisticated automation use cases",
+      "Meet directly with customers (virtually and in-person) to gather feedback and deeply understand their workflow challenges",
+      "Define and track success metrics including adoption, engagement, and gross churn",
+      "Collaborate cross-functionally with data, support, sales, and marketing teams to ensure successful product adoption"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      168000,
+      252000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity mentioned as part of total compensation package; form not specified",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "orchestration",
+    "flows",
+    "marketing automation",
+    "workflow builder",
+    "SaaS",
+    "UX",
+    "lifecycle marketing",
+    "customer engagement",
+    "product strategy",
+    "roadmap",
+    "ecommerce",
+    "cross-functional",
+    "gross churn"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($168K–$252K base) and competitive for Lead PM",
+    "Clear product surface and ownership area (Flows / Orchestration — not vague)",
+    "Engineering team size explicitly stated (8–10 engineers)",
+    "Encourages close-but-not-exact-match applicants to still apply",
+    "Role impact clearly articulated — one of the most widely used surfaces in the product",
+    "Travel requirement is light (up to 10%)"
+  ],
+  "red_flags": [
+    "Work authorization and visa sponsorship not mentioned — unclear for non-US candidates",
+    "Wide compensation range ($84K spread) may indicate significant level variability or strong location-based adjustments",
+    "Location type is ambiguous — JD does not explicitly state hybrid/remote/onsite policy beyond travel requirement; cities not listed",
+    "Use of AI screening tool (Covey) disclosed — candidates in NYC should be aware of AEDT implications"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Lead PM', comp range, and responsibilities scope)",
+      "scope.business_model (inferred from product description — ecommerce marketing automation SaaS)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; partial direct quote on adoption/engagement/gross churn)",
+      "location.type (inferred as hybrid based on travel requirement language; no explicit remote/onsite/hybrid policy stated)",
+      "location.remote_us_eligible (inferred from 'salary range reflects cost of labor across various U.S. geographic markets' — implies US remote eligible)"
+    ],
+    "ambiguities": [
+      "Location type not explicitly stated as remote, hybrid, or onsite. JD mentions up to 10% travel and a broad US salary range, suggesting distributed/remote-friendly US role, but no explicit designation.",
+      "nice_to_have for 'SaaS or workflow-based products' overlaps with must-have years_pm_experience — the 'ideally' qualifier in the same sentence makes the domain preference soft while the years are hard.",
+      "Marketer domain knowledge ('deep empathy for marketers') is described as 'essential' in the JD but is listed under a descriptive sentence rather than the formal 'Who You Are' bullet list — treated as soft/nice-to-have given it reads as cultural context."
+    ]
+  }
+}

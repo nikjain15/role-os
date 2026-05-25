@@ -1,0 +1,280 @@
+{
+  "company": "DoorDash",
+  "role_title": "Associate, DashMart - Regulatory Strategy & Operations",
+  "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7793938",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7793938",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [],
+    "remote_us_eligible": false,
+    "office_time_required": "time split across your home office, in-market site visits, and cross-functional collaboration",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Regulatory & Compliance Operations",
+  "seniority": {
+    "level": "Junior IC / Associate",
+    "years_required_min": 1,
+    "years_required_max": 3,
+    "manages_people": false,
+    "level_signals": [
+      "1–3 years of professional experience required",
+      "Title is 'Associate'",
+      "Reports to a Manager",
+      "Base salary range $74,800–$110,000 consistent with junior IC level"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_professional_experience",
+      "raw_text_from_jd": "You have 1–3 years of professional experience. You've succeeded operating in fast-paced, high-performance environments and exposure to local government or city planning processes.",
+      "skill_type": "years_of_experience",
+      "domain": "professional_experience",
+      "minimum_value": 1,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "local_government_exposure",
+      "raw_text_from_jd": "exposure to local government or city planning processes",
+      "skill_type": "domain_knowledge",
+      "domain": "local_government_city_planning",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "local government",
+        "city planning"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_sql_excel",
+      "raw_text_from_jd": "You let data win arguments, and you're comfortable pulling your own data in SQL or modeling in Excel.",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analysis",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "SQL",
+        "Excel"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "bs_ba_degree",
+      "raw_text_from_jd": "You have completed your BS/BA Degree.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "BS/BA Degree"
+      ]
+    },
+    {
+      "id": "ambiguity_tolerance",
+      "raw_text_from_jd": "You're unafraid of ambiguity. Rapid change and learning is exciting to you, and you thrive in ambiguous, startup environments",
+      "skill_type": "cultural_fit",
+      "domain": "adaptability",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "first_principles_problem_solving",
+      "raw_text_from_jd": "You solve problems from first principles. You're excited to solve problems in innovative ways, and you resist \"this is how it's always been done\" thinking.",
+      "skill_type": "cultural_fit",
+      "domain": "problem_solving",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_collaboration",
+      "raw_text_from_jd": "You'll work with a cross-functional team, including local operations, construction, real estate, vendor and category management, and warehouse design teams.",
+      "skill_type": "capability",
+      "domain": "cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "zoning_permitting_entitlements",
+      "raw_text_from_jd": "Familiarity with zoning, permitting, or entitlements is preferred.",
+      "skill_type": "domain_knowledge",
+      "domain": "zoning_permitting_entitlements",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "real estate",
+        "urban planning"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "relevant_degree_field",
+      "raw_text_from_jd": "Preferably in a relevant field such as Urban Planning, Public Policy, Environmental Policy, Real Estate Development, or a related discipline.",
+      "skill_type": "credential",
+      "domain": "education",
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "urban planning",
+        "public policy",
+        "real estate"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Urban Planning degree",
+        "Public Policy degree",
+        "Environmental Policy degree",
+        "Real Estate Development degree"
+      ]
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "DashMart regulatory operations — site portfolio compliance, zoning, permitting, community requirements across physical locations nationally",
+    "business_model": "first-party on-demand delivery / convenience retail (DashMart)",
+    "primary_metrics_inferred": [
+      "Site launch timelines and efficiency",
+      "Regulatory compliance rate across site portfolio",
+      "Risk and cost reduction from regulatory issues"
+    ],
+    "cross_functional_partners": [
+      "Operations",
+      "Real Estate",
+      "Legal",
+      "Construction",
+      "Public Policy",
+      "Category Management",
+      "Vendor Management",
+      "Warehouse Design"
+    ],
+    "core_responsibilities": [
+      "Support execution of regulatory workflows that enable growth while minimizing risk, cost, and timelines",
+      "Identify and track regulatory and community-related issues across site portfolio",
+      "Partner cross-functionally to support site launches and ongoing operations",
+      "Analyze data, support audits, and build processes to identify, track, and resolve issues across markets",
+      "Support development of strategies that address regulatory and community-related challenges",
+      "Translate strategies into operational improvements and pilots",
+      "Assess operational performance, identify trends and issues, use data to inform decisions"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      74800,
+      110000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "regulatory operations",
+    "zoning",
+    "permitting",
+    "DashMart",
+    "site launches",
+    "city planning",
+    "compliance",
+    "SQL",
+    "strategy & operations",
+    "first-party retail",
+    "urban planning",
+    "cross-functional"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($74,800–$110,000 base)",
+    "Clear reporting structure (reports to Manager on DashMart Regulatory Operations team)",
+    "Well-defined scope and cross-functional partners named explicitly",
+    "Position fill deadline stated (6/13/2026), suggesting active and real hiring process",
+    "Hybrid model with in-market site visits offers variety and exposure",
+    "Comprehensive benefits package described in detail"
+  ],
+  "red_flags": [
+    "No cities listed for the role despite hybrid requirement — work location is unclear",
+    "Pay range is fairly wide ($35K spread) suggesting location-based variance that is not fully explained",
+    "1–3 years experience framing is used as both a hard requirement and mixed with a 'preferred' qualifier for permitting familiarity — classification boundary is somewhat ambiguous",
+    "No visa sponsorship information provided"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Associate', years range 1–3, and comp range)",
+      "scope.business_model (inferred from DashMart product description)",
+      "scope.primary_metrics_inferred (not stated; inferred from responsibilities)",
+      "location.cities_listed (no specific cities tied to this role stated in JD body)",
+      "compensation.equity_mentioned (no equity referenced; inferred as false)"
+    ],
+    "ambiguities": [
+      "The JD mentions 'hybrid model' but lists no specific cities — it is unclear which office(s) this role is tied to. remote_us_eligible set to false as a conservative read given hybrid language.",
+      "The requirement 'exposure to local government or city planning processes' is phrased as part of the years-of-experience bullet with no 'preferred' qualifier, treated as hard; however it could be read as illustrative context rather than a strict gate.",
+      "Visa sponsorship is not mentioned anywhere in the JD; set to 'unclear'."
+    ]
+  }
+}

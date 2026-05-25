@@ -1,0 +1,215 @@
+{
+  "company": "DoorDash",
+  "role_title": "Associate, In-Store Strategy & Operations",
+  "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7727684",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7727684",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": "some in-person time required (not quantified)",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Growth PM (marketplace growth / merchant enablement)",
+  "seniority": {
+    "level": "Junior to Mid-level IC",
+    "years_required_min": 1,
+    "years_required_max": 3,
+    "manages_people": false,
+    "level_signals": [
+      "1-3+ years of experience stated",
+      "Title is 'Associate'",
+      "Reports to a Senior Manager",
+      "Compensation range $87K-$128K base, consistent with entry-to-mid level"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_experience",
+      "raw_text_from_jd": "You have 1-3+ years of experience. You've succeeded in similar cultures that are highly analytical and cross-functional (whether in tech, operations, strategy, consulting, banking, or a related experience).",
+      "skill_type": "years_of_experience",
+      "domain": "strategy_operations_or_related",
+      "minimum_value": 1,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "tech",
+        "operations",
+        "consulting",
+        "banking"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_data_skills",
+      "raw_text_from_jd": "you enjoy diving deep into data and translating insights into action; you have experience working with Excel and/or SQL.",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analysis",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "Excel"
+      ],
+      "technologies_named": [
+        "SQL"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "growth_strategy_execution",
+      "raw_text_from_jd": "Own growth strategy and execution by building and scaling playbooks across onboarding, launch, and ongoing performance.",
+      "skill_type": "capability",
+      "domain": "growth_strategy",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_collaboration",
+      "raw_text_from_jd": "Partner cross-functionally with Merchant Success, Marketing, Product, and Enablement to operationalize merchant growth, co-marketing, and in-app merchandising.",
+      "skill_type": "capability",
+      "domain": "cross_functional_partnership",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ambiguity_bias_for_action",
+      "raw_text_from_jd": "you have a strong bias toward action, are comfortable with ambiguity, thrive in a fast-paced, constantly evolving environment, and are comfortable owning problems end-to-end",
+      "skill_type": "cultural_fit",
+      "domain": "execution_mindset",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "merchant_and_consumer_thinking",
+      "raw_text_from_jd": "you're able to balance customer-first thinking while working directly with top merchants to drive growth and performance.",
+      "skill_type": "capability",
+      "domain": "merchant_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "DoorDash Reservations Marketplace within the In-Store team",
+    "business_model": "marketplace (B2B2C — connecting consumers to merchant reservation inventory via DoorDash app)",
+    "primary_metrics_inferred": [
+      "Merchant reservations growth on DoorDash",
+      "Merchant onboarding and launch performance",
+      "In-app reservation marketplace activity"
+    ],
+    "cross_functional_partners": [
+      "Merchant Success",
+      "Marketing",
+      "Product",
+      "Enablement"
+    ],
+    "core_responsibilities": [
+      "Own growth strategy and execution by building and scaling playbooks across onboarding, launch, and ongoing performance",
+      "Design and test scrappy, high-impact growth initiatives that drive impact and performance beyond standard playbooks",
+      "Analyze merchant performance and marketplace data to identify growth opportunities, diagnose issues, and prioritize the highest-impact initiatives",
+      "Partner cross-functionally with Merchant Success, Marketing, Product, and Enablement to operationalize merchant growth, co-marketing, and in-app merchandising"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      87000,
+      128000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Strategy & Operations",
+    "In-Store",
+    "Reservations Marketplace",
+    "merchant growth",
+    "playbooks",
+    "cross-functional",
+    "SQL",
+    "Excel",
+    "data analysis",
+    "DoorDash",
+    "onboarding",
+    "co-marketing",
+    "in-app merchandising"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range clearly disclosed ($87K-$128K base)",
+    "Clear product surface and ownership area (Reservations Marketplace)",
+    "Explicit cross-functional partners named (Merchant Success, Marketing, Product, Enablement)",
+    "Entry-to-mid level role with meaningful ownership scope",
+    "Comprehensive benefits package described in detail"
+  ],
+  "red_flags": [
+    "Visa sponsorship not mentioned — unclear for international applicants",
+    "No equity mentioned despite being a tech company role — may be excluded from package at this level",
+    "Hybrid policy stated but in-person time requirement not quantified — hard to assess location flexibility",
+    "No specific cities listed for this hybrid role despite NYC-specific legal notices appearing in the JD, creating ambiguity about primary work location"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Associate', reporting structure, years range, and comp)",
+      "scope.business_model (inferred from product description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "location.remote_us_eligible (inferred from 'hybrid role with time spent in person and remote' language and mention of remote jobs in NYC legal notice)",
+      "compensation.location_pay_differential (inferred from 'Base salary is localized according to employee work location')"
+    ],
+    "ambiguities": [
+      "No specific city or office is named for this role despite the JD being hybrid. The NYC-specific legal notice may suggest NYC is a relevant location, but this is not confirmed as the role's primary location.",
+      "The JD says '1-3+ years' — the '+' after '3' creates ambiguity about whether more than 3 years is expected. Treated as a soft upper bound with minimum of 1 year.",
+      "Equity is not mentioned in the compensation section, which is unusual for a DoorDash role — may be included but not stated, or may not apply at the Associate level."
+    ]
+  }
+}

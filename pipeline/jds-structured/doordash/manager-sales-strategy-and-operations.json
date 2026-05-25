@@ -1,0 +1,232 @@
+{
+  "company": "DoorDash",
+  "role_title": "Manager, Sales Strategy & Operations",
+  "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7875471",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7875471",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Sales Strategy & Operations Manager",
+  "seniority": {
+    "level": "Manager / Senior IC",
+    "years_required_min": 6,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "6+ years of experience in consulting, strategy, business development, operations, technology, banking, analytics or related experience",
+      "JD internally refers to the role as 'Associate Manager level' and 'Sales Strategy Associate Manager'",
+      "Base pay range $125,800–$185,000 consistent with senior IC / manager level"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_experience_strategy_ops",
+      "raw_text_from_jd": "You have 6+ years of experience in consulting, strategy, business development, operations, technology, banking, analytics or related experience with a track record of leading initiatives and hitting goals",
+      "skill_type": "years_of_experience",
+      "domain": "strategy_operations_analytics",
+      "minimum_value": 6,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "consulting",
+        "banking"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_project_management",
+      "raw_text_from_jd": "You have strong cross functional business experience, project management, and communication skills",
+      "skill_type": "capability",
+      "domain": "cross_functional_project_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_modeling_sql_visualization",
+      "raw_text_from_jd": "You are comfortable working with large data sets + modeling in Excel / Google Sheets, advanced proficiency in SQL, and well-versed in data visualization tools (e.g. Sigma, Tableau) to help solve ambiguous problems",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analytics",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Excel",
+        "Google Sheets",
+        "SQL",
+        "Sigma",
+        "Tableau"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "humble_doer_attitude",
+      "raw_text_from_jd": "You are willing to roll up their sleeves and flex up or down as needed - \"humble doer\"",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "You have a Bachelor's degree or higher",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree"
+      ]
+    },
+    {
+      "id": "ai_native_builder",
+      "raw_text_from_jd": "You map complex operational workflows, diagnose data gaps, and architect AI-driven solutions end-to-end—from process discovery through prototype to production deployment. You build in AI tooling (e.g., Claude, ChatGPT, etc.) and ship real automation that eliminates manual work, closes visibility gaps, and accelerates decision-making across the business. You think in systems, not features. You treat every broken process as a build opportunity and every data gap as a use case waiting to be deployed. This is not an AI-curious role; this is an AI-native operating environment where you are expected to build, test, and iterate continuously.",
+      "skill_type": "capability",
+      "domain": "ai_driven_automation",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Claude",
+        "ChatGPT"
+      ],
+      "technologies_named": [
+        "AI-driven solutions",
+        "automation"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Long-Tail SMB sales strategy and operations within Global Sales Vendor organization; focused on retaining and growing merchant partnerships at scale",
+    "business_model": "B2B marketplace; merchant (restaurant, grocer, convenience, retail) partnerships",
+    "primary_metrics_inferred": [
+      "Merchant retention rate",
+      "SMB revenue growth",
+      "Sales productivity / pipeline conversion",
+      "GTM efficiency across products and initiatives"
+    ],
+    "cross_functional_partners": [
+      "Sales",
+      "Sales S&O",
+      "Finance",
+      "Partner Management",
+      "Operations",
+      "Product",
+      "Analytics"
+    ],
+    "core_responsibilities": [
+      "Build and execute the Long-Tail Emerging Bets strategy for the Global Sales Vendor organization",
+      "Retain and grow Merchants at scale",
+      "Develop strategic vision for SMB Emerging Bets sales strategy aligned with DoorDash's business goals",
+      "Drive operational excellence in reporting cadences, pipeline tracking, and sales productivity",
+      "Partner with cross-functional teams to expand and elevate SMB offering",
+      "Guide top priorities for the US Marketplace and ensure GTM approach is effective and efficient",
+      "Plan for near and long-term with new products and new organizations"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      125800,
+      185000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity grants",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Sales Strategy",
+    "Sales Operations",
+    "SMB",
+    "Long-Tail",
+    "SQL",
+    "data visualization",
+    "Tableau",
+    "Sigma",
+    "AI-native",
+    "automation",
+    "pipeline tracking",
+    "GTM",
+    "merchant partnerships",
+    "DoorDash",
+    "cross-functional"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range explicitly stated ($125,800–$185,000 base)",
+    "Equity mentioned as part of compensation",
+    "Clear team and reporting structure described (reports to Manager of Revenue Strategy and Operations)",
+    "Expected fill date provided (7/4/26) suggesting active, real posting",
+    "Comprehensive benefits package including 16 weeks paid parental leave, 401(k) with match"
+  ],
+  "red_flags": [
+    "Location/work arrangement (remote, hybrid, onsite) is never stated in the JD body — significant ambiguity for candidates",
+    "JD title says 'Manager' but body repeatedly uses 'Associate Manager' — potential title/level inconsistency worth clarifying",
+    "AI-native requirement is unusually prescriptive and may be recently appended (tone shift mid-JD); scope of AI build expectation for a Sales S&O role is unclear",
+    "No visa sponsorship information provided"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years requirement, comp range, and 'Associate Manager' language in body)",
+      "location.type (not stated; marked 'unclear')",
+      "scope.business_model (inferred from product description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not directly stated in JD)",
+      "compensation.location_pay_differential (inferred from 'Base salary is localized according to an employee's work location')"
+    ],
+    "ambiguities": [
+      "Role title in posting is 'Manager, Sales Strategy & Operations' but the JD body repeatedly describes the role as 'Associate Manager level' and 'Sales Strategy Associate Manager' — the actual seniority level is ambiguous.",
+      "Work location/arrangement (remote, hybrid, onsite) is never specified in the JD body, creating significant ambiguity for applicants.",
+      "AI-native requirements paragraph reads as a distinctly different voice/style from rest of JD, suggesting it may have been appended; it is unclear whether building AI tooling is a primary or secondary responsibility."
+    ]
+  }
+}

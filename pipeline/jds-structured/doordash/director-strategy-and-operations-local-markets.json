@@ -1,0 +1,286 @@
+{
+  "company": "DoorDash",
+  "role_title": "Director Strategy & Operations, Local Markets",
+  "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7818935",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7818935",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "General Manager / Local Markets Lead",
+  "seniority": {
+    "level": "Director (likely senior Director-level IC/people manager)",
+    "years_required_min": 10,
+    "years_required_max": null,
+    "manages_people": true,
+    "level_signals": [
+      "10+ years of experience in strategy & operations or other operating roles",
+      "5+ years of people management experience",
+      "Director title",
+      "Comp range $197,200–$290,000 base, consistent with Director at DoorDash",
+      "Reports into Growth and Markets team, leads cross-functional collaboration"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_strategy_ops",
+      "raw_text_from_jd": "You have 10+ years of experience in strategy & operations or other operating roles; high-growth startup experience is advantageous",
+      "skill_type": "years_of_experience",
+      "domain": "strategy_and_operations",
+      "minimum_value": 10,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "years_people_management",
+      "raw_text_from_jd": "You have 5+ years of people management experience",
+      "skill_type": "years_of_experience",
+      "domain": "people_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "xfn_project_leadership",
+      "raw_text_from_jd": "You have experience leading cross-functional projects and hitting goals",
+      "skill_type": "capability",
+      "domain": "cross_functional_leadership",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sql_data_analysis",
+      "raw_text_from_jd": "You are comfortable running analysis and manipulating datasets; SQL is required and experience using AI tools (Cursor, Claude) is preferred",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analysis",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "SQL"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strategy_direction_shaping",
+      "raw_text_from_jd": "You always look for ways to improve and want to shape the direction of the company",
+      "skill_type": "cultural_fit",
+      "domain": "strategic_thinking",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "motivate_across_org",
+      "raw_text_from_jd": "You can motivate people at all levels across the organization",
+      "skill_type": "capability",
+      "domain": "leadership_and_influence",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "translate_goals_to_plans",
+      "raw_text_from_jd": "You can translate high-level goals into relevant plans",
+      "skill_type": "capability",
+      "domain": "strategy_execution",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "low_level_detail",
+      "raw_text_from_jd": "You love getting to a low level of detail",
+      "skill_type": "cultural_fit",
+      "domain": "operational_rigor",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "high_growth_startup_experience",
+      "raw_text_from_jd": "high-growth startup experience is advantageous",
+      "skill_type": "domain_knowledge",
+      "domain": "startup_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "high-growth startup"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_tools_experience",
+      "raw_text_from_jd": "experience using AI tools (Cursor, Claude) is preferred",
+      "skill_type": "tool_proficiency",
+      "domain": "ai_tooling",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Cursor",
+        "Claude"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "US local marketplace growth across all US market types",
+    "business_model": "marketplace / platform (B2C consumers, B2B merchants, gig-worker Dashers)",
+    "primary_metrics_inferred": [
+      "Marketplace GMV / order growth by local market",
+      "Merchant sales growth",
+      "New partner / merchant acquisition",
+      "Local experiment conversion and scale"
+    ],
+    "cross_functional_partners": [
+      "Marketing",
+      "Sales",
+      "Product",
+      "Finance",
+      "Analytics",
+      "Engineering",
+      "Operations"
+    ],
+    "core_responsibilities": [
+      "Lead a team, developing lowest-level-of-detail analyses and execution rigor",
+      "Develop relationships with new growth partners and top merchants",
+      "Work cross-functionally to craft roadmaps, secure investment, and improve local user experience",
+      "Explore growth opportunities alongside Product, Marketing, Analytics, Engineering, and Operations teams",
+      "Shape and define strategy based on quantitative and qualitative data, querying data directly and using AI tooling",
+      "Incubate 0-1 experiments and scope partnership opportunities",
+      "Foster relationships with external partners",
+      "Execute on a roadmap to grow the marketplace at the local level"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      197200,
+      290000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity grants",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "strategy & operations",
+    "local markets",
+    "marketplace growth",
+    "cross-functional",
+    "people management",
+    "SQL",
+    "AI tooling",
+    "business development",
+    "0-1 experiments",
+    "US Marketplace",
+    "DoorDash"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($197,200–$290,000 base)",
+    "Equity grants explicitly mentioned",
+    "Comprehensive benefits package described in detail",
+    "Clear reporting structure (reports into Growth and Markets team)",
+    "Role has explicit scope: leading local market growth across all US markets",
+    "Application deadline noted (6/15/26), suggesting active hire",
+    "Strong DEI commitment and inclusive hiring language"
+  ],
+  "red_flags": [
+    "Work location / remote eligibility not stated — unclear if role is remote, hybrid, or onsite",
+    "Visa sponsorship not mentioned",
+    "Posting date not available; cannot assess posting freshness beyond fill-by date",
+    "Pay range is wide ($93K spread), making it difficult to gauge target level without recruiter conversation",
+    "Application deadline '6/15/263' appears to be a typo (likely 6/15/2026)"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title, comp range, and years required)",
+      "scope.business_model (inferred from product description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "location.type (not stated; marked unclear)",
+      "location.remote_us_eligible (not stated; left null)",
+      "location.visa_sponsorship (not stated; marked unclear)"
+    ],
+    "ambiguities": [
+      "Work location not specified in the JD — it is unclear whether this role is remote, hybrid, or onsite. Pay is 'localized according to an employee's work location,' implying location flexibility, but no explicit remote policy is given.",
+      "Application fill-by date reads '6/15/263' which is almost certainly a typo for 6/15/2026.",
+      "SQL is listed as 'required' in the same bullet as AI tools which are 'preferred' — treated SQL as hard must-have and AI tools as nice-to-have per the JD's own language distinction."
+    ]
+  }
+}

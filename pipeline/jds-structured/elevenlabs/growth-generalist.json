@@ -1,0 +1,210 @@
+{
+  "company": "ElevenLabs",
+  "role_title": "Growth Generalist",
+  "url": "https://jobs.ashbyhq.com/elevenlabs/19d9a7a0-10d9-41d8-b515-a61f1d85f186",
+  "ats_provider": "ashby",
+  "ats_job_id": "19d9a7a0-10d9-41d8-b515-a61f1d85f186",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "remote-global",
+    "cities_listed": [
+      "Bangalore",
+      "Dublin",
+      "London",
+      "New York",
+      "San Francisco",
+      "Tokyo",
+      "Warsaw"
+    ],
+    "remote_us_eligible": true,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Growth (non-PM)",
+  "archetype_confidence": "high",
+  "secondary_archetype": "BizOps / Strategy & Ops",
+  "seniority": {
+    "level": "Mid-level IC (generalist)",
+    "years_required_min": null,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "No years of experience stated",
+      "No job titles used internally; impact-based culture",
+      "Described as 'high performing generalist' joining B2B Marketing team",
+      "No prior B2B marketing experience required"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "copywriting_skills",
+      "raw_text_from_jd": "Great copywriting skills",
+      "skill_type": "capability",
+      "domain": "copywriting",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "organization_multitasking",
+      "raw_text_from_jd": "Extremely organized and able to keep track of multiple projects while constantly context switching",
+      "skill_type": "capability",
+      "domain": "project_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sql_dashboard_spreadsheet",
+      "raw_text_from_jd": "Capable of writing a SQL query, creating a dashboard, and building a spreadsheet model",
+      "skill_type": "tool_proficiency",
+      "domain": "data_and_analytics",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "SQL"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "learn_tools_quickly",
+      "raw_text_from_jd": "Able to learn new tools and software quickly",
+      "skill_type": "capability",
+      "domain": "adaptability",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "creativity",
+      "raw_text_from_jd": "Creative",
+      "skill_type": "cultural_fit",
+      "domain": "creativity",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "passion_for_elevenlabs",
+      "raw_text_from_jd": "Passionate about ElevenLabs' products",
+      "skill_type": "cultural_fit",
+      "domain": "product_passion",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [
+    "Previous B2B marketing experience (explicitly stated as not required: 'We don't care if you have previous B2B marketing experience')"
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "B2B Marketing team — high-priority marketing projects spanning events, content, analytics, influencer, and OOH media",
+    "business_model": "B2B SaaS / AI platform (enterprise and developer-facing)",
+    "primary_metrics_inferred": [
+      "Marketing pipeline generation (hundreds of millions)",
+      "Efficacy of influencer marketing",
+      "Marketing spend ROI (tens of millions spend → pipeline)"
+    ],
+    "cross_functional_partners": [
+      "B2B Marketing team",
+      "Growth",
+      "Operations"
+    ],
+    "core_responsibilities": [
+      "Surge on the highest priority projects and fill gaps as needed",
+      "Negotiate billboard and OOH media inventory",
+      "Craft talking points and content for keynote speeches",
+      "Build reports to analyze efficacy of influencer marketing",
+      "Turn tens of millions of marketing spend into hundreds of millions of pipeline"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "B2B marketing",
+    "growth generalist",
+    "copywriting",
+    "SQL",
+    "dashboard",
+    "influencer marketing",
+    "pipeline",
+    "AI voice",
+    "ElevenLabs",
+    "remote-global"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "No prior B2B marketing experience required — low barrier to entry for non-traditional candidates",
+    "Fully remote-global role with optional offices in 7 cities worldwide",
+    "High-impact scope: directly tied to multi-hundred-million-dollar pipeline goals",
+    "Learning & development stipend and social travel budget mentioned",
+    "Well-funded company ($781M raised, $11B valuation) with prominent investors",
+    "No formal job titles — impact-driven culture"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "Visa sponsorship not addressed",
+    "Role scope is deliberately vague ('fill the gaps as needed'), which may indicate undefined responsibilities",
+    "Very short requirements list with no seniority signals — seniority level and leveling unclear",
+    "Equity not mentioned despite being a well-funded startup"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from role description and culture context; no years or level stated)",
+      "scope.business_model (inferred from company description and B2B team context)",
+      "scope.primary_metrics_inferred (inferred from pipeline goal language in JD body)",
+      "compensation.location_pay_differential (inferred as false from global remote-first culture description)"
+    ],
+    "ambiguities": [
+      "The JD states 'This role is remote and can be executed globally' but also lists specific office locations — treated as remote-global with optional office access.",
+      "No seniority level or years of experience stated anywhere; level is inferred purely from role framing as 'generalist' on a marketing team.",
+      "Visa sponsorship is not mentioned anywhere in the JD; classified as 'unclear'."
+    ]
+  }
+}

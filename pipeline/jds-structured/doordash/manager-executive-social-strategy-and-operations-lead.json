@@ -1,0 +1,262 @@
+{
+  "company": "DoorDash",
+  "role_title": "Manager, Executive Social Strategy & Operations Lead",
+  "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7719567",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7719567",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [
+      "New York, NY"
+    ],
+    "remote_us_eligible": true,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Other",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Executive Social & Editorial Strategy",
+  "seniority": {
+    "level": "Manager / Senior IC",
+    "years_required_min": 6,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "6+ years of experience building and scaling social-first narratives",
+      "Title includes 'Manager'",
+      "Comp range $136K–$200K base consistent with senior IC or manager level at DoorDash",
+      "Advises and pushes back on senior leaders; cross-functional orchestration role"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_social_narrative_experience",
+      "raw_text_from_jd": "You have 6+ years of experience building and scaling social-first narratives for a high-visibility company, product, or principal, and owning strategy, voice, drafting, and distribution (especially on X).",
+      "skill_type": "years_of_experience",
+      "domain": "social_media_strategy",
+      "minimum_value": 6,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [
+        "X"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "high-visibility company"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "proven_x_presence_growth",
+      "raw_text_from_jd": "You have a proven ability to grow and sustain a credible presence on X (brand or principal) with measurable distribution outcomes.",
+      "skill_type": "outcome",
+      "domain": "social_media_growth",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "X"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "exceptional_writing_editing",
+      "raw_text_from_jd": "You have exceptional writing and editing (you can write like a human, in an executive voice, at speed).",
+      "skill_type": "capability",
+      "domain": "writing_editorial",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "strong_judgment_risk_tolerance",
+      "raw_text_from_jd": "You have strong judgment coupled with a high risk tolerance (you understand second-order effects, escalation, and how to operate under public-company constraints).",
+      "skill_type": "capability",
+      "domain": "communications_strategy",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "tech_economy_curiosity",
+      "raw_text_from_jd": "You have deep curiosity about technology and the economy (you are comfortable with finance and policy audiences and technically fluent conversations).",
+      "skill_type": "domain_knowledge",
+      "domain": "technology_finance_policy",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "technology",
+        "finance",
+        "policy"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "operator_mindset",
+      "raw_text_from_jd": "You have an operator mindset (you don't just post, you build a system--formats, pipeline, measurement, and iteration).",
+      "skill_type": "capability",
+      "domain": "content_operations",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "pushback_on_senior_leaders",
+      "raw_text_from_jd": "You're comfortable pushing back on senior leaders with clarity and good instincts.",
+      "skill_type": "cultural_fit",
+      "domain": "executive_stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "x_primary_platform",
+      "raw_text_from_jd": "X is the primary platform. YouTube, Substack, Threads, and LinkedIn are secondary channels.",
+      "skill_type": "tool_proficiency",
+      "domain": "social_media_platforms",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "X",
+        "YouTube",
+        "Substack",
+        "Threads",
+        "LinkedIn"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [
+    "Traditional comms or PR experience is not required."
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Executive and corporate social media presence, primarily on X; emerging initiatives including agentic commerce, autonomous robotics, and in-store software",
+    "business_model": "B2C and B2B marketplace/logistics platform (local commerce)",
+    "primary_metrics_inferred": [
+      "Measurable distribution outcomes on X",
+      "Audience growth for founder, executive, and corporate accounts",
+      "Engagement quality beyond likes (learning loop outcomes)",
+      "Credibility and influence with technical talent, policymakers, market observers, and prospective partners"
+    ],
+    "cross_functional_partners": [
+      "Brand Social",
+      "Policy",
+      "Legal",
+      "IR",
+      "Employer Brand",
+      "Product",
+      "Engineering"
+    ],
+    "core_responsibilities": [
+      "Provide strategic and tactical counsel to executives on their social media presence, specifically on X",
+      "Support the social media presence for several founder, executive, and corporate accounts: build a repeatable content pipeline, draft posts/threads, and advise when to engage (and when not to)",
+      "Assess existing and new accounts: network mapping, engagement strategy, amplification plans, and experiments to help the right stories travel to the right people",
+      "Launch new accounts and build their audiences as needed, defining the voice, content franchises, guardrails, and distribution operating system",
+      "Translate complex topics into platform-native thinking (earnings context, AI strategy, autonomy, regulation, marketplaces, our technology roadmap)",
+      "'Build in public' for emerging initiatives: share progress without over-sharing (partner with Product/Engineering to package demos, milestones, and learnings)",
+      "Work cross-functionally with Brand Social, Policy, Legal, IR, and Employer Brand to move quickly while staying accurate",
+      "Build a learning loop: define what 'good' looks like (beyond likes), track outcomes, run post-mortems, and refine strategy"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      136000,
+      200000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity grants",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "executive social strategy",
+    "X (Twitter)",
+    "build in public",
+    "distribution",
+    "executive communications",
+    "internet culture",
+    "agentic commerce",
+    "autonomous robotics",
+    "content pipeline",
+    "operator mindset",
+    "editorial judgment",
+    "corporate communications"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($136K–$200K base) with equity upside",
+    "Role is clearly differentiated from traditional PR/comms — very specific scope and mandate",
+    "Cross-functional visibility across Policy, Legal, IR, Brand Social, and Engineering/Product",
+    "Explicitly states traditional comms/PR experience is NOT required — opens to non-traditional backgrounds",
+    "Emerging, high-visibility work area (agentic commerce, autonomous robotics) with real 'build in public' mandate"
+  ],
+  "red_flags": [
+    "Location type is ambiguous — JD references NYC-specific hiring tool (Covey AEDT) and 'remote jobs associated with office in NYC' but does not clearly specify hybrid vs. fully remote",
+    "No explicit visa sponsorship statement",
+    "Role requires high judgment and risk tolerance at a public company — pressure-intensive environment with significant scrutiny risk",
+    "No clear reporting structure or team size mentioned — organizational context is opaque"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range, title 'Manager', and years requirement)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly stated)",
+      "scope.business_model (inferred from company description)",
+      "location.remote_us_eligible (inferred from 'Remote Jobs Associated With Office in NYC' language in Covey notice)",
+      "location.work_auth (stated as open by absence of restriction; no explicit statement)"
+    ],
+    "ambiguities": [
+      "Location type is unclear: the JD mentions 'Notice to Applicants for Jobs Located in NYC or Remote Jobs Associated With Office in NYC' suggesting possible NYC-based or NYC-remote hybrid, but no explicit city or work arrangement is stated for the role itself. Treated as 'unclear' with remote_us_eligible: true.",
+      "manages_people is inferred as false — title includes 'Manager' but no direct reports are mentioned; role appears to be a senior IC/player-coach based on responsibilities described.",
+      "Nice-to-haves section is empty: the JD does not explicitly list preferred/bonus qualifications separate from required ones. All listed qualifications in 'We're excited about you because…' use declarative/hard language and are captured as must_haves."
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "company": "Ramp",
+  "role_title": "Senior Channel Partner Manager | Venture Capital & Growth Equity",
+  "url": "https://jobs.ashbyhq.com/ramp/8db155ca-7e13-4eed-9813-1b6b65d66158",
+  "ats_provider": "ashby",
+  "ats_job_id": "8db155ca-7e13-4eed-9813-1b6b65d66158",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "New York, NY",
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "unclear",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Other",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Channel Partnerships / BD (VC & Growth Equity focus)",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 6,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "Minimum 6 years of work experience required",
+      "Title includes 'Senior'",
+      "Expected to 'quarterback the commercial aspects of many of Ramp's most strategic relationships'",
+      "Works with 'senior stakeholders across Ramp's Finance, Sales, and Channel organizations'"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_experience_min",
+      "raw_text_from_jd": "Minimum 6 years of work experience with a strong foundation in Investing (Private Equity / Venture Capital), Management Consulting, Investment Banking, or Investor Relations",
+      "skill_type": "years_of_experience",
+      "domain": "finance_investing_consulting",
+      "minimum_value": 6,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "Private Equity",
+        "Venture Capital",
+        "Management Consulting",
+        "Investment Banking",
+        "Investor Relations"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "Private Equity firm",
+        "Venture Capital firm",
+        "Management Consulting firm",
+        "Investment Bank"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "discovery_consultative_selling",
+      "raw_text_from_jd": "Strong discovery skills, with a knack for identifying pain points and consultative selling",
+      "skill_type": "capability",
+      "domain": "sales_partnerships",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "top_performer_history",
+      "raw_text_from_jd": "History as a top performer, regularly going above and beyond to support commercial outcomes of clients or investments",
+      "skill_type": "outcome",
+      "domain": "commercial_performance",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "performance_tracking",
+      "raw_text_from_jd": "Dedication to tracking and improving performance and efficiency daily",
+      "skill_type": "cultural_fit",
+      "domain": "performance_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_skills",
+      "raw_text_from_jd": "Strong written and verbal communication skills, with excellent listening skills",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "bias_for_action_startup",
+      "raw_text_from_jd": "Bias for action and a strong desire to work in a fast-paced startup environment",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_collaboration",
+      "raw_text_from_jd": "A strong cross-functional collaborator who can build relationships across the company",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "biz_dev_partnerships_background",
+      "raw_text_from_jd": "Background in Business Development, Partnerships, or Partner Sales, particularly in roles involving investment firms or financial institutions",
+      "skill_type": "domain_knowledge",
+      "domain": "business_development_partnerships",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "financial institutions"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "investment firms",
+        "financial institutions"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "software_payments_coverage",
+      "raw_text_from_jd": "Background working at or covering software & payments companies",
+      "skill_type": "domain_knowledge",
+      "domain": "software_payments",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "software",
+        "payments"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Financial Institutions Channel — VC & Growth Equity partner program; corporate card and expense management platform distribution",
+    "business_model": "B2B SaaS / fintech; partner-led distribution through VC/PE/accelerator channel",
+    "primary_metrics_inferred": [
+      "Net-new pipeline sourced through VC/PE partners",
+      "Revenue influenced by partner referrals",
+      "Partner portfolio coverage and engagement",
+      "Senior-level deal influence from investor partners"
+    ],
+    "cross_functional_partners": [
+      "Finance",
+      "Sales",
+      "Channel",
+      "Investor Relations",
+      "Growth",
+      "Ramp Leadership"
+    ],
+    "core_responsibilities": [
+      "Own the commercial relationships with dozens of leading venture & growth equity firms",
+      "Drive revenue for Ramp by sourcing net-new prospective sales opportunities",
+      "Identify, build, and nurture relationships with multiple stakeholders within investment funds",
+      "Work cross-functionally across Ramp Leadership in Finance, Investor Relations, Sales, Growth, and other functions",
+      "Become an expert in Ramp's product, features, and workflows to communicate directly with C-level finance leaders"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "channel partner",
+    "venture capital",
+    "growth equity",
+    "partner program",
+    "financial institutions",
+    "corporate card",
+    "expense management",
+    "consultative selling",
+    "investor relations",
+    "business development",
+    "partnerships",
+    "VC",
+    "PE",
+    "portfolio companies",
+    "startup"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear role mandate and ownership area (VC & growth equity channel)",
+    "Ramp has significant scale ($100B+ annualized spend, 50,000+ companies)",
+    "Cross-functional exposure to Finance, Sales, Investor Relations, and Growth leadership",
+    "Benefits package is comprehensive including full medical/dental/vision, 401(k) match, and parental leave",
+    "Relocation support to NYC or SF offered",
+    "Role involves strategic, high-visibility relationships with leading VC/PE firms"
+  ],
+  "red_flags": [
+    "Compensation range not disclosed",
+    "Office time requirements and hybrid policy not explicitly defined (relocation support suggests in-person expected)",
+    "Visa sponsorship status not stated",
+    "No equity mentioned explicitly in the JD despite senior-level role at a high-growth fintech"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title 'Senior', 6+ years requirement, and strategic relationship scope)",
+      "scope.business_model (inferred from product description and partner distribution motion)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not stated in JD)",
+      "location.type (inferred as hybrid from relocation support to NYC/SF and in-person engagement emphasis; not explicitly stated)",
+      "location.cities_listed (inferred from relocation support to NYC or SF; not explicitly named as role locations)"
+    ],
+    "ambiguities": [
+      "Location type is not explicitly stated as hybrid or onsite; however, JD mentions relocation support to NYC or SF and emphasis on 'in-person engagements', suggesting physical presence expected. Classified as hybrid.",
+      "Work authorization and visa sponsorship are not addressed anywhere in the JD.",
+      "Equity is not mentioned despite this being a senior role at a well-funded fintech startup — may be an omission.",
+      "The role covers global benefits (US, Canada, UK) suggesting global hiring eligibility, but the role context (VC/PE firms, US-centric language) implies primary market is US."
+    ]
+  }
+}

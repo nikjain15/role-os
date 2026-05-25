@@ -1,0 +1,350 @@
+{
+  "company": "Lyft",
+  "role_title": "Global Equity Program Manager",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8534527002?gh_jid=8534527002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8534527002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "3 days per week on Mondays, Wednesdays, and Thursdays",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Equity / Stock Plan Administration",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 7,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "7+ years of experience in stock plan administration",
+      "Supports Director, Global Equity Programs",
+      "Base pay range $132,000 - $165,000 in San Francisco area"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_stock_plan_admin",
+      "raw_text_from_jd": "7+ years of experience in stock plan administration, including with public companies on a global scale.",
+      "skill_type": "years_of_experience",
+      "domain": "equity_stock_plan_administration",
+      "minimum_value": 7,
+      "unit": "years",
+      "qualifier": "including with public companies on a global scale",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "public companies"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "total_rewards_international_equity_partnering",
+      "raw_text_from_jd": "You have experience effectively partnering with Total Rewards teams, with international equity plans (including M&A equity integration), and supporting Compensation Committee processes.",
+      "skill_type": "capability",
+      "domain": "equity_compensation_program_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "owner_mentality",
+      "raw_text_from_jd": "You operate like an owner. You are self-motivated, reliable, flexible, and can drive progress under tight deadlines.",
+      "skill_type": "cultural_fit",
+      "domain": "work_ethic",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_and_cross_functional",
+      "raw_text_from_jd": "You have exceptional analytical and conceptual thinking skills, have a strong track record of achievement and have a strong tendency toward cross-functional relationship building and a bias toward action.",
+      "skill_type": "capability",
+      "domain": "analytical_thinking_and_cross_functional_collaboration",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "communication_complex_concepts",
+      "raw_text_from_jd": "You can distill complex concepts into simple, easy to understand communications.",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "excel_skills",
+      "raw_text_from_jd": "Very strong Excel skills are required.",
+      "skill_type": "tool_proficiency",
+      "domain": "data_analysis",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [
+        "Excel"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "equity_accounting_international",
+      "raw_text_from_jd": "Deep knowledge of equity accounting and operating in international jurisdictions.",
+      "skill_type": "domain_knowledge",
+      "domain": "equity_accounting_and_international_compliance",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "global_equity_administration",
+      "raw_text_from_jd": "Support administration of Lyft's global equity programs including processing all awards, grants, exercises, cancellations and the issuance of all new grants in the US and in foreign jurisdictions, including managing RSUs, PSUs, ESPP, capital markets transactions and other equity programs.",
+      "skill_type": "capability",
+      "domain": "equity_program_administration",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [
+        "US"
+      ],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sox_compliance",
+      "raw_text_from_jd": "Support all aspects of SOX compliance and continuously work to build efficiencies around execution and documentation of key controls.",
+      "skill_type": "domain_knowledge",
+      "domain": "SOX_compliance",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "section_16_reporting",
+      "raw_text_from_jd": "Support the timely filing of Section 16 reports (Forms 3, 4 and 5) with the SEC.",
+      "skill_type": "domain_knowledge",
+      "domain": "SEC_reporting_and_compliance",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "cep_certification",
+      "raw_text_from_jd": "CEP certification is preferred.",
+      "skill_type": "credential",
+      "domain": "equity_compensation_certification",
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "CEP certification"
+      ]
+    },
+    {
+      "id": "workday_adp_schwab_equiview",
+      "raw_text_from_jd": "Knowledge of Workday, ADP, and the Schwab Equiview platform is a huge plus.",
+      "skill_type": "tool_proficiency",
+      "domain": "equity_and_hr_platforms",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "Workday",
+        "ADP",
+        "Schwab Equiview"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "desire_to_learn_and_teach",
+      "raw_text_from_jd": "You have a strong desire to learn and teach, constantly seeking opportunities to develop team members, and be developed by team members.",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "humor_and_positive_attitude",
+      "raw_text_from_jd": "Sense of humor, positive attitude, low ego, and a willingness to dive into new areas.",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Global equity programs including RSUs, PSUs, ESPP, capital markets transactions, M&A equity integration, Section 16 filings, and employee equity education",
+    "business_model": "B2C / public company ride-sharing platform",
+    "primary_metrics_inferred": [
+      "Accuracy and timeliness of equity award processing",
+      "SOX compliance control documentation",
+      "International equity program coverage and compliance",
+      "Employee education program reach and effectiveness"
+    ],
+    "cross_functional_partners": [
+      "Legal",
+      "Finance",
+      "People / HR",
+      "Payroll",
+      "Total Rewards",
+      "Tax",
+      "Compensation Committee",
+      "Senior Leadership"
+    ],
+    "core_responsibilities": [
+      "Support administration of Lyft's global equity programs including processing all awards, grants, exercises, cancellations and the issuance of all new grants in the US and in foreign jurisdictions",
+      "Continue to drive system automation on the Schwab Equiview platform across Workday and ADP",
+      "Develop and deliver world class employee education programs for new and continuing employees",
+      "Support all aspects of SOX compliance and continuously work to build efficiencies around execution and documentation of key controls",
+      "Engage with senior leadership from the legal, finance, and people organizations to design future equity programs and policies",
+      "Coordinate closely with the payroll team to ensure proper withholding of tax from equity proceeds",
+      "Define domestic and international integration strategies (deal specific) for equity, support M&A equity integration process",
+      "Assist with D&O Questionnaires and Proxy disclosure regarding director and executive officer stock ownership",
+      "Support the 10b5-1 program for executives and insiders across two brokers",
+      "Support the timely filing of Section 16 reports (Forms 3, 4 and 5) with the SEC"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      132000,
+      165000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "potential equity offering mentioned as separate from base pay",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "global equity programs",
+    "stock plan administration",
+    "RSU",
+    "PSU",
+    "ESPP",
+    "SOX compliance",
+    "Section 16",
+    "10b5-1",
+    "M&A equity integration",
+    "Schwab Equiview",
+    "Workday",
+    "CEP certification",
+    "international equity",
+    "equity accounting"
+  ],
+  "buzzword_density": "low",
+  "green_flags": [
+    "Compensation range explicitly disclosed ($132,000 - $165,000 base in SF area)",
+    "Clear and detailed list of responsibilities with no vague platitudes",
+    "Reports directly to Director, Global Equity Programs — clear organizational positioning",
+    "Hybrid schedule explicitly defined (3 days: Mon, Wed, Thu) with up to 4 weeks fully remote per year",
+    "Role involves high-visibility work (Section 16, Proxy, Compensation Committee, M&A integration)"
+  ],
+  "red_flags": [
+    "Visa sponsorship not mentioned — unclear if available",
+    "Hybrid requires in-office 3 days/week in San Francisco — eliminates non-local candidates",
+    "Salary range is San Francisco-specific; other location ranges not disclosed"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 7+ years requirement and base comp range)",
+      "seniority.manages_people (inferred as false — no direct reports mentioned in JD)",
+      "scope.business_model (inferred from Lyft being a public B2C ride-sharing company)",
+      "scope.primary_metrics_inferred (not stated in JD; inferred from responsibilities)",
+      "location.visa_sponsorship (not mentioned in JD; marked unclear)"
+    ],
+    "ambiguities": [
+      "CEP certification is listed in the same sentence as Excel ('Very strong Excel skills are required. Knowledge of Workday, ADP, and the Schwab Equiview platform is a huge plus. CEP certification is preferred.') — Excel is explicitly required (hard), CEP is preferred (soft), but Workday/ADP/Schwab Equiview are described as 'a huge plus' (soft). All classified accordingly.",
+      "The JD does not specify whether this role is San Francisco only or if other locations are considered — the comp range references 'San Francisco area' and recruiter is noted to share location-specific ranges, suggesting other locations may be possible but are not confirmed."
+    ]
+  }
+}

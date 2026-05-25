@@ -1,0 +1,361 @@
+{
+  "company": "Pigment",
+  "role_title": "Program Manager, GTM Enablement",
+  "url": "https://jobs.lever.co/pigment/5a1b4da5-a1c9-45ea-af96-f4ab188d8762",
+  "ats_provider": "lever",
+  "ats_job_id": "5a1b4da5-a1c9-45ea-af96-f4ab188d8762",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [
+      "New York",
+      "Toronto",
+      "London",
+      "Paris",
+      "Bay Area"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "GTM Enablement / Revenue Enablement",
+  "seniority": {
+    "level": "Mid-Senior IC",
+    "years_required_min": 3,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "3-5+ years of experience in Enablement or adjacent GTM roles",
+      "Track record of successfully building end-to-end programs from zero to scale",
+      "Credible and confident communicator alongside senior stakeholders"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_enablement_gtm",
+      "raw_text_from_jd": "3-5+ years of experience in Enablement or adjacent GTM roles, with a track record of successfully building end-to-end programs from zero to scale",
+      "skill_type": "years_of_experience",
+      "domain": "enablement_gtm",
+      "minimum_value": 3,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "high_growth_saas_experience",
+      "raw_text_from_jd": "Experience in high-growth SaaS or platform businesses with complex, multi-motion go-to-market models",
+      "skill_type": "domain_knowledge",
+      "domain": "saas_gtm",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "SaaS"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_program_operator",
+      "raw_text_from_jd": "A strong program operator who can lead cross-functional initiatives from idea to adoption",
+      "skill_type": "capability",
+      "domain": "program_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "senior_stakeholder_communication",
+      "raw_text_from_jd": "Credible and confident communicator alongside senior stakeholders, with the judgment and presence to respectfully influence decisions while simultaneously earning trust",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "global_gtm_rollout_experience",
+      "raw_text_from_jd": "Experienced in leading and supporting GTM rollouts across global regions and GTM segments, including change management in how the field sells",
+      "skill_type": "capability",
+      "domain": "change_management_gtm",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_driven_ambiguity",
+      "raw_text_from_jd": "Comfortable in ambiguity and able to make data-driven decisions without perfect information",
+      "skill_type": "capability",
+      "domain": "analytical_decision_making",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_curiosity_product_instincts",
+      "raw_text_from_jd": "Technically curious AND technically savvy, with strong product instincts to quickly understand new concepts that translate directly to the field",
+      "skill_type": "capability",
+      "domain": "technical_acumen",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "pipeline_performance_fluency",
+      "raw_text_from_jd": "Fluent in pipeline dynamics, performance signals, and GTM vernacular, with the ability to justify taking deliberate actions from data-driven insights",
+      "skill_type": "domain_knowledge",
+      "domain": "sales_pipeline_analytics",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_tools_workflows",
+      "raw_text_from_jd": "Experienced using AI tools or building AI-driven workflows that improve enablement or GTM productivity",
+      "skill_type": "capability",
+      "domain": "ai_workflows_enablement",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI-driven workflows"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "verbal_written_communication",
+      "raw_text_from_jd": "A strong verbal and written communicator who can simplify complexity and create clear, useful, and actionable content",
+      "skill_type": "capability",
+      "domain": "communication",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "epm_software_experience",
+      "raw_text_from_jd": "Experience in the EPM software space or other highly technical solutions",
+      "skill_type": "domain_knowledge",
+      "domain": "epm_software",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "global_multiregion_gtm",
+      "raw_text_from_jd": "Experience supporting global or multi-region GTM teams",
+      "skill_type": "domain_knowledge",
+      "domain": "global_gtm",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "enablement_lms_tools_familiarity",
+      "raw_text_from_jd": "Familiarity with enablement, LMS, content management, or sales productivity tools such as LetterAI and Gong",
+      "skill_type": "tool_proficiency",
+      "domain": "enablement_tooling",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [
+        "LetterAI",
+        "Gong"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "sales_marketing_revops_background",
+      "raw_text_from_jd": "Background in sales, product marketing, revenue operations, or sales strategy",
+      "skill_type": "domain_knowledge",
+      "domain": "sales_marketing_revops",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "enablement_measurement",
+      "raw_text_from_jd": "Experience measuring enablement effectiveness and connecting programs to business outcomes",
+      "skill_type": "outcome",
+      "domain": "enablement_analytics",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Global GTM Enablement programs spanning Sales, Pre-Sales, Business Development, Partners, Customer Success, and Product Marketing",
+    "business_model": "B2B SaaS, AI-powered business planning and performance platform",
+    "primary_metrics_inferred": [
+      "GTM team productivity and effectiveness",
+      "Program adoption rates",
+      "Enablement program measurement tied to business outcomes",
+      "Pipeline performance signals"
+    ],
+    "cross_functional_partners": [
+      "Sales",
+      "Pre-Sales",
+      "Business Development",
+      "Partners",
+      "Customer Success",
+      "Product Marketing",
+      "Product",
+      "Enablement"
+    ],
+    "core_responsibilities": [
+      "Own GTM enablement programs from design through rollout, including planning, stakeholder alignment, communication, execution, and measurement",
+      "Support existing programs such as GTM Onboarding and GTM SKO with logistics, content management, and measurement",
+      "Translate product, marketing, and GTM priorities into clear, actionable, and measurable enablement for the various GTM personas (BDR, AE, SC, and CSM)",
+      "Build high-quality content and learning experiences, including role-specific playbooks, GTM competency hubs, e-learning pathways, AI role play simulators, and compelling All Hands forums",
+      "Develop AI-native workflows and scalable automation resources that optimize for learning, execution, and GTM productivity",
+      "Partner across Sales, Pre-Sales, Business Development, Partners, Customer Success, Product Marketing, Product, and Enablement to ensure initiatives land consistently internally and externally",
+      "Leverage field feedback, pipeline signals, and performance data to continually improve programs",
+      "Refine and optimize teams decision-making by consistently contributing clarity and rigorous operational discipline"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "GTM Enablement",
+    "Program Manager",
+    "SaaS",
+    "AI-driven workflows",
+    "cross-functional",
+    "playbooks",
+    "e-learning",
+    "pipeline signals",
+    "change management",
+    "global GTM",
+    "LMS",
+    "sales productivity",
+    "EPM software"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Immediate opening — role is actively being filled",
+    "Clear description of responsibilities and GTM personas targeted (BDR, AE, SC, CSM)",
+    "Company has $400M in funding and 500+ employees — established scale for a program manager to work within",
+    "Recognition as a Gartner Visionary in 2024 signals product credibility",
+    "Explicit equal opportunity employer statement with broad protected characteristics listed"
+  ],
+  "red_flags": [
+    "No compensation range disclosed",
+    "Location type is unclear — JD mentions offices in New York, Toronto, London, Paris, and Bay Area but does not specify which location(s) this role is based in or whether remote is eligible",
+    "Visa sponsorship not mentioned",
+    "'3-5+ years' phrasing is ambiguous — could mean 3, 5, or more; treated as minimum 3 years",
+    "No mention of team size or reporting structure"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years range and scope of responsibilities)",
+      "scope.business_model (inferred from company description)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not directly stated)",
+      "location.type (unclear; no explicit remote/hybrid/onsite policy stated in body)",
+      "location.cities_listed (listed as company offices generically, not role-specific)"
+    ],
+    "ambiguities": [
+      "'3-5+ years' phrasing is ambiguous — could be interpreted as 3-5 years or as 5+ years; treated as minimum 3 years for years_required_min",
+      "Location type is not stated in the JD body; cities listed are company-wide offices, not necessarily tied to this specific role",
+      "Visa sponsorship is neither confirmed nor denied in the JD"
+    ]
+  }
+}

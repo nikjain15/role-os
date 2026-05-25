@@ -1,0 +1,220 @@
+{
+  "company": "DoorDash",
+  "role_title": "Head of Global Revenue Operations, In-Store",
+  "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7449543",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7449543",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "unclear",
+    "cities_listed": [],
+    "remote_us_eligible": null,
+    "office_time_required": null,
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "BizOps / Strategy & Ops",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Revenue Operations Leader / GTM Operations",
+  "seniority": {
+    "level": "Director / VP (Head of function)",
+    "years_required_min": 15,
+    "years_required_max": null,
+    "manages_people": true,
+    "level_signals": [
+      "15+ years of experience in Sales Operations, Marketing Operations, Strategy, and/or Sales Leadership",
+      "Build and lead a high-performing, results-oriented Revenue Operations & Strategy organization",
+      "Comp range $181,800–$267,300 base, consistent with senior Director / VP-level at DoorDash"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_experience_rev_ops",
+      "raw_text_from_jd": "You have 15+ years of experience in Sales Operations, Marketing Operations, Strategy, and/or Sales Leadership roles in B2B SaaS environments",
+      "skill_type": "years_of_experience",
+      "domain": "revenue_operations_sales_ops",
+      "minimum_value": 15,
+      "unit": "years",
+      "is_combined": true,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "B2B SaaS"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "change_management_tooling",
+      "raw_text_from_jd": "You have a proven track record of leading change management, building aligned tooling, and developing methods to plan, forecast, measure and systemize Sales KPIs for internal teams and customers",
+      "skill_type": "outcome",
+      "domain": "sales_operations_change_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "marketing_sales_ops_processes",
+      "raw_text_from_jd": "You have deep understanding of standard business practices related to Marketing & Sales Operations processes and systems, as well as sales enablement best practices, training methodologies, and content management",
+      "skill_type": "domain_knowledge",
+      "domain": "marketing_and_sales_operations",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "commission_plan_design",
+      "raw_text_from_jd": "You have demonstrated experience in designing sales commission plans at scale, including analysis, modeling, and optimization to drive revenue growth and align incentives with strategic objectives",
+      "skill_type": "outcome",
+      "domain": "sales_compensation_design",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "gtm_tools_salesforce",
+      "raw_text_from_jd": "You can thrive in an ambiguous environment with high autonomy, build productive relationships across all organizational levels, and have excellent communication skills with executive-level partners, plus expertise with GTM tools including Salesforce and enablement platforms",
+      "skill_type": "tool_proficiency",
+      "domain": "gtm_tools_crm",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Salesforce"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "executive_communication",
+      "raw_text_from_jd": "You can thrive in an ambiguous environment with high autonomy, build productive relationships across all organizational levels, and have excellent communication skills with executive-level partners",
+      "skill_type": "capability",
+      "domain": "executive_communication_leadership",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Global Revenue Operations for DoorDash In-Store / SevenRooms GTM function including sales ops, CS ops, enablement, systems, planning, and compensation",
+    "business_model": "B2B SaaS (SevenRooms acquired by DoorDash; in-store restaurant tech)",
+    "primary_metrics_inferred": [
+      "Revenue growth",
+      "Pipeline and forecasting accuracy",
+      "Funnel conversion metrics across all lead sources",
+      "Sales KPI attainment",
+      "Commission plan efficiency and retention"
+    ],
+    "cross_functional_partners": [
+      "Sales",
+      "Customer Success",
+      "Marketing",
+      "Product",
+      "Engineering",
+      "Finance",
+      "Strategy & Operations",
+      "People teams"
+    ],
+    "core_responsibilities": [
+      "Build and lead a high-performing, results-oriented Revenue Operations & Strategy organization",
+      "Lead bottoms-up business planning, target-setting, and own a 'rhythm of the business' framework",
+      "Provide analytics and reporting for the Revenue organization, including forecasting, pipeline analysis, and funnel metrics",
+      "Own all systems and tools related to sales & Customer Success with SFDC as the central hub",
+      "Ensure alignment between enablement strategies and revenue goals",
+      "Partner with Finance and People teams to design and manage sales commission strategy"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      181800,
+      267300
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Revenue Operations",
+    "GTM",
+    "B2B SaaS",
+    "Salesforce",
+    "SFDC",
+    "sales commission",
+    "forecasting",
+    "pipeline analysis",
+    "sales enablement",
+    "SevenRooms",
+    "In-Store",
+    "quota allocation",
+    "territory planning",
+    "change management",
+    "business planning"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($181,800–$267,300 base)",
+    "Clear scope of ownership: systems, enablement, planning, compensation, analytics",
+    "Cross-functional footprint is well-defined (Sales, CS, Finance, People, etc.)",
+    "Integration context (SevenRooms acquisition) provides interesting organizational challenge",
+    "Comprehensive benefits package described in detail"
+  ],
+  "red_flags": [
+    "Location type is not stated in the JD body — remote eligibility and office requirements are entirely unclear",
+    "No equity or bonus mentioned despite VP/Head-of-function level role",
+    "Visa sponsorship not addressed",
+    "SevenRooms acquisition integration context may introduce organizational uncertainty and complexity"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from years requirement, 'Head of' title, and comp range)",
+      "seniority.manages_people (inferred from 'Build and lead a high-performing... organization')",
+      "scope.business_model (inferred from SevenRooms B2B SaaS restaurant tech context)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not directly listed in JD)",
+      "location.type (not stated; marked unclear)",
+      "compensation.location_pay_differential (inferred from 'Base salary is localized according to employee work location')"
+    ],
+    "ambiguities": [
+      "Location type is not specified in the JD body — no mention of remote, hybrid, or on-site requirement. The NYC AEDT notice implies potential NYC presence but does not confirm this as a required work location.",
+      "No mention of equity compensation despite seniority level — unclear if omitted or not part of package.",
+      "The role straddles DoorDash and SevenRooms organizational lines post-acquisition; reporting structure is ambiguous."
+    ]
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "company": "Klaviyo",
+  "role_title": "Head of Business Operations",
+  "url": "https://www.klaviyo.com/careers/jobs?gh_jid=7697003003",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7697003003",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": "up to 10% travel required; show up visibly across global offices",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Chief of Staff",
+  "archetype_confidence": "high",
+  "secondary_archetype": "BizOps / Strategy & Ops",
+  "seniority": {
+    "level": "VP / Senior Director (Head-level, people manager)",
+    "years_required_min": 12,
+    "years_required_max": null,
+    "manages_people": true,
+    "level_signals": [
+      "12+ years in business operations, strategic operations, or Chief of Staff roles",
+      "Experience building and leading high-performing teams",
+      "Works directly with Co-CEOs and senior leadership team",
+      "Owns the whole operating architecture of the company",
+      "Comp range $224K–$336K base consistent with VP/Senior Director at a post-IPO SaaS company"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_biz_ops_cos",
+      "raw_text_from_jd": "12+ years in business operations, strategic operations, or Chief of Staff roles at high-growth technology companies — ideally with experience across both hypergrowth and post-IPO phases",
+      "skill_type": "years_of_experience",
+      "domain": "business_operations_strategy",
+      "minimum_value": 12,
+      "unit": "years",
+      "qualifier": "at high-growth technology companies",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "high-growth technology"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "high-growth technology companies"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "operating_system_ownership",
+      "raw_text_from_jd": "Proven track record of building and running a company-wide operating system — OKRs, planning, performance management — not just participating in one someone else designed",
+      "skill_type": "outcome",
+      "domain": "operating_systems_okrs_planning",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "inflection_point_experience",
+      "raw_text_from_jd": "Experience leading through major organizational inflection points: rapid scaling, go-public events, integrations, or significant structural change",
+      "skill_type": "domain_knowledge",
+      "domain": "organizational_transformation",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ceo_influence",
+      "raw_text_from_jd": "Demonstrated ability to work directly with and influence CEOs and senior leadership teams without relying on positional authority — through clarity, credibility, and quality of thinking",
+      "skill_type": "capability",
+      "domain": "executive_influence",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "team_leadership",
+      "raw_text_from_jd": "Experience building and leading high-performing teams; a developer of people, not just a driver of output",
+      "skill_type": "capability",
+      "domain": "people_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "financial_fluency",
+      "raw_text_from_jd": "Financial fluency is non-negotiable: comfort with LRP/annual planning cycles, unit economics, and working alongside a CFO and finance org as a true peer — not just a consumer of their outputs",
+      "skill_type": "domain_knowledge",
+      "domain": "financial_planning_unit_economics",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "exceptional_communicator",
+      "raw_text_from_jd": "Exceptional communicator: writes with precision, speaks with confidence, and can hold a room with a Board narrative or an all-hands equally well",
+      "skill_type": "capability",
+      "domain": "executive_communication",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "urgency_decisiveness",
+      "raw_text_from_jd": "Moves with urgency: comfortable in short iterative cycles, makes decisions with incomplete information, creates momentum where others create decks",
+      "skill_type": "cultural_fit",
+      "domain": "decision_making_velocity",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "operational_obsession",
+      "raw_text_from_jd": "Operationally obsessed: you notice inefficiency like a splinter; you can't leave it alone until it's fixed",
+      "skill_type": "cultural_fit",
+      "domain": "operational_excellence",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "ai_native_operator",
+      "raw_text_from_jd": "AI-native operator: you understand how to design and leverage AI systems to automate reporting, surface real-time visibility into KPIs and OKRs, and drive company-wide efficiency — and you're resourceful enough to go find the source data yourself rather than waiting for someone to hand it to you",
+      "skill_type": "capability",
+      "domain": "ai_operations_automation",
+      "evidence_required": "hands_on_use",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI systems",
+        "KPI automation",
+        "OKR automation"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_driven_influence",
+      "raw_text_from_jd": "Data-driven and influential: you don't just analyze — you use data as a lever; your insights shape decisions, change minds, and move the org toward better outcomes",
+      "skill_type": "capability",
+      "domain": "data_analysis_influence",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "natural_integrator",
+      "raw_text_from_jd": "A natural integrator: builds trust with functional leaders, navigates tension without drama, keeps the company moving without becoming the bottleneck",
+      "skill_type": "cultural_fit",
+      "domain": "cross_functional_alignment",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "consulting_ib_background",
+      "raw_text_from_jd": "Background in management consulting or investment banking a plus; operators who built their skills in the trenches are equally valued",
+      "skill_type": "domain_knowledge",
+      "domain": "management_consulting_investment_banking",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "management consulting firm",
+        "investment bank"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "saas_b2b_martech_experience",
+      "raw_text_from_jd": "SaaS, B2B software, or marketing technology experience preferred",
+      "skill_type": "domain_knowledge",
+      "domain": "saas_b2b_martech",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "SaaS",
+        "B2B software",
+        "marketing technology"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [
+    "This is not a chief of staff role that begins and ends with the CEO's calendar. It is not a program manager who tracks work other people own. And it is not a strategic advisor who synthesizes without executing."
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Company-wide operating architecture — strategy setting, OKRs, planning, cross-functional execution, leadership team cadences, Board management, and AI adoption",
+    "business_model": "B2B SaaS / B2C CRM (autonomous B2C CRM platform)",
+    "primary_metrics_inferred": [
+      "OKR completion rates and accountability",
+      "Company KPI performance across functions",
+      "Operational efficiency metrics",
+      "Board and leadership team effectiveness",
+      "AI automation adoption"
+    ],
+    "cross_functional_partners": [
+      "Co-CEOs",
+      "Senior Leadership Team",
+      "CFO / Finance org",
+      "GTM Analytics",
+      "R&D Analytics",
+      "Board of Directors",
+      "All functional leaders"
+    ],
+    "core_responsibilities": [
+      "Lead annual and multi-year operating planning process",
+      "Own the company-wide OKR process end to end",
+      "Define and manage company KPIs across functions; run performance reviews and operational audits",
+      "Drive automation of KPIs and OKR results using AI tools and internal agents",
+      "Own the management operating system: meetings, cadences, decision forums",
+      "Lead and/or support highest-priority cross-functional initiatives",
+      "Design and run operating cadences for Co-CEOs and senior leadership team",
+      "Support preparation of Board meeting materials and manage Board portal",
+      "Champion AI adoption across the company",
+      "Show up visibly across Klaviyo — all-hands, team meetings, KRGs, global offices"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      224000,
+      336000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity mentioned as part of total compensation package",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "business operations",
+    "OKRs",
+    "operating system",
+    "strategic operations",
+    "Chief of Staff",
+    "hypergrowth",
+    "post-IPO",
+    "AI-native operator",
+    "KPI management",
+    "cross-functional execution",
+    "Board management",
+    "annual operating plan",
+    "performance management",
+    "B2C CRM",
+    "SaaS"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range explicitly disclosed ($224K–$336K base) and competitive",
+    "Role has clear, substantive accountability — 'owns the whole operating architecture'",
+    "Explicit 'What This Role Is Not' section sets honest expectations",
+    "Encourages close-but-not-exact-match candidates to apply",
+    "Company at a genuine inflection point with clear strategic mandate",
+    "Annual cash bonus and equity mentioned in total comp package"
+  ],
+  "red_flags": [
+    "No visa sponsorship information provided — unclear for international candidates",
+    "Extremely broad scope (entire operating architecture) with unclear team size — could mean very lean support structure",
+    "12+ year minimum and financial fluency described as 'non-negotiable' narrows the pool significantly",
+    "Role requires high travel visibility across global offices despite no explicit office policy stated",
+    "Use of AI screening tool (Covey) disclosed; may affect candidate evaluation"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from scope, reporting relationship to Co-CEOs, and comp range)",
+      "scope.team_size_estimate (not stated; left as 'unclear')",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly listed in JD)",
+      "scope.business_model (inferred from 'autonomous B2C CRM company' and 'SaaS' mention)",
+      "location.cities_listed (JD references 'global offices' and 'all US locations' for pay but no specific cities tied to this role)",
+      "location.remote_us_eligible (inferred from 'Base Pay Range For US Locations' covering multiple markets and no office mandate stated for this role)"
+    ],
+    "ambiguities": [
+      "Location type is ambiguous: the JD mentions showing up in global offices and up to 10% travel but does not specify a primary city or hybrid/remote policy. Treated as hybrid given the expectation of physical presence at various offices.",
+      "Visa sponsorship is not mentioned anywhere in the JD; marked as 'unclear'.",
+      "The 'Background in management consulting or investment banking a plus' is immediately followed by 'operators who built their skills in the trenches are equally valued' — softening what appears to be a nice-to-have.",
+      "The 'ideally with experience across both hypergrowth and post-IPO phases' qualifier on the 12+ years requirement is framed as ideal, potentially softening the post-IPO portion, but the 12-year minimum itself is treated as hard."
+    ]
+  }
+}

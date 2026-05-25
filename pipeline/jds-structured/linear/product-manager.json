@@ -1,0 +1,253 @@
+{
+  "company": "Linear",
+  "role_title": "Product Manager",
+  "url": "https://jobs.ashbyhq.com/linear/b7669c4b-eeca-421d-ba9a-d90203f6fcb2",
+  "ats_provider": "ashby",
+  "ats_job_id": "b7669c4b-eeca-421d-ba9a-d90203f6fcb2",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "remote-global",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": "no required commute; occasional travel for off-sites",
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Generalist PM",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Technical PM (engineering/design background required)",
+  "seniority": {
+    "level": "Senior / Staff PM",
+    "years_required_min": 6,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "We're looking for a senior to staff level product manager",
+      "6+ years experience in the software industry",
+      "leading the development of products end-to-end",
+      "a lot of ownership while remaining in the details day to day"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_software_industry",
+      "raw_text_from_jd": "6+ years experience in the software industry",
+      "skill_type": "years_of_experience",
+      "domain": "software_industry",
+      "minimum_value": 6,
+      "unit": "years",
+      "is_combined": false,
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "software"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "engineering_or_design_background",
+      "raw_text_from_jd": "Previous experience in engineering and/or design roles",
+      "skill_type": "domain_knowledge",
+      "domain": "engineering_or_design",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_operational_judgement",
+      "raw_text_from_jd": "Exceptional product and operational judgement",
+      "skill_type": "capability",
+      "domain": "product_strategy_and_operations",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "design_product_taste",
+      "raw_text_from_jd": "World-class design & product taste",
+      "skill_type": "capability",
+      "domain": "product_design_taste",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "curiosity_and_deep_questioning",
+      "raw_text_from_jd": "Shameless curiosity, a propensity to question things deeply",
+      "skill_type": "cultural_fit",
+      "domain": "team_culture",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "speed_and_clarity",
+      "raw_text_from_jd": "Extreme speed and clarity",
+      "skill_type": "cultural_fit",
+      "domain": "execution",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "upfront_discovery",
+      "raw_text_from_jd": "Perform up-front discovery through user interviews, competitive research, data analysis, etc. and present findings to the team with conviction and rigor",
+      "skill_type": "capability",
+      "domain": "user_research_and_discovery",
+      "evidence_required": "project_examples",
+      "bridgeable": "yes",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "endtoend_product_ownership",
+      "raw_text_from_jd": "leading the development of products end-to-end, from conception through development and rollout",
+      "skill_type": "outcome",
+      "domain": "product_management",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "north_america_or_europe_timezone",
+      "raw_text_from_jd": "This role is open to candidates based in North America or Europe time zones.",
+      "skill_type": "domain_knowledge",
+      "domain": "location_eligibility",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [
+        "North America",
+        "Europe"
+      ],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "small, focused team (exact size unclear)",
+    "surface": "Product development system for teams and agents; AI-era software development tooling",
+    "business_model": "product-led growth, B2B SaaS",
+    "primary_metrics_inferred": [
+      "Customer adoption and retention",
+      "Feature rollout success",
+      "Sales enablement effectiveness"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Design",
+      "Sales",
+      "Marketing",
+      "Customer Experience"
+    ],
+    "core_responsibilities": [
+      "Perform up-front discovery through user interviews, competitive research, data analysis, etc. and present findings to the team with conviction and rigor",
+      "Help engineers and designers deeply understand user needs, empowering them to make great product decisions",
+      "Craft messaging around upcoming features that resonates with users",
+      "Enable sales and marketing teams to effectively communicate with and win with customers"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "equity with employee-friendly terms including early exercise in the US and extended exercise windows",
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "product-led growth",
+    "senior to staff PM",
+    "engineering background",
+    "design taste",
+    "user discovery",
+    "AI",
+    "product development system",
+    "remote-first",
+    "end-to-end ownership",
+    "software craftsmanship"
+  ],
+  "buzzword_density": "low",
+  "green_flags": [
+    "Remote-first with no required commute; North America and Europe eligible",
+    "Clear seniority signal: senior to staff level",
+    "Strong product culture with emphasis on craftsmanship and deep focus",
+    "Employee-friendly equity terms (early exercise, extended windows) explicitly called out",
+    "Generous benefits: 5 weeks PTO, 4 months parental leave, paid sabbatical after 4 years",
+    "Well-known, high-growth company (25,000+ customers including OpenAI, Coinbase, Ramp) with Series C funding",
+    "Encourages ownership and influence over product direction end-to-end"
+  ],
+  "red_flags": [
+    "Compensation range not disclosed",
+    "No mention of visa sponsorship or work authorization requirements — unclear for international candidates",
+    "Requirement for previous engineering and/or design experience is a hard filter that narrows the pool significantly",
+    "Benefits vary by country ('Health coverage based on country requirements') — could disadvantage some regions"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 'senior to staff level' language in JD body)",
+      "scope.team_size_estimate (described as 'small, focused team' but exact number not stated)",
+      "scope.primary_metrics_inferred (not stated; inferred from responsibilities)",
+      "scope.business_model (inferred from 'product-led company' and B2B customer list)",
+      "compensation.location_pay_differential (inferred as false from remote-first policy; not stated explicitly)"
+    ],
+    "ambiguities": [
+      "'Previous experience in engineering and/or design roles' is listed as a bullet under 'What we're looking for' without 'required' language, but it appears in an unconditional list alongside other hard requirements — treated as hard/must-have here.",
+      "Visa sponsorship and work authorization are not mentioned anywhere in the JD — left as 'unclear'.",
+      "The JD says 'North America or Europe time zones' for location but does not specify individual cities or countries — left as remote-global with empty cities_listed."
+    ]
+  }
+}

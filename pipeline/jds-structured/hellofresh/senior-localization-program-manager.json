@@ -1,0 +1,254 @@
+{
+  "company": "HelloFresh",
+  "role_title": "Senior Localization Program Manager",
+  "url": "https://careers.hellofresh.com/global/en/job/7857572?gh_jid=7857572",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7857572",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "onsite",
+    "cities_listed": [
+      "Warsaw"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": null,
+    "work_auth": "unclear",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "medium",
+  "secondary_archetype": "Program Manager (Localization / Content Operations)",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": null,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "Title includes 'Senior'",
+      "Extensive experience leading localization programs required",
+      "Expected to provide strategic framework and technical guidance cross-functionally"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "localization_program_leadership",
+      "raw_text_from_jd": "Extensive experience leading localization programs for high-growth consumer products.",
+      "skill_type": "years_of_experience",
+      "domain": "localization_program_management",
+      "minimum_value": null,
+      "unit": "years",
+      "qualifier": "extensive",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "consumer products"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [
+        "high-growth consumer products"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "project_management_jira_lokalise",
+      "raw_text_from_jd": "Strong project management skills with demonstrated experience using Jira and localization tools like Lokalise.",
+      "skill_type": "tool_proficiency",
+      "domain": "project_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [
+        "Jira",
+        "Lokalise"
+      ],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "translation_vendor_management",
+      "raw_text_from_jd": "Proven experience in managing professional service delivery from translators and translation agencies.",
+      "skill_type": "capability",
+      "domain": "vendor_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "stakeholder_and_process_management",
+      "raw_text_from_jd": "Demonstrated ability to manage multiple stakeholders and optimize complex localization processes.",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "i18n_cultural_adaptation",
+      "raw_text_from_jd": "Deep understanding of cultural adaptation and internationalization (i18n) best practices.",
+      "skill_type": "domain_knowledge",
+      "domain": "internationalization_and_localization",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "i18n"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "Bachelor's degree in a relevant field; fluency in English is mandatory, while additional language proficiency is a significant plus.",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": false,
+      "evidence_required": "verifiable_credential",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree"
+      ]
+    },
+    {
+      "id": "english_fluency",
+      "raw_text_from_jd": "fluency in English is mandatory",
+      "skill_type": "capability",
+      "domain": "language_proficiency",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "additional_language_proficiency",
+      "raw_text_from_jd": "additional language proficiency is a significant plus.",
+      "skill_type": "capability",
+      "domain": "language_proficiency",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "UX localization across 16 countries and six distinct brands within HelloTech",
+    "business_model": "subscription-based direct-to-consumer, B2C",
+    "primary_metrics_inferred": [
+      "Localization quality and linguistic accuracy",
+      "Delivery speed and SLA adherence with vendors",
+      "AI automation efficiency (machine translation, LLM-assisted QA)",
+      "Coverage across 16 countries and 6 brands"
+    ],
+    "cross_functional_partners": [
+      "Head of Content Design & Localization",
+      "Product Managers",
+      "Engineers",
+      "Designers",
+      "External translation vendors and agencies"
+    ],
+    "core_responsibilities": [
+      "Refine UX Localization strategy in collaboration with Head of Content Design & Localization",
+      "Lead end-to-end service delivery for UX content localization",
+      "Build AI-enabled localization workflows including machine translation integration and LLM-assisted reviews",
+      "Provide technical guidance to product managers, engineers, and designers",
+      "Act as primary point of contact for external translation vendors",
+      "Conduct regular audits of localization workflows within Lokalise and Jira",
+      "Establish rigorous testing systems for live environments",
+      "Share localization best practices across HelloTech"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": null,
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": false,
+    "equity_form": null,
+    "location_pay_differential": false,
+    "source": "unknown"
+  },
+  "top_keywords": [
+    "localization",
+    "UX localization",
+    "Lokalise",
+    "Jira",
+    "machine translation",
+    "LLM-assisted reviews",
+    "i18n",
+    "vendor management",
+    "AI automation",
+    "cultural adaptation",
+    "program management",
+    "internationalization"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Clear primary stakeholder named (Head of Content Design & Localization)",
+    "Specific tools mentioned (Lokalise, Jira) indicate genuine technical context",
+    "Explicit scope: 16 countries, 6 brands — concrete scale signal",
+    "Modern AI/LLM-enabled workflow focus indicates forward-looking team",
+    "JD explicitly welcomes candidates who don't tick every box",
+    "Warsaw office described with concrete amenities"
+  ],
+  "red_flags": [
+    "Role is framed as 'service provider' and 'external expert' — may indicate contractor/freelance engagement rather than full-time employment",
+    "No compensation range disclosed",
+    "Visa sponsorship and work authorization not addressed",
+    "Seniority level not quantified (no years of experience stated explicitly)",
+    "Location type and remote eligibility not explicitly clarified beyond Warsaw office mention"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from 'Senior' in title and 'extensive experience' language)",
+      "scope.business_model (inferred from product description: subscription-based D2C)",
+      "scope.primary_metrics_inferred (not stated; inferred from responsibilities)",
+      "location.type (inferred as onsite from 'Work with HelloFresh in Warsaw' and office access described as a benefit)",
+      "manages_people (inferred as false; no direct reports mentioned)"
+    ],
+    "ambiguities": [
+      "The JD repeatedly refers to the role holder as 'service provider' and 'external expert' which may indicate this is a contractor/freelance engagement rather than a permanent employee role. This is not fully clarified anywhere in the JD.",
+      "Location type is not explicitly stated as onsite vs hybrid; 'Access to workspace at Warsaw Centre Point' is listed as a benefit, which may imply hybrid is possible. Treated as onsite given Warsaw is the only city mentioned and no remote option is stated."
+    ]
+  }
+}

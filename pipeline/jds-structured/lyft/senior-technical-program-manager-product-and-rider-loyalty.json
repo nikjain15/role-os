@@ -1,0 +1,228 @@
+{
+  "company": "Lyft",
+  "role_title": "Senior Technical Program Manager, Product & Rider Loyalty",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8433701002?gh_jid=8433701002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8433701002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "San Francisco, CA"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "3 days per week (Mondays, Wednesdays, and Thursdays)",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Technical Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Generalist PM",
+  "seniority": {
+    "level": "Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years of experience in a customer-facing product environment",
+      "Proven ability to operate effectively and autonomously across multiple teams",
+      "Compensation range $148,000–$185,000 base consistent with Senior IC at Lyft",
+      "Title explicitly states 'Senior'"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_customer_facing_product",
+      "raw_text_from_jd": "5+ years of experience in a customer-facing product environment, leading cross-functional teams to deliver complex product and platform initiatives iteratively, with multiple dependencies and constraints, in a highly dynamic and agile environment.",
+      "skill_type": "years_of_experience",
+      "domain": "product_program_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "qualifier": "customer-facing product environment",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "autonomous_ambiguity",
+      "raw_text_from_jd": "Proven ability to operate effectively and autonomously across multiple teams in situations of extreme ambiguity, with only high-level direction.",
+      "skill_type": "capability",
+      "domain": "leadership_and_autonomy",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "embedded_tpm_product_eng",
+      "raw_text_from_jd": "Experience as an embedded TPM partnering within product engineering teams, with the flexibility to shift into generalist capacity supporting multiple teams concurrently.",
+      "skill_type": "domain_knowledge",
+      "domain": "technical_program_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "roadmap_release_program_plans",
+      "raw_text_from_jd": "Experience building roadmaps, release plans, and program plans with a thorough understanding of dependency management.",
+      "skill_type": "capability",
+      "domain": "roadmap_and_planning",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_communication_all_levels",
+      "raw_text_from_jd": "Able to communicate highly technical problems and solutions at all levels — from individual contributors to C-level executives.",
+      "skill_type": "capability",
+      "domain": "executive_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "influence_negotiate_matrixed",
+      "raw_text_from_jd": "Able to influence, negotiate, and inspire others in a matrixed environment; excellent organization, planning skills, and attention to detail.",
+      "skill_type": "capability",
+      "domain": "stakeholder_management",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "data_backed_business_tech_options",
+      "raw_text_from_jd": "Experience compiling and presenting business and technology options, backed by data and experimentation, to decision makers.",
+      "skill_type": "capability",
+      "domain": "data_driven_decision_making",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Rideshare — Partnerships, Loyalty and Payments organization; singular loyalty offering for riders and drivers",
+    "business_model": "B2C rideshare platform, loyalty and retention product",
+    "primary_metrics_inferred": [
+      "Customer engagement and lifetime value",
+      "Rider and driver loyalty/retention",
+      "KPI ownership and measurement across loyalty product programs",
+      "Delivery velocity and iterative feature launches"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Product",
+      "Data Science",
+      "Design",
+      "Analytics",
+      "Operations",
+      "Legal",
+      "Policy"
+    ],
+    "core_responsibilities": [
+      "Lead cross-functional product initiatives from ideation through planning, execution, launch, and post-launch",
+      "Provide hands-on support across all phases of the software development lifecycle, including project planning, resource allocation, progress tracking, risk mitigation, KPI ownership and measurement, and leadership communications",
+      "Partner with engineering, product, data science, design, operations, and other business functions to build highly collaborative teams",
+      "Drive loyalty and retention product programs, working closely with product and engineering to define success metrics, prioritize roadmap investments, and accelerate delivery",
+      "Lead regulatory and compliance-driven product initiatives, navigating ambiguity and coordinating across legal, policy, product, and engineering stakeholders"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      148000,
+      185000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "potential equity offering mentioned alongside bonus",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Technical Program Manager",
+    "loyalty",
+    "retention",
+    "rideshare",
+    "cross-functional",
+    "roadmap",
+    "dependency management",
+    "agile",
+    "SDLC",
+    "KPI",
+    "matrixed environment",
+    "compliance",
+    "regulatory",
+    "partnerships",
+    "payments"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($148,000–$185,000 base) plus equity and bonus",
+    "Clear product surface and ownership area (Partnerships, Loyalty and Payments within Rideshare)",
+    "Well-defined hybrid schedule (3 days/week) with specific days named — no ambiguity about office expectations",
+    "Flexibility to work remotely up to 4 weeks per year",
+    "Comprehensive benefits listed including 18 weeks paid parental leave and 401(k) match"
+  ],
+  "red_flags": [
+    "Visa sponsorship status not addressed — unclear for candidates requiring sponsorship",
+    "No nice-to-haves listed, making it harder to understand what differentiates candidates",
+    "Role spans regulatory/compliance-driven work as well as loyalty product — broad scope may indicate under-staffing or shifting priorities"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from title, comp range, and years required)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not explicitly listed in JD)",
+      "scope.business_model (inferred from product description)",
+      "location.visa_sponsorship (not stated; marked unclear)"
+    ],
+    "ambiguities": [
+      "Compensation note says 'San Francisco area' but does not specify whether other office locations have different ranges — a recruiter note suggests ranges vary by location.",
+      "JD mentions 'hybrid' role and '#Hybrid' tag; no metadata conflict detected, treating as hybrid with 3 days/week in-office requirement."
+    ]
+  }
+}

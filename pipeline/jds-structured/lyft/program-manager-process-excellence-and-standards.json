@@ -1,0 +1,220 @@
+{
+  "company": "Lyft",
+  "role_title": "Program Manager, Process Excellence & Standards",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8509124002?gh_jid=8509124002",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "8509124002",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "hybrid",
+    "cities_listed": [
+      "Nashville, TN"
+    ],
+    "remote_us_eligible": false,
+    "office_time_required": "at least 3 days per week (Mondays, Wednesdays, and Thursdays)",
+    "work_auth": "no-sponsorship",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "Program Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Process Excellence / Operational Standards",
+  "seniority": {
+    "level": "Mid-Senior IC",
+    "years_required_min": 5,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "5+ years in program or project management",
+      "Individual contributor role with significant cross-functional reach",
+      "Base pay range $88,560-$110,700 consistent with mid-senior IC",
+      "Operating with considerable autonomy"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_program_project_mgmt",
+      "raw_text_from_jd": "5+ years in program or project management, with a demonstrated focus on process standardization, SOP governance, operational excellence, or a related discipline.",
+      "skill_type": "years_of_experience",
+      "domain": "program_management",
+      "minimum_value": 5,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "document_library_management",
+      "raw_text_from_jd": "Proven ability to manage large-scale document libraries — including version control, audit cycles, and compliance validation — in a fast-paced operational environment.",
+      "skill_type": "capability",
+      "domain": "document_governance",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "operational_environment_experience",
+      "raw_text_from_jd": "Experience in fleet operations, transportation, logistics, AV, or a similarly regulated operational environment, with familiarity with safety management systems and field compliance requirements.",
+      "skill_type": "domain_knowledge",
+      "domain": "fleet_operations_logistics_av",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "fleet operations",
+        "transportation",
+        "logistics",
+        "AV"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "analytical_proficiency",
+      "raw_text_from_jd": "Strong analytical proficiency — comfortable building performance metrics and reporting frameworks, interpreting operational data, and using insights to drive continuous improvement decisions.",
+      "skill_type": "capability",
+      "domain": "analytics_and_reporting",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "cross_functional_program_leadership",
+      "raw_text_from_jd": "Demonstrated ability to lead cross-functional programs independently — defining milestones, managing risks, maintaining program health, and adapting to evolving business needs with minimal direction.",
+      "skill_type": "capability",
+      "domain": "cross_functional_program_management",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "written_communication",
+      "raw_text_from_jd": "Excellent written communication skills — able to translate complex operational processes into clear, structured documentation and communicate updates effectively across a broad range of stakeholders.",
+      "skill_type": "capability",
+      "domain": "written_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "nice_to_haves": [],
+  "explicitly_excluded": [
+    "Candidates must reside in states registered for Flexdrive Services LLC"
+  ],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Flexdrive operational process library — SOP governance, field adherence, continuous improvement, CAPA lifecycle for AV depot operations",
+    "business_model": "B2B fleet management / AV infrastructure services (Lyft subsidiary)",
+    "primary_metrics_inferred": [
+      "Process adherence rates across depot operations",
+      "Standards library health and audit-readiness",
+      "CAPA closure rates and timelines",
+      "Gap resolution velocity for partner procedure change requests"
+    ],
+    "cross_functional_partners": [
+      "Field Operations teams",
+      "AV partner teams",
+      "Safety stakeholders",
+      "Director of Field Operations"
+    ],
+    "core_responsibilities": [
+      "Own the full library of Flexdrive operational process standards — maintaining version control, ensuring document accuracy, and establishing governance practices",
+      "Design and execute regular audit cycles to validate that process standards reflect current operational reality",
+      "Manage the end-to-end lifecycle of process changes — from intake and review through approval, publication, and field communication",
+      "Build and maintain a structured feedback system that captures input from field teams, partners, and safety stakeholders",
+      "Lead retrospectives and post-mortems on process failures or near-misses; own the full CAPA lifecycle",
+      "Define clear success metrics for process adherence and standards health; build and maintain reporting frameworks",
+      "Own the formal procedure change request process with AV partners",
+      "Lead the process integration work required to onboard new AV partner standards"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      88560,
+      110700
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "potential equity offering mentioned but not detailed",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "process standardization",
+    "SOP governance",
+    "operational excellence",
+    "version control",
+    "audit cycles",
+    "CAPA",
+    "continuous improvement",
+    "AV fleet operations",
+    "document library management",
+    "field compliance",
+    "Flexdrive",
+    "autonomous vehicle",
+    "depot operations",
+    "change management"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation range disclosed ($88,560–$110,700 base)",
+    "Clear ownership scope — 100+ process standards, well-defined product/program surface",
+    "Individual contributor role with genuine cross-functional autonomy described concretely",
+    "Growing AV infrastructure business with interesting domain (autonomous vehicles)",
+    "Hybrid schedule with defined in-office days gives predictability"
+  ],
+  "red_flags": [
+    "Candidates must reside in states registered for Flexdrive Services LLC — restricts geography beyond just Nashville but exact state list is not provided",
+    "Role title is Nashville-area specific for compensation range, but no other cities are listed — may be limited to a single location",
+    "Visa sponsorship status not addressed; work auth noted as unclear",
+    "No minimum education credential stated — may indicate unstated expectations not captured in JD"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp range + years required + IC framing)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not directly stated)",
+      "scope.business_model (inferred from product/company description)",
+      "location.work_auth (inferred from state residency restriction language; no explicit sponsorship statement)",
+      "location.visa_sponsorship (not stated; marked unclear)"
+    ],
+    "ambiguities": [
+      "The JD states 'candidates must reside in states registered for Flexdrive Services LLC' but does not enumerate those states — geographic eligibility beyond Nashville is ambiguous.",
+      "Equity is mentioned as 'potential equity offering' without clarifying form (options vs. RSUs) or whether it is standard or discretionary.",
+      "No education credential is listed in requirements — unclear if a degree is assumed or genuinely not required."
+    ]
+  }
+}

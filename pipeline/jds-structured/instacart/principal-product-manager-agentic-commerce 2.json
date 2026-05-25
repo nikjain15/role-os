@@ -1,0 +1,336 @@
+{
+  "company": "Instacart",
+  "role_title": "Principal Product Manager, Agentic Commerce",
+  "url": "https://instacart.careers/job/?gh_jid=7597064",
+  "ats_provider": "greenhouse",
+  "ats_job_id": "7597064",
+  "fetched_at": "2026-05-10",
+  "posting_first_seen": null,
+  "posting_last_updated": null,
+  "location": {
+    "type": "remote-us",
+    "cities_listed": [],
+    "remote_us_eligible": true,
+    "office_time_required": "Flex First — no mandated office time; regular in-person events",
+    "work_auth": "open",
+    "visa_sponsorship": "unclear"
+  },
+  "archetype": "AI Product Manager",
+  "archetype_confidence": "high",
+  "secondary_archetype": "Technical PM",
+  "seniority": {
+    "level": "Principal PM (IC6 / Staff equivalent)",
+    "years_required_min": 8,
+    "years_required_max": null,
+    "manages_people": false,
+    "level_signals": [
+      "8+ years of product management experience",
+      "5+ years building and shipping consumer-facing commerce products",
+      "2+ years building LLM-powered products in production",
+      "Base pay CA/NY range $250K-$264K, consistent with Principal IC",
+      "Represents product to senior leadership and external retail partners"
+    ]
+  },
+  "must_haves": [
+    {
+      "id": "years_pm_experience",
+      "raw_text_from_jd": "8+ years of product management experience",
+      "skill_type": "years_of_experience",
+      "domain": "product_management",
+      "minimum_value": 8,
+      "unit": "years",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "years_consumer_commerce",
+      "raw_text_from_jd": "5+ years of experience building and shipping consumer-facing commerce products end-to-end, with 2+ years building LLM-powered products in production",
+      "skill_type": "years_of_experience",
+      "domain": "consumer_commerce + LLM_products",
+      "minimum_value": 5,
+      "unit": "years",
+      "qualifier": "consumer-facing commerce end-to-end; including 2+ years LLM-powered products in production",
+      "evidence_required": "work_history",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "LLMs"
+      ],
+      "industries_named": [
+        "commerce",
+        "ecommerce"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "zero_to_one_launch",
+      "raw_text_from_jd": "Proven track record launching at least one 0-to-1 product to general availability with measurable impact on adoption, conversion, revenue, or GTV",
+      "skill_type": "outcome",
+      "domain": "product_launches",
+      "evidence_required": "shipped_products_with_metrics",
+      "bridgeable": "no",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "technical_fluency_ai_ml",
+      "raw_text_from_jd": "Technical fluency with AI/ML systems and data flows; ability to partner with engineering and machine learning on dependencies and scope tradeoffs",
+      "skill_type": "capability",
+      "domain": "AI_ML_technical_fluency",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [
+        "AI/ML"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "product_okrs_experimentation",
+      "raw_text_from_jd": "Experience defining product OKRs, with significant experience using experimentation to improve products and achieve desired outcomes",
+      "skill_type": "capability",
+      "domain": "product_strategy_and_experimentation",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "executive_communication",
+      "raw_text_from_jd": "Exceptional communication and presentation skills with senior leadership and external enterprise partners",
+      "skill_type": "capability",
+      "domain": "executive_communication",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "education_bachelors",
+      "raw_text_from_jd": "Bachelor's degree in a technical, quantitative, or related field, or equivalent practical experience",
+      "skill_type": "credential",
+      "domain": "education",
+      "minimum_value": "bachelors",
+      "accepts_equivalent_experience": true,
+      "evidence_required": "degree_or_work_history",
+      "bridgeable": "n/a",
+      "severity": "hard",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": [
+        "Bachelor's degree"
+      ]
+    }
+  ],
+  "nice_to_haves": [
+    {
+      "id": "consumer_and_b2b_experience",
+      "raw_text_from_jd": "Experience across both consumer products and B2B/enterprise offerings",
+      "skill_type": "domain_knowledge",
+      "domain": "consumer_and_B2B_products",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "startup_and_large_company",
+      "raw_text_from_jd": "Background spanning startup and large company environments",
+      "skill_type": "cultural_fit",
+      "domain": "organizational_background",
+      "evidence_required": "work_history",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [
+        "startup",
+        "large company"
+      ],
+      "credentials_named": []
+    },
+    {
+      "id": "domain_expertise_ecommerce_grocery",
+      "raw_text_from_jd": "Domain expertise in ecommerce, retail, grocery, or marketplace dynamics",
+      "skill_type": "domain_knowledge",
+      "domain": "ecommerce_retail_grocery_marketplace",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [],
+      "industries_named": [
+        "ecommerce",
+        "retail",
+        "grocery",
+        "marketplace"
+      ],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "llm_agent_systems",
+      "raw_text_from_jd": "Experience building or improving LLM agent systems and products",
+      "skill_type": "capability",
+      "domain": "LLM_agent_systems",
+      "evidence_required": "project_examples",
+      "bridgeable": "maybe",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "LLMs"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    },
+    {
+      "id": "experimentation_at_scale_genai_trust",
+      "raw_text_from_jd": "Familiarity with experimentation at scale (A/B testing) and with trust, safety, privacy, and compliance considerations for GenAI products.",
+      "skill_type": "domain_knowledge",
+      "domain": "experimentation_and_genai_trust_safety",
+      "evidence_required": "work_history",
+      "bridgeable": "yes",
+      "severity": "soft",
+      "tools_named": [],
+      "technologies_named": [
+        "GenAI"
+      ],
+      "industries_named": [],
+      "geographies_named": [],
+      "employer_types_named": [],
+      "credentials_named": []
+    }
+  ],
+  "explicitly_excluded": [],
+  "scope": {
+    "team_size_estimate": "unclear",
+    "surface": "Cart Assistant — enterprise-grade, consumer shopping agent purpose-built for grocery; agentic commerce experiences across Instacart surfaces",
+    "business_model": "B2C consumer shopping + B2B enterprise retailer-facing platform",
+    "primary_metrics_inferred": [
+      "Product adoption and engagement",
+      "Conversion rate",
+      "Revenue / GTV",
+      "Retailer partner satisfaction and adoption",
+      "Agent performance and behavior metrics"
+    ],
+    "cross_functional_partners": [
+      "Engineering",
+      "Machine Learning",
+      "Data Science",
+      "Design",
+      "Research",
+      "Business Development",
+      "Market Strategy",
+      "GTM",
+      "Senior Leadership",
+      "External Retail Partners"
+    ],
+    "core_responsibilities": [
+      "Set and own the roadmap, translating consumer and retailer needs into a clear vision, milestones, and launch plans",
+      "Lead product discovery, uncover customer pain points and market opportunities, and partner with engineering and design to deliver solutions",
+      "Drive measurable results including product adoption and engagement outcomes. Establish and maintain metrics, dashboards, and regular business reviews",
+      "Lead cross-functional execution with Engineering/ML/DS/Design to execute the roadmap, run rapid experiments, ship iterative improvements, and pivot based on learnings",
+      "Partner with ML, model design, and content design to improve core agent performance and behavior using state-of-the-art methods",
+      "Represent the product to senior leadership and external retail partners",
+      "Work with business development, market strategy, and GTM teams to align product and GTM plans",
+      "Scale Cart Assistant across Instacart surfaces and products, driving top line business impact"
+    ]
+  },
+  "compensation": {
+    "base_range_usd": [
+      209000,
+      264000
+    ],
+    "total_comp_estimate_usd": null,
+    "equity_mentioned": true,
+    "equity_form": "new hire equity grant and annual refresh grants",
+    "location_pay_differential": true,
+    "source": "stated"
+  },
+  "top_keywords": [
+    "Agentic Commerce",
+    "Cart Assistant",
+    "LLM",
+    "generative AI",
+    "consumer shopping agent",
+    "grocery",
+    "0-to-1",
+    "conversational commerce",
+    "B2B enterprise",
+    "retailer",
+    "product roadmap",
+    "experimentation",
+    "AI/ML",
+    "Principal PM"
+  ],
+  "buzzword_density": "medium",
+  "green_flags": [
+    "Compensation ranges fully disclosed across US geographies — highly competitive ($209K–$264K base depending on location)",
+    "Equity (new hire + annual refresh) explicitly mentioned",
+    "Fully remote eligible (#LI-Remote, Flex First policy)",
+    "Clear 0->1 product scope with named product (Cart Assistant) — not vague",
+    "Explicit acknowledgement of intersection of generative AI, consumer, and B2B — well-defined domain",
+    "High-visibility, fast-paced role with senior leadership and external partner exposure"
+  ],
+  "red_flags": [
+    "Hard requirement of 2+ years LLM-powered products in production is specific and may eliminate many otherwise-qualified PMs given how recently LLMs became production-ready",
+    "Visa sponsorship status not mentioned — unclear for international candidates",
+    "Very high compensation floor (Principal level) signals a demanding bar with limited flexibility on experience requirements",
+    "Role spans both consumer UX and enterprise B2B; candidates with only one side of that experience may be disadvantaged"
+  ],
+  "extraction_notes": {
+    "fields_inferred_not_stated": [
+      "seniority.level (inferred from comp ranges + 8+ years + Principal title)",
+      "scope.primary_metrics_inferred (inferred from responsibilities; not directly listed in JD)",
+      "scope.business_model (inferred from product description — B2C consumer + B2B retailer platform)",
+      "compensation.base_range_usd min/max (derived from lowest 'all other states' floor and highest CA/NY ceiling across the tiered table)",
+      "location.visa_sponsorship (not stated in JD; marked unclear)"
+    ],
+    "ambiguities": [
+      "The JD lists four distinct pay tiers by US state geography; base_range_usd is reported as the full span ($209K–$264K) but actual offer depends on candidate's permanent work location.",
+      "Flex First policy described as employees choosing where they work best with 'regular in-person events' — no specific office time percentage stated, making it closer to remote-us than hybrid, but some in-person cadence is expected."
+    ]
+  }
+}
