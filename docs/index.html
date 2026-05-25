@@ -339,7 +339,11 @@ async function load() {
   document.getElementById('ts').textContent = new Date(d.generatedAt).toLocaleString();
 }
 
-// Waitlist form — currently stubbed; will POST to Supabase once keys are wired
+// Supabase config (anon key is safe to expose — RLS allows insert-only, no reads)
+window.SUPABASE_URL = 'https://REDACTED.supabase.co';
+window.SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJxbW9mZ2tsb3dtZGxqZ3h6ZG1kIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzk2Njg1NDIsImV4cCI6MjA5NTI0NDU0Mn0.3ZmjH1S5oEe9acipRdGmEyt0n4DB-76IyHYq6CiJrPw';
+
+// Waitlist form — POSTs to Supabase REST endpoint
 const form = document.getElementById('waitlist');
 const msg = document.getElementById('waitlist-msg');
 form.addEventListener('submit', async (e) => {
