@@ -71,7 +71,7 @@ async function initHome() {
           </div>
         </div>
       </div>
-      <div class="treemap-more">+ ${ds.totalCompanies - top.length} more — ask RO</div>
+      <div class="treemap-more">See all ${ds.totalCompanies} →</div>
     `;
   }
 

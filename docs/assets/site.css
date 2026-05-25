@@ -315,6 +315,42 @@ details.more[open] > summary::after { content: " ↑"; }
 }
 
 /* ══════════════════════════════════════════
+   FOUNDING-USER OFFER BAND (dark callout)
+══════════════════════════════════════════ */
+.offer-band {
+  background: var(--ink);
+  color: var(--white);
+  border-radius: var(--r-card-emph);
+  padding: clamp(28px, 3.5vw, 40px);
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 32px;
+  align-items: center;
+}
+.offer-band .label {
+  font-size: 11px;
+  letter-spacing: var(--ls-eyebrow);
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.55);
+  font-weight: var(--fw-semibold);
+  margin-bottom: 12px;
+}
+.offer-band h2 {
+  color: var(--white);
+  margin-bottom: 12px;
+  font-size: clamp(22px, 2.6vw, 30px);
+  letter-spacing: var(--ls-tighter);
+}
+.offer-band p {
+  color: rgba(255,255,255,0.78);
+  font-size: 15px;
+  line-height: 1.55;
+  max-width: 560px;
+}
+.offer-band .btn { white-space: nowrap; }
+@media (max-width: 720px) { .offer-band { grid-template-columns: 1fr; } }
+
+/* ══════════════════════════════════════════
    WAITLIST (dark) — FF alignment
 ══════════════════════════════════════════ */
 .waitlist-top {

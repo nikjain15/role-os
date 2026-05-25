@@ -14,19 +14,20 @@ How to edit:
 - Logo wordmark: **RoleOS**
 - Link 1: **The Index**
 - Link 2: **Meet RO**
-- Link 3: **FAQ**
-- Link 4: **About founder** *(routes to `/case-study/` sub-page)*
+- Link 3: **How it works**
+- Link 4: **FAQ**
+*(About founder hidden for now.)*
 *(Waitlist CTA is only in the Hero and the dark Waitlist section — no nav button for now.)*
 
 ---
 
 ## SECTION 1 — HERO
 
-**Live badge:** Live · tracking 79 companies
+**Live badge:** Live · tracking 86 companies
 
 **H1 (giant wordmark):** RoleOS
 
-**Tagline (under H1):** Hiring intelligence for the AI economy.
+**Tagline (under H1):** Job-search intelligence for the AI economy.
 
 **Lede:**
 Your AI agent for the senior job search. RO finds roles, scores fit, drafts tailored applications, and tracks every conversation — across 86 AI-native companies.
@@ -41,17 +42,15 @@ Your AI agent for the senior job search. RO finds roles, scores fit, drafts tail
 **Eyebrow:** The Index
 
 **H2:** What's inside today.
-**Sub:** Product, ops, program, and strategy roles across 79 AI-native companies. Updated weekly with new roles and companies.
+**Sub:** Product, ops, program, and strategy roles across 86 AI-native companies. Updated weekly with new roles and companies.
 
 ### Stats row (three numbers)
 
 | Stat | Number | Label |
 |---|---|---|
-| 1 | 79 | Companies we're tracking |
+| 1 | 86 | Companies we're tracking |
 | 2 | 458 | Roles RO has read |
 | 3 | 3,510 | Requirements extracted, verbatim |
-
-*(Honest stats removed — keeping Section 2 focused on the headline numbers only.)*
 
 ---
 
@@ -62,7 +61,7 @@ Your AI agent for the senior job search. RO finds roles, scores fit, drafts tail
 **H2:** Ask RO anything about the Index.
 
 **Intro:**
-RO has read every JD in the Index. Ask about who's hiring, what they pay (when they say so), who sponsors visas, what years of experience are realistic, which archetypes are most common. Grounded in 458 real postings — if RO hasn't seen it, RO will tell you.
+Grounded in 458 real postings. If RO hasn't seen it, RO will tell you.
 
 **Status pill:** Private beta · join the waitlist for access
 
@@ -89,9 +88,9 @@ Hi — I'm RO. Ask me anything about the 458 senior roles in the Index — who's
 ### Panel A — Top companies by role count
 
 **Title:** By company
-**Sub:** A sample of the 79 in the Index.
+**Sub:** A sample of the 86 in the Index.
 *(Auto-populated — top 12 shown)*
-**Footer:** + 67 more — ask RO
+**Footer:** See all 86 →
 
 ### Panel B — Every archetype in the Index
 
@@ -106,7 +105,7 @@ Hi — I'm RO. Ask me anything about the 458 senior roles in the Index — who's
 
 ---
 
-## SECTION 5 — MEET RO (how it works)
+## SECTION 5 — HOW RO WORKS
 
 **Eyebrow:** How RO works
 
@@ -133,9 +132,9 @@ Hi — I'm RO. Ask me anything about the 458 senior roles in the Index — who's
 
 **Label:** Founding users
 
-**H2:** Early users get free access during beta.
+**H2:** Shape what RoleOS becomes.
 
-**Body:** Plus a direct line to the founder, and a voice on what ships next. We're keeping early access small so we can listen carefully.
+**Body:** Founding users get: free access through beta, a founder Slack channel for direct feedback, and priority on the features you ask for. We're keeping the first cohort small so every voice lands.
 
 **CTA:** Join the waitlist →
 
@@ -157,7 +156,7 @@ Early users get free access during beta. Pricing will be announced before your f
 For the public index, we curated 79 AI-native companies. For your own version, you give it a list — any company with a Greenhouse, Lever, or Ashby careers page works.
 
 **Q4: Does RO apply for me?**
-Yes. RO drafts the cover letter, fills the form, and submits — for any company with a Greenhouse, Lever, or Ashby careers page. You set the rules: auto-apply where your fit score is high, require approval below it. You see every application before it sends.
+RO can submit on your behalf where you've approved it — for any company with a Greenhouse, Lever, or Ashby careers page. You set the rules: auto-apply above a fit threshold, require approval below it. You see every application before it sends.
 
 **Q5: What about my data?**
 The public index here is public job postings — nothing personal. Your CV, application notes, and search history stay on your machine.
@@ -175,27 +174,7 @@ No. One email when v1 opens. Maybe one more if there's something genuinely worth
 
 ## SECTION 8 — ABOUT FOUNDER
 
-**Eyebrow:** About the founder
-
-**Name:** Nik Jain
-
-**Photo:** [placeholder — square headshot]
-
-**Bio (2-3 sentences):**
-[PENDING — Nik will write a short bio here. Until then, the work below speaks for itself.]
-
-**Also shipping (pills):**
-- FounderFirst — operating software for business owners
-- nik-ai-assistant — Claude + sandboxed Lima VM
-- agentic-payments — payment infra for AI agents
-- agentic-commerce-sandbox — exploring ACP/UCP
-- Virtue Foundation Agent — MIT Hackathon
-
-**Links:**
-- LinkedIn: [URL pending]
-- Resume: [URL pending]
-- GitHub: github.com/nikjain15
-- Read the full case study →
+*(HIDDEN for now — will add later. Skip rendering this section.)*
 
 ---
 
@@ -232,7 +211,7 @@ No. One email when v1 opens. Maybe one more if there's something genuinely worth
 
 ## FOOTER
 
-`RoleOS · Built with Node + Claude · Updated [timestamp] · source · by Nik Jain`
+`RoleOS · Updated [timestamp] · by Nik Jain`
 
 ---
 
