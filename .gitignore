@@ -4,3 +4,7 @@ node_modules/
 pipeline/node_modules/
 pipeline/data/*.log
 .DS_Store
+
+# Supabase CLI local config
+supabase/.temp/
+supabase/.branches/
