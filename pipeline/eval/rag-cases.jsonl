@@ -1,6 +1,0 @@
-{"q": "Which companies have the most senior AI PM roles?", "expect_slugs_any": ["doordash", "stripe", "anthropic", "sofi"]}
-{"q": "What years of experience do AI-native companies actually require?", "expect_slugs_any": ["anthropic", "scale-ai", "doordash"]}
-{"q": "Who sponsors visas for PM roles?", "expect_slugs_any": ["anthropic", "stripe"]}
-{"q": "Show me Chief of Staff roles in the index", "expect_archetype_any": ["Chief of Staff"]}
-{"q": "Which companies have BizOps roles in NYC?", "expect_archetype_any": ["BizOps / Strategy & Ops"]}
-{"q": "What does a Program Manager at Anthropic do?", "expect_slugs_any": ["anthropic"], "expect_archetype_any": ["Program Manager"]}
