@@ -1,7 +1,8 @@
-// Supabase config (anon key safe — RLS = insert-only)
-window.SUPABASE_URL = 'https://REDACTED.supabase.co';
-window.SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJxbW9mZ2tsb3dtZGxqZ3h6ZG1kIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzk2Njg1NDIsImV4cCI6MjA5NTI0NDU0Mn0.3ZmjH1S5oEe9acipRdGmEyt0n4DB-76IyHYq6CiJrPw';
-window.CHAT_ENDPOINT = null;
+// Supabase config is loaded from assets/config.js (gitignored, injected at deploy time).
+// See assets/config.example.js for the expected shape.
+window.SUPABASE_URL = window.SUPABASE_URL || '';
+window.SUPABASE_ANON_KEY = window.SUPABASE_ANON_KEY || '';
+window.CHAT_ENDPOINT = window.CHAT_ENDPOINT || null;
 
 // ===== Load core data.json (used on every page) =====
 const DATA_BASE = window.location.pathname.includes('/case-study/') ? '../' : './';
@@ -153,10 +154,12 @@ async function initCaseStudy() {
 }
 
 // ===== Waitlist =====
-async function submitWaitlist(form, msgEl, source) {
+async function submitWaitlist(form, msgEl, source, pendingTab) {
   const email = form.email.value.trim();
   if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)) {
-    msgEl.textContent = 'Please enter a valid email.'; msgEl.className = 'form-msg error'; return;
+    msgEl.textContent = 'Please enter a valid email.'; msgEl.className = 'form-msg error';
+    if (pendingTab) pendingTab.close();
+    return;
   }
   msgEl.textContent = 'Joining…'; msgEl.className = 'form-msg';
   try {
@@ -165,15 +168,34 @@ async function submitWaitlist(form, msgEl, source) {
       headers: { 'apikey': window.SUPABASE_ANON_KEY, 'Authorization': `Bearer ${window.SUPABASE_ANON_KEY}`, 'Content-Type': 'application/json', 'Prefer': 'return=minimal' },
       body: JSON.stringify({ email, source })
     });
-    if (r.ok) { msgEl.textContent = "You're on the list. We'll be in touch."; msgEl.className = 'form-msg success'; form.reset(); }
-    else { const err = await r.text(); msgEl.textContent = err.includes('duplicate') ? "You're already on the list." : 'Something went wrong. Try again?'; msgEl.className = 'form-msg error'; }
-  } catch { msgEl.textContent = 'Network error. Try again?'; msgEl.className = 'form-msg error'; }
+    if (r.ok) {
+      msgEl.textContent = "You're on the list."; msgEl.className = 'form-msg success'; form.reset();
+      const url = 'confirmed/?email=' + encodeURIComponent(email);
+      if (pendingTab && !pendingTab.closed) pendingTab.location.href = url;
+      else window.location.href = url;
+    }
+    else {
+      const err = await r.text();
+      const isDup = err.includes('duplicate');
+      msgEl.textContent = isDup ? "You're already on the list." : 'Something went wrong. Try again?';
+      msgEl.className = 'form-msg error';
+      if (pendingTab && !pendingTab.closed) {
+        if (isDup) pendingTab.location.href = 'confirmed/?email=' + encodeURIComponent(email);
+        else pendingTab.close();
+      }
+    }
+  } catch {
+    msgEl.textContent = 'Network error. Try again?'; msgEl.className = 'form-msg error';
+    if (pendingTab && !pendingTab.closed) pendingTab.close();
+  }
 }
 document.querySelectorAll('form.waitlist-form').forEach(form => {
   form.addEventListener('submit', (e) => {
     e.preventDefault();
+    // Open the tab synchronously inside the submit handler so the popup blocker allows it.
+    const pendingTab = window.open('about:blank', '_blank');
     const msgId = form.id === 'waitlist-hero' ? 'msg-hero' : 'msg-bottom';
-    submitWaitlist(e.target, document.getElementById(msgId), form.id.replace('waitlist-', ''));
+    submitWaitlist(e.target, document.getElementById(msgId), form.id.replace('waitlist-', ''), pendingTab);
   });
 });
 

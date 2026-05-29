@@ -8,3 +8,6 @@ pipeline/data/*.log
 # Supabase CLI local config
 supabase/.temp/
 supabase/.branches/
+
+# Local Supabase config (injected at deploy via GitHub Actions)
+docs/assets/config.js
