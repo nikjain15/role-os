@@ -6,15 +6,62 @@ window.CHAT_ENDPOINT = window.CHAT_ENDPOINT || null;
 
 // ===== Load core data.json (used on every page) =====
 const DATA_BASE = window.location.pathname.includes('/case-study/') ? '../' : './';
+// Live stats straight from Supabase (public_index_stats RPC) — real-time, no
+// rebuild. Memoized; returns null on any failure so we fall back to the static
+// JSON (which the pipeline still emits as a baseline/fallback).
+let _livePromise;
+function loadLiveStats() {
+  if (_livePromise !== undefined) return _livePromise;
+  _livePromise = (async () => {
+    if (!window.SUPABASE_URL || !window.SUPABASE_ANON_KEY) return null;
+    try {
+      const r = await fetch(`${window.SUPABASE_URL}/rest/v1/rpc/public_index_stats`, {
+        method: 'POST',
+        headers: {
+          apikey: window.SUPABASE_ANON_KEY,
+          Authorization: `Bearer ${window.SUPABASE_ANON_KEY}`,
+          'Content-Type': 'application/json',
+        },
+        body: '{}',
+        signal: AbortSignal.timeout(8000),
+      });
+      if (!r.ok) return null;
+      const s = await r.json();
+      return s && typeof s.totalRoles === 'number' ? s : null;
+    } catch { return null; }
+  })();
+  return _livePromise;
+}
+
 async function loadData() {
   const r = await fetch(DATA_BASE + 'data.json?t=' + Date.now()).catch(() => null);
-  if (!r || !r.ok) return null;
-  return r.json();
+  const base = r && r.ok ? await r.json() : null;
+  const live = await loadLiveStats();
+  if (!base && !live) return null;
+  const d = base || { headline: {}, distributions: {}, funnel: [], cost: {}, gaps: [] };
+  if (live) {
+    d.headline = d.headline || {};
+    d.headline.structured = live.totalRoles;
+    d.headline.companies = live.totalCompanies;
+    d.headline.mustHavesExtracted = live.mustHaves;
+    d.distributions = Object.assign({}, d.distributions, live.distributions);
+  }
+  return d;
 }
 async function loadDataset() {
   const r = await fetch(DATA_BASE + 'dataset.json?t=' + Date.now()).catch(() => null);
-  if (!r || !r.ok) return null;
-  return r.json();
+  const base = r && r.ok ? await r.json() : null;
+  const live = await loadLiveStats();
+  if (!base && !live) return null;
+  const ds = base || {};
+  if (live) {
+    ds.totalCompanies = live.totalCompanies;
+    ds.totalRoles = live.totalRoles;
+    ds.topCompanies = live.topCompanies;
+    ds.allCompanies = live.allCompanies;
+    ds.archetypes = live.archetypes;
+  }
+  return ds;
 }
 
 // ===== Homepage init =====
