@@ -5,7 +5,7 @@ window.SUPABASE_ANON_KEY = window.SUPABASE_ANON_KEY || '';
 window.CHAT_ENDPOINT = window.CHAT_ENDPOINT || null;
 
 // ===== Load core data.json (used on every page) =====
-const DATA_BASE = window.location.pathname.includes('/case-study/') ? '../' : './';
+const DATA_BASE = /\/(case-study|faq|confirmed|privacy)\//.test(window.location.pathname) ? '../' : './';
 // Live stats straight from Supabase (public_index_stats RPC) — real-time, no
 // rebuild. Memoized; returns null on any failure so we fall back to the static
 // JSON (which the pipeline still emits as a baseline/fallback).
