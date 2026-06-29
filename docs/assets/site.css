@@ -284,13 +284,17 @@ section.bg-dark .eyebrow { color: rgba(255,255,255,0.55); }
 /* ══════════════════════════════════════════
    BROWSE THE DATA
 ══════════════════════════════════════════ */
-.browse-grid { margin-top: 48px; display: grid; grid-template-columns: 1.4fr 1fr; gap: 16px; margin-bottom: 32px; align-items: start; }
+.browse-grid { margin-top: 48px; display: grid; grid-template-columns: 1.4fr 1fr; gap: 16px; margin-bottom: 32px; align-items: stretch; }
 .browse-panel {
   background: var(--white);
   border: 1px solid var(--line);
   border-radius: var(--r-card-emph);
   padding: 24px;
+  display: flex;
+  flex-direction: column;
 }
+/* Anchor the role-type "See all" link to the bottom so both panels read as equal-height cards */
+.browse-more { margin-top: auto; }
 .browse-panel h3 { font-size: 16px; letter-spacing: -0.01em; }
 .browse-sub { margin-top: 4px; margin-bottom: 16px; font-size: 13px; color: var(--ink-3); line-height: 1.5; }
 .company-list, .archetype-list { display: flex; flex-direction: column; gap: 4px; }

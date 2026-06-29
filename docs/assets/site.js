@@ -5,7 +5,7 @@ window.SUPABASE_ANON_KEY = window.SUPABASE_ANON_KEY || '';
 window.CHAT_ENDPOINT = window.CHAT_ENDPOINT || null;
 
 // ===== Load core data.json (used on every page) =====
-const DATA_BASE = /\/(case-study|faq|confirmed|privacy)\//.test(window.location.pathname) ? '../' : './';
+const DATA_BASE = /\/(case-study|faq|confirmed|privacy|roles)\//.test(window.location.pathname) ? '../' : './';
 // Live stats straight from Supabase (public_index_stats RPC) — real-time, no
 // rebuild. Memoized; returns null on any failure so we fall back to the static
 // JSON (which the pipeline still emits as a baseline/fallback).
@@ -135,13 +135,18 @@ async function initHome() {
     });
   }
 
-  // Archetype list — simple rows with tier-colored percentage (matches prod layout)
+  // Archetype list — simple rows with tier-colored percentage (matches prod layout).
+  // Homepage shows only the top few so the panel stays scannable; the full list
+  // lives on the dedicated /roles page behind the "See all" link.
   const aEl = document.getElementById('archetype-list');
   if (aEl && ds) {
-    const tierClass = (pct) => pct >= 15 ? 'tier-1' : pct >= 5 ? 'tier-2' : 'tier-3';
-    aEl.innerHTML = ds.archetypes.map(a =>
-      `<button type="button" class="list-row ${tierClass(a.pct)}" data-archetype="${a.name.replace(/"/g, '&quot;')}"><span class="name">${a.name}</span><span class="val">${a.count} · ${a.pct}%</span></button>`
-    ).join('');
+    const ARCHETYPE_PREVIEW = 10;
+    const all = ds.archetypes || [];
+    aEl.innerHTML = renderArchetypeRows(all.slice(0, ARCHETYPE_PREVIEW));
+    if (all.length > ARCHETYPE_PREVIEW) {
+      aEl.insertAdjacentHTML('afterend',
+        `<a class="treemap-more browse-more" href="roles/">See all ${all.length} role types →</a>`);
+    }
     aEl.addEventListener('click', (e) => {
       const t = e.target.closest('[data-archetype]');
       if (!t) return;
@@ -177,6 +182,32 @@ function renderDist(id, obj) {
   el.innerHTML = entries.map(([k, v]) =>
     `<div class="item"><span>${k}</span><div class="bar"><div style="width:${(v/max)*100}%"></div></div><span class="v">${v}</span></div>`
   ).join('') || '<div style="color:var(--ink-3);font-size:13px">(no data yet)</div>';
+}
+
+// ===== Archetype rows (shared by homepage preview + /roles full list) =====
+function renderArchetypeRows(list) {
+  const tierClass = (pct) => pct >= 15 ? 'tier-1' : pct >= 5 ? 'tier-2' : 'tier-3';
+  return (list || []).map(a =>
+    `<button type="button" class="list-row ${tierClass(a.pct)}" data-archetype="${a.name.replace(/"/g, '&quot;')}"><span class="name">${a.name}</span><span class="val">${a.count} · ${a.pct}%</span></button>`
+  ).join('');
+}
+
+// ===== Role-types page init (/roles) — the full archetype breakdown =====
+async function initRoles() {
+  const el = document.getElementById('all-archetypes');
+  if (!el) return;
+  const ds = await loadDataset();
+  const all = ds?.archetypes || [];
+  if (!all.length) { el.innerHTML = '<div style="color:var(--ink-3);font-size:14px">(no data yet)</div>'; return; }
+  el.innerHTML = renderArchetypeRows(all);
+  el.addEventListener('click', (e) => {
+    const t = e.target.closest('[data-archetype]');
+    if (!t) return;
+    // No chat on this page — send the question to the homepage chat.
+    window.location.href = '../#meet-ro';
+  });
+  const countEl = document.getElementById('archetype-count');
+  if (countEl) countEl.textContent = all.length;
 }
 
 // ===== Case-study sub-page init =====
@@ -328,6 +359,7 @@ if (chatLog) {
 // ===== Route =====
 if (document.getElementById('stats')) initHome();
 if (document.getElementById('funnel')) initCaseStudy();
+if (document.getElementById('all-archetypes')) initRoles();
 
 // Any other page with data-fill spans (e.g. faq) — fill them from live stats too,
 // so every surface shows the real-time corpus number, not a baked-in fallback.
