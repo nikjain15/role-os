@@ -1,606 +1,3686 @@
 {
-  "generatedAt": "2026-06-28T21:23:47.394Z",
-  "totalCompanies": 89,
-  "totalRoles": 691,
+  "generatedAt": "2026-06-29T19:00:10.264Z",
+  "totalCompanies": 257,
+  "totalRoles": 1365,
   "topCompanies": [
     {
-      "slug": "stripe",
       "name": "Stripe",
-      "count": 65
+      "slug": "stripe",
+      "count": 93
     },
     {
-      "slug": "doordash",
+      "name": "OpenAI",
+      "slug": "openai",
+      "count": 75
+    },
+    {
       "name": "DoorDash",
+      "slug": "doordash",
       "count": 62
     },
     {
-      "slug": "openai",
-      "name": "OpenAI",
-      "count": 45
+      "name": "Anthropic",
+      "slug": "anthropic",
+      "count": 49
     },
     {
-      "slug": "lyft",
+      "name": "Databricks",
+      "slug": "databricks",
+      "count": 43
+    },
+    {
+      "name": "Scale AI",
+      "slug": "scale-ai",
+      "count": 42
+    },
+    {
       "name": "Lyft",
+      "slug": "lyft",
       "count": 31
     },
     {
-      "slug": "sofi",
       "name": "SoFi",
+      "slug": "sofi",
       "count": 26
     },
     {
-      "slug": "anthropic",
-      "name": "Anthropic",
+      "name": "Brex",
+      "slug": "brex",
       "count": 25
     },
     {
-      "slug": "airbnb",
-      "name": "Airbnb",
-      "count": 24
-    },
-    {
-      "slug": "instacart",
       "name": "Instacart",
+      "slug": "instacart",
       "count": 24
     },
     {
-      "slug": "scale-ai",
-      "name": "Scale AI",
+      "name": "Airbnb",
+      "slug": "airbnb",
+      "count": 24
+    },
+    {
+      "name": "Figma",
+      "slug": "figma",
+      "count": 23
+    },
+    {
+      "name": "Notion",
+      "slug": "notion",
+      "count": 21
+    },
+    {
+      "name": "Faire",
+      "slug": "faire",
       "count": 18
     },
     {
-      "slug": "klaviyo",
       "name": "Klaviyo",
+      "slug": "klaviyo",
       "count": 16
     },
     {
-      "slug": "sierra",
+      "name": "Ramp",
+      "slug": "ramp",
+      "count": 16
+    },
+    {
       "name": "Sierra",
+      "slug": "sierra",
       "count": 15
     },
     {
-      "slug": "whatnot",
+      "name": "Chime",
+      "slug": "chime",
+      "count": 14
+    },
+    {
       "name": "Whatnot",
-      "count": 13
+      "slug": "whatnot",
+      "count": 14
     },
     {
-      "slug": "asana",
-      "name": "Asana",
-      "count": 12
-    },
-    {
-      "slug": "plaid",
       "name": "Plaid",
+      "slug": "plaid",
       "count": 12
-    },
-    {
-      "slug": "state-street",
-      "name": "State Street",
-      "count": 12
-    },
-    {
-      "slug": "decagon",
-      "name": "Decagon",
-      "count": 11
-    },
-    {
-      "slug": "harvey",
-      "name": "Harvey",
-      "count": 11
-    },
-    {
-      "slug": "hellofresh",
-      "name": "HelloFresh",
-      "count": 10
-    },
-    {
-      "slug": "icapital",
-      "name": "iCapital",
-      "count": 10
-    },
-    {
-      "slug": "notion",
-      "name": "Notion",
-      "count": 10
     }
   ],
   "allCompanies": [
     {
-      "slug": "stripe",
       "name": "Stripe",
-      "count": 65
+      "slug": "stripe",
+      "count": 93
     },
     {
-      "slug": "doordash",
+      "name": "OpenAI",
+      "slug": "openai",
+      "count": 75
+    },
+    {
       "name": "DoorDash",
+      "slug": "doordash",
       "count": 62
     },
     {
-      "slug": "openai",
-      "name": "OpenAI",
-      "count": 45
+      "name": "Anthropic",
+      "slug": "anthropic",
+      "count": 49
     },
     {
-      "slug": "lyft",
+      "name": "Databricks",
+      "slug": "databricks",
+      "count": 43
+    },
+    {
+      "name": "Scale AI",
+      "slug": "scale-ai",
+      "count": 42
+    },
+    {
       "name": "Lyft",
+      "slug": "lyft",
       "count": 31
     },
     {
-      "slug": "sofi",
       "name": "SoFi",
+      "slug": "sofi",
       "count": 26
     },
     {
-      "slug": "anthropic",
-      "name": "Anthropic",
+      "name": "Brex",
+      "slug": "brex",
       "count": 25
     },
     {
-      "slug": "airbnb",
-      "name": "Airbnb",
-      "count": 24
-    },
-    {
-      "slug": "instacart",
       "name": "Instacart",
+      "slug": "instacart",
       "count": 24
     },
     {
-      "slug": "scale-ai",
-      "name": "Scale AI",
+      "name": "Airbnb",
+      "slug": "airbnb",
+      "count": 24
+    },
+    {
+      "name": "Figma",
+      "slug": "figma",
+      "count": 23
+    },
+    {
+      "name": "Notion",
+      "slug": "notion",
+      "count": 21
+    },
+    {
+      "name": "Faire",
+      "slug": "faire",
       "count": 18
     },
     {
-      "slug": "klaviyo",
       "name": "Klaviyo",
+      "slug": "klaviyo",
       "count": 16
     },
     {
-      "slug": "sierra",
+      "name": "Ramp",
+      "slug": "ramp",
+      "count": 16
+    },
+    {
       "name": "Sierra",
+      "slug": "sierra",
       "count": 15
     },
     {
-      "slug": "whatnot",
-      "name": "Whatnot",
-      "count": 13
-    },
-    {
-      "slug": "asana",
-      "name": "Asana",
-      "count": 12
-    },
-    {
-      "slug": "plaid",
-      "name": "Plaid",
-      "count": 12
-    },
-    {
-      "slug": "state-street",
-      "name": "State Street",
-      "count": 12
-    },
-    {
-      "slug": "decagon",
-      "name": "Decagon",
-      "count": 11
-    },
-    {
-      "slug": "harvey",
-      "name": "Harvey",
-      "count": 11
-    },
-    {
-      "slug": "hellofresh",
-      "name": "HelloFresh",
-      "count": 10
-    },
-    {
-      "slug": "icapital",
-      "name": "iCapital",
-      "count": 10
-    },
-    {
-      "slug": "notion",
-      "name": "Notion",
-      "count": 10
-    },
-    {
-      "slug": "affirm",
-      "name": "Affirm",
-      "count": 9
-    },
-    {
-      "slug": "faire",
-      "name": "Faire",
-      "count": 9
-    },
-    {
-      "slug": "figma",
-      "name": "Figma",
-      "count": 9
-    },
-    {
-      "slug": "ramp",
-      "name": "Ramp",
-      "count": 9
-    },
-    {
-      "slug": "cohere",
-      "name": "Cohere",
-      "count": 8
-    },
-    {
-      "slug": "glean",
-      "name": "Glean",
-      "count": 8
-    },
-    {
-      "slug": "robinhood",
-      "name": "Robinhood",
-      "count": 8
-    },
-    {
-      "slug": "wayve",
-      "name": "Wayve",
-      "count": 8
-    },
-    {
-      "slug": "addepar",
-      "name": "Addepar",
-      "count": 7
-    },
-    {
-      "slug": "brex",
-      "name": "Brex",
-      "count": 7
-    },
-    {
-      "slug": "chime",
       "name": "Chime",
-      "count": 7
+      "slug": "chime",
+      "count": 14
     },
     {
-      "slug": "coinbase",
-      "name": "Coinbase",
-      "count": 7
+      "name": "Whatnot",
+      "slug": "whatnot",
+      "count": 14
     },
     {
-      "slug": "cursor",
-      "name": "Cursor",
-      "count": 7
+      "name": "Plaid",
+      "slug": "plaid",
+      "count": 12
     },
     {
-      "slug": "lemonade",
-      "name": "Lemonade",
-      "count": 7
+      "name": "State Street",
+      "slug": "state-street",
+      "count": 12
     },
     {
-      "slug": "sumup",
-      "name": "SumUp",
-      "count": 6
+      "name": "Asana",
+      "slug": "asana",
+      "count": 12
     },
     {
-      "slug": "supabase",
-      "name": "Supabase",
-      "count": 6
+      "name": "Decagon",
+      "slug": "decagon",
+      "count": 11
     },
     {
-      "slug": "upstart",
-      "name": "Upstart",
-      "count": 6
+      "name": "Harvey",
+      "slug": "harvey",
+      "count": 11
     },
     {
-      "slug": "clay-labs",
-      "name": "Clay Labs",
-      "count": 5
+      "name": "iCapital",
+      "slug": "icapital",
+      "count": 10
     },
     {
-      "slug": "replit",
-      "name": "Replit",
-      "count": 5
+      "name": "HelloFresh",
+      "slug": "hellofresh",
+      "count": 10
     },
     {
-      "slug": "t-rowe-price",
-      "name": "T. Rowe Price",
-      "count": 5
+      "name": "May Mobility",
+      "slug": "may-mobility",
+      "count": 9
     },
     {
-      "slug": "twilio",
-      "name": "Twilio",
-      "count": 5
+      "name": "Zip",
+      "slug": "zip",
+      "count": 9
     },
     {
-      "slug": "abridge",
-      "name": "Abridge",
-      "count": 4
+      "name": "Alpaca",
+      "slug": "alpaca",
+      "count": 9
     },
     {
-      "slug": "airtable",
-      "name": "Airtable",
-      "count": 4
+      "name": "HackerRank",
+      "slug": "hackerrank",
+      "count": 9
     },
     {
-      "slug": "character-ai",
-      "name": "Character AI",
-      "count": 4
-    },
-    {
-      "slug": "elevenlabs",
-      "name": "ElevenLabs",
-      "count": 4
-    },
-    {
-      "slug": "later",
-      "name": "Later",
-      "count": 4
-    },
-    {
-      "slug": "spotify",
-      "name": "Spotify",
-      "count": 4
-    },
-    {
-      "slug": "boomi",
-      "name": "Boomi",
-      "count": 3
-    },
-    {
-      "slug": "legora",
       "name": "Legora",
-      "count": 3
+      "slug": "legora",
+      "count": 9
     },
     {
-      "slug": "lovable",
-      "name": "Lovable",
-      "count": 3
+      "name": "Prolific",
+      "slug": "prolific",
+      "count": 9
     },
     {
-      "slug": "palantir",
-      "name": "Palantir",
-      "count": 3
+      "name": "Agency",
+      "slug": "agency",
+      "count": 9
     },
     {
-      "slug": "parloa",
-      "name": "Parloa",
-      "count": 3
+      "name": "Encord",
+      "slug": "encord",
+      "count": 9
     },
     {
-      "slug": "runpod",
-      "name": "RunPod",
-      "count": 3
+      "name": "Affirm",
+      "slug": "affirm",
+      "count": 9
     },
     {
-      "slug": "acorns",
-      "name": "Acorns",
-      "count": 2
+      "name": "Gusto",
+      "slug": "gusto",
+      "count": 9
     },
     {
-      "slug": "amplemarket",
-      "name": "Amplemarket",
-      "count": 2
+      "name": "Robinhood",
+      "slug": "robinhood",
+      "count": 8
     },
     {
-      "slug": "anrok",
-      "name": "Anrok",
-      "count": 2
+      "name": "Wayve",
+      "slug": "wayve",
+      "count": 8
     },
     {
-      "slug": "betterment",
-      "name": "Betterment",
-      "count": 2
+      "name": "Sendbird",
+      "slug": "sendbird",
+      "count": 8
     },
     {
-      "slug": "carta",
-      "name": "Carta",
-      "count": 2
+      "name": "Replit",
+      "slug": "replit",
+      "count": 8
     },
     {
-      "slug": "contentful",
-      "name": "Contentful",
-      "count": 2
+      "name": "Vanta",
+      "slug": "vanta",
+      "count": 8
     },
     {
-      "slug": "dialpad",
-      "name": "Dialpad",
-      "count": 2
+      "name": "Checkr",
+      "slug": "checkr",
+      "count": 8
     },
     {
-      "slug": "langchain",
-      "name": "LangChain",
-      "count": 2
+      "name": "Cohere",
+      "slug": "cohere",
+      "count": 8
     },
     {
-      "slug": "linear",
-      "name": "Linear",
-      "count": 2
+      "name": "Glean",
+      "slug": "glean",
+      "count": 8
     },
     {
-      "slug": "perplexity",
-      "name": "Perplexity",
-      "count": 2
+      "name": "Instawork",
+      "slug": "instawork",
+      "count": 7
     },
     {
-      "slug": "polyai",
-      "name": "PolyAI",
-      "count": 2
+      "name": "Dynamo AI",
+      "slug": "dynamo-ai",
+      "count": 7
     },
     {
-      "slug": "stash",
-      "name": "Stash",
-      "count": 2
+      "name": "CaptivateIQ",
+      "slug": "captivateiq",
+      "count": 7
     },
     {
-      "slug": "vercel",
-      "name": "Vercel",
-      "count": 2
+      "name": "Klarity",
+      "slug": "klarity",
+      "count": 7
     },
     {
-      "slug": "alloy",
-      "name": "Alloy",
-      "count": 1
+      "name": "Addepar",
+      "slug": "addepar",
+      "count": 7
     },
     {
-      "slug": "arize-ai",
-      "name": "Arize AI",
-      "count": 1
+      "name": "Athelas",
+      "slug": "athelas",
+      "count": 7
     },
     {
-      "slug": "attio",
-      "name": "Attio",
-      "count": 1
+      "name": "Fieldguide",
+      "slug": "fieldguide",
+      "count": 7
     },
     {
-      "slug": "bland-ai",
-      "name": "Bland AI",
-      "count": 1
+      "name": "Coinbase",
+      "slug": "coinbase",
+      "count": 7
     },
     {
-      "slug": "coalition",
-      "name": "Coalition",
-      "count": 1
+      "name": "Flexport",
+      "slug": "flexport",
+      "count": 7
     },
     {
-      "slug": "crosby",
-      "name": "Crosby",
-      "count": 1
+      "name": "Cursor",
+      "slug": "cursor",
+      "count": 7
     },
     {
-      "slug": "deepgram",
+      "name": "Lemonade",
+      "slug": "lemonade",
+      "count": 7
+    },
+    {
+      "name": "Upstart",
+      "slug": "upstart",
+      "count": 6
+    },
+    {
+      "name": "Escape",
+      "slug": "escape",
+      "count": 6
+    },
+    {
+      "name": "SumUp",
+      "slug": "sumup",
+      "count": 6
+    },
+    {
       "name": "Deepgram",
-      "count": 1
+      "slug": "deepgram",
+      "count": 6
     },
     {
-      "slug": "glossier",
-      "name": "Glossier",
-      "count": 1
+      "name": "Supabase",
+      "slug": "supabase",
+      "count": 6
     },
     {
-      "slug": "hightouch",
-      "name": "Hightouch",
-      "count": 1
+      "name": "Mercury",
+      "slug": "mercury",
+      "count": 5
     },
     {
-      "slug": "intercom",
-      "name": "Intercom",
-      "count": 1
+      "name": "Humaans",
+      "slug": "humaans",
+      "count": 5
     },
     {
-      "slug": "lindy",
-      "name": "Lindy",
-      "count": 1
+      "name": "Crustdata",
+      "slug": "crustdata",
+      "count": 5
     },
     {
-      "slug": "liveperson",
-      "name": "LivePerson",
-      "count": 1
+      "name": "Retell AI",
+      "slug": "retell-ai",
+      "count": 5
     },
     {
-      "slug": "mistral-ai",
+      "name": "voize",
+      "slug": "voize",
+      "count": 5
+    },
+    {
+      "name": "Taktile",
+      "slug": "taktile",
+      "count": 5
+    },
+    {
+      "name": "Clay Labs",
+      "slug": "clay-labs",
+      "count": 5
+    },
+    {
+      "name": "T. Rowe Price",
+      "slug": "t-rowe-price",
+      "count": 5
+    },
+    {
+      "name": "Qventus",
+      "slug": "qventus",
+      "count": 5
+    },
+    {
+      "name": "Palantir",
+      "slug": "palantir",
+      "count": 5
+    },
+    {
+      "name": "Reducto",
+      "slug": "reducto",
+      "count": 5
+    },
+    {
+      "name": "Spellbrush",
+      "slug": "spellbrush",
+      "count": 5
+    },
+    {
+      "name": "Twilio",
+      "slug": "twilio",
+      "count": 5
+    },
+    {
+      "name": "Canary Technologies",
+      "slug": "canary-technologies",
+      "count": 5
+    },
+    {
+      "name": "Spotify",
+      "slug": "spotify",
+      "count": 4
+    },
+    {
+      "name": "Character AI",
+      "slug": "character-ai",
+      "count": 4
+    },
+    {
+      "name": "Reality Defender",
+      "slug": "reality-defender",
+      "count": 4
+    },
+    {
+      "name": "Abridge",
+      "slug": "abridge",
+      "count": 4
+    },
+    {
+      "name": "Snappr",
+      "slug": "snappr",
+      "count": 4
+    },
+    {
+      "name": "ElevenLabs",
+      "slug": "elevenlabs",
+      "count": 4
+    },
+    {
+      "name": "Later",
+      "slug": "later",
+      "count": 4
+    },
+    {
+      "name": "Meesho",
+      "slug": "meesho",
+      "count": 4
+    },
+    {
+      "name": "Airtable",
+      "slug": "airtable",
+      "count": 4
+    },
+    {
+      "name": "Tailor",
+      "slug": "tailor",
+      "count": 4
+    },
+    {
+      "name": "Instrumentl",
+      "slug": "instrumentl",
+      "count": 4
+    },
+    {
+      "name": "Tennr",
+      "slug": "tennr",
+      "count": 4
+    },
+    {
+      "name": "Algolia",
+      "slug": "algolia",
+      "count": 4
+    },
+    {
+      "name": "Mashgin",
+      "slug": "mashgin",
+      "count": 4
+    },
+    {
+      "name": "Peakflo",
+      "slug": "peakflo",
+      "count": 4
+    },
+    {
+      "name": "Trellis AI",
+      "slug": "trellis-ai",
+      "count": 4
+    },
+    {
+      "name": "Acorns",
+      "slug": "acorns",
+      "count": 3
+    },
+    {
+      "name": "Retool",
+      "slug": "retool",
+      "count": 3
+    },
+    {
+      "name": "Langdock",
+      "slug": "langdock",
+      "count": 3
+    },
+    {
+      "name": "ARQ",
+      "slug": "arq",
+      "count": 3
+    },
+    {
+      "name": "RunPod",
+      "slug": "runpod",
+      "count": 3
+    },
+    {
+      "name": "Prodigal",
+      "slug": "prodigal",
+      "count": 3
+    },
+    {
+      "name": "Amplitude",
+      "slug": "amplitude",
+      "count": 3
+    },
+    {
+      "name": "Substack",
+      "slug": "substack",
+      "count": 3
+    },
+    {
+      "name": "Boomi",
+      "slug": "boomi",
+      "count": 3
+    },
+    {
+      "name": "Ashby",
+      "slug": "ashby",
+      "count": 3
+    },
+    {
+      "name": "Rescale",
+      "slug": "rescale",
+      "count": 3
+    },
+    {
+      "name": "AfterQuery",
+      "slug": "afterquery",
+      "count": 3
+    },
+    {
+      "name": "Shepherd",
+      "slug": "shepherd",
+      "count": 3
+    },
+    {
+      "name": "Swayable",
+      "slug": "swayable",
+      "count": 3
+    },
+    {
+      "name": "Parloa",
+      "slug": "parloa",
+      "count": 3
+    },
+    {
+      "name": "MDalgorithms Inc.",
+      "slug": "mdalgorithms-inc-",
+      "count": 3
+    },
+    {
+      "name": "Podium",
+      "slug": "podium",
+      "count": 3
+    },
+    {
+      "name": "Lovable",
+      "slug": "lovable",
+      "count": 3
+    },
+    {
+      "name": "LiveFlow",
+      "slug": "liveflow",
+      "count": 3
+    },
+    {
+      "name": "Vetcove",
+      "slug": "vetcove",
+      "count": 3
+    },
+    {
+      "name": "Amplemarket",
+      "slug": "amplemarket",
+      "count": 2
+    },
+    {
+      "name": "Aurelian",
+      "slug": "aurelian",
+      "count": 2
+    },
+    {
+      "name": "PolyAI",
+      "slug": "polyai",
+      "count": 2
+    },
+    {
+      "name": "Bitmovin",
+      "slug": "bitmovin",
+      "count": 2
+    },
+    {
+      "name": "Method Financial",
+      "slug": "method-financial",
+      "count": 2
+    },
+    {
+      "name": "Landeed",
+      "slug": "landeed",
+      "count": 2
+    },
+    {
+      "name": "RADAR",
+      "slug": "radar",
+      "count": 2
+    },
+    {
+      "name": "Dialpad",
+      "slug": "dialpad",
+      "count": 2
+    },
+    {
+      "name": "Vahan",
+      "slug": "vahan",
+      "count": 2
+    },
+    {
+      "name": "Carta",
+      "slug": "carta",
+      "count": 2
+    },
+    {
+      "name": "Oneleet",
+      "slug": "oneleet",
+      "count": 2
+    },
+    {
+      "name": "Sully.ai",
+      "slug": "sully-ai",
+      "count": 2
+    },
+    {
+      "name": "Nash",
+      "slug": "nash",
+      "count": 2
+    },
+    {
+      "name": "Linear",
+      "slug": "linear",
+      "count": 2
+    },
+    {
+      "name": "Xendit",
+      "slug": "xendit",
+      "count": 2
+    },
+    {
+      "name": "Suger",
+      "slug": "suger",
+      "count": 2
+    },
+    {
+      "name": "Ironclad",
+      "slug": "ironclad",
+      "count": 2
+    },
+    {
+      "name": "Promise",
+      "slug": "promise",
+      "count": 2
+    },
+    {
+      "name": "Cyble",
+      "slug": "cyble",
+      "count": 2
+    },
+    {
+      "name": "Ello",
+      "slug": "ello",
+      "count": 2
+    },
+    {
+      "name": "Webflow",
+      "slug": "webflow",
+      "count": 2
+    },
+    {
+      "name": "Contentful",
+      "slug": "contentful",
+      "count": 2
+    },
+    {
+      "name": "Veryfi, Inc.",
+      "slug": "veryfi-inc-",
+      "count": 2
+    },
+    {
+      "name": "Gigs",
+      "slug": "gigs",
+      "count": 2
+    },
+    {
+      "name": "Craniometrix",
+      "slug": "craniometrix",
+      "count": 2
+    },
+    {
+      "name": "Nova Credit",
+      "slug": "nova-credit",
+      "count": 2
+    },
+    {
+      "name": "Betterment",
+      "slug": "betterment",
+      "count": 2
+    },
+    {
+      "name": "Vercel",
+      "slug": "vercel",
+      "count": 2
+    },
+    {
+      "name": "Stash",
+      "slug": "stash",
+      "count": 2
+    },
+    {
+      "name": "Benepass",
+      "slug": "benepass",
+      "count": 2
+    },
+    {
+      "name": "FurtherAI",
+      "slug": "furtherai",
+      "count": 2
+    },
+    {
+      "name": "Juicebox",
+      "slug": "juicebox",
+      "count": 2
+    },
+    {
+      "name": "Clinikally",
+      "slug": "clinikally",
+      "count": 2
+    },
+    {
+      "name": "LangChain",
+      "slug": "langchain",
+      "count": 2
+    },
+    {
+      "name": "Kaso",
+      "slug": "kaso",
+      "count": 2
+    },
+    {
+      "name": "Groww",
+      "slug": "groww",
+      "count": 2
+    },
+    {
+      "name": "Perplexity",
+      "slug": "perplexity",
+      "count": 2
+    },
+    {
+      "name": "Paces",
+      "slug": "paces",
+      "count": 2
+    },
+    {
+      "name": "Artisan",
+      "slug": "artisan",
+      "count": 2
+    },
+    {
+      "name": "Flock Safety",
+      "slug": "flock-safety",
+      "count": 2
+    },
+    {
+      "name": "Coast",
+      "slug": "coast",
+      "count": 2
+    },
+    {
+      "name": "PermitFlow",
+      "slug": "permitflow",
+      "count": 2
+    },
+    {
+      "name": "RevenueCat",
+      "slug": "revenuecat",
+      "count": 2
+    },
+    {
+      "name": "PostHog",
+      "slug": "posthog",
+      "count": 2
+    },
+    {
+      "name": "Anrok",
+      "slug": "anrok",
+      "count": 2
+    },
+    {
+      "name": "Bland AI",
+      "slug": "bland-ai",
+      "count": 2
+    },
+    {
+      "name": "Landed",
+      "slug": "landed",
+      "count": 2
+    },
+    {
+      "name": "Fleek",
+      "slug": "fleek",
+      "count": 2
+    },
+    {
+      "name": "Latent",
+      "slug": "latent",
+      "count": 2
+    },
+    {
+      "name": "Numeral",
+      "slug": "numeral",
+      "count": 2
+    },
+    {
+      "name": "Campfire",
+      "slug": "campfire",
+      "count": 2
+    },
+    {
+      "name": "Apollo.io",
+      "slug": "apollo-io",
+      "count": 2
+    },
+    {
+      "name": "Bunkerhill Health",
+      "slug": "bunkerhill-health",
+      "count": 2
+    },
+    {
+      "name": "AgentCollect",
+      "slug": "agentcollect",
+      "count": 2
+    },
+    {
       "name": "Mistral AI",
+      "slug": "mistral-ai",
       "count": 1
     },
     {
-      "slug": "n8n",
-      "name": "n8n",
+      "name": "Candid Health",
+      "slug": "candid-health",
       "count": 1
     },
     {
-      "slug": "pinecone",
-      "name": "Pinecone",
-      "count": 1
-    },
-    {
-      "slug": "pylon",
-      "name": "Pylon",
-      "count": 1
-    },
-    {
-      "slug": "rothy-s",
-      "name": "Rothy's",
-      "count": 1
-    },
-    {
-      "slug": "safari-ai",
-      "name": "Safari AI",
-      "count": 1
-    },
-    {
-      "slug": "scandit",
-      "name": "Scandit",
-      "count": 1
-    },
-    {
-      "slug": "speechmatics",
-      "name": "Speechmatics",
-      "count": 1
-    },
-    {
-      "slug": "stockx",
-      "name": "StockX",
-      "count": 1
-    },
-    {
-      "slug": "trade-republic",
       "name": "Trade Republic",
+      "slug": "trade-republic",
       "count": 1
     },
     {
-      "slug": "workos",
+      "name": "Middleware",
+      "slug": "middleware",
+      "count": 1
+    },
+    {
+      "name": "Speechmatics",
+      "slug": "speechmatics",
+      "count": 1
+    },
+    {
+      "name": "Abacum",
+      "slug": "abacum",
+      "count": 1
+    },
+    {
+      "name": "AlgoTest",
+      "slug": "algotest",
+      "count": 1
+    },
+    {
+      "name": "Great Question",
+      "slug": "great-question",
+      "count": 1
+    },
+    {
+      "name": "Eden",
+      "slug": "eden",
+      "count": 1
+    },
+    {
+      "name": "Postscript",
+      "slug": "postscript",
+      "count": 1
+    },
+    {
+      "name": "Mux",
+      "slug": "mux",
+      "count": 1
+    },
+    {
+      "name": "Titan",
+      "slug": "titan",
+      "count": 1
+    },
+    {
+      "name": "Casca",
+      "slug": "casca",
+      "count": 1
+    },
+    {
+      "name": "n8n",
+      "slug": "n8n",
+      "count": 1
+    },
+    {
       "name": "WorkOS",
+      "slug": "workos",
+      "count": 1
+    },
+    {
+      "name": "Double",
+      "slug": "double",
+      "count": 1
+    },
+    {
+      "name": "Curacel",
+      "slug": "curacel",
+      "count": 1
+    },
+    {
+      "name": "Turing College",
+      "slug": "turing-college",
+      "count": 1
+    },
+    {
+      "name": "Heron Data",
+      "slug": "heron-data",
+      "count": 1
+    },
+    {
+      "name": "Salient",
+      "slug": "salient",
+      "count": 1
+    },
+    {
+      "name": "Luminai",
+      "slug": "luminai",
+      "count": 1
+    },
+    {
+      "name": "Cinder",
+      "slug": "cinder",
+      "count": 1
+    },
+    {
+      "name": "Miso",
+      "slug": "miso",
+      "count": 1
+    },
+    {
+      "name": "Soraban",
+      "slug": "soraban",
+      "count": 1
+    },
+    {
+      "name": "FlutterFlow",
+      "slug": "flutterflow",
+      "count": 1
+    },
+    {
+      "name": "Karat Financial",
+      "slug": "karat-financial",
+      "count": 1
+    },
+    {
+      "name": "StockX",
+      "slug": "stockx",
+      "count": 1
+    },
+    {
+      "name": "Ready",
+      "slug": "ready",
+      "count": 1
+    },
+    {
+      "name": "Aqua",
+      "slug": "aqua",
+      "count": 1
+    },
+    {
+      "name": "AtoB",
+      "slug": "atob",
+      "count": 1
+    },
+    {
+      "name": "Vooma",
+      "slug": "vooma",
+      "count": 1
+    },
+    {
+      "name": "Scope AR",
+      "slug": "scope-ar",
+      "count": 1
+    },
+    {
+      "name": "TRM Labs",
+      "slug": "trm-labs",
+      "count": 1
+    },
+    {
+      "name": "Gem",
+      "slug": "gem",
+      "count": 1
+    },
+    {
+      "name": "Peoplebox.ai",
+      "slug": "peoplebox-ai",
+      "count": 1
+    },
+    {
+      "name": "AiPrise",
+      "slug": "aiprise",
+      "count": 1
+    },
+    {
+      "name": "Rothy's",
+      "slug": "rothy-s",
+      "count": 1
+    },
+    {
+      "name": "Enode",
+      "slug": "enode",
+      "count": 1
+    },
+    {
+      "name": "Intercom",
+      "slug": "intercom",
+      "count": 1
+    },
+    {
+      "name": "LivePerson",
+      "slug": "liveperson",
+      "count": 1
+    },
+    {
+      "name": "SigNoz",
+      "slug": "signoz",
+      "count": 1
+    },
+    {
+      "name": "Coalition",
+      "slug": "coalition",
+      "count": 1
+    },
+    {
+      "name": "Prembly (formerly Identitypass)",
+      "slug": "prembly-formerly-identitypass-",
+      "count": 1
+    },
+    {
+      "name": "Vori",
+      "slug": "vori",
+      "count": 1
+    },
+    {
+      "name": "Attio",
+      "slug": "attio",
+      "count": 1
+    },
+    {
+      "name": "Glossier",
+      "slug": "glossier",
+      "count": 1
+    },
+    {
+      "name": "Solve Intelligence",
+      "slug": "solve-intelligence",
+      "count": 1
+    },
+    {
+      "name": "Model ML",
+      "slug": "model-ml",
+      "count": 1
+    },
+    {
+      "name": "Pylon",
+      "slug": "pylon",
+      "count": 1
+    },
+    {
+      "name": "Mason",
+      "slug": "mason",
+      "count": 1
+    },
+    {
+      "name": "Arize AI",
+      "slug": "arize-ai",
+      "count": 1
+    },
+    {
+      "name": "GiveCampus",
+      "slug": "givecampus",
+      "count": 1
+    },
+    {
+      "name": "Safari AI",
+      "slug": "safari-ai",
+      "count": 1
+    },
+    {
+      "name": "Hightouch",
+      "slug": "hightouch",
+      "count": 1
+    },
+    {
+      "name": "Lindy",
+      "slug": "lindy",
+      "count": 1
+    },
+    {
+      "name": "Hadrius",
+      "slug": "hadrius",
+      "count": 1
+    },
+    {
+      "name": "Verse Medical",
+      "slug": "verse-medical",
+      "count": 1
+    },
+    {
+      "name": "Lattice",
+      "slug": "lattice",
+      "count": 1
+    },
+    {
+      "name": "VectorShift",
+      "slug": "vectorshift",
+      "count": 1
+    },
+    {
+      "name": "BlueCargo",
+      "slug": "bluecargo",
+      "count": 1
+    },
+    {
+      "name": "Avoca",
+      "slug": "avoca",
+      "count": 1
+    },
+    {
+      "name": "Conveo",
+      "slug": "conveo",
+      "count": 1
+    },
+    {
+      "name": "Joy",
+      "slug": "joy",
+      "count": 1
+    },
+    {
+      "name": "REVER",
+      "slug": "rever",
+      "count": 1
+    },
+    {
+      "name": "VergeSense",
+      "slug": "vergesense",
+      "count": 1
+    },
+    {
+      "name": "Pinecone",
+      "slug": "pinecone",
+      "count": 1
+    },
+    {
+      "name": "Roboflow",
+      "slug": "roboflow",
+      "count": 1
+    },
+    {
+      "name": "Cityfurnish",
+      "slug": "cityfurnish",
+      "count": 1
+    },
+    {
+      "name": "Zuma",
+      "slug": "zuma",
+      "count": 1
+    },
+    {
+      "name": "HockeyStack",
+      "slug": "hockeystack",
+      "count": 1
+    },
+    {
+      "name": "Community Phone Company",
+      "slug": "community-phone-company",
+      "count": 1
+    },
+    {
+      "name": "Kodo",
+      "slug": "kodo",
+      "count": 1
+    },
+    {
+      "name": "BillionToOne",
+      "slug": "billiontoone",
+      "count": 1
+    },
+    {
+      "name": "Tractian",
+      "slug": "tractian",
+      "count": 1
+    },
+    {
+      "name": "Duffel",
+      "slug": "duffel",
+      "count": 1
+    },
+    {
+      "name": "Kalshi",
+      "slug": "kalshi",
+      "count": 1
+    },
+    {
+      "name": "Alloy",
+      "slug": "alloy",
+      "count": 1
+    },
+    {
+      "name": "Triomics",
+      "slug": "triomics",
+      "count": 1
+    },
+    {
+      "name": "Scandit",
+      "slug": "scandit",
+      "count": 1
+    },
+    {
+      "name": "Kodex",
+      "slug": "kodex",
+      "count": 1
+    },
+    {
+      "name": "Orangewood Labs",
+      "slug": "orangewood-labs",
+      "count": 1
+    },
+    {
+      "name": "Just Appraised",
+      "slug": "just-appraised",
+      "count": 1
+    },
+    {
+      "name": "ShipBob",
+      "slug": "shipbob",
+      "count": 1
+    },
+    {
+      "name": "Zapier",
+      "slug": "zapier",
+      "count": 1
+    },
+    {
+      "name": "Paragon",
+      "slug": "paragon",
+      "count": 1
+    },
+    {
+      "name": "Ziina",
+      "slug": "ziina",
+      "count": 1
+    },
+    {
+      "name": "Novig",
+      "slug": "novig",
+      "count": 1
+    },
+    {
+      "name": "AIOS",
+      "slug": "aios",
+      "count": 1
+    },
+    {
+      "name": "Synthio Labs",
+      "slug": "synthio-labs",
+      "count": 1
+    },
+    {
+      "name": "Belvo",
+      "slug": "belvo",
+      "count": 1
+    },
+    {
+      "name": "Agave",
+      "slug": "agave",
+      "count": 1
+    },
+    {
+      "name": "Crosby",
+      "slug": "crosby",
+      "count": 1
+    },
+    {
+      "name": "Bretton AI",
+      "slug": "bretton-ai",
       "count": 1
     }
   ],
   "archetypes": [
     {
+      "pct": 11.9,
       "name": "Technical Program Manager",
-      "count": 163,
-      "pct": 23.6
+      "count": 163
     },
     {
+      "pct": 10.2,
       "name": "BizOps / Strategy & Ops",
-      "count": 139,
-      "pct": 20.1
+      "count": 139
     },
     {
+      "pct": 8.8,
       "name": "Technical PM",
-      "count": 120,
-      "pct": 17.4
+      "count": 120
     },
     {
+      "pct": 5.8,
       "name": "Generalist PM",
-      "count": 79,
-      "pct": 11.4
+      "count": 79
     },
     {
+      "pct": 5.2,
       "name": "AI Product Manager",
-      "count": 70,
-      "pct": 10.1
+      "count": 71
     },
     {
+      "pct": 2.9,
       "name": "Program Manager",
-      "count": 39,
-      "pct": 5.6
+      "count": 39
     },
     {
+      "pct": 2.7,
       "name": "Growth PM",
-      "count": 37,
-      "pct": 5.4
+      "count": 37
     },
     {
+      "pct": 1.5,
       "name": "Growth (non-PM)",
-      "count": 21,
-      "pct": 3
+      "count": 21
     },
     {
+      "pct": 1.2,
       "name": "Other",
-      "count": 16,
-      "pct": 2.3
+      "count": 16
     },
     {
+      "pct": 0.7,
+      "name": "Staff Product Designer",
+      "count": 10
+    },
+    {
+      "pct": 0.7,
+      "name": "AI Engineer",
+      "count": 9
+    },
+    {
+      "pct": 0.7,
+      "name": "AI Product Engineer",
+      "count": 9
+    },
+    {
+      "pct": 0.5,
       "name": "Chief of Staff",
-      "count": 7,
-      "pct": 1
+      "count": 7
+    },
+    {
+      "pct": 0.4,
+      "name": "Robotics AI Campus Ambassador",
+      "count": 6
+    },
+    {
+      "pct": 0.4,
+      "name": "Senior AI Engineer",
+      "count": 6
+    },
+    {
+      "pct": 0.4,
+      "name": "Applied AI Engineer",
+      "count": 5
+    },
+    {
+      "pct": 0.4,
+      "name": "AI Deployment Engineer",
+      "count": 5
+    },
+    {
+      "pct": 0.4,
+      "name": "Applied AI Solutions Architect",
+      "count": 5
+    },
+    {
+      "pct": 0.3,
+      "name": "Senior ML Engineer",
+      "count": 4
+    },
+    {
+      "pct": 0.3,
+      "name": "AI Software Engineer",
+      "count": 4
+    },
+    {
+      "pct": 0.3,
+      "name": "Product Manager",
+      "count": 4
+    },
+    {
+      "pct": 0.2,
+      "name": "Forward Deployed Product Manager",
+      "count": 3
+    },
+    {
+      "pct": 0.2,
+      "name": "Senior Product Manager",
+      "count": 3
+    },
+    {
+      "pct": 0.2,
+      "name": "Founding ML Engineer",
+      "count": 3
+    },
+    {
+      "pct": 0.2,
+      "name": "AI Trainer (Arabic Language)",
+      "count": 3
+    },
+    {
+      "pct": 0.2,
+      "name": "AI Adoption & Capability Engineering Manager",
+      "count": 3
+    },
+    {
+      "pct": 0.2,
+      "name": "Staff Product Engineer",
+      "count": 3
+    },
+    {
+      "pct": 0.2,
+      "name": "Staff AI Engineer",
+      "count": 3
+    },
+    {
+      "pct": 0.2,
+      "name": "AI Operations Lead",
+      "count": 3
+    },
+    {
+      "pct": 0.2,
+      "name": "AI/ML Engineer",
+      "count": 3
+    },
+    {
+      "pct": 0.2,
+      "name": "Director of Product",
+      "count": 3
+    },
+    {
+      "pct": 0.2,
+      "name": "B2B SaaS Product Manager",
+      "count": 3
+    },
+    {
+      "pct": 0.2,
+      "name": "Senior Applied AI/ML Scientist",
+      "count": 3
+    },
+    {
+      "pct": 0.2,
+      "name": "Founding Product Manager",
+      "count": 3
+    },
+    {
+      "pct": 0.2,
+      "name": "Senior Applied AI Engineer",
+      "count": 3
+    },
+    {
+      "pct": 0.2,
+      "name": "ML Research Fellow",
+      "count": 3
+    },
+    {
+      "pct": 0.2,
+      "name": "AI/ML Specialist Solutions Architect",
+      "count": 3
+    },
+    {
+      "pct": 0.2,
+      "name": "AI Agents Software Engineer",
+      "count": 3
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Deployment Engineering Manager",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Staff Growth Product Manager",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Engineering Manager, AI",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Staff Product Manager (Fintech/Platform)",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Pre-Sales AI Solutions Architect",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Partner AI Deployment Engineer",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Trainer - Arabic Language",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Staff ML Platform Engineer",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior AI/ML Engineer",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Staff Product Manager, Growth",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Account Manager, Physical AI",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Staff AI Platform Engineer",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior/Staff Product Designer",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Technical Operations & AI Automation Engineer",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Staff Product Manager",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Engineer Intern",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Applied AI Partner Solutions Architect",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Director of Product Management, Forward Deployed",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Group Product Manager",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Research Engineer",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Associate Product Manager",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Staff Applied AI Engineer",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Full-Stack AI Engineer",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Enablement Engineer",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "GTM AI Operations Lead",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Commercial Associate, Physical AI Sales",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Technical Product Manager",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Trainer - Arabic Language Specialist",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Infrastructure Engineer",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior AI Backend Engineer",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Payments Product Lead",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Engineer Intern",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Ecosystem Risk Product Manager",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Enablement Manager",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Applied AI Software Engineer",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Sr. Applied AI Engineer",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Machine Learning Engineer",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior AI Platform Engineer",
+      "count": 2
+    },
+    {
+      "pct": 0.1,
+      "name": "Founding AI Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Value Delivery & Strategy Lead",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Engineering Manager - AI Agents",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Product Manager – AI Evaluation",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Staff Product Analyst",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Research Engineer Intern",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AP Automation Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Site Reliability Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Sr Product Manager - Observability Platform",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Product Manager (B2B2C Fintech)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Product Manager (Fintech/Banking)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Applied AI Solutions Architect (Pre-Sales)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Deployment Intern",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Director of Product Management - Platform",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Product Manager, Automation",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Sr. Manager, Data & AI Support Engineering",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "RevOps Analyst, Post-Sales",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Head of Product, Payroll",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Solutions Engineer – Robotics",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Eval Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Developer Marketer - AI Observability",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Research Engineer - Hardware Codesign",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Business Intern",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Enterprise AI Adoption Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Agent Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Product Manager, Test Experience",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI-first Fullstack Software Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI-Native B2B Content Strategist & Writer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "LLM Applications Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Product Designer, AI",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Product Manager – Blue-Collar Worker Experience",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Head of Product - Healthcare AI",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Engineer - AI Agents",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Systems Engineer, Robotics",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Data Product Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Internal AI Operations Lead",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Lead ML Engineer - Mapping & Localization",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Physics Application Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Director of Product Marketing",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Tooling Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Research Engineer, Agents",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Technical Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Infrastructure / Distributed Data Systems Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Automation Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Business Development Representative - AI/Cybersecurity",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Research Scientist Intern",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior/Staff Product Manager – Fintech/Fleet Expense Management",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI/ML Solutions Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Risk Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Director of Product Management, AI Search",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Staff AI Agents Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior AI Engineering Mentor/Team Lead",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Operations Specialist",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Head of Product Growth (Referrals & Viral Loops)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Product Manager, Money Movement & Settlements",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Applied AI Architect (Startups)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Data Products PM Lead",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior GenAI Software Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Forward Deployed Engineering Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Backend/AI Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Infrastructure Software Engineer, GenAI Platform",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Product Manager (Agents)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Sr Product Manager - Generative AI & Healthcare",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Growth Marketer (DTC/eCommerce)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Fintech Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Product Software Engineer (Full-Stack)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior AI Community Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Trainer - Accounting Specialist",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Retail Platform & Experience Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Researcher",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "VP of Customer Success",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Product Manager, Client Experience",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Systems Research Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Staff Fintech Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Transformation Program Manager (GTM)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Technical Account Manager, AI Segment",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Product Manager (O2O Platform)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Data Analytics AI Specialist",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Staff Product Manager, Fraud & Identity",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Engineer (Agentic Systems)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Lead Product Manager, Application Platform",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Sr. Delivery Solutions Architect - AI Native",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Big Data / AI Technical Solutions Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Internal Tools Product Owner",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Risk & Compliance Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior AI Product Manager (Ambient/Healthcare)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior AI Engineer, Quality (Evals)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Product Lead - Platform & Experience",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Revenue Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Integrations Staff Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Research Scientist – Radiology Foundation Model",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Product Manager - UX Core",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Staff Full-Stack Product Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Product Manager, Terminal Device Expansion",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Technical Product Manager (RCM/AI Healthcare)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Global Operations & AI Intern",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Software Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Performance Marketer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Ops Infrastructure Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Lead Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Engineer, Payment Intelligence",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Sr. Product Designer, AI/BI",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Product Manager – Compliance/Fintech",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Deployment Lead",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Engineer - Robotics",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Forward Deployed Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Audio ML Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Engineer (Clinical AI)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Backend Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Applied AI Engineer, Codex Agent",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Test Automation Developer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Head of Engineering",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Agent Engineer Intern",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Sr. Machine Learning Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Product Marketing Director",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Staff Product Manager - IAM & Compliance",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Software Engineer, AI/ML Infrastructure",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Deployment/Enablement Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Applied AI Solutions Architect (State & Local Gov)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Forward Deployed ML Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Backend Software Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Product Manager - Merchant Lifecycle",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Forward Deployed Engineer, GenAI",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Security Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Technology Partnerships Lead",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Data Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Compliance Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Engineer - AV Performance Evaluation",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Principal Product Marketing Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Applied ML Scientist - Ads Bidding",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Data Operations Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior AI GRC Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Technical Product Manager (AI/Healthcare)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Product Manager - Core",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Enterprise Application AI Architect",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Founder-in-Residence / New Product Lead",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI/ML Research Recruiter",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Applied AI Engineer, Agentic Systems",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Lead Product Manager, Accounts",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Product Manager – AI Legal SaaS",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Applied AI/ML Scientist - Listing Quality",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "3D Modeling & Python Specialist (AI Trainer)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Staff Product Designer, Risk",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Product Lead, Engagement",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Data Labeler / Field Tech Ambassador",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Staff AI Systems Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Enterprise Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior GenAI Research Engineer - Optimization & Kernels",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Support Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Consumer Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Operations & Strategy Lead",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI/LLM Systems Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Organic Growth Lead, SEO & AI Search",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Staff ML Engineer (Audio)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "GTM Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Data & ML Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Value Delivery / Customer Success Lead",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Agents Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Engineering Manager, Cloud Compute",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Head of AI/ML Engineering",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Infrastructure Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Product Manager – Developer Tools",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Research Engineer, Public Sector AI",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Revenue Operations & AI Systems Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Trainer (Arabic)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Staff AI Enablement Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Principal Research Scientist - AI Scaling & Optimization",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Principal Product Manager, Cash Flow / Tax Credits",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Crypto Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Platform Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Research Engineer – LLM Safety",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Pre-sales Solutions Engineer (Data & AI)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Entrepreneur in Residence / AI Builder",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Applied AI Engineer (LLM/ML Ops Platform)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Account Executive - AI & Enterprise Sales",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Lead ML Engineer - Autonomous Vehicles",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Research Engineer (Computer Vision)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Mobile Infrastructure Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Marketing Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Full-Stack Software Engineer (Physical AI)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Actuarial AI Trainer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Logistics Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Founding Senior Product Manager - Voice AI",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Afrikaans Voice Acting Specialist",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Forward Deployed Product Lead",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "HPC/ML Infrastructure Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Data & AI Software Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Principal Product Operations Manager, Benefits",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Staff Product Manager, Fraud & Identity",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Frontend Full Stack Staff Engineer, AI Platform",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Healthcare Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Technical Product Manager – Core Platform",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Image Generation Specialist",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Founding BDR - Agentic AI",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior AI Agents Software Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Principal Applied AI/ML Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Applied AI Engineer, Public Sector",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Product Lead, Commerce",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Engineer, Conversational AI",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Growth Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Support Optimization Specialist",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Language Specialist / Linguistic Annotator",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Product Manager - Alternative Investments Platform",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior ML & AI Technical Solutions Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Product Manager, Lending/Capital",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Applied AI Solutions Architect Lead",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Product Lead - Digital Guest Journey",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Head of Strategic Partnerships & AI Ecosystem",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Applied AI/ML Scientist - Fulfillment",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Head of Sales | AI AppSec",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Principal Product Manager, Payments Platform",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Mobile Product Lead",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Engineer - Inference & Autonomous Driving",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Product Manager – AI Workflow Automation",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Graduate AI Agents Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Platform Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Director of Product, Payments",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Content Writer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Applied AI Engineer (Voice/Speech)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Conversational AI QA & Support Specialist",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Anime Researcher",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Principal Product Manager, Enterprise Foundations",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Product Manager, Global Marketplaces",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "SaaS Education Content Creator",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Research Engineer - Agent Data Foundation",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Sr Product Manager - Generative AI Healthcare",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Head of Field Marketing & Events",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Engineer — LLM Privacy",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Afrikaans Language AI Trainer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Growth Marketing Product Lead",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Staff AI Engineer (Audio Deepfake Detection)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Product Manager, Analytics & Experiments",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Enterprise AI Sales Development Strategist",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Product Engineer | AI & Security",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Computer Vision / AI Intern",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Principal Product Manager, Deliverability & Connectivity",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "People Analytics & AI Specialist",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Applied AI Solutions Architect (Partnerships)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Growth Product Manager (SEO/ASO/Onboarding)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Staff AI Operations Architect",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Applied AI/ML Scientist - Ads Bidding",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Product Manager - Fintech",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Full-Stack AI Platform Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Head of Growth (DTC/Consumer Health)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Founding BDR / Sales Associate",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Solutions Engineering Intern",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Applied AI Solutions Architect (Public Sector)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Sales Development / Commercial Associate",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Sales Development Team Lead - Agentic AI",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Director, Cloud & AI Partnerships",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Engineering Manager - AI/BI",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Fullstack Platform/Applied AI Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Creator Activation Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Principal Product Marketing Manager, AI Agents",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior ML Platform Engineer - GenAI",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Logistics Product Manager (Enterprise Accounts)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Frontend Engineer (Design-Oriented)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior ML Engineer - Mapping",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "LLM Research Engineer (Anime/Games)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Enterprise SaaS Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Sales Dev AI Program Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Staff Platform Engineer - Applied AI",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Lead ML Engineer - Mapping",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Product Owner - Internal Tools & KPI Platform",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Frontend Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Developer Evangelist, Startups",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Education Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Fullstack Engineer, AI Integration",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Product Manager, Accounts (Brokerage/KYC)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Engineer - Trust & Safety",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Lead Product Manager, Money Movement & Settlements",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Full Stack Agentic AI Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Insurance AI Solutions Lead",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Developer Experience Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Staff Product Manager, AI/Ops Automation",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Technical Product Manager, Platform & Developer Tools",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Data Analyst & ML Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Automation Software Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Forward Deployed Product Manager Intern",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Full-Stack AI Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Solutions Architect - Data & AI",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Founding GTM Lead - Agentic AI",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI-First Product Marketing Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Sr. Product Manager, Compute Platform",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Product Manager, Integration Platform & Marketplace",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Account Executive, Physical AI",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Technical Product Manager – Developer Infrastructure & AI Integrations",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI/Backend Software Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Principal Product Manager, Reporting",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "VP AI-Native GTM Operations & Automation",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Infrastructure Engineer - Autonomous Driving",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "HR Systems & Analytics Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Agent Software Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Product Lead",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Growth Product Lead",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Director of Product (SaaS/AI)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Engineer, LLM Evaluation",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Applied AI Solutions Architect (GovTech)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Product Manager - AI Data Platform",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Product Manager Intern (FinTech/AI)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "GenAI Strategic Projects Lead",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Operations Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "GenAI Inference Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Product Manager, Decision Intelligence",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Support Engineer (Government)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Technical Product Manager (Professional Services)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Solutions Architect - AI/Data",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Engineer - Credit Underwriting",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Staff Backline Engineer - Data & AI",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Gen AI / LLM Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior ML/AI Solutions Architect",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Integrations Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Product Owner",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Engineer (Backend)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Engineering Manager, AI",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Internal Developer Productivity AI Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior AI Engineer - Agents",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Data Trainer / Evaluator",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Applied AI/ML Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Full Stack Engineer (AI & Security)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Product Manager, New Assets (Trading)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Staff Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Principal Product Manager (eCommerce/Registry)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Platform Engineer, Applied AI",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Director of Engineering, AI Search",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Engineering Intern",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Fullstack Engineer - AI Product",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Enterprise Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Backend Software Engineer, Voice AI / Restaurants",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "GenAI Research Scientist Intern (PhD)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Operations Team Lead",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Engineer — LLM Evaluation",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior PM, Developer Productivity",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Security Solutions Architect (Pre-Sales)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Staff Product Designer, Growth",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Product Manager (Logistics/Freight Tech)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Full-Stack Software Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Staff ML Scientist (Computer Vision)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI/ML Engineer - Document Intelligence",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Staff Applied AI Engineer - Context Retrieval",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Product Marketing Manager - AI AppSec",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Motion Generation Researcher",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior AI Automations Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Product Manager, Onboarding",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Staff/Senior PM, Video Intelligence & AI Data Products",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Internal Product Manager - FinTech Operations",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Principal PM, Customer Onboarding",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Tax Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Payments Experience Product Owner",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Systems Research Engineer, Agent Post-training",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "E-commerce Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Applied AI Engineer (Audio Deepfake Detection)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Founding Account Executive - Agentic AI",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Video Editor (AI Native)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Solutions Architect",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Product Manager, Expansion",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Staff Product Manager - Catalog, Search & Booking",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Product Designer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior ML & AI Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Head of Product (AI/Enterprise)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Enterprise Account Executive",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Sr Growth Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Adoption Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Forward-Deployed Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Agentic Audio AI Evaluator",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Infrastructure Engineer (Ads/Monetization)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Lead ML/Perception Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Datacenter Networking Technician",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Product Manager, Local Payment Methods",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Video Editor",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Full Stack AI Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI SaaS Product Manager",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Growth AI & MarTech Intern",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Data Annotator / Evaluator",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior AI/ML Engineer (Scientific Computing)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior Backend Engineer, AI/ML Infrastructure",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior ML Engineer (Voice AI)",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Senior ML/AI Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "AI Conversation Designer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "ML Engineer",
+      "count": 1
+    },
+    {
+      "pct": 0.1,
+      "name": "Clinical AI Product Manager",
+      "count": 1
     }
   ]
 }
