@@ -328,3 +328,19 @@ if (chatLog) {
 // ===== Route =====
 if (document.getElementById('stats')) initHome();
 if (document.getElementById('funnel')) initCaseStudy();
+
+// Any other page with data-fill spans (e.g. faq) — fill them from live stats too,
+// so every surface shows the real-time corpus number, not a baked-in fallback.
+if (!document.getElementById('stats') && document.querySelector('[data-fill]')) {
+  (async () => {
+    const [d, ds] = await Promise.all([loadData(), loadDataset()]);
+    const companies = ds?.totalCompanies ?? d?.headline?.companies;
+    const roles = d?.headline?.structured ?? ds?.totalRoles;
+    document.querySelectorAll('[data-fill]').forEach((el) => {
+      const k = el.dataset.fill;
+      if (k === 'companies' && companies != null) el.textContent = companies;
+      else if (k === 'roles' && roles != null) el.textContent = roles;
+      else if (k === 'companies-minus-4' && companies != null) el.textContent = Math.max(companies - 4, 0);
+    });
+  })();
+}
