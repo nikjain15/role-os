@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-06-29T19:50:35.134Z",
+  "generatedAt": "2026-06-30T15:16:30.084Z",
   "funnel": [
     {
       "stage": "Companies scoped",
-      "count": 249,
+      "count": 294,
       "status": "done"
     },
     {
       "stage": "JDs fetched",
-      "count": 1273,
+      "count": 1536,
       "status": "done"
     },
     {
       "stage": "JDs structured (LLM-extracted)",
-      "count": 1273,
+      "count": 1536,
       "status": "done"
     },
     {
@@ -43,13 +43,13 @@
     }
   ],
   "headline": {
-    "rawJDs": 1273,
-    "structured": 1273,
-    "views": 1273,
-    "companies": 249,
-    "companiesComplete": 249,
-    "mustHavesExtracted": 8459,
-    "avgMustHavesPerJD": "6.6",
+    "rawJDs": 1536,
+    "structured": 1536,
+    "views": 1536,
+    "companies": 294,
+    "companiesComplete": 294,
+    "mustHavesExtracted": 10217,
+    "avgMustHavesPerJD": "6.7",
     "withSalary": 0,
     "salaryDisclosureRate": "0%"
   },
@@ -59,22 +59,22 @@
   },
   "distributions": {
     "archetype": {
-      "AI / ML Engineer": 194,
-      "Generalist PM": 174,
-      "Technical Program Manager": 163,
-      "BizOps / Strategy & Ops": 150,
-      "Technical PM": 144,
-      "Other": 120,
-      "AI Product Manager": 100,
+      "AI / ML Engineer": 276,
+      "Generalist PM": 194,
+      "Technical Program Manager": 176,
+      "BizOps / Strategy & Ops": 170,
+      "Other": 160,
+      "Technical PM": 152,
+      "AI Product Manager": 106,
+      "Solutions / Forward-Deployed Engineer": 67,
+      "Program Manager": 58,
       "Growth PM": 47,
-      "Solutions / Forward-Deployed Engineer": 44,
-      "Program Manager": 39,
-      "Data / ML Scientist": 25,
-      "Growth (non-PM)": 23,
-      "Product Designer": 17,
-      "Sales / Account Management": 14,
-      "Engineering Leadership": 12,
-      "Chief of Staff": 7
+      "Data / ML Scientist": 32,
+      "Growth (non-PM)": 27,
+      "Sales / Account Management": 24,
+      "Product Designer": 21,
+      "Engineering Leadership": 14,
+      "Chief of Staff": 12
     },
     "seniority": {
       "Senior IC / Lead (founding role, 7+ years)": 1,
@@ -345,14 +345,14 @@
     "locationType": {
       "hybrid": 252,
       "onsite": 129,
-      "unclear": 777,
+      "unclear": 1040,
       "remote-us": 84,
       "remote-global": 31
     },
     "visaSponsorship": {
       "no": 24,
       "yes": 4,
-      "unclear": 1219,
+      "unclear": 1482,
       "yes-conditional": 26
     },
     "yearsRequired": {
@@ -360,7 +360,7 @@
       "10+": 84,
       "3-5": 257,
       "6-9": 228,
-      "unspecified": 666
+      "unspecified": 929
     }
   },
   "gaps": [

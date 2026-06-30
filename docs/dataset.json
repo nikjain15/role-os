@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-29T19:50:35.134Z",
-  "totalCompanies": 249,
-  "totalRoles": 1273,
+  "generatedAt": "2026-06-30T15:16:30.084Z",
+  "totalCompanies": 294,
+  "totalRoles": 1536,
   "topCompanies": [
     {
       "name": "Stripe",
       "slug": "stripe",
-      "count": 88
+      "count": 97
     },
     {
       "name": "OpenAI",
@@ -24,13 +24,13 @@
       "count": 46
     },
     {
-      "name": "Scale AI",
-      "slug": "scale-ai",
-      "count": 40
-    },
-    {
       "name": "Databricks",
       "slug": "databricks",
+      "count": 43
+    },
+    {
+      "name": "Scale AI",
+      "slug": "scale-ai",
       "count": 40
     },
     {
@@ -39,14 +39,14 @@
       "count": 31
     },
     {
+      "name": "Brex",
+      "slug": "brex",
+      "count": 30
+    },
+    {
       "name": "SoFi",
       "slug": "sofi",
       "count": 26
-    },
-    {
-      "name": "Brex",
-      "slug": "brex",
-      "count": 25
     },
     {
       "name": "Airbnb",
@@ -61,12 +61,27 @@
     {
       "name": "Figma",
       "slug": "figma",
-      "count": 22
+      "count": 23
     },
     {
       "name": "Notion",
       "slug": "notion",
-      "count": 20
+      "count": 22
+    },
+    {
+      "name": "Together AI",
+      "slug": "together-ai",
+      "count": 18
+    },
+    {
+      "name": "Writer",
+      "slug": "writer",
+      "count": 18
+    },
+    {
+      "name": "Ramp",
+      "slug": "ramp",
+      "count": 17
     },
     {
       "name": "Faire",
@@ -74,41 +89,26 @@
       "count": 17
     },
     {
+      "name": "Chime",
+      "slug": "chime",
+      "count": 16
+    },
+    {
       "name": "Klaviyo",
       "slug": "klaviyo",
       "count": 16
     },
     {
-      "name": "Ramp",
-      "slug": "ramp",
-      "count": 15
-    },
-    {
       "name": "Sierra",
       "slug": "sierra",
       "count": 15
-    },
-    {
-      "name": "Chime",
-      "slug": "chime",
-      "count": 14
-    },
-    {
-      "name": "Whatnot",
-      "slug": "whatnot",
-      "count": 14
-    },
-    {
-      "name": "State Street",
-      "slug": "state-street",
-      "count": 12
     }
   ],
   "allCompanies": [
     {
       "name": "Stripe",
       "slug": "stripe",
-      "count": 88
+      "count": 97
     },
     {
       "name": "OpenAI",
@@ -126,13 +126,13 @@
       "count": 46
     },
     {
-      "name": "Scale AI",
-      "slug": "scale-ai",
-      "count": 40
-    },
-    {
       "name": "Databricks",
       "slug": "databricks",
+      "count": 43
+    },
+    {
+      "name": "Scale AI",
+      "slug": "scale-ai",
       "count": 40
     },
     {
@@ -141,14 +141,14 @@
       "count": 31
     },
     {
+      "name": "Brex",
+      "slug": "brex",
+      "count": 30
+    },
+    {
       "name": "SoFi",
       "slug": "sofi",
       "count": 26
-    },
-    {
-      "name": "Brex",
-      "slug": "brex",
-      "count": 25
     },
     {
       "name": "Airbnb",
@@ -163,12 +163,27 @@
     {
       "name": "Figma",
       "slug": "figma",
-      "count": 22
+      "count": 23
     },
     {
       "name": "Notion",
       "slug": "notion",
-      "count": 20
+      "count": 22
+    },
+    {
+      "name": "Together AI",
+      "slug": "together-ai",
+      "count": 18
+    },
+    {
+      "name": "Writer",
+      "slug": "writer",
+      "count": 18
+    },
+    {
+      "name": "Ramp",
+      "slug": "ramp",
+      "count": 17
     },
     {
       "name": "Faire",
@@ -176,24 +191,19 @@
       "count": 17
     },
     {
+      "name": "Chime",
+      "slug": "chime",
+      "count": 16
+    },
+    {
       "name": "Klaviyo",
       "slug": "klaviyo",
       "count": 16
     },
     {
-      "name": "Ramp",
-      "slug": "ramp",
-      "count": 15
-    },
-    {
       "name": "Sierra",
       "slug": "sierra",
       "count": 15
-    },
-    {
-      "name": "Chime",
-      "slug": "chime",
-      "count": 14
     },
     {
       "name": "Whatnot",
@@ -203,11 +213,6 @@
     {
       "name": "State Street",
       "slug": "state-street",
-      "count": 12
-    },
-    {
-      "name": "Asana",
-      "slug": "asana",
       "count": 12
     },
     {
@@ -216,13 +221,23 @@
       "count": 12
     },
     {
-      "name": "Decagon",
-      "slug": "decagon",
-      "count": 11
+      "name": "Waabi",
+      "slug": "waabi",
+      "count": 12
+    },
+    {
+      "name": "Asana",
+      "slug": "asana",
+      "count": 12
     },
     {
       "name": "Harvey",
       "slug": "harvey",
+      "count": 11
+    },
+    {
+      "name": "Decagon",
+      "slug": "decagon",
       "count": 11
     },
     {
@@ -236,13 +251,13 @@
       "count": 10
     },
     {
-      "name": "Gusto",
-      "slug": "gusto",
-      "count": 9
+      "name": "Vanta",
+      "slug": "vanta",
+      "count": 10
     },
     {
-      "name": "Alpaca",
-      "slug": "alpaca",
+      "name": "Cresta",
+      "slug": "cresta",
       "count": 9
     },
     {
@@ -251,8 +266,23 @@
       "count": 9
     },
     {
-      "name": "Zip",
-      "slug": "zip",
+      "name": "Gusto",
+      "slug": "gusto",
+      "count": 9
+    },
+    {
+      "name": "Crusoe",
+      "slug": "crusoe",
+      "count": 9
+    },
+    {
+      "name": "Drata",
+      "slug": "drata",
+      "count": 9
+    },
+    {
+      "name": "Mercor",
+      "slug": "mercor",
       "count": 9
     },
     {
@@ -261,13 +291,63 @@
       "count": 9
     },
     {
-      "name": "Wayve",
-      "slug": "wayve",
-      "count": 8
+      "name": "CoreWeave",
+      "slug": "coreweave",
+      "count": 9
+    },
+    {
+      "name": "Baseten",
+      "slug": "baseten",
+      "count": 9
+    },
+    {
+      "name": "Reflection AI",
+      "slug": "reflection-ai",
+      "count": 9
+    },
+    {
+      "name": "Commure",
+      "slug": "commure",
+      "count": 9
+    },
+    {
+      "name": "Cognition",
+      "slug": "cognition",
+      "count": 9
+    },
+    {
+      "name": "Distyl AI",
+      "slug": "distyl-ai",
+      "count": 9
+    },
+    {
+      "name": "Alpaca",
+      "slug": "alpaca",
+      "count": 9
+    },
+    {
+      "name": "Zip",
+      "slug": "zip",
+      "count": 9
     },
     {
       "name": "Legora",
       "slug": "legora",
+      "count": 8
+    },
+    {
+      "name": "Snorkel AI",
+      "slug": "snorkel-ai",
+      "count": 8
+    },
+    {
+      "name": "Ambience Healthcare",
+      "slug": "ambience-healthcare",
+      "count": 8
+    },
+    {
+      "name": "Cohere",
+      "slug": "cohere",
       "count": 8
     },
     {
@@ -281,9 +361,39 @@
       "count": 8
     },
     {
-      "name": "Cohere",
-      "slug": "cohere",
+      "name": "Wayve",
+      "slug": "wayve",
       "count": 8
+    },
+    {
+      "name": "Chainguard",
+      "slug": "chainguard",
+      "count": 8
+    },
+    {
+      "name": "Fieldguide",
+      "slug": "fieldguide",
+      "count": 7
+    },
+    {
+      "name": "Checkr",
+      "slug": "checkr",
+      "count": 7
+    },
+    {
+      "name": "CaptivateIQ",
+      "slug": "captivateiq",
+      "count": 7
+    },
+    {
+      "name": "Replit",
+      "slug": "replit",
+      "count": 7
+    },
+    {
+      "name": "Mercury",
+      "slug": "mercury",
+      "count": 7
     },
     {
       "name": "Lemonade",
@@ -296,33 +406,18 @@
       "count": 7
     },
     {
-      "name": "Vanta",
-      "slug": "vanta",
+      "name": "Flexport",
+      "slug": "flexport",
       "count": 7
     },
     {
-      "name": "Checkr",
-      "slug": "checkr",
+      "name": "Fireworks AI",
+      "slug": "fireworks-ai",
       "count": 7
     },
     {
       "name": "Klarity",
       "slug": "klarity",
-      "count": 7
-    },
-    {
-      "name": "Fieldguide",
-      "slug": "fieldguide",
-      "count": 7
-    },
-    {
-      "name": "Cursor",
-      "slug": "cursor",
-      "count": 7
-    },
-    {
-      "name": "CaptivateIQ",
-      "slug": "captivateiq",
       "count": 7
     },
     {
@@ -336,23 +431,23 @@
       "count": 7
     },
     {
+      "name": "Cursor",
+      "slug": "cursor",
+      "count": 7
+    },
+    {
       "name": "Addepar",
       "slug": "addepar",
       "count": 7
     },
     {
-      "name": "Flexport",
-      "slug": "flexport",
-      "count": 7
+      "name": "SumUp",
+      "slug": "sumup",
+      "count": 6
     },
     {
-      "name": "Replit",
-      "slug": "replit",
-      "count": 7
-    },
-    {
-      "name": "Supabase",
-      "slug": "supabase",
+      "name": "Upstart",
+      "slug": "upstart",
       "count": 6
     },
     {
@@ -366,34 +461,19 @@
       "count": 6
     },
     {
-      "name": "Upstart",
-      "slug": "upstart",
+      "name": "Supabase",
+      "slug": "supabase",
       "count": 6
     },
     {
-      "name": "SumUp",
-      "slug": "sumup",
+      "name": "Lightning AI",
+      "slug": "lightning-ai",
       "count": 6
     },
     {
-      "name": "Qventus",
-      "slug": "qventus",
-      "count": 5
-    },
-    {
-      "name": "Taktile",
-      "slug": "taktile",
-      "count": 5
-    },
-    {
-      "name": "Canary Technologies",
-      "slug": "canary-technologies",
-      "count": 5
-    },
-    {
-      "name": "Mercury",
-      "slug": "mercury",
-      "count": 5
+      "name": "Hex",
+      "slug": "hex",
+      "count": 6
     },
     {
       "name": "Palantir",
@@ -411,8 +491,23 @@
       "count": 5
     },
     {
-      "name": "Spellbrush",
-      "slug": "spellbrush",
+      "name": "Reducto",
+      "slug": "reducto",
+      "count": 5
+    },
+    {
+      "name": "Canary Technologies",
+      "slug": "canary-technologies",
+      "count": 5
+    },
+    {
+      "name": "Physical Intelligence",
+      "slug": "physical-intelligence",
+      "count": 5
+    },
+    {
+      "name": "Taktile",
+      "slug": "taktile",
       "count": 5
     },
     {
@@ -421,8 +516,8 @@
       "count": 5
     },
     {
-      "name": "Reducto",
-      "slug": "reducto",
+      "name": "Qventus",
+      "slug": "qventus",
       "count": 5
     },
     {
@@ -431,8 +526,48 @@
       "count": 5
     },
     {
-      "name": "Trellis AI",
-      "slug": "trellis-ai",
+      "name": "Modal",
+      "slug": "modal",
+      "count": 5
+    },
+    {
+      "name": "Spellbrush",
+      "slug": "spellbrush",
+      "count": 5
+    },
+    {
+      "name": "Character AI",
+      "slug": "character-ai",
+      "count": 4
+    },
+    {
+      "name": "Instrumentl",
+      "slug": "instrumentl",
+      "count": 4
+    },
+    {
+      "name": "Tennr",
+      "slug": "tennr",
+      "count": 4
+    },
+    {
+      "name": "Airtable",
+      "slug": "airtable",
+      "count": 4
+    },
+    {
+      "name": "Semgrep",
+      "slug": "semgrep",
+      "count": 4
+    },
+    {
+      "name": "Abridge",
+      "slug": "abridge",
+      "count": 4
+    },
+    {
+      "name": "Later",
+      "slug": "later",
       "count": 4
     },
     {
@@ -446,43 +581,13 @@
       "count": 4
     },
     {
+      "name": "Speak",
+      "slug": "speak",
+      "count": 4
+    },
+    {
       "name": "voize",
       "slug": "voize",
-      "count": 4
-    },
-    {
-      "name": "Later",
-      "slug": "later",
-      "count": 4
-    },
-    {
-      "name": "Abridge",
-      "slug": "abridge",
-      "count": 4
-    },
-    {
-      "name": "Airtable",
-      "slug": "airtable",
-      "count": 4
-    },
-    {
-      "name": "Tennr",
-      "slug": "tennr",
-      "count": 4
-    },
-    {
-      "name": "Meesho",
-      "slug": "meesho",
-      "count": 4
-    },
-    {
-      "name": "Instrumentl",
-      "slug": "instrumentl",
-      "count": 4
-    },
-    {
-      "name": "Reality Defender",
-      "slug": "reality-defender",
       "count": 4
     },
     {
@@ -491,14 +596,69 @@
       "count": 4
     },
     {
+      "name": "Trellis AI",
+      "slug": "trellis-ai",
+      "count": 4
+    },
+    {
+      "name": "Cartesia",
+      "slug": "cartesia",
+      "count": 4
+    },
+    {
+      "name": "Meesho",
+      "slug": "meesho",
+      "count": 4
+    },
+    {
+      "name": "Reality Defender",
+      "slug": "reality-defender",
+      "count": 4
+    },
+    {
       "name": "ElevenLabs",
       "slug": "elevenlabs",
       "count": 4
     },
     {
-      "name": "Character AI",
-      "slug": "character-ai",
-      "count": 4
+      "name": "LiveFlow",
+      "slug": "liveflow",
+      "count": 3
+    },
+    {
+      "name": "Substack",
+      "slug": "substack",
+      "count": 3
+    },
+    {
+      "name": "Retool",
+      "slug": "retool",
+      "count": 3
+    },
+    {
+      "name": "Anyscale",
+      "slug": "anyscale",
+      "count": 3
+    },
+    {
+      "name": "Swayable",
+      "slug": "swayable",
+      "count": 3
+    },
+    {
+      "name": "Encord",
+      "slug": "encord",
+      "count": 3
+    },
+    {
+      "name": "Snappr",
+      "slug": "snappr",
+      "count": 3
+    },
+    {
+      "name": "Shepherd",
+      "slug": "shepherd",
+      "count": 3
     },
     {
       "name": "Podium",
@@ -506,13 +666,48 @@
       "count": 3
     },
     {
-      "name": "Lovable",
-      "slug": "lovable",
+      "name": "Parloa",
+      "slug": "parloa",
       "count": 3
     },
     {
-      "name": "Encord",
-      "slug": "encord",
+      "name": "Vetcove",
+      "slug": "vetcove",
+      "count": 3
+    },
+    {
+      "name": "Boomi",
+      "slug": "boomi",
+      "count": 3
+    },
+    {
+      "name": "ARQ",
+      "slug": "arq",
+      "count": 3
+    },
+    {
+      "name": "Peakflo",
+      "slug": "peakflo",
+      "count": 3
+    },
+    {
+      "name": "Observe.AI",
+      "slug": "observe-ai",
+      "count": 3
+    },
+    {
+      "name": "Rescale",
+      "slug": "rescale",
+      "count": 3
+    },
+    {
+      "name": "Retell AI",
+      "slug": "retell-ai",
+      "count": 3
+    },
+    {
+      "name": "RunPod",
+      "slug": "runpod",
       "count": 3
     },
     {
@@ -526,83 +721,8 @@
       "count": 3
     },
     {
-      "name": "Shepherd",
-      "slug": "shepherd",
-      "count": 3
-    },
-    {
-      "name": "Boomi",
-      "slug": "boomi",
-      "count": 3
-    },
-    {
-      "name": "RunPod",
-      "slug": "runpod",
-      "count": 3
-    },
-    {
-      "name": "Retell AI",
-      "slug": "retell-ai",
-      "count": 3
-    },
-    {
-      "name": "Escape",
-      "slug": "escape",
-      "count": 3
-    },
-    {
-      "name": "AfterQuery",
-      "slug": "afterquery",
-      "count": 3
-    },
-    {
-      "name": "Vetcove",
-      "slug": "vetcove",
-      "count": 3
-    },
-    {
-      "name": "ARQ",
-      "slug": "arq",
-      "count": 3
-    },
-    {
-      "name": "Substack",
-      "slug": "substack",
-      "count": 3
-    },
-    {
-      "name": "Acorns",
-      "slug": "acorns",
-      "count": 3
-    },
-    {
-      "name": "Swayable",
-      "slug": "swayable",
-      "count": 3
-    },
-    {
-      "name": "LiveFlow",
-      "slug": "liveflow",
-      "count": 3
-    },
-    {
-      "name": "Peakflo",
-      "slug": "peakflo",
-      "count": 3
-    },
-    {
-      "name": "Snappr",
-      "slug": "snappr",
-      "count": 3
-    },
-    {
-      "name": "Parloa",
-      "slug": "parloa",
-      "count": 3
-    },
-    {
-      "name": "Retool",
-      "slug": "retool",
+      "name": "Lovable",
+      "slug": "lovable",
       "count": 3
     },
     {
@@ -611,223 +731,28 @@
       "count": 3
     },
     {
-      "name": "Rescale",
-      "slug": "rescale",
+      "name": "AfterQuery",
+      "slug": "afterquery",
       "count": 3
     },
     {
-      "name": "Dialpad",
-      "slug": "dialpad",
-      "count": 2
+      "name": "Escape",
+      "slug": "escape",
+      "count": 3
     },
     {
-      "name": "Carta",
-      "slug": "carta",
-      "count": 2
+      "name": "Suki",
+      "slug": "suki",
+      "count": 3
     },
     {
-      "name": "Stash",
-      "slug": "stash",
-      "count": 2
-    },
-    {
-      "name": "Flock Safety",
-      "slug": "flock-safety",
-      "count": 2
-    },
-    {
-      "name": "Perplexity",
-      "slug": "perplexity",
-      "count": 2
-    },
-    {
-      "name": "Ello",
-      "slug": "ello",
-      "count": 2
-    },
-    {
-      "name": "Oneleet",
-      "slug": "oneleet",
-      "count": 2
-    },
-    {
-      "name": "PermitFlow",
-      "slug": "permitflow",
-      "count": 2
-    },
-    {
-      "name": "Bland AI",
-      "slug": "bland-ai",
-      "count": 2
-    },
-    {
-      "name": "RevenueCat",
-      "slug": "revenuecat",
-      "count": 2
-    },
-    {
-      "name": "Vercel",
-      "slug": "vercel",
-      "count": 2
-    },
-    {
-      "name": "Sully.ai",
-      "slug": "sully-ai",
-      "count": 2
-    },
-    {
-      "name": "Landed",
-      "slug": "landed",
-      "count": 2
-    },
-    {
-      "name": "FurtherAI",
-      "slug": "furtherai",
-      "count": 2
-    },
-    {
-      "name": "Veryfi, Inc.",
-      "slug": "veryfi-inc-",
-      "count": 2
-    },
-    {
-      "name": "AgentCollect",
-      "slug": "agentcollect",
-      "count": 2
-    },
-    {
-      "name": "Coast",
-      "slug": "coast",
-      "count": 2
-    },
-    {
-      "name": "Linear",
-      "slug": "linear",
-      "count": 2
-    },
-    {
-      "name": "Benepass",
-      "slug": "benepass",
-      "count": 2
-    },
-    {
-      "name": "PostHog",
-      "slug": "posthog",
-      "count": 2
-    },
-    {
-      "name": "Paces",
-      "slug": "paces",
-      "count": 2
+      "name": "Acorns",
+      "slug": "acorns",
+      "count": 3
     },
     {
       "name": "Anrok",
       "slug": "anrok",
-      "count": 2
-    },
-    {
-      "name": "Suger",
-      "slug": "suger",
-      "count": 2
-    },
-    {
-      "name": "Apollo.io",
-      "slug": "apollo-io",
-      "count": 2
-    },
-    {
-      "name": "Landeed",
-      "slug": "landeed",
-      "count": 2
-    },
-    {
-      "name": "Xendit",
-      "slug": "xendit",
-      "count": 2
-    },
-    {
-      "name": "Promise",
-      "slug": "promise",
-      "count": 2
-    },
-    {
-      "name": "Nash",
-      "slug": "nash",
-      "count": 2
-    },
-    {
-      "name": "Gigs",
-      "slug": "gigs",
-      "count": 2
-    },
-    {
-      "name": "Method Financial",
-      "slug": "method-financial",
-      "count": 2
-    },
-    {
-      "name": "Cyble",
-      "slug": "cyble",
-      "count": 2
-    },
-    {
-      "name": "Webflow",
-      "slug": "webflow",
-      "count": 2
-    },
-    {
-      "name": "Bunkerhill Health",
-      "slug": "bunkerhill-health",
-      "count": 2
-    },
-    {
-      "name": "RADAR",
-      "slug": "radar",
-      "count": 2
-    },
-    {
-      "name": "Aurelian",
-      "slug": "aurelian",
-      "count": 2
-    },
-    {
-      "name": "Contentful",
-      "slug": "contentful",
-      "count": 2
-    },
-    {
-      "name": "PolyAI",
-      "slug": "polyai",
-      "count": 2
-    },
-    {
-      "name": "Craniometrix",
-      "slug": "craniometrix",
-      "count": 2
-    },
-    {
-      "name": "Amplemarket",
-      "slug": "amplemarket",
-      "count": 2
-    },
-    {
-      "name": "Latent",
-      "slug": "latent",
-      "count": 2
-    },
-    {
-      "name": "Nova Credit",
-      "slug": "nova-credit",
-      "count": 2
-    },
-    {
-      "name": "Vahan",
-      "slug": "vahan",
-      "count": 2
-    },
-    {
-      "name": "Betterment",
-      "slug": "betterment",
       "count": 2
     },
     {
@@ -836,28 +761,58 @@
       "count": 2
     },
     {
-      "name": "Campfire",
-      "slug": "campfire",
-      "count": 2
-    },
-    {
-      "name": "Crustdata",
-      "slug": "crustdata",
-      "count": 2
-    },
-    {
       "name": "Numeral",
       "slug": "numeral",
       "count": 2
     },
     {
-      "name": "Juicebox",
-      "slug": "juicebox",
+      "name": "Benepass",
+      "slug": "benepass",
       "count": 2
     },
     {
-      "name": "LangChain",
-      "slug": "langchain",
+      "name": "Sully.ai",
+      "slug": "sully-ai",
+      "count": 2
+    },
+    {
+      "name": "Apollo.io",
+      "slug": "apollo-io",
+      "count": 2
+    },
+    {
+      "name": "Labelbox",
+      "slug": "labelbox",
+      "count": 2
+    },
+    {
+      "name": "Dialpad",
+      "slug": "dialpad",
+      "count": 2
+    },
+    {
+      "name": "Aurelian",
+      "slug": "aurelian",
+      "count": 2
+    },
+    {
+      "name": "Oneleet",
+      "slug": "oneleet",
+      "count": 2
+    },
+    {
+      "name": "AgentCollect",
+      "slug": "agentcollect",
+      "count": 2
+    },
+    {
+      "name": "Perplexity",
+      "slug": "perplexity",
+      "count": 2
+    },
+    {
+      "name": "Stash",
+      "slug": "stash",
       "count": 2
     },
     {
@@ -866,323 +821,213 @@
       "count": 2
     },
     {
-      "name": "BlueCargo",
-      "slug": "bluecargo",
+      "name": "Modern Treasury",
+      "slug": "modern-treasury",
+      "count": 2
+    },
+    {
+      "name": "Vahan",
+      "slug": "vahan",
+      "count": 2
+    },
+    {
+      "name": "Landeed",
+      "slug": "landeed",
+      "count": 2
+    },
+    {
+      "name": "Method Financial",
+      "slug": "method-financial",
+      "count": 2
+    },
+    {
+      "name": "Bunkerhill Health",
+      "slug": "bunkerhill-health",
+      "count": 2
+    },
+    {
+      "name": "Latent",
+      "slug": "latent",
+      "count": 2
+    },
+    {
+      "name": "Crustdata",
+      "slug": "crustdata",
+      "count": 2
+    },
+    {
+      "name": "Carta",
+      "slug": "carta",
+      "count": 2
+    },
+    {
+      "name": "Ello",
+      "slug": "ello",
+      "count": 2
+    },
+    {
+      "name": "World Labs",
+      "slug": "world-labs",
+      "count": 2
+    },
+    {
+      "name": "Vercel",
+      "slug": "vercel",
+      "count": 2
+    },
+    {
+      "name": "FurtherAI",
+      "slug": "furtherai",
+      "count": 2
+    },
+    {
+      "name": "Paces",
+      "slug": "paces",
+      "count": 2
+    },
+    {
+      "name": "Bland AI",
+      "slug": "bland-ai",
+      "count": 2
+    },
+    {
+      "name": "Campfire",
+      "slug": "campfire",
+      "count": 2
+    },
+    {
+      "name": "Gigs",
+      "slug": "gigs",
+      "count": 2
+    },
+    {
+      "name": "PostHog",
+      "slug": "posthog",
+      "count": 2
+    },
+    {
+      "name": "Linear",
+      "slug": "linear",
+      "count": 2
+    },
+    {
+      "name": "Coast",
+      "slug": "coast",
+      "count": 2
+    },
+    {
+      "name": "Veryfi, Inc.",
+      "slug": "veryfi-inc-",
+      "count": 2
+    },
+    {
+      "name": "Landed",
+      "slug": "landed",
+      "count": 2
+    },
+    {
+      "name": "RevenueCat",
+      "slug": "revenuecat",
+      "count": 2
+    },
+    {
+      "name": "PermitFlow",
+      "slug": "permitflow",
+      "count": 2
+    },
+    {
+      "name": "Flock Safety",
+      "slug": "flock-safety",
+      "count": 2
+    },
+    {
+      "name": "LangChain",
+      "slug": "langchain",
+      "count": 2
+    },
+    {
+      "name": "Juicebox",
+      "slug": "juicebox",
+      "count": 2
+    },
+    {
+      "name": "Betterment",
+      "slug": "betterment",
+      "count": 2
+    },
+    {
+      "name": "Nova Credit",
+      "slug": "nova-credit",
+      "count": 2
+    },
+    {
+      "name": "Craniometrix",
+      "slug": "craniometrix",
+      "count": 2
+    },
+    {
+      "name": "Contentful",
+      "slug": "contentful",
+      "count": 2
+    },
+    {
+      "name": "Webflow",
+      "slug": "webflow",
+      "count": 2
+    },
+    {
+      "name": "Cyble",
+      "slug": "cyble",
+      "count": 2
+    },
+    {
+      "name": "Promise",
+      "slug": "promise",
+      "count": 2
+    },
+    {
+      "name": "Suger",
+      "slug": "suger",
+      "count": 2
+    },
+    {
+      "name": "Xendit",
+      "slug": "xendit",
+      "count": 2
+    },
+    {
+      "name": "Nash",
+      "slug": "nash",
+      "count": 2
+    },
+    {
+      "name": "Thinking Machines Lab",
+      "slug": "thinking-machines-lab",
+      "count": 2
+    },
+    {
+      "name": "RADAR",
+      "slug": "radar",
+      "count": 2
+    },
+    {
+      "name": "PolyAI",
+      "slug": "polyai",
+      "count": 2
+    },
+    {
+      "name": "Amplemarket",
+      "slug": "amplemarket",
+      "count": 2
+    },
+    {
+      "name": "Conveo",
+      "slug": "conveo",
       "count": 1
     },
     {
-      "name": "Candid Health",
-      "slug": "candid-health",
-      "count": 1
-    },
-    {
-      "name": "Trade Republic",
-      "slug": "trade-republic",
-      "count": 1
-    },
-    {
-      "name": "Middleware",
-      "slug": "middleware",
-      "count": 1
-    },
-    {
-      "name": "Instawork",
-      "slug": "instawork",
-      "count": 1
-    },
-    {
-      "name": "Humaans",
-      "slug": "humaans",
-      "count": 1
-    },
-    {
-      "name": "Speechmatics",
-      "slug": "speechmatics",
-      "count": 1
-    },
-    {
-      "name": "Abacum",
-      "slug": "abacum",
-      "count": 1
-    },
-    {
-      "name": "AlgoTest",
-      "slug": "algotest",
-      "count": 1
-    },
-    {
-      "name": "Eden",
-      "slug": "eden",
-      "count": 1
-    },
-    {
-      "name": "Postscript",
-      "slug": "postscript",
-      "count": 1
-    },
-    {
-      "name": "Prolific",
-      "slug": "prolific",
-      "count": 1
-    },
-    {
-      "name": "Mux",
-      "slug": "mux",
-      "count": 1
-    },
-    {
-      "name": "Titan",
-      "slug": "titan",
-      "count": 1
-    },
-    {
-      "name": "Casca",
-      "slug": "casca",
-      "count": 1
-    },
-    {
-      "name": "n8n",
-      "slug": "n8n",
-      "count": 1
-    },
-    {
-      "name": "WorkOS",
-      "slug": "workos",
-      "count": 1
-    },
-    {
-      "name": "Double",
-      "slug": "double",
-      "count": 1
-    },
-    {
-      "name": "Turing College",
-      "slug": "turing-college",
-      "count": 1
-    },
-    {
-      "name": "Heron Data",
-      "slug": "heron-data",
-      "count": 1
-    },
-    {
-      "name": "Salient",
-      "slug": "salient",
-      "count": 1
-    },
-    {
-      "name": "Luminai",
-      "slug": "luminai",
-      "count": 1
-    },
-    {
-      "name": "Cinder",
-      "slug": "cinder",
-      "count": 1
-    },
-    {
-      "name": "Miso",
-      "slug": "miso",
-      "count": 1
-    },
-    {
-      "name": "Soraban",
-      "slug": "soraban",
-      "count": 1
-    },
-    {
-      "name": "FlutterFlow",
-      "slug": "flutterflow",
-      "count": 1
-    },
-    {
-      "name": "Karat Financial",
-      "slug": "karat-financial",
-      "count": 1
-    },
-    {
-      "name": "StockX",
-      "slug": "stockx",
-      "count": 1
-    },
-    {
-      "name": "Ready",
-      "slug": "ready",
-      "count": 1
-    },
-    {
-      "name": "Aqua",
-      "slug": "aqua",
-      "count": 1
-    },
-    {
-      "name": "AtoB",
-      "slug": "atob",
-      "count": 1
-    },
-    {
-      "name": "Vooma",
-      "slug": "vooma",
-      "count": 1
-    },
-    {
-      "name": "Scope AR",
-      "slug": "scope-ar",
-      "count": 1
-    },
-    {
-      "name": "TRM Labs",
-      "slug": "trm-labs",
-      "count": 1
-    },
-    {
-      "name": "Gem",
-      "slug": "gem",
-      "count": 1
-    },
-    {
-      "name": "Peoplebox.ai",
-      "slug": "peoplebox-ai",
-      "count": 1
-    },
-    {
-      "name": "Artisan",
-      "slug": "artisan",
-      "count": 1
-    },
-    {
-      "name": "AiPrise",
-      "slug": "aiprise",
-      "count": 1
-    },
-    {
-      "name": "Rothy's",
-      "slug": "rothy-s",
-      "count": 1
-    },
-    {
-      "name": "Enode",
-      "slug": "enode",
-      "count": 1
-    },
-    {
-      "name": "Intercom",
-      "slug": "intercom",
-      "count": 1
-    },
-    {
-      "name": "LivePerson",
-      "slug": "liveperson",
-      "count": 1
-    },
-    {
-      "name": "SigNoz",
-      "slug": "signoz",
-      "count": 1
-    },
-    {
-      "name": "Coalition",
-      "slug": "coalition",
-      "count": 1
-    },
-    {
-      "name": "Prembly (formerly Identitypass)",
-      "slug": "prembly-formerly-identitypass-",
-      "count": 1
-    },
-    {
-      "name": "Vori",
-      "slug": "vori",
-      "count": 1
-    },
-    {
-      "name": "Bitmovin",
-      "slug": "bitmovin",
-      "count": 1
-    },
-    {
-      "name": "Attio",
-      "slug": "attio",
-      "count": 1
-    },
-    {
-      "name": "Glossier",
-      "slug": "glossier",
-      "count": 1
-    },
-    {
-      "name": "Solve Intelligence",
-      "slug": "solve-intelligence",
-      "count": 1
-    },
-    {
-      "name": "Fleek",
-      "slug": "fleek",
-      "count": 1
-    },
-    {
-      "name": "Model ML",
-      "slug": "model-ml",
-      "count": 1
-    },
-    {
-      "name": "Pylon",
-      "slug": "pylon",
-      "count": 1
-    },
-    {
-      "name": "Mason",
-      "slug": "mason",
-      "count": 1
-    },
-    {
-      "name": "Arize AI",
-      "slug": "arize-ai",
-      "count": 1
-    },
-    {
-      "name": "MDalgorithms Inc.",
-      "slug": "mdalgorithms-inc-",
-      "count": 1
-    },
-    {
-      "name": "GiveCampus",
-      "slug": "givecampus",
-      "count": 1
-    },
-    {
-      "name": "Safari AI",
-      "slug": "safari-ai",
-      "count": 1
-    },
-    {
-      "name": "Hightouch",
-      "slug": "hightouch",
-      "count": 1
-    },
-    {
-      "name": "Lindy",
-      "slug": "lindy",
-      "count": 1
-    },
-    {
-      "name": "Hadrius",
-      "slug": "hadrius",
-      "count": 1
-    },
-    {
-      "name": "Clinikally",
-      "slug": "clinikally",
-      "count": 1
-    },
-    {
-      "name": "Verse Medical",
-      "slug": "verse-medical",
-      "count": 1
-    },
-    {
-      "name": "Lattice",
-      "slug": "lattice",
+      "name": "Tavus",
+      "slug": "tavus",
       "count": 1
     },
     {
@@ -1191,8 +1036,13 @@
       "count": 1
     },
     {
-      "name": "Conveo",
-      "slug": "conveo",
+      "name": "Abacum",
+      "slug": "abacum",
+      "count": 1
+    },
+    {
+      "name": "BlueCargo",
+      "slug": "bluecargo",
       "count": 1
     },
     {
@@ -1206,13 +1056,108 @@
       "count": 1
     },
     {
+      "name": "Pika",
+      "slug": "pika",
+      "count": 1
+    },
+    {
+      "name": "LivePerson",
+      "slug": "liveperson",
+      "count": 1
+    },
+    {
+      "name": "Just Appraised",
+      "slug": "just-appraised",
+      "count": 1
+    },
+    {
+      "name": "Intercom",
+      "slug": "intercom",
+      "count": 1
+    },
+    {
+      "name": "Agave",
+      "slug": "agave",
+      "count": 1
+    },
+    {
+      "name": "Figure",
+      "slug": "figure",
+      "count": 1
+    },
+    {
+      "name": "ShipBob",
+      "slug": "shipbob",
+      "count": 1
+    },
+    {
+      "name": "Enode",
+      "slug": "enode",
+      "count": 1
+    },
+    {
+      "name": "Crosby",
+      "slug": "crosby",
+      "count": 1
+    },
+    {
       "name": "Joy",
       "slug": "joy",
       "count": 1
     },
     {
+      "name": "Rothy's",
+      "slug": "rothy-s",
+      "count": 1
+    },
+    {
+      "name": "AiPrise",
+      "slug": "aiprise",
+      "count": 1
+    },
+    {
+      "name": "Speechmatics",
+      "slug": "speechmatics",
+      "count": 1
+    },
+    {
+      "name": "Humaans",
+      "slug": "humaans",
+      "count": 1
+    },
+    {
+      "name": "Zapier",
+      "slug": "zapier",
+      "count": 1
+    },
+    {
+      "name": "Artisan",
+      "slug": "artisan",
+      "count": 1
+    },
+    {
+      "name": "Peoplebox.ai",
+      "slug": "peoplebox-ai",
+      "count": 1
+    },
+    {
+      "name": "Gem",
+      "slug": "gem",
+      "count": 1
+    },
+    {
+      "name": "TRM Labs",
+      "slug": "trm-labs",
+      "count": 1
+    },
+    {
       "name": "VergeSense",
       "slug": "vergesense",
+      "count": 1
+    },
+    {
+      "name": "Scope AR",
+      "slug": "scope-ar",
       "count": 1
     },
     {
@@ -1226,6 +1171,11 @@
       "count": 1
     },
     {
+      "name": "Paragon",
+      "slug": "paragon",
+      "count": 1
+    },
+    {
       "name": "Zuma",
       "slug": "zuma",
       "count": 1
@@ -1233,6 +1183,16 @@
     {
       "name": "HockeyStack",
       "slug": "hockeystack",
+      "count": 1
+    },
+    {
+      "name": "Vooma",
+      "slug": "vooma",
+      "count": 1
+    },
+    {
+      "name": "AtoB",
+      "slug": "atob",
       "count": 1
     },
     {
@@ -1251,68 +1211,53 @@
       "count": 1
     },
     {
+      "name": "Aqua",
+      "slug": "aqua",
+      "count": 1
+    },
+    {
+      "name": "Ready",
+      "slug": "ready",
+      "count": 1
+    },
+    {
+      "name": "StockX",
+      "slug": "stockx",
+      "count": 1
+    },
+    {
       "name": "Kaso",
       "slug": "kaso",
       "count": 1
     },
     {
+      "name": "Karat Financial",
+      "slug": "karat-financial",
+      "count": 1
+    },
+    {
+      "name": "Galileo",
+      "slug": "galileo",
+      "count": 1
+    },
+    {
+      "name": "FlutterFlow",
+      "slug": "flutterflow",
+      "count": 1
+    },
+    {
+      "name": "Soraban",
+      "slug": "soraban",
+      "count": 1
+    },
+    {
+      "name": "Miso",
+      "slug": "miso",
+      "count": 1
+    },
+    {
       "name": "Prodigal",
       "slug": "prodigal",
-      "count": 1
-    },
-    {
-      "name": "Tractian",
-      "slug": "tractian",
-      "count": 1
-    },
-    {
-      "name": "Duffel",
-      "slug": "duffel",
-      "count": 1
-    },
-    {
-      "name": "Kalshi",
-      "slug": "kalshi",
-      "count": 1
-    },
-    {
-      "name": "Alloy",
-      "slug": "alloy",
-      "count": 1
-    },
-    {
-      "name": "Triomics",
-      "slug": "triomics",
-      "count": 1
-    },
-    {
-      "name": "Scandit",
-      "slug": "scandit",
-      "count": 1
-    },
-    {
-      "name": "Kodex",
-      "slug": "kodex",
-      "count": 1
-    },
-    {
-      "name": "Just Appraised",
-      "slug": "just-appraised",
-      "count": 1
-    },
-    {
-      "name": "ShipBob",
-      "slug": "shipbob",
-      "count": 1
-    },
-    {
-      "name": "Zapier",
-      "slug": "zapier",
-      "count": 1
-    },
-    {
-      "name": "Paragon",
-      "slug": "paragon",
       "count": 1
     },
     {
@@ -1326,8 +1271,118 @@
       "count": 1
     },
     {
+      "name": "Cinder",
+      "slug": "cinder",
+      "count": 1
+    },
+    {
+      "name": "Tractian",
+      "slug": "tractian",
+      "count": 1
+    },
+    {
+      "name": "Duffel",
+      "slug": "duffel",
+      "count": 1
+    },
+    {
+      "name": "Luminai",
+      "slug": "luminai",
+      "count": 1
+    },
+    {
+      "name": "Kalshi",
+      "slug": "kalshi",
+      "count": 1
+    },
+    {
+      "name": "Runway",
+      "slug": "runway",
+      "count": 1
+    },
+    {
+      "name": "Alloy",
+      "slug": "alloy",
+      "count": 1
+    },
+    {
+      "name": "Instawork",
+      "slug": "instawork",
+      "count": 1
+    },
+    {
+      "name": "Salient",
+      "slug": "salient",
+      "count": 1
+    },
+    {
+      "name": "Heron Data",
+      "slug": "heron-data",
+      "count": 1
+    },
+    {
+      "name": "Turing College",
+      "slug": "turing-college",
+      "count": 1
+    },
+    {
+      "name": "Render",
+      "slug": "render",
+      "count": 1
+    },
+    {
+      "name": "Double",
+      "slug": "double",
+      "count": 1
+    },
+    {
+      "name": "Triomics",
+      "slug": "triomics",
+      "count": 1
+    },
+    {
+      "name": "Column",
+      "slug": "column",
+      "count": 1
+    },
+    {
+      "name": "WorkOS",
+      "slug": "workos",
+      "count": 1
+    },
+    {
       "name": "AIOS",
       "slug": "aios",
+      "count": 1
+    },
+    {
+      "name": "Scandit",
+      "slug": "scandit",
+      "count": 1
+    },
+    {
+      "name": "n8n",
+      "slug": "n8n",
+      "count": 1
+    },
+    {
+      "name": "Casca",
+      "slug": "casca",
+      "count": 1
+    },
+    {
+      "name": "Titan",
+      "slug": "titan",
+      "count": 1
+    },
+    {
+      "name": "Candid Health",
+      "slug": "candid-health",
+      "count": 1
+    },
+    {
+      "name": "Middleware",
+      "slug": "middleware",
       "count": 1
     },
     {
@@ -1336,101 +1391,271 @@
       "count": 1
     },
     {
+      "name": "Cobot",
+      "slug": "cobot",
+      "count": 1
+    },
+    {
+      "name": "Mux",
+      "slug": "mux",
+      "count": 1
+    },
+    {
+      "name": "Prolific",
+      "slug": "prolific",
+      "count": 1
+    },
+    {
+      "name": "Postscript",
+      "slug": "postscript",
+      "count": 1
+    },
+    {
+      "name": "Imbue",
+      "slug": "imbue",
+      "count": 1
+    },
+    {
+      "name": "GiveCampus",
+      "slug": "givecampus",
+      "count": 1
+    },
+    {
+      "name": "MDalgorithms Inc.",
+      "slug": "mdalgorithms-inc-",
+      "count": 1
+    },
+    {
       "name": "Belvo",
       "slug": "belvo",
       "count": 1
     },
     {
-      "name": "Agave",
-      "slug": "agave",
+      "name": "Braintrust",
+      "slug": "braintrust",
       "count": 1
     },
     {
-      "name": "Crosby",
-      "slug": "crosby",
+      "name": "Safari AI",
+      "slug": "safari-ai",
+      "count": 1
+    },
+    {
+      "name": "Hightouch",
+      "slug": "hightouch",
+      "count": 1
+    },
+    {
+      "name": "Arize AI",
+      "slug": "arize-ai",
+      "count": 1
+    },
+    {
+      "name": "Eden",
+      "slug": "eden",
+      "count": 1
+    },
+    {
+      "name": "Mason",
+      "slug": "mason",
+      "count": 1
+    },
+    {
+      "name": "Lindy",
+      "slug": "lindy",
+      "count": 1
+    },
+    {
+      "name": "Neon",
+      "slug": "neon",
+      "count": 1
+    },
+    {
+      "name": "Pylon",
+      "slug": "pylon",
+      "count": 1
+    },
+    {
+      "name": "Dust",
+      "slug": "dust",
+      "count": 1
+    },
+    {
+      "name": "Hadrius",
+      "slug": "hadrius",
+      "count": 1
+    },
+    {
+      "name": "Kodex",
+      "slug": "kodex",
+      "count": 1
+    },
+    {
+      "name": "Model ML",
+      "slug": "model-ml",
+      "count": 1
+    },
+    {
+      "name": "Fleek",
+      "slug": "fleek",
+      "count": 1
+    },
+    {
+      "name": "AlgoTest",
+      "slug": "algotest",
+      "count": 1
+    },
+    {
+      "name": "Solve Intelligence",
+      "slug": "solve-intelligence",
+      "count": 1
+    },
+    {
+      "name": "Clinikally",
+      "slug": "clinikally",
+      "count": 1
+    },
+    {
+      "name": "Glossier",
+      "slug": "glossier",
+      "count": 1
+    },
+    {
+      "name": "Attio",
+      "slug": "attio",
+      "count": 1
+    },
+    {
+      "name": "Verse Medical",
+      "slug": "verse-medical",
+      "count": 1
+    },
+    {
+      "name": "Weaviate",
+      "slug": "weaviate",
+      "count": 1
+    },
+    {
+      "name": "Trade Republic",
+      "slug": "trade-republic",
+      "count": 1
+    },
+    {
+      "name": "Bitmovin",
+      "slug": "bitmovin",
+      "count": 1
+    },
+    {
+      "name": "Vori",
+      "slug": "vori",
+      "count": 1
+    },
+    {
+      "name": "Prembly (formerly Identitypass)",
+      "slug": "prembly-formerly-identitypass-",
+      "count": 1
+    },
+    {
+      "name": "Coalition",
+      "slug": "coalition",
+      "count": 1
+    },
+    {
+      "name": "SigNoz",
+      "slug": "signoz",
+      "count": 1
+    },
+    {
+      "name": "Lattice",
+      "slug": "lattice",
+      "count": 1
+    },
+    {
+      "name": "OpenEvidence",
+      "slug": "openevidence",
       "count": 1
     }
   ],
   "archetypes": [
     {
-      "pct": 15.2,
+      "pct": 18,
       "name": "AI / ML Engineer",
+      "count": 276
+    },
+    {
+      "pct": 12.6,
+      "name": "Generalist PM",
       "count": 194
     },
     {
-      "pct": 13.7,
-      "name": "Generalist PM",
-      "count": 174
-    },
-    {
-      "pct": 12.8,
+      "pct": 11.5,
       "name": "Technical Program Manager",
-      "count": 163
+      "count": 176
     },
     {
-      "pct": 11.8,
+      "pct": 11.1,
       "name": "BizOps / Strategy & Ops",
-      "count": 150
+      "count": 170
     },
     {
-      "pct": 11.3,
-      "name": "Technical PM",
-      "count": 144
-    },
-    {
-      "pct": 9.4,
+      "pct": 10.4,
       "name": "Other",
-      "count": 120
+      "count": 160
     },
     {
-      "pct": 7.9,
+      "pct": 9.9,
+      "name": "Technical PM",
+      "count": 152
+    },
+    {
+      "pct": 6.9,
       "name": "AI Product Manager",
-      "count": 100
+      "count": 106
     },
     {
-      "pct": 3.7,
+      "pct": 4.4,
+      "name": "Solutions / Forward-Deployed Engineer",
+      "count": 67
+    },
+    {
+      "pct": 3.8,
+      "name": "Program Manager",
+      "count": 58
+    },
+    {
+      "pct": 3.1,
       "name": "Growth PM",
       "count": 47
     },
     {
-      "pct": 3.5,
-      "name": "Solutions / Forward-Deployed Engineer",
-      "count": 44
-    },
-    {
-      "pct": 3.1,
-      "name": "Program Manager",
-      "count": 39
-    },
-    {
-      "pct": 2,
+      "pct": 2.1,
       "name": "Data / ML Scientist",
-      "count": 25
+      "count": 32
     },
     {
       "pct": 1.8,
       "name": "Growth (non-PM)",
-      "count": 23
+      "count": 27
     },
     {
-      "pct": 1.3,
-      "name": "Product Designer",
-      "count": 17
-    },
-    {
-      "pct": 1.1,
+      "pct": 1.6,
       "name": "Sales / Account Management",
-      "count": 14
+      "count": 24
+    },
+    {
+      "pct": 1.4,
+      "name": "Product Designer",
+      "count": 21
     },
     {
       "pct": 0.9,
       "name": "Engineering Leadership",
-      "count": 12
+      "count": 14
     },
     {
-      "pct": 0.5,
+      "pct": 0.8,
       "name": "Chief of Staff",
-      "count": 7
+      "count": 12
     }
   ]
 }
