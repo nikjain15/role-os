@@ -102,7 +102,7 @@ async function initHome() {
     const small = top.slice(6, 12);
     const esc = s => String(s).replace(/"/g, '&quot;');
     const cell = (cls, c, sizeMod = '') =>
-      `<button type="button" class="treemap-cell ${sizeMod} ${cls}" data-company="${esc(c.name)}" data-count="${c.count}"><span class="tm-name">${c.name}</span><span class="tm-count">${c.count}${sizeMod === 'large' ? ' roles' : ''}</span></button>`;
+      `<button type="button" class="treemap-cell ${sizeMod} ${cls}" data-company="${esc(c.name)}" data-slug="${esc(c.slug || '')}" data-count="${c.count}"><span class="tm-name">${c.name}</span><span class="tm-count">${c.count}${sizeMod === 'large' ? ' roles' : ''}</span></button>`;
     colEl.innerHTML = `
       <div class="treemap">
         <div class="treemap-left" style="grid-template-rows: ${large.map(c => c.count + 'fr').join(' ')}">
@@ -120,18 +120,17 @@ async function initHome() {
           </div>
         </div>
       </div>
-      <a class="treemap-more" id="see-all-companies" href="#" aria-disabled="true">See all ${ds.totalCompanies} →</a>
+      <a class="treemap-more" id="see-all-companies" href="https://ro.roleos.fyi/explore/companies">See all ${ds.totalCompanies} →</a>
     `;
 
-    // 'See all' is a placeholder — the dedicated page is being built separately.
-    // Block clicks so it doesn't navigate or render anything inline.
-    document.getElementById('see-all-companies')?.addEventListener('click', (e) => e.preventDefault());
-
-    // Click any company cell → prefill chat
+    // Click any company cell → its page in the live Index (Explore).
     colEl.addEventListener('click', (e) => {
       const t = e.target.closest('[data-company]');
       if (!t) return;
-      askRoAbout(`Tell me about ${t.dataset.company} — what roles are in the Index and what do they look like?`);
+      const slug = t.dataset.slug;
+      window.location.href = slug
+        ? `https://ro.roleos.fyi/explore/company/${slug}`
+        : 'https://ro.roleos.fyi/explore/companies';
     });
   }
 
@@ -145,12 +144,12 @@ async function initHome() {
     aEl.innerHTML = renderArchetypeRows(all.slice(0, ARCHETYPE_PREVIEW));
     if (all.length > ARCHETYPE_PREVIEW) {
       aEl.insertAdjacentHTML('afterend',
-        `<a class="treemap-more browse-more" href="roles/">See all ${all.length} role types →</a>`);
+        `<a class="treemap-more browse-more" href="https://ro.roleos.fyi/explore/roles">See all ${all.length} role types →</a>`);
     }
     aEl.addEventListener('click', (e) => {
       const t = e.target.closest('[data-archetype]');
       if (!t) return;
-      askRoAbout(`Show me ${t.dataset.archetype} roles in the Index`);
+      window.location.href = `https://ro.roleos.fyi/explore/role/${t.dataset.slug}`;
     });
   }
 
@@ -188,7 +187,7 @@ function renderDist(id, obj) {
 function renderArchetypeRows(list) {
   const tierClass = (pct) => pct >= 15 ? 'tier-1' : pct >= 5 ? 'tier-2' : 'tier-3';
   return (list || []).map(a =>
-    `<button type="button" class="list-row ${tierClass(a.pct)}" data-archetype="${a.name.replace(/"/g, '&quot;')}"><span class="name">${a.name}</span><span class="val">${a.count} · ${a.pct}%</span></button>`
+    `<button type="button" class="list-row ${tierClass(a.pct)}" data-archetype="${a.name.replace(/"/g, '&quot;')}" data-slug="${a.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '')}"><span class="name">${a.name}</span><span class="val">${a.count} · ${a.pct}%</span></button>`
   ).join('');
 }
 
