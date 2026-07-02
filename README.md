@@ -71,10 +71,10 @@ Early users get free access during beta. Pricing will be announced before your f
 For the public index, we curated 86 AI-native companies. For your own version, you give it a list — any company with a Greenhouse, Lever, or Ashby careers page works.
 
 **Does RO apply for me?**
-RO can submit on your behalf where you've approved it — for any company with a Greenhouse, Lever, or Ashby careers page. You set the rules: auto-apply above a fit threshold, require approval below it. You see every application before it sends.
+RO does the work up to the send: it finds the roles, scores fit, and drafts a tailored application for each. Nothing goes out automatically — you review every application and send it yourself with one click. RO drafts; you decide.
 
 **What about my data?**
-The public index is public job postings — nothing personal. Your CV, application notes, and search history stay on your machine.
+The public index is public job postings — nothing personal. Before you sign in, anything you paste or upload is processed in your browser and isn't stored by us. Once you sign in and save, your profile and application history live in your own private account — access is locked to you, we never sell or share it, and we don't use your content to train AI models.
 
 **When does v1 open?**
 We're opening founding-user access in waves over the coming weeks.
